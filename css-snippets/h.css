@@ -1,0 +1,56 @@
+/* 22.09.21 there was no special h5 */
+
+/* 22.09.21 h4 and following unchanged */
+
+.markdown-preview-view h1 {
+    color: white;
+    background-color: #58D68D;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    line-height: 1.2em;
+}
+
+.markdown-preview-view h2 {
+    background-color: #ABEBC6;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.markdown-preview-view h3 {
+    background-color: #D5F5E3;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.markdown-preview-view h4 {
+    background-color: #EAFAF1;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: 600;
+}
+
+/* 22.09.21 h6 -> h5 */
+
+.markdown-preview-view h5 {
+    color: #45B39D;
+    font-weight: 600;
+    margin-bottom: -10px;
+}
+
+/* 22.09.21 new h6 */
+
+.markdown-preview-view h6 {
+  position: relative;
+  /* left: -2.2%;*/
+  left: -24px;
+  top: 26px;
+  line-height: 0px;
+  margin-top: -20px;
+  margin-right: 3px;
+  font-family: var(--font-family-preview);
+  font-weight: 500;
+  font-size: 9px !important;
+  /* font-weight: bold;*/
+  font-style: normal;;
+  color: var(--text-faint) !important;
+}

@@ -1,0 +1,8 @@
+.markdown-preview-view hr {
+    border: none;
+    border-top: 0.1px solid;
+    /*border-color: var(--background-modifier-border);*/
+    border-color: #e0e0e0;
+    margin-top: 2px;
+    margin-bottom: -7px;
+}

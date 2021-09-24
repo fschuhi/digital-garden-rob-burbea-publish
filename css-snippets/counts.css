@@ -1,0 +1,12 @@
+.counts {
+    font-size: 12px;
+    color: silver;
+}
+
+.counts a {
+    color: gray;
+}
+
+.counts .internal-link {
+    text-decoration: none;
+}

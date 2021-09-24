@@ -1,0 +1,7 @@
+.suggestion-container {
+    width: 1000px;     /* was 400 */
+    transform: scale(0.8); /* makes the content smaller */
+    max-height: 700px;    /* was 300 */
+    min-height: 100px;
+    overflow: overlay;
+}

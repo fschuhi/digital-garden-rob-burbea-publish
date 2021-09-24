@@ -1,0 +1,4 @@
+div.external-video, div.local-media {
+    min-height: unset !important;
+    height: unset !important;
+}

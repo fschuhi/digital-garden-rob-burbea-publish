@@ -1,0 +1,15 @@
+/*============ bigger link popup preview ================*/
+.popover.hover-popover {
+    transform: scale(0.8); /* makes the content smaller */
+    max-height: 700px;    /* was 300 */
+    min-height: 100px;
+    width: 600px;     /* was 400 */
+    overflow: overlay;
+}
+.popover.hover-popover .markdown-embed  {
+    height: 100%;
+}
+.popover.hover-popover.is-loaded .markdown-embed .markdown-embed-content     .markdown-preview-view{
+    /* 22.09.21 adjusted for h6 "header" for transcripts */
+    padding: 20px 6px 10px 26px; 
+}

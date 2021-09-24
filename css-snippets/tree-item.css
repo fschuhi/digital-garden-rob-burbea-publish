@@ -1,0 +1,33 @@
+.tree-item-inner {
+    font-size: 13px;
+}
+
+.tree-item-self.is-clickable {
+    padding: 0;
+}
+
+.search-result-file-matches {
+    font-size: 13px;
+}
+
+.nav-file-title-content {
+    font-size: 13px;
+    padding: 0;
+}
+
+.nav-folder-title-content {
+    font-size: 13px;
+    padding: 0;
+}
+
+.pane-empty {
+    font-size: 13px;
+}
+
+.backlink-pane-empty {
+    font-size: 13px;
+}
+
+input {
+    font-size: 14px !important
+}
