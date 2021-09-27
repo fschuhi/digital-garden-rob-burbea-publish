@@ -1,12 +1,16 @@
 # The Garden of the Soul: Rob Burbea's Teachings
 <div class="admonition important"><div class="title">Thank you!</div><div class="content">
-This Digital Garden presents selected talks of <b>[[Rob Burbea]]</b>, together with further information derived from those talks. Thank you, Rob, for those wonderful teachings!<br/>
+This Digital Garden presents selected talks of <b>Rob Burbea</b>, together with further information derived from those talks. Thank you, Rob, for those wonderful teachings!<br/>
 <br/>
-The transcripts of the talks have been adapted from the <b>"Rob Burbea Transcription Project"</b>. Thank you, Shannon, Elmer and others, for all the work you've done!<br/>
+And thank you, dear visitor, for your interest! Be invited to browse what Rob has to say, about meditation practice, the Buddhist path, emptiness, and its application to a Soulmaking Dharma, among many other topics of heart, mind and soul.<br/>
+<br/>
+The transcripts of the talks have been adapted from the <b>"Rob Burbea Transcription Project"</b>. Thank you, Shannon, Elmer, Pádraig, and others, for all the work you've done!<br/>
 <br/>
 Curating this Digital Garden falls under the purview of the <b>Hermes Amāra Foundation</b>, which works towards maintaining, cataloguing, centralising and disseminating this body of work. Thank you, Custodians and the other Circles, for supporting this project!<br/>
 <br/>
 </div></div>
+
+You find a short bio of Rob [[Rob Burbea|here]]
 
 **2021-09-27 @Shannon: Welcome!** Thank you for the time you spend here! ...  please feel free to get in touch, whenever! (frank.schuhardt@gmail.com).
 
