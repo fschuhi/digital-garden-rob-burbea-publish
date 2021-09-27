@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 https://dharmaseed.org/retreats/4590/
 
-Disclaimer on [[Dharma Seed]]: _NOTE: The five talks in this series were recorded by Rob at his home. Being preliminary practices for Soulmaking Dharma, the exercises offered in these talks can be worked with before a student engages the full scope of the Soulmaking teachings. However, some of the material presented here will only be properly comprehended and contextualised once a student already has some basis of preparatory experience and understanding of A Soulmaking Dharma._
+_NOTE: The five talks in this series were recorded by Rob at his home. Being preliminary practices for Soulmaking Dharma, the exercises offered in these talks can be worked with before a student engages the full scope of the Soulmaking teachings. However, some of the material presented here will only be properly comprehended and contextualised once a student already has some basis of preparatory experience and understanding of A Soulmaking Dharma._
 <br/>
 
 🙏 **[[Vajra Music Excercises (Pádraig)]]**, adapted from Pádraig's Google Doc

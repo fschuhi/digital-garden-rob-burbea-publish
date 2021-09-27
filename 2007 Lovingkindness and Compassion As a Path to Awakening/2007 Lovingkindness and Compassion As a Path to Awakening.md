@@ -3,19 +3,7 @@ obsidianUIMode: preview
 ---
 https://dharmaseed.org/retreats/1303/
 
-<div class="admonition important"><div class="title">IMPORTANT</div><div class="content">
-Work in Progress<br/>
-</div></div>
-
-```sh
-runHAFScript reindexTranscripts --retreatName "2007 Lovingkindness and Compassion As a Path to Awakening"
-```
-```sh
-runHAFScript updateSummary --retreatName "2007 Lovingkindness and Compassion As a Path to Awakening"
-```
-```sh
-runHAFScript addMissingSummaryCards --retreatName "2007 Lovingkindness and Compassion As a Path to Awakening"
-```
+_This series of talks and guided meditations explores the development of the practices of both Lovingkindness and Compassion, with particular emphasis on the radical possibilities of Awakening that they bring. Through these practices we come to develop deep and beautiful qualities of heart as a real resource both for ourselves and the world, and also open ourselves to the profound and liberating understandings that can emerge from this path of love._
 
 ### Talks
 ✔️ [[Samadhi in Metta Practice]]
@@ -23,5 +11,5 @@ runHAFScript addMissingSummaryCards --retreatName "2007 Lovingkindness and Co
 ✔️ [[From Insight to Love]]
 ✔️ [[The Practice of Compassion]]
 ✔️ [[Guided meditation - Metta to phenomena]]
-🛠️ [[Love and Emptiness]]
+✔️ [[Love and Emptiness]]
 🛠️ [[Equanimity in Compassion]]
