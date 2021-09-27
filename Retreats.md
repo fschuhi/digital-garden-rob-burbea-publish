@@ -1,6 +1,6 @@
 # The Garden of the Soul: Rob Burbea's Teachings
 <div class="admonition important"><div class="title">Thank you!</div><div class="content">
-This Digital Garden presents selected talks of <b>Rob Burbea</b>, together with further information derived from those talks. Thank you, Rob, for those wonderful teachings!<br/>
+This Digital Garden presents selected talks of <b>[[Rob Burbea]]</b>, together with further information derived from those talks. Thank you, Rob, for those wonderful teachings!<br/>
 <br/>
 The transcripts of the talks have been adapted from the <b>"Rob Burbea Transcription Project"</b>. Thank you, Shannon, Elmer and others, for all the work you've done!<br/>
 <br/>
