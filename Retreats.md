@@ -8,6 +8,11 @@ Curating this Digital Garden falls under the purview of the <b>Hermes Amāra Fou
 <br/>
 </div></div>
 
+**2021-09-27 @Shannon: Welcome!** Thank you for the time you spend here! ...  please feel free to get in touch, whenever! (frank.schuhardt@gmail.com).
+
+Note that I'm continuously adding further explanations, here and there, also adding more transcripts, summaries and other content - - growing the garden :)  .
+\
+	
 ## AirTable of the Rob Burbea Transcription Project
 You find **all transcribed talks of Rob Burbea** in an easy-to-use [**Airtable**](https://airtable.com/shr9OS6jqmWvWTG5g/tblHlCKWIIhZzEFMk/viw3k0IfSo0Dve9ZJ), provided by the _Rob Burbea Transcription Project_. This is an invaluable resource for everyone who wants to learn about Rob's teachings!
 
