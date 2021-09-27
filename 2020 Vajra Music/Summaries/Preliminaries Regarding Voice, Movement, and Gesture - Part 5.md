@@ -3,11 +3,13 @@ obsidianUIMode: preview
 ---
 #TranscriptSummary
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62456/20200305-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_5-62456.mp3" type="audio/mpeg">???</audio>
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4|Preliminaries Regarding Voice, Movement, and Gesture - Part 4 🡄]] | [[2020 Vajra Music|🡅]] | [[Perfection and Christ's Blessing|🡆 Perfection and Christ's Blessing]]
 
 Series: [[2020 Vajra Music]]
 Transcript: [[0305 Preliminaries Regarding Voice, Movement, and Gesture - Part 5]]
 Transcript PDF: [[2020_0305 Preliminaries Regarding Voice, Movement, and Gesture - Part 5.pdf]]
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62456/20200305-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_5-62456.mp3" type="audio/mpeg">???</audio>
 
 ## Index
 <span class="counts">_<a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (6) · <a data-href="Energy Body" href="Energy+Body" class="internal-link" target="_blank" rel="noopener">Energy Body</a> (4) · <a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a> (4) · <a data-href="Emotions" href="Emotions" class="internal-link" target="_blank" rel="noopener">Emotions</a> (2) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> (2) · <a data-href="Dharma Seed" href="Dharma+Seed" class="internal-link" target="_blank" rel="noopener">Dharma Seed</a> · <a data-href="Music" href="Music" class="internal-link" target="_blank" rel="noopener">Music</a>_</span>

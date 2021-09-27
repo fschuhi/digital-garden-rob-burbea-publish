@@ -1,6 +1,9 @@
+---
+obsidianUIMode: preview
+---
 #TranscriptSummary
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40181/20170204-Rob_Burbea-GAIA-logos_in_the_garden_of_souls_part_3-40181.mp3" type="audio/mpeg">???</audio>
+[[Logos in the Garden of Souls Part 2|Logos in the Garden of Souls Part 2 🡄]] | [[2017 Eros Unfettered|🡅]] | 
 
 Series: [[2017 Eros Unfettered]]
 Transcript: [[0204 Logos in the Garden of Souls Part 3]]

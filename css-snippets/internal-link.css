@@ -1,0 +1,7 @@
+.markdown-preview-view .internal-link {
+  text-decoration: none;
+}
+
+.markdown-preview-view .internal-link:hover {
+  text-decoration: underline;
+}

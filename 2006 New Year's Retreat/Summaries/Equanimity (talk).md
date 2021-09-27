@@ -3,11 +3,13 @@ obsidianUIMode: preview
 ---
 #TranscriptSummary
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3" type="audio/mpeg">???</audio>
+ | [[2006 New Year's Retreat|🡅]] | 
 
 Series: [[2006 New Year's Retreat]]
 Transcript: [[1228 Equanimity (talk)]]
 Transcript PDF: [[2006_1228 Equanimity (talk).pdf]]
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3" type="audio/mpeg">???</audio>
 
 <div class="admonition note"><div class="title">NOTE</div><div class="content">
 This is a summary of a particular talk, as given by a transcript. Not all of the transcripts in the Digital Garden have summaries, but eventually most of them will.<br/>

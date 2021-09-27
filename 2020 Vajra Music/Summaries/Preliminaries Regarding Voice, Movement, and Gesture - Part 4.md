@@ -3,12 +3,13 @@ obsidianUIMode: preview
 ---
 #TranscriptSummary
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3" type="audio/mpeg">???</audio>
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3|Preliminaries Regarding Voice, Movement, and Gesture - Part 3 🡄]] | [[2020 Vajra Music|🡅]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5|🡆 Preliminaries Regarding Voice, Movement, and Gesture - Part 5]]
 
 Series: [[2020 Vajra Music]]
 Transcript: [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 Transcript PDF: [[2020_0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4.pdf]]
-<br>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3" type="audio/mpeg">???</audio>
 
 ```mermaid
 graph LR

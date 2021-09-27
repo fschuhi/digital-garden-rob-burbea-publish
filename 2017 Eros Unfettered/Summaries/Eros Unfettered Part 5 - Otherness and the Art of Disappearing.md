@@ -1,6 +1,9 @@
+---
+obsidianUIMode: preview
+---
 #TranscriptSummary
 
-[[2017_0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing.pdf]]
+[[Eros Unfettered Part 4|Eros Unfettered Part 4 🡄]] | [[2017 Eros Unfettered|🡅]] | [[Logos in the Garden of Souls Part 1|🡆 Logos in the Garden of Souls Part 1]]
 
 Series: [[2017 Eros Unfettered]]
 Transcript: [[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing]]

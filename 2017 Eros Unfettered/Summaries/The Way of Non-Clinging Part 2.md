@@ -1,10 +1,15 @@
+---
+obsidianUIMode: preview
+---
 #TranscriptSummary
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40191/20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3" type="audio/mpeg">???</audio>
+[[The Way of Non-Clinging Part 1|The Way of Non-Clinging Part 1 🡄]] | [[2017 Eros Unfettered|🡅]] | [[The Way of Non-Clinging Part 3|🡆 The Way of Non-Clinging Part 3]]
 
 Series: [[2017 Eros Unfettered]]
 Transcript: [[0116 The Way of Non-Clinging Part 2]]
 Transcript PDF: [[2017_0116 The Way of Non-Clinging Part 2.pdf]]
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40191/20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3" type="audio/mpeg">???</audio>
 
 [[The Way of Non-Clinging Part 2#^1-6|Feel its tension etc.]]
 

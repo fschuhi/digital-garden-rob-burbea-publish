@@ -1,6 +1,9 @@
+---
+obsidianUIMode: preview
+---
 #TranscriptSummary
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40179/20170202-Rob_Burbea-GAIA-logos_in_the_garden_of_souls_part_1-40179.mp3" type="audio/mpeg">???</audio>
+[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing|Eros Unfettered Part 5 - Otherness and the Art of Disappearing 🡄]] | [[2017 Eros Unfettered|🡅]] | [[Logos in the Garden of Souls Part 2|🡆 Logos in the Garden of Souls Part 2]]
 
 Series: [[2017 Eros Unfettered]]
 Transcript: [[0202 Logos in the Garden of Souls Part 1]]

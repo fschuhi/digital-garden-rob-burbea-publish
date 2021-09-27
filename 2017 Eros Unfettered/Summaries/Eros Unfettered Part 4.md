@@ -1,6 +1,9 @@
+---
+obsidianUIMode: preview
+---
 #TranscriptSummary
 
-[[2017_0126 Eros Unfettered Part 4.pdf]]
+[[Eros Unfettered Part 3|Eros Unfettered Part 3 🡄]] | [[2017 Eros Unfettered|🡅]] | [[Eros Unfettered Part 5 - Otherness and the Art of Disappearing|🡆 Eros Unfettered Part 5 - Otherness and the Art of Disappearing]]
 
 Series: [[2017 Eros Unfettered]]
 Transcript: [[0126 Eros Unfettered Part 4]]

@@ -1,6 +1,9 @@
+---
+obsidianUIMode: preview
+---
 #TranscriptSummary
 
-[[2017_0124 Eros Unfettered Part 2.pdf]]
+[[Eros Unfettered Part 1|Eros Unfettered Part 1 🡄]] | [[2017 Eros Unfettered|🡅]] | [[Eros Unfettered Part 3|🡆 Eros Unfettered Part 3]]
 
 Series: [[2017 Eros Unfettered]]
 Transcript: [[0124 Eros Unfettered Part 2]]

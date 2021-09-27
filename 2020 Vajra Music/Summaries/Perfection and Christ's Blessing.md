@@ -3,6 +3,8 @@ obsidianUIMode: preview
 ---
 #TranscriptSummary
 
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 5|Preliminaries Regarding Voice, Movement, and Gesture - Part 5 🡄]] | [[2020 Vajra Music|🡅]] | 
+
 Series: [[2020 Vajra Music]]
 Transcript: [[0306 Perfection and Christ's Blessing]]
 Transcript PDF: [[2020_0306 Perfection and Christ's Blessing.pdf]]

@@ -44,8 +44,9 @@
     min-width: 1000px;
 }
 
+
 /****************************************/
-/* copied from admonitions.css
+/* admonitions.css
 /****************************************/
 
 .admonition {
@@ -120,7 +121,7 @@
 }
 
 /****************************************/
-/* copied from audio.css
+/* audio.css
 /****************************************/
 
 audio {
@@ -136,7 +137,7 @@ audio::-webkit-media-controls-panel {
 }
 
 /****************************************/
-/* copied from bla.css
+/* bla.css
 /****************************************/
 
 .bla {
@@ -145,7 +146,7 @@ audio::-webkit-media-controls-panel {
 }
 
 /****************************************/
-/* copied from counts.css
+/* counts.css
 /****************************************/
 
 .counts {
@@ -161,8 +162,9 @@ audio::-webkit-media-controls-panel {
     text-decoration: none;
 }
 
+
 /****************************************/
-/* copied from h.css
+/* h.css
 /****************************************/
 
 /* 22.09.21 there was no special h5 */
@@ -222,8 +224,9 @@ audio::-webkit-media-controls-panel {
   color: var(--text-faint) !important;
 }
 
+
 /****************************************/
-/* copied from hr.css
+/* hr.css
 /****************************************/
 
 .markdown-preview-view hr {
@@ -235,8 +238,22 @@ audio::-webkit-media-controls-panel {
     margin-bottom: -7px;
 }
 
+
 /****************************************/
-/* copied from popover.css
+/* internal-link
+/****************************************/
+
+.markdown-preview-view .internal-link {
+  text-decoration: none;
+}
+
+.markdown-preview-view .internal-link:hover {
+  text-decoration: underline;
+}
+
+
+/****************************************/
+/* popover.css
 /****************************************/
 
 .popover.hover-popover {
@@ -254,8 +271,9 @@ audio::-webkit-media-controls-panel {
     padding: 20px 6px 10px 26px; 
 }
 
+
 /****************************************/
-/* copied from tooltip.css
+/* tooltip.css
 /****************************************/
 
 .tooltip {

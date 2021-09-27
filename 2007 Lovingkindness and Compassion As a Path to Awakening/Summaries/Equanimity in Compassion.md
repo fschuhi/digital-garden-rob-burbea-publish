@@ -1,4 +1,13 @@
+---
+obsidianUIMode: preview
+---
 #TranscriptSummary
+
+[[Love and Emptiness|Love and Emptiness 🡄]] | [[2007 Lovingkindness and Compassion As a Path to Awakening|🡅]] | 
+
+Series: [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+Transcript: [[0208 Equanimity in Compassion]]
+Transcript PDF: [[2007_0208 Equanimity in Compassion.pdf]]
 
 <audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3" type="audio/mpeg">???</audio>
 
@@ -19,9 +28,6 @@ runHAFScript unspanSummary --talkName "Equanimity in Compassion"
 runHAFScript addMissingSummaryCards --retreatName "2007 Lovingkindness and Compassion As a Path to Awakening"
 ```
 
-Series: [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-Transcript: [[0208 Equanimity in Compassion]]
-Transcript PDF: [[2007_0208 Equanimity in Compassion.pdf]]
 <br/>
 
 ## Index

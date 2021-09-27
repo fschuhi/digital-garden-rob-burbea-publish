@@ -1,10 +1,15 @@
+---
+obsidianUIMode: preview
+---
 #TranscriptSummary
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40190/20170115-Rob_Burbea-GAIA-the_way_of_non_clinging_part_1-40190.mp3" type="audio/mpeg">???</audio>
+ | [[2017 Eros Unfettered|🡅]] | [[The Way of Non-Clinging Part 2|🡆 The Way of Non-Clinging Part 2]]
 
 Series: [[2017 Eros Unfettered]]
 Transcript: [[0115 The Way of Non-Clinging Part 1]]
 Transcript PDF: [[2017_0115 The Way of Non-Clinging Part 1.pdf]]
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40190/20170115-Rob_Burbea-GAIA-the_way_of_non_clinging_part_1-40190.mp3" type="audio/mpeg">???</audio>
 
 ## Notes
 - examples for dependent origination (and thus craving/clinging): smoking, dating

@@ -3,12 +3,13 @@ obsidianUIMode: preview
 ---
 #TranscriptSummary
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3" type="audio/mpeg">???</audio>
+ | [[2020 Vajra Music|🡅]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2|🡆 Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 
 Series: [[2020 Vajra Music]]
 Transcript: [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 Transcript PDF: [[2020_0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1.pdf]]
-<br>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3" type="audio/mpeg">???</audio>
 
 admonitions for structured listening are ==marked==
 
