@@ -16,7 +16,9 @@ Transcript PDF: [[2020_0305 Preliminaries Regarding Voice, Movement, and Gesture
 <br/>
 
 ## Paragraphs
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 5 -|bare list]]
 
+---
 ##### Micro-movements, hold posture, check for resonance in energy body and for image
 <span class="counts">**<a data-href="0305 Preliminaries Regarding Voice, Movement, and Gesture - Part 5#^1-1" href="0305+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+5#^1-1" class="internal-link" target="_blank" rel="noopener">1-1</a>**: _<a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> (2) · <a data-href="Dharma Seed" href="Dharma+Seed" class="internal-link" target="_blank" rel="noopener">Dharma Seed</a> · <a data-href="Energy Body" href="Energy+Body" class="internal-link" target="_blank" rel="noopener">Energy Body</a> · <a data-href="Emotions" href="Emotions" class="internal-link" target="_blank" rel="noopener">Emotions</a> · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (2) · <a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a> (3)_</span>
 

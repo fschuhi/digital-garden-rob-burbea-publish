@@ -6,7 +6,7 @@ And thank you, dear visitor, for your interest! Be invited to browse what Rob ha
 <br/>
 The transcripts of the talks have been adapted from the <b>"Rob Burbea Transcription Project"</b>. Thank you, Shannon, Elmer, Pádraig, and others, for all the work you've done!<br/>
 <br/>
-Curating this Digital Garden falls under the purview of the <b>Hermes Amāra Foundation</b>, which works towards maintaining, cataloguing, centralising and disseminating this body of work. Thank you, Custodians and the other Circles, for supporting this project!<br/>
+Curating this Digital Garden falls under the purview of the <b>Hermes Amāra Foundation</b>, which works towards maintaining Rob's work. Thank you, Custodians and the other Circles, for supporting this project!<br/>
 <br/>
 </div></div>
 

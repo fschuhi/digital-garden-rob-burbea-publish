@@ -16,6 +16,9 @@ Transcript PDF: [[2007_0127 From Insight to Love.pdf]]
 <br/>
 
 ## Paragraphs
+[[From Insight to Love -|bare list]]
+
+---
 ### Intro
 ##### What is going on in this retreat, here: how insights can lead to love
 <span class="counts">**<a data-href="0127 From Insight to Love#^1-1" href="0127+From+Insight+to+Love#^1-1" class="internal-link" target="_blank" rel="noopener">1-1</a>**: _<a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> (2) · <a data-href="Cultivation" href="Cultivation" class="internal-link" target="_blank" rel="noopener">Cultivation</a> (3) · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (4) · <a data-href="Awakening" href="Awakening" class="internal-link" target="_blank" rel="noopener">Awakening</a> (2) · <a data-href="Healing" href="Healing" class="internal-link" target="_blank" rel="noopener">Healing</a> · <a data-href="Beauty" href="Beauty" class="internal-link" target="_blank" rel="noopener">Beauty</a> · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> (5) · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> (5) · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a>_</span>

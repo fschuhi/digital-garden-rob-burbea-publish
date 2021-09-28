@@ -31,7 +31,9 @@ Transcript PDF: [[2017_0115 The Way of Non-Clinging Part 1.pdf]]
 <br/>
 
 ## Paragraphs
+[[The Way of Non-Clinging Part 1 -|bare list]]
 
+---
 ##### Could be a standalone talk on clinging, but will set context
 <span class="counts">**<a data-href="0115 The Way of Non-Clinging Part 1#^1-1" href="0115+The+Way+of+Non-Clinging+Part+1#^1-1" class="internal-link" target="_blank" rel="noopener">1-1</a>**: _<a data-href="Clinging" href="Clinging" class="internal-link" target="_blank" rel="noopener">Clinging</a> (3) · <a data-href="Alchemy" href="Alchemy" class="internal-link" target="_blank" rel="noopener">Alchemy</a> · <a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> · <a data-href="Conceptual Framework" href="Conceptual+Framework" class="internal-link" target="_blank" rel="noopener">Conceptual Framework</a> · <a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a> (2)_</span>
 

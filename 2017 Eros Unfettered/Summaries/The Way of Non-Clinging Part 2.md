@@ -20,7 +20,9 @@ Good summary of the 2 talks: [[The Way of Non-Clinging Part 3#^1-1]]
 <br/>
 
 ## Paragraphs
+[[The Way of Non-Clinging Part 2 -|bare list]]
 
+---
 ##### What are the ways of conceiving this teaching?
 <span class="counts">**<a data-href="0116 The Way of Non-Clinging Part 2#^1-1" href="0116+The+Way+of+Non-Clinging+Part+2#^1-1" class="internal-link" target="_blank" rel="noopener">1-1</a>**: _<a data-href="Clinging" href="Clinging" class="internal-link" target="_blank" rel="noopener">Clinging</a> (2) · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> · <a data-href="Beauty" href="Beauty" class="internal-link" target="_blank" rel="noopener">Beauty</a>_</span>
 

@@ -16,6 +16,8 @@ Transcript PDF: [[2007_0204 Love and Emptiness.pdf]]
 <br/>
 
 ## Paragraphs
+[[Love and Emptiness -|bare list]]
+
 ### Recap
 ##### We are cultivating metta and compassion, and we can see the blessings that come from that
 <span class="counts">**<a data-href="0204 Love and Emptiness#^1-1" href="0204+Love+and+Emptiness#^1-1" class="internal-link" target="_blank" rel="noopener">1-1</a>**: _<a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> · <a data-href="Emptiness" href="Emptiness" class="internal-link" target="_blank" rel="noopener">Emptiness</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (2) · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Blessing" href="Blessing" class="internal-link" target="_blank" rel="noopener">Blessing</a> (2)_</span>
@@ -118,7 +120,7 @@ There's nowhere outside of acceptance. There's nowhere outside of love. So if we
 </div></div>
 
 ---
-#### 
+####  Emptiness
 ##### The fleeting nature of experience deserves our compassion
 <span class="counts">**<a data-href="0204 Love and Emptiness#^4-3" href="0204+Love+and+Emptiness#^4-3" class="internal-link" target="_blank" rel="noopener">4-3</a>**: _<a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> (4) · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (2)_</span>
 
@@ -368,8 +370,8 @@ when I say, "If I'm loving myself, what am I?", one level of looking at it in te
 #####  Rob: For now, do not mix pure metta and pure compassion practice
 <span class="counts">**<a data-href="0204 Love and Emptiness#^13-10" href="0204+Love+and+Emptiness#^13-10" class="internal-link" target="_blank" rel="noopener">13-10</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (5) · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (5) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Acceptance" href="Acceptance" class="internal-link" target="_blank" rel="noopener">Acceptance</a>_</span>
 
-**"new practice** "[[Love and Emptiness#^new-practice|see below]]
-
+**"new practice"**: [[Love and Emptiness#Yogi 2 practices sending metta to persons and to dharmas ("new")]] below
+   
 ---
 ##### Yogi: But isn't there a degree of metta in karuna practice?
 <span class="counts">**<a data-href="0204 Love and Emptiness#^13-11" href="0204+Love+and+Emptiness#^13-11" class="internal-link" target="_blank" rel="noopener">13-11</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (3) · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (3) · <a data-href="Acceptance" href="Acceptance" class="internal-link" target="_blank" rel="noopener">Acceptance</a>_</span>
@@ -474,7 +476,7 @@ In <a data-href="Phenomenology" href="Phenomenology" class="internal-link" targe
 <audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=01:17:36" type="audio/mpeg">???</audio>
 
 ---
-##### Yogi: 2 practices: sending metta to persons and to dharmas ("new") ^new-practice
+##### Yogi: 2 practices: sending metta to persons and to dharmas ("new")
 <span class="counts">**<a data-href="0204 Love and Emptiness#^17-2" href="0204+Love+and+Emptiness#^17-2" class="internal-link" target="_blank" rel="noopener">17-2</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (3) · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (2) · <a data-href="Awareness" href="Awareness" class="internal-link" target="_blank" rel="noopener">Awareness</a> · <a data-href="Pain" href="Pain" class="internal-link" target="_blank" rel="noopener">Pain</a>_</span>
 
 ---

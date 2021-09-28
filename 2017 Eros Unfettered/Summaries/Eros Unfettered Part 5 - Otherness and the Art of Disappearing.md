@@ -1,5 +1,6 @@
 ---
 obsidianUIMode: preview
+ParagraphsListPage: false
 ---
 #TranscriptSummary
 
@@ -14,7 +15,6 @@ Transcript PDF: [[2017_0127 Eros Unfettered Part 5 - Otherness and the Art of Di
 <br/>
 
 ## Paragraphs
-
 ---
 ##### ...
 <span class="counts">**<a data-href="0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^1-1" href="0127+Eros+Unfettered+Part+5+-+Otherness+and+the+Art+of+Disappearing#^1-1" class="internal-link" target="_blank" rel="noopener">1-1</a>**: _<a data-href="Soulmaking Dynamic" href="Soulmaking+Dynamic" class="internal-link" target="_blank" rel="noopener">Soulmaking Dynamic</a> · <a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (4) · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a>_</span>

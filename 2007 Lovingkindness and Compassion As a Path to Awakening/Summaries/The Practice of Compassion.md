@@ -16,7 +16,9 @@ Transcript PDF: [[2007_0201 The Practice of Compassion.pdf]]
 <br/>
 
 ## Paragraphs
+[[The Practice of Compassion -|bare list]]
 
+---
 ##### Compassion is the natural response of the heart to suffering, in absense preoccupation with self
 <span class="counts">**<a data-href="0201 The Practice of Compassion#^1-1" href="0201+The+Practice+of+Compassion#^1-1" class="internal-link" target="_blank" rel="noopener">1-1</a>**: _<a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (3) · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> (2) · <a data-href="Consciousness" href="Consciousness" class="internal-link" target="_blank" rel="noopener">Consciousness</a> · <a data-href="Contraction" href="Contraction" class="internal-link" target="_blank" rel="noopener">Contraction</a> (2) · <a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">The Self</a>_</span>
 

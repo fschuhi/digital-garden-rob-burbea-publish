@@ -16,7 +16,9 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 <br/>
 
 ## Paragraphs
+[[Samadhi in Metta Practice -|bare list]]
 
+---
 ##### Opportunity to develop samadhi via metta
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^1-1" href="0122+Samadhi+in+Metta+Practice#^1-1" class="internal-link" target="_blank" rel="noopener">1-1</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (3) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (2) · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a>_</span>
 

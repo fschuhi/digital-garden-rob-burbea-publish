@@ -16,7 +16,9 @@ Transcript PDF: [[2007_0125 Expressions of Metta.pdf]]
 <br/>
 
 ## Paragraphs
+[[Expressions of Metta -|bare list]]
 
+---
 ##### Metta is a constallation of feelings
 <span class="counts">**<a data-href="0125 Expressions of Metta#^1-1" href="0125+Expressions+of+Metta#^1-1" class="internal-link" target="_blank" rel="noopener">1-1</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (6) · <a data-href="Dimensionality" href="Dimensionality" class="internal-link" target="_blank" rel="noopener">Dimensionality</a> · <a data-href="Feelings" href="Feelings" class="internal-link" target="_blank" rel="noopener">Feelings</a> (2) · <a data-href="Healing" href="Healing" class="internal-link" target="_blank" rel="noopener">Healing</a> · <a data-href="Energy" href="Energy" class="internal-link" target="_blank" rel="noopener">Energy</a> (2)_</span>
 

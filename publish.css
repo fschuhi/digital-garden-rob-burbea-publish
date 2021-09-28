@@ -268,7 +268,7 @@ audio::-webkit-media-controls-panel {
 }
 .popover.hover-popover.is-loaded .markdown-embed .markdown-embed-content     .markdown-preview-view{
     /* 22.09.21 adjusted for h6 "header" for transcripts */
-    padding: 20px 6px 10px 26px; 
+    padding: 8px 6px 10px 26px; 
 }
 
 

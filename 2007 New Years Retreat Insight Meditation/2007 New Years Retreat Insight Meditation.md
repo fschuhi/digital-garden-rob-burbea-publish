@@ -8,5 +8,5 @@ https://dharmaseed.org/retreats/1267/
 - [[1231 Joy (talk)]] (transcript only, no summary)
 
 <div class="admonition warning"><div class="title">WARNING</div><div class="content">
-The transcripts of this series of talks have no associated summary (will be added at a later point in time).<br/>
+The transcripts of this series of talks have no associated summaries, they will be added soon.<br/>
 </div></div>

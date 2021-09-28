@@ -42,6 +42,8 @@ E5 --- E5-4[Rosa Parks]
 - <a data-href="Voice, Movement, and the Possibilities of Soul" href="Voice%2C+Movement%2C+and+the+Possibilities+of+Soul" class="internal-link" target="_blank" rel="noopener">Voice, Movement, and the Possibilities of Soul</a>
 
 ## Paragraphs
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4 -|bare list]]
+
 ### 🟡 Excercises 4.2 revisited
 _keywords: _
 

@@ -1,5 +1,6 @@
 ---
 obsidianUIMode: preview
+ParagraphsListPage: true
 ---
 #TranscriptSummary
 
@@ -16,6 +17,9 @@ Transcript PDF: [[2017_0118 Dilemmas and Delineations - How did we get here Part
 <br/>
 
 ## Paragraphs
+[[Dilemmas and Delineations - How did we get here Part 1 -|bare list]]
+
+---
 ##### We will gradually unfold the web around the word "eros"
 <span class="counts">**<a data-href="0118 Dilemmas and Delineations - How did we get here Part 1#^1-1" href="0118+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+1#^1-1" class="internal-link" target="_blank" rel="noopener">1-1</a>**: _<a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (3) · <a data-href="Desire" href="Desire" class="internal-link" target="_blank" rel="noopener">Desire</a> · <a data-href="Alchemy" href="Alchemy" class="internal-link" target="_blank" rel="noopener">Alchemy</a> · <a data-href="Delineations" href="Delineations" class="internal-link" target="_blank" rel="noopener">Delineations</a>_</span>
 

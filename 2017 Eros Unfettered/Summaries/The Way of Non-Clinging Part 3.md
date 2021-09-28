@@ -16,7 +16,9 @@ Transcript PDF: [[2017_0117 The Way of Non-Clinging Part 3.pdf]]
 <br/>
 
 ## Paragraphs
+[[The Way of Non-Clinging Part 3 -|bare list]]
 
+---
 ##### Summary of the first 2 talks
 <span class="counts">**<a data-href="0117 The Way of Non-Clinging Part 3#^1-1" href="0117+The+Way+of+Non-Clinging+Part+3#^1-1" class="internal-link" target="_blank" rel="noopener">1-1</a>**: _<a data-href="Clinging" href="Clinging" class="internal-link" target="_blank" rel="noopener">Clinging</a> (11) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Fabrication" href="Fabrication" class="internal-link" target="_blank" rel="noopener">Fabrication</a> (3) · <a data-href="Perception" href="Perception" class="internal-link" target="_blank" rel="noopener">Perception</a> (3) · <a data-href="Dependent Origination" href="Dependent+Origination" class="internal-link" target="_blank" rel="noopener">Dependent Origination</a> · <a data-href="Ways of Looking" href="Ways+of+Looking" class="internal-link" target="_blank" rel="noopener">Ways of Looking</a> · <a data-href="Craving" href="Craving" class="internal-link" target="_blank" rel="noopener">Craving</a>_</span>
 

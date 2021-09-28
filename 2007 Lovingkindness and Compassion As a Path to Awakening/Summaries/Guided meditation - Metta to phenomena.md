@@ -16,6 +16,9 @@ Transcript PDF: [[2007_0204 Guided meditation - Metta to phenomena.pdf]]
 <br/>
 
 ## Paragraphs
+[[Guided meditation - Metta to phenomena -|bare list]]
+
+---
 ##### Just noticing if anything in experience is standing out
 <span class="counts">**<a data-href="0204 Guided meditation - Metta to phenomena#^1-2" href="0204+Guided+meditation+-+Metta+to+phenomena#^1-2" class="internal-link" target="_blank" rel="noopener">1-2</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> (2) · <a data-href="Phenomenon" href="Phenomenon" class="internal-link" target="_blank" rel="noopener">Phenomenon</a> · <a data-href="Consciousness" href="Consciousness" class="internal-link" target="_blank" rel="noopener">Consciousness</a> · <a data-href="Awareness" href="Awareness" class="internal-link" target="_blank" rel="noopener">Awareness</a> (2) · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> · <a data-href="Mind state" href="Mind+state" class="internal-link" target="_blank" rel="noopener">Mind state</a>_</span>
 
