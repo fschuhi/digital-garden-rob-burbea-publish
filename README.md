@@ -1,5 +1,5 @@
-# Rob Burbea's Digital Garden
-This is a collection of [Obsidian](https://obsidian.md/) markdown files which are published as the [Digital Garden of Rob Burbea's Teachings](http://publish.obsidian.md/rob-burbea] (from here on call just "Digital Garden".)
+# The Garden of the Soul: Rob Burbea's Teachings
+This is a collection of [Obsidian](https://obsidian.md/) markdown files which are published as the [Digital Garden of Rob Burbea's Teachings](http://publish.obsidian.md/rob-burbea) (from here on call just "Digital Garden".)
 
 This repository holds the files from the "publish vault" of the Digital Garden, see the description of the [Digital Garden Workbench](https://github.com/fschuhi/digital-garden-workbench).
 
