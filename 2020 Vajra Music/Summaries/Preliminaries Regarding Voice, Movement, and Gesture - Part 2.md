@@ -140,10 +140,10 @@ A second thing that it means is that the movement, gesture, and voice of oneself
 </div></div>
 
 ---
-##### With regard to the "grief", there were plenty of things within jazz that I figured out on my own ^soul-grief
+##### With regard to the "grief", there were plenty of things within jazz that I figured out on my own
 <span class="counts">**<a data-href="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^5-3" href="0302+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#^5-3" class="internal-link" target="_blank" rel="noopener">5-3</a>**: _<a data-href="Grief" href="Grief" class="internal-link" target="_blank" rel="noopener">Grief</a> (3) · <a data-href="Music#Jazz" href="Music#Jazz" class="internal-link" target="_blank" rel="noopener">Music &gt; Jazz</a> (4) · <a data-href="Music" href="Music" class="internal-link" target="_blank" rel="noopener">Music</a> · <a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a>_</span>
 
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^soul-grief]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Soul-grief from not practicing being fluid]]
 
 ---
 ##### I could have just kept bashing away, but I didn't

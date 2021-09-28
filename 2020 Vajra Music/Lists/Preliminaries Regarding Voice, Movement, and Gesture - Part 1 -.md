@@ -61,7 +61,7 @@ obsidianUIMode: preview
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#There is no problem with being elitist|There is no problem with being elitist.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Example Rob playing the Jazz guitar|Example: Rob playing the Jazz guitar.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Sudden growth of ability|Sudden growth of ability.]]
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Soul-grief from not practicing being fluid ^soul-grief|Soul-grief from not practicing being fluid ^soul-grief.]]
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Soul-grief from not practicing being fluid|Soul-grief from not practicing being fluid.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Fluidity wasn't taught then|Fluidity wasn't taught then.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#It was not enabled to become fully physically manifest|It was not enabled to become fully physically manifest.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#There is hope that practice opens possibilities|There is hope that practice opens possibilities.]]

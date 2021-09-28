@@ -22,7 +22,7 @@ obsidianUIMode: preview
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#There are roads that are open|There are roads that are open.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#1 If soul wants to manifest it can|(1) If soul wants to manifest, it can.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#2 Ordinary usages of movementgesturevoice can be sensed with soul|(2) Ordinary usages of movement/gesture/voice can be sensed with soul.]]
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#With regard to the "grief" there were plenty of things within jazz that I figured out on my own ^soul-grief|With regard to the "grief", there were plenty of things within jazz that I figured out on my own ^soul-grief.]]
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#With regard to the "grief" there were plenty of things within jazz that I figured out on my own|With regard to the "grief", there were plenty of things within jazz that I figured out on my own.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#I could have just kept bashing away but I didn't|I could have just kept bashing away, but I didn't.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#So practice in a way that you don't end up regretting|So practice in a way that you don't end up regretting.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#We need to take care about the basic nuts and bolts|We need to take care about the basic nuts and bolts.]]
