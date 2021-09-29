@@ -37,13 +37,15 @@
     line-height: 1.6em;
 }
 
+/* 29.09.21 removed after Mary said she can only see 1 page /*
+/*
 .site-body-left-column {
     min-width: 320px;
 }
 .site-body-center-column {
     min-width: 1000px;
 }
-
+*/
 
 /****************************************/
 /* admonitions.css
