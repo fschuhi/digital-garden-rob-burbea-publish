@@ -80,6 +80,7 @@ So sometimes it will feel like we're very much in the 'feeling the sorrow' side,
 </div></div>
 
 ---
+#### Balance
 ##### The outflow of compassion from us to others touches us, and we feel healed
 **<a data-href="0208 Equanimity in Compassion#^2-4" href="0208+Equanimity+in+Compassion#^2-4" class="internal-link" target="_blank" rel="noopener">2-4</a>**: _<a data-href="Healing" href="Healing" class="internal-link" target="_blank" rel="noopener">Healing</a> (3) · <a data-href="Pleasantness" href="Pleasantness" class="internal-link" target="_blank" rel="noopener">Pleasantness</a> (2) · <a data-href="Happiness" href="Happiness" class="internal-link" target="_blank" rel="noopener">Happiness</a>_
 
@@ -95,144 +96,166 @@ What's going out, the comforting, the balm, it actually has a feeling of feeling
 ##### It's part of our humanity to be touched
 **<a data-href="0208 Equanimity in Compassion#^2-6" href="0208+Equanimity+in+Compassion#^2-6" class="internal-link" target="_blank" rel="noopener">2-6</a>**: _<a data-href="Grief" href="Grief" class="internal-link" target="_blank" rel="noopener">Grief</a>_
 
+<div class="admonition quote"><div class="title">❝</div><div class="content">
+It's part of our humanity to be touched. We're not, in a way, wanting to be untouched and inhuman. It gives the heart a quality of some kind of opening, some kind of tenderness that's really important.<br/>
+</div></div>
+
 ---
-##### ...
+##### Equanimity means  buoyancy, not to sink underneath the weight of the suffering
 **<a data-href="0208 Equanimity in Compassion#^3-1" href="0208+Equanimity+in+Compassion#^3-1" class="internal-link" target="_blank" rel="noopener">3-1</a>**: _<a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (4) · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> (2) · <a data-href="Cultivation" href="Cultivation" class="internal-link" target="_blank" rel="noopener">Cultivation</a> · <a data-href="Happiness" href="Happiness" class="internal-link" target="_blank" rel="noopener">Happiness</a> (2) · <a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> (2) · <a data-href="Steadiness" href="Steadiness" class="internal-link" target="_blank" rel="noopener">Steadiness</a>_
 
 ---
-##### ...
+#### Samadhi
+##### Don't underestimate the power of samadhi in the deepening of equanimity
 **<a data-href="0208 Equanimity in Compassion#^3-2" href="0208+Equanimity+in+Compassion#^3-2" class="internal-link" target="_blank" rel="noopener">3-2</a>**: _<a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> (2) · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (5) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Steadiness" href="Steadiness" class="internal-link" target="_blank" rel="noopener">Steadiness</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a>_
 
 ---
-##### ...
+##### Story: last year's retreatant who didn't want to do samadhi, pointing to the busyness of life
 **<a data-href="0208 Equanimity in Compassion#^3-3" href="0208+Equanimity+in+Compassion#^3-3" class="internal-link" target="_blank" rel="noopener">3-3</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (3) · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a>_
 
 ---
-##### ...
+##### Samadhi allows any quality to sink into the cells
 **<a data-href="0208 Equanimity in Compassion#^3-4" href="0208+Equanimity+in+Compassion#^3-4" class="internal-link" target="_blank" rel="noopener">3-4</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (2) · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (2)_
 
+<div class="admonition quote"><div class="title">❝</div><div class="content">
+sink into the cells, and to be there, woven in almost to the fabric of our being<br/>
+</div></div>
+
 ---
-##### ...
+##### But it's also important to practice when the mind isn't that settled
 **<a data-href="0208 Equanimity in Compassion#^3-5" href="0208+Equanimity+in+Compassion#^3-5" class="internal-link" target="_blank" rel="noopener">3-5</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a>_
 
 ---
-##### ...
+##### The natural progression of samadhi leads to equanimity, which eventually becomes also accessible outside samadhi
 **<a data-href="0208 Equanimity in Compassion#^3-6" href="0208+Equanimity+in+Compassion#^3-6" class="internal-link" target="_blank" rel="noopener">3-6</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (3) · <a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> (3) · <a data-href="Piti" href="Piti" class="internal-link" target="_blank" rel="noopener">Piti</a> · <a data-href="Happiness" href="Happiness" class="internal-link" target="_blank" rel="noopener">Happiness</a>_
 
+<div class="admonition quote"><div class="title">❝</div><div class="content">
+This is usually a progression that takes months and months, but in the progression of that, the equanimity, too, gets kind of sewn into the being<br/>
+</div></div>
+
 ---
-##### ...
+#### The Self
+##### How much is the self _doing_ the compassion practice
 **<a data-href="0208 Equanimity in Compassion#^4-1" href="0208+Equanimity+in+Compassion#^4-1" class="internal-link" target="_blank" rel="noopener">4-1</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> · <a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">The Self</a> (3) · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (4) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a>_
 
 ---
-##### ...
+##### As the self-sense gets quite, equanimity becomes the natural state
 **<a data-href="0208 Equanimity in Compassion#^4-2" href="0208+Equanimity+in+Compassion#^4-2" class="internal-link" target="_blank" rel="noopener">4-2</a>**: _<a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">The Self</a> (7) · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (2) · <a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> (4)_
 
 ---
-##### ...
+#### Spaciousness
+##### With spaciousness, any suffering can be held effortlessly in that space
 **<a data-href="0208 Equanimity in Compassion#^4-3" href="0208+Equanimity+in+Compassion#^4-3" class="internal-link" target="_blank" rel="noopener">4-3</a>**: _<a data-href="Spaciousness" href="Spaciousness" class="internal-link" target="_blank" rel="noopener">Spaciousness</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (3) · <a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">The Self</a> · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> (4)_
 
 ---
-##### ...
+##### Spaciousness is a prominent feature of equanimity
 **<a data-href="0208 Equanimity in Compassion#^4-4" href="0208+Equanimity+in+Compassion#^4-4" class="internal-link" target="_blank" rel="noopener">4-4</a>**: _<a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> · <a data-href="Spaciousness" href="Spaciousness" class="internal-link" target="_blank" rel="noopener">Spaciousness</a> (2) · <a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> (3) · <a data-href="Steadiness" href="Steadiness" class="internal-link" target="_blank" rel="noopener">Steadiness</a>_
 
 ---
-##### ...
+##### Still, the self giving compassion is a necessary aspect of our humanity
 **<a data-href="0208 Equanimity in Compassion#^4-5" href="0208+Equanimity+in+Compassion#^4-5" class="internal-link" target="_blank" rel="noopener">4-5</a>**: _<a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">The Self</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (5) · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a>_
 
 ---
-##### ...
+#### Limits of compassion practice
+##### "What do I want or need for myself here?"
 **<a data-href="0208 Equanimity in Compassion#^4-6" href="0208+Equanimity+in+Compassion#^4-6" class="internal-link" target="_blank" rel="noopener">4-6</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> · <a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">The Self</a> · <a data-href="Spaciousness" href="Spaciousness" class="internal-link" target="_blank" rel="noopener">Spaciousness</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a>_
 
 ---
-##### ...
+##### It's challenging to care for someone who is clearly causing suffering for themselves
 **<a data-href="0208 Equanimity in Compassion#^5-1" href="0208+Equanimity+in+Compassion#^5-1" class="internal-link" target="_blank" rel="noopener">5-1</a>**: _<a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> (3)_
 
 ---
-##### ...
+##### Am I finding a way to care of my needs?
 **<a data-href="0208 Equanimity in Compassion#^5-2" href="0208+Equanimity+in+Compassion#^5-2" class="internal-link" target="_blank" rel="noopener">5-2</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> · <a data-href="Relationships" href="Relationships" class="internal-link" target="_blank" rel="noopener">Relationships</a>_
 
 ---
-##### ...
+##### Co-dependence can happen
 **<a data-href="0208 Equanimity in Compassion#^5-3" href="0208+Equanimity+in+Compassion#^5-3" class="internal-link" target="_blank" rel="noopener">5-3</a>**: _<a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a>_
 
 ---
-##### ...
+##### We might want some recognition for our efforts
 <a data-href="0208 Equanimity in Compassion#^5-4" href="0208+Equanimity+in+Compassion#^5-4" class="internal-link" target="_blank" rel="noopener">5-4</a>
 
 ---
-##### ...
+##### So we need to ask ourselves in those situations how we can get at least some of what we need in a healthy way
 **<a data-href="0208 Equanimity in Compassion#^5-5" href="0208+Equanimity+in+Compassion#^5-5" class="internal-link" target="_blank" rel="noopener">5-5</a>**: _<a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (5) · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> · <a data-href="Aversion" href="Aversion" class="internal-link" target="_blank" rel="noopener">Aversion</a> · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> · <a data-href="Perception" href="Perception" class="internal-link" target="_blank" rel="noopener">Perception</a>_
 
 ---
-##### ...
+##### Politics show that there are limits in how much we can help
 **<a data-href="0208 Equanimity in Compassion#^6-1" href="0208+Equanimity+in+Compassion#^6-1" class="internal-link" target="_blank" rel="noopener">6-1</a>**: _<a data-href="Brahmaviharas" href="Brahmaviharas" class="internal-link" target="_blank" rel="noopener">Brahmaviharas</a> · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> · <a data-href="Happiness" href="Happiness" class="internal-link" target="_blank" rel="noopener">Happiness</a> · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a>_
 
 ---
-##### ...
+##### Bringing equanimity in seeing the web of conditions which makes any situation what it is
 **<a data-href="0208 Equanimity in Compassion#^6-2" href="0208+Equanimity+in+Compassion#^6-2" class="internal-link" target="_blank" rel="noopener">6-2</a>**: _<a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> · <a data-href="Dependent Origination" href="Dependent+Origination" class="internal-link" target="_blank" rel="noopener">Dependent Origination</a> (2) · <a data-href="Freedom" href="Freedom" class="internal-link" target="_blank" rel="noopener">Freedom</a>_
 
 ---
-##### ...
+##### Example: Dharma talk
 **<a data-href="0208 Equanimity in Compassion#^6-3" href="0208+Equanimity+in+Compassion#^6-3" class="internal-link" target="_blank" rel="noopener">6-3</a>**: _<a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a> (4) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Dependent Origination" href="Dependent+Origination" class="internal-link" target="_blank" rel="noopener">Dependent Origination</a>_
 
 ---
-##### ...
+##### Maybe it's just a see
 **<a data-href="0208 Equanimity in Compassion#^6-4" href="0208+Equanimity+in+Compassion#^6-4" class="internal-link" target="_blank" rel="noopener">6-4</a>**: _<a data-href="Desire" href="Desire" class="internal-link" target="_blank" rel="noopener">Desire</a> · <a data-href="Dependent Origination" href="Dependent+Origination" class="internal-link" target="_blank" rel="noopener">Dependent Origination</a>_
 
+<div class="admonition quote"><div class="title">❝</div><div class="content">
+But mostly it's actually just a little drop, and then one goes out into that infinite web of conditions in the life. Maybe it's just a seed. It meets another condition, then it begins to sprout. Maybe it sprouts a little here, and then it gets watered. Maybe it meets the wrong conditions and it just gets covered over, you know?<br/>
+</div></div>
+
 ---
-##### ...
+##### Somthing you've done or said, it might just be enough that it can blossom later for that person
 **<a data-href="0208 Equanimity in Compassion#^6-5" href="0208+Equanimity+in+Compassion#^6-5" class="internal-link" target="_blank" rel="noopener">6-5</a>**: _<a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> · <a data-href="Dependent Origination" href="Dependent+Origination" class="internal-link" target="_blank" rel="noopener">Dependent Origination</a>_
 
 ---
-##### ...
+##### Equanimity is not indifference
 **<a data-href="0208 Equanimity in Compassion#^6-6" href="0208+Equanimity+in+Compassion#^6-6" class="internal-link" target="_blank" rel="noopener">6-6</a>**: _<a data-href="Brahmaviharas" href="Brahmaviharas" class="internal-link" target="_blank" rel="noopener">Brahmaviharas</a> · <a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> (5) · <a data-href="Near enemy" href="Near+enemy" class="internal-link" target="_blank" rel="noopener">Near enemy</a> · <a data-href="Spiritual circles" href="Spiritual+circles" class="internal-link" target="_blank" rel="noopener">Spiritual circles</a>_
 
 ---
-##### ...
+##### The barometer for any view (like karma, or God's will) is: what's it doing to the heart?
 **<a data-href="0208 Equanimity in Compassion#^7-1" href="0208+Equanimity+in+Compassion#^7-1" class="internal-link" target="_blank" rel="noopener">7-1</a>**: _<a data-href="Karma" href="Karma" class="internal-link" target="_blank" rel="noopener">Karma</a> (2) · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a>_
 
 ---
-##### ...
+##### Can the compassion stay steady and strong, but also that the tenderness of the heart remains?
 **<a data-href="0208 Equanimity in Compassion#^7-2" href="0208+Equanimity+in+Compassion#^7-2" class="internal-link" target="_blank" rel="noopener">7-2</a>**: _<a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">The Self</a> · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> (4) · <a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (2) · <a data-href="Ignorance" href="Ignorance" class="internal-link" target="_blank" rel="noopener">Ignorance</a> (2) · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a>_
 
 ---
-##### ...
+#### Phrases for equanimity
+##### Phrases make the limits of our responsibility clearer to us and to another
 **<a data-href="0208 Equanimity in Compassion#^7-3" href="0208+Equanimity+in+Compassion#^7-3" class="internal-link" target="_blank" rel="noopener">7-3</a>**: _<a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a>_
 
 ---
-##### ...
+##### This is to distinguish the suffering coming down from outside vs what humans bring on themselves through ignorance
 **<a data-href="0208 Equanimity in Compassion#^7-4" href="0208+Equanimity+in+Compassion#^7-4" class="internal-link" target="_blank" rel="noopener">7-4</a>**: _<a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> (3) · <a data-href="Ignorance" href="Ignorance" class="internal-link" target="_blank" rel="noopener">Ignorance</a> · <a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a>_
 
 ---
-##### ...
+##### "All beings are the owners of their actions." (shortened)
 **<a data-href="0208 Equanimity in Compassion#^7-5" href="0208+Equanimity+in+Compassion#^7-5" class="internal-link" target="_blank" rel="noopener">7-5</a>**: _<a data-href="Happiness" href="Happiness" class="internal-link" target="_blank" rel="noopener">Happiness</a> (2)_
 
 ---
-##### ...
+##### "All beings inherit the results of their actions." (shortened)
 <a data-href="0208 Equanimity in Compassion#^7-6" href="0208+Equanimity+in+Compassion#^7-6" class="internal-link" target="_blank" rel="noopener">7-6</a>
 
 ---
-##### ...
+##### "All actions with intention, be they skilful or harmful, of such acts they will be the heirs."
 <a data-href="0208 Equanimity in Compassion#^8-1" href="0208+Equanimity+in+Compassion#^8-1" class="internal-link" target="_blank" rel="noopener">8-1</a>
 
 ---
-##### ...
+##### This formal equanimity practice brings in the recollection to balance the compassion
 **<a data-href="0208 Equanimity in Compassion#^8-2" href="0208+Equanimity+in+Compassion#^8-2" class="internal-link" target="_blank" rel="noopener">8-2</a>**: _<a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (2) · <a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a>_
 
 ---
-##### ...
+##### Still, loving-kindness and compassion is the best way to live, even if actions or results seem to fall short
 **<a data-href="0208 Equanimity in Compassion#^8-3" href="0208+Equanimity+in+Compassion#^8-3" class="internal-link" target="_blank" rel="noopener">8-3</a>**: _<a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (2) · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (4) · <a data-href="Freedom" href="Freedom" class="internal-link" target="_blank" rel="noopener">Freedom</a> (2) · <a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> (2) · <a data-href="Spaciousness" href="Spaciousness" class="internal-link" target="_blank" rel="noopener">Spaciousness</a> (2) · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a>_
 
 ---
-##### ...
+#### Emptiness
+##### The more we see the emptiness of all things, the more we can walk in a relaxed and effortless way
 **<a data-href="0208 Equanimity in Compassion#^8-4" href="0208+Equanimity+in+Compassion#^8-4" class="internal-link" target="_blank" rel="noopener">8-4</a>**: _<a data-href="Emptiness" href="Emptiness" class="internal-link" target="_blank" rel="noopener">Emptiness</a> (2) · <a data-href="Spaciousness" href="Spaciousness" class="internal-link" target="_blank" rel="noopener">Spaciousness</a>_
 
 ---
-##### ...
+##### Paradoxically, we become even more devoted with seeing the emptiness of everything
 **<a data-href="0208 Equanimity in Compassion#^8-5" href="0208+Equanimity+in+Compassion#^8-5" class="internal-link" target="_blank" rel="noopener">8-5</a>**: _<a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> · <a data-href="Emptiness" href="Emptiness" class="internal-link" target="_blank" rel="noopener">Emptiness</a> (7) · <a data-href="Freedom" href="Freedom" class="internal-link" target="_blank" rel="noopener">Freedom</a> · <a data-href="Happiness" href="Happiness" class="internal-link" target="_blank" rel="noopener">Happiness</a> · <a data-href="Wonder" href="Wonder" class="internal-link" target="_blank" rel="noopener">Wonder</a> · <a data-href="Devotion" href="Devotion" class="internal-link" target="_blank" rel="noopener">Devotion</a> (4) · <a data-href="Nihilism" href="Nihilism" class="internal-link" target="_blank" rel="noopener">Nihilism</a> (2) · <a data-href="Near enemy" href="Near+enemy" class="internal-link" target="_blank" rel="noopener">Near enemy</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a>_
 
 ---
-##### ...
+##### I can neither find myself nor others deparate, and in that the love is there
 **<a data-href="0208 Equanimity in Compassion#^8-6" href="0208+Equanimity+in+Compassion#^8-6" class="internal-link" target="_blank" rel="noopener">8-6</a>**: _<a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (3) · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Anatta" href="Anatta" class="internal-link" target="_blank" rel="noopener">Anatta</a> (2) · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> (3) · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> (3) · <a data-href="Emptiness" href="Emptiness" class="internal-link" target="_blank" rel="noopener">Emptiness</a> (3) · <a data-href="Nondualism" href="Nondualism" class="internal-link" target="_blank" rel="noopener">Nondualism</a> · <a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> (2)_
 
 ---

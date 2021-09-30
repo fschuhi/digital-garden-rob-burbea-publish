@@ -43,7 +43,7 @@ This Digital Garden presents only a small subset of what you'll find in the AirT
 
 <br/>
 
-## Some first info on how to work with this Ditigal Garden
+## Some first info on how to work with this Digitial Garden
 For an **intro** into what this digital garden is about, you might want to take a look at the talk summaries in [[2020 Vajra Music]], which link to the paragraphs of the transcripts of talks in that series.
 
 <div class="admonition note"><div class="title">NOTE</div><div class="content">
