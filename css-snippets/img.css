@@ -1,0 +1,18 @@
+/* 02.10.21 */
+
+.markdown-preview-view img {
+ 
+  display: block;
+  margin-top: 10pt;
+  margin-bottom: 10pt;
+  margin-left: 70pt; /*auto;*/
+  margin-right: auto;
+  /* width: 40%;  */
+  transition:transform 0.25s ease;
+  transform:scale(0.9);
+}
+
+.markdown-preview-view img:hover {
+    -webkit-transform:scale(1.8); /* experiment with values */
+    transform:scale(1.1);
+}

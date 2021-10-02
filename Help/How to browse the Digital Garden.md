@@ -37,7 +37,7 @@ The words and idioms in blue color are links to keywords.
 
 👉 Go to the paragraph 2-2 and hover with the mouse the small 2-2. A small link symbol appears. Move the mouse to the link symbol (the one pointed to by the “copy link” info):
 
-![[Pasted image 20211002221925.png]]
+![[help3.png]]
 
 -   If you now left-click with the mouse on the link, the Digital Garden copies the link to this paragraph onto the clipboard. I’ve just done this, and I paste the link to the following line...
 -   [https://publish.obsidian.md/rob-burbea/2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening/Transcripts/0122+Samadhi+in+Metta+Practice#2-2](https://publish.obsidian.md/rob-burbea/2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening/Transcripts/0122+Samadhi+in+Metta+Practice#2-2)
@@ -60,7 +60,7 @@ The Digital Garden doesn’t really care about which path you take through it. S
 #### Working with paragraphs on the summary page
 👉 Now go back to the summary, please. Click anywhere on the summary page “Samadhi in Metta Practice” and scroll down to the section “Paragraphs”.
 
-![[Pasted image 20211002211035.png]]
+![[help1.png]]
 
 The “Why we need Samadhi” is a header we put into the summary to make the structure of the talk more evident. Some of the headers have been taken over from the [[Rob Burbea Transcription Project]]
 
@@ -78,7 +78,7 @@ The Digital Garden now shows a page named “Samadhi in Metta Practice **–**�
 
 If you hover on any of the descriptions, it shows you the particular position of the summary file. Let’s say you are in the bare list, with the mouse pointer on the “We need a sense of deep nourishment” description (the example from above). Now move the mouse quickly to the popup window and then hover over the 2-2:
 
-![[Pasted image 20211002211108.png]]
+![[help2.png]]
 
 You can therefore get a quick overview over the flow of the talk, and take a look at comments or press the audio player, or look at the respective transcript paragraph – all from the “bare list”.
 <br/>
@@ -92,7 +92,7 @@ You can therefore get a quick overview over the flow of the talk, and take a loo
 
 👉 Let’s say you are on the transcript page “0122 Samadhi in Metta Practice”. Now scroll down to the paragraph 2-2 and hover with the mouse over the fullstop at the end of the paragraph. This is what you’ll see:
 
-![[Pasted image 20211002222131.png]]
+![[help4.png]]
 
 You can move the mouse quickly in this preview and click on any link there, including the > of the audio player.
 
