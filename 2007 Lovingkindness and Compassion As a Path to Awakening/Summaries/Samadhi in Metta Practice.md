@@ -19,7 +19,7 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 [[Samadhi in Metta Practice -|bare list]]
 
 ---
-##### Opportunity to develop samadhi via metta
+##### Metta develops the heart, insight and samadhi
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^1-1" href="0122+Samadhi+in+Metta+Practice#^1-1" class="internal-link" target="_blank" rel="noopener">1-1</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (3) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (2) · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a>_</span>
 
 ---
@@ -32,11 +32,11 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^1-3" href="0122+Samadhi+in+Metta+Practice#^1-3" class="internal-link" target="_blank" rel="noopener">1-3</a>**: _<a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> (2) · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (8)_</span>
 
 ---
-##### A continuum of depth - a lifelong exploration
+##### It's a continuum of depth and a lifelong exploration
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^1-4" href="0122+Samadhi+in+Metta+Practice#^1-4" class="internal-link" target="_blank" rel="noopener">1-4</a>**: _<a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> (2) · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (3)_</span>
 
 ---
-##### Expanded perceptions come when the consciousness deepens
+##### Perceptions expands when the consciousness deepens
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^2-1" href="0122+Samadhi+in+Metta+Practice#^2-1" class="internal-link" target="_blank" rel="noopener">2-1</a>**: _<a data-href="Consciousness" href="Consciousness" class="internal-link" target="_blank" rel="noopener">Consciousness</a> (3) · <a data-href="Perception" href="Perception" class="internal-link" target="_blank" rel="noopener">Perception</a>_</span>
 
 ---
@@ -159,7 +159,8 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^6-1" href="0122+Samadhi+in+Metta+Practice#^6-1" class="internal-link" target="_blank" rel="noopener">6-1</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (2) · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a>_</span>
 
 ---
-##### Tightness
+#### Tightness
+##### Tightness can come from focus, but relaxing the latter is only one way to deal with tightness
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^6-2" href="0122+Samadhi+in+Metta+Practice#^6-2" class="internal-link" target="_blank" rel="noopener">6-2</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (2) · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Breath" href="Breath" class="internal-link" target="_blank" rel="noopener">Breath</a> (2) · <a data-href="Contraction" href="Contraction" class="internal-link" target="_blank" rel="noopener">Contraction</a> (2) · <a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a>_</span>
 
 ---
@@ -181,7 +182,7 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^7-1" href="0122+Samadhi+in+Metta+Practice#^7-1" class="internal-link" target="_blank" rel="noopener">7-1</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (2)_</span>
 
 ---
-##### Can we okay with a sense of tightness?
+##### Can we be okay with a sense of tightness?
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^7-2" href="0122+Samadhi+in+Metta+Practice#^7-2" class="internal-link" target="_blank" rel="noopener">7-2</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (2) · <a data-href="Contraction" href="Contraction" class="internal-link" target="_blank" rel="noopener">Contraction</a> (4) · <a data-href="Awareness" href="Awareness" class="internal-link" target="_blank" rel="noopener">Awareness</a>_</span>
 
 ---
@@ -207,6 +208,10 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ##### The question of effort is connected with a sense of duality, which is connected with a sense of love
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^7-7" href="0122+Samadhi+in+Metta+Practice#^7-7" class="internal-link" target="_blank" rel="noopener">7-7</a>**: _<a data-href="Contraction" href="Contraction" class="internal-link" target="_blank" rel="noopener">Contraction</a> (2) · <a data-href="Tiredness" href="Tiredness" class="internal-link" target="_blank" rel="noopener">Tiredness</a> · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> (4) · <a data-href="Acceptance" href="Acceptance" class="internal-link" target="_blank" rel="noopener">Acceptance</a> (2) · <a data-href="Nondualism" href="Nondualism" class="internal-link" target="_blank" rel="noopener">Nondualism</a> (6)_</span>
 
+<div class="admonition warning"><div class="title">WARNING</div><div class="content">
+"...sense of duality, which is connected to a _lack of_ sense of love" ?<br/>
+</div></div>
+
 ---
 ##### Samadhi as goal-oriented practice
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^8-1" href="0122+Samadhi+in+Metta+Practice#^8-1" class="internal-link" target="_blank" rel="noopener">8-1</a>**: _<a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a>_</span>
@@ -216,6 +221,7 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^8-2" href="0122+Samadhi+in+Metta+Practice#^8-2" class="internal-link" target="_blank" rel="noopener">8-2</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (3) · <a data-href="Pleasantness" href="Pleasantness" class="internal-link" target="_blank" rel="noopener">Pleasantness</a> (3)_</span>
 
 ---
+#### Thinking
 ##### Dwelling in a lovely space
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^8-3" href="0122+Samadhi+in+Metta+Practice#^8-3" class="internal-link" target="_blank" rel="noopener">8-3</a>**: _<a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> (2) · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (2) · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Brahmaviharas" href="Brahmaviharas" class="internal-link" target="_blank" rel="noopener">Brahmaviharas</a> · <a data-href="Personhood" href="Personhood" class="internal-link" target="_blank" rel="noopener">Personhood</a> · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (3) · <a data-href="Steadiness" href="Steadiness" class="internal-link" target="_blank" rel="noopener">Steadiness</a> · <a data-href="Pleasantness" href="Pleasantness" class="internal-link" target="_blank" rel="noopener">Pleasantness</a>_</span>
 
@@ -257,7 +263,8 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^10-1" href="0122+Samadhi+in+Metta+Practice#^10-1" class="internal-link" target="_blank" rel="noopener">10-1</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (2) · <a data-href="Consciousness" href="Consciousness" class="internal-link" target="_blank" rel="noopener">Consciousness</a>_</span>
 
 ---
-##### What allows piti? 1. Piti is a kind of energy
+#### What allows piti?
+##### 1. Piti is a kind of energy
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^10-2" href="0122+Samadhi+in+Metta+Practice#^10-2" class="internal-link" target="_blank" rel="noopener">10-2</a>**: _<a data-href="Piti" href="Piti" class="internal-link" target="_blank" rel="noopener">Piti</a> (4) · <a data-href="Breath" href="Breath" class="internal-link" target="_blank" rel="noopener">Breath</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Pleasantness" href="Pleasantness" class="internal-link" target="_blank" rel="noopener">Pleasantness</a> (3) · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (2) · <a data-href="Energy" href="Energy" class="internal-link" target="_blank" rel="noopener">Energy</a> (5)_</span>
 
 <audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=49:12" type="audio/mpeg">???</audio>

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 ---
 ### Paragraphs in [[Samadhi in Metta Practice]]
-- [[Samadhi in Metta Practice#Opportunity to develop samadhi via metta|Opportunity to develop samadhi via metta.]]
+- [[Samadhi in Metta Practice#Metta develops the heart insight and samadhi|Metta develops the heart, insight and samadhi.]]
 ### Terminology
 - [[Samadhi in Metta Practice#Samadhi is often translated as "concentration"|Samadhi is often translated as "concentration".]]
 - [[Samadhi in Metta Practice#Better "collectedness" even better "unification"|Better: "collectedness", even better: "unification".]]
-- [[Samadhi in Metta Practice#A continuum of depth - a lifelong exploration|A continuum of depth - a lifelong exploration.]]
-- [[Samadhi in Metta Practice#Expanded perceptions come when the consciousness deepens|Expanded perceptions come when the consciousness deepens.]]
+- [[Samadhi in Metta Practice#It's a continuum of depth and a lifelong exploration|It's a continuum of depth and a lifelong exploration.]]
+- [[Samadhi in Metta Practice#Perceptions expands when the consciousness deepens|Perceptions expands when the consciousness deepens.]]
 ### Why we need Samadhi
 - [[Samadhi in Metta Practice#We need a sense of deep nourishment|We need a sense of deep nourishment.]]
 - [[Samadhi in Metta Practice#With samadhi we are maximizing the receptivity of the mind|With samadhi we are maximizing the receptivity of the mind.]]
@@ -39,12 +39,13 @@ obsidianUIMode: preview
 - [[Samadhi in Metta Practice#We don't have to get caught up in the content of what the hindrances are saying|We don't have to get caught up in the content of what the hindrances are saying.]]
 - [[Samadhi in Metta Practice#Maturity comes from not taking things so personal|Maturity comes from not taking things so personal.]]
 - [[Samadhi in Metta Practice#It's just human stuff have some kindness towards it in meditation|It's just human stuff, have some kindness towards it in meditation.]]
-- [[Samadhi in Metta Practice#Tightness|Tightness.]]
+#### Tightness
+- [[Samadhi in Metta Practice#Tightness can come from focus but relaxing the latter is only one way to deal with tightness|Tightness can come from focus, but relaxing the latter is only one way to deal with tightness.]]
 - [[Samadhi in Metta Practice#Doing samadhi am I suppressing some emotions|Doing samadhi, am I suppressing some emotions?]]
 - [[Samadhi in Metta Practice#Move towards softening the sense of the body|Move towards softening the sense of the body.]]
 - [[Samadhi in Metta Practice#Emotion is reflected as a contraction in the body|Emotion is reflected as a contraction in the body.]]
 - [[Samadhi in Metta Practice#Less effort more subtlety|Less effort, more subtlety.]]
-- [[Samadhi in Metta Practice#Can we okay with a sense of tightness|Can we okay with a sense of tightness?]]
+- [[Samadhi in Metta Practice#Can we be okay with a sense of tightness|Can we be okay with a sense of tightness?]]
 - [[Samadhi in Metta Practice#Accepting that the tightness is there|Accepting that the tightness is there.]]
 - [[Samadhi in Metta Practice#Can there be a kindness to the sense of tightness|Can there be a kindness to the sense of tightness?]]
 ### Effort
@@ -53,6 +54,7 @@ obsidianUIMode: preview
 - [[Samadhi in Metta Practice#The question of effort is connected with a sense of duality which is connected with a sense of love|The question of effort is connected with a sense of duality, which is connected with a sense of love.]]
 - [[Samadhi in Metta Practice#Samadhi as goal-oriented practice|Samadhi as goal-oriented practice.]]
 - [[Samadhi in Metta Practice#Samadhi doesn't lead to a sense of attachment|Samadhi doesn't lead to a sense of attachment.]]
+#### Thinking
 - [[Samadhi in Metta Practice#Dwelling in a lovely space|Dwelling in a lovely space.]]
 - [[Samadhi in Metta Practice#Metta phrases are more helpful than a lot of the other thoughts we have during the day|Metta phrases are more helpful than a lot of the other thoughts we have during the day.]]
 - [[Samadhi in Metta Practice#Samadhi is an acquired taste|Samadhi is an acquired taste.]]
@@ -63,7 +65,8 @@ obsidianUIMode: preview
 - [[Samadhi in Metta Practice#The range of piti|The range of piti.]]
 - [[Samadhi in Metta Practice#Centre the practice around the nice feeling which comes with metta|Centre the practice around the nice feeling which comes with metta.]]
 - [[Samadhi in Metta Practice#Do not grasp at any of this it's really an infinite journey|Do not grasp at any of this, it's really an infinite journey.]]
-- [[Samadhi in Metta Practice#What allows piti 1 Piti is a kind of energy|What allows piti? 1. Piti is a kind of energy.]]
+#### What allows piti?
+- [[Samadhi in Metta Practice#1 Piti is a kind of energy|1. Piti is a kind of energy.]]
 - [[Samadhi in Metta Practice#2 Interest|2. Interest.]]
 - [[Samadhi in Metta Practice#3 Openess of being|3. Openess of being.]]
 - [[Samadhi in Metta Practice#4 Non-entanglement with things|4. Non-entanglement with things.]]

@@ -4,7 +4,7 @@ obsidianUIMode: preview
 ### Paragraphs in [[Equanimity in Compassion]]
 ### Brahmaviharas
 - [[Equanimity in Compassion#Equanimity is the fourth of the brahmaviharas|Equanimity is the fourth of the brahmaviharas.]]
-- [[Equanimity in Compassion#Mudita is usually as "sympathetic joy"|Mudita is usually as "sympathetic joy".]]
+- [[Equanimity in Compassion#Mudita is usually translated as "sympathetic joy"|Mudita is usually translated as "sympathetic joy".]]
 - [[Equanimity in Compassion#Mudita is a kind of joy that's not so based on the ego|Mudita is a kind of joy that's not so based on the ego.]]
 ### Equanimity in compassion practice
 - [[Equanimity in Compassion#Equanimity is not a word we use much in English|Equanimity is not a word we use much in English.]]
