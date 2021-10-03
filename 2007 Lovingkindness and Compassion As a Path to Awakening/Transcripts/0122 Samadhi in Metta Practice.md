@@ -125,7 +125,7 @@ Everything I'm speaking about today, [[Samadhi|samādhi]], it's really speaking 
 ###### 11-3
 As the [[Samadhi|samādhi]] and also the [[Metta|mettā]] deepens - both, both together - the [[The Self|sense of self]] can begin to soften, can really begin to attenuate some more. There can be less of a sense of a 'doer,' a 'meditator.' And this, too, may bring up a lot of [[fear]] at times. It can be a fear, an existential fear of disappearing, similar to a fear of [[death]]. This is not at all uncommon. Some people don't get it at all, and then it's fine, not a problem. But some people do. But again, it's okay, and we can gradually work with this. It doesn't have to be a problem[[Samadhi in Metta Practice#The softening of the sense of self can be an existential fear|.]] ^11-3
 ###### 11-4
-What we learn is that our fixed views of self begin to lose their fixity. Instead of just one view of self that we have and we're stuck there, and this is where it is and it's rigid, we begin to let go of that and open up to different [[Ways of Looking|ways of seeing]] [[the self]]. Who am I, if I'm not caught in some issue, caught in some views or thinking? Who am I when the thinking - if it calms down, am I still me? Am I the same me that I thought I was[[Samadhi in Metta Practice#Let go and open up to different ways of seeing the self|?]] ^11-4
+hat we learn is that our fixed views of self begin to lose their fixity. Instead of just one view of self that we have and we're stuck there, and this is where it is and it's rigid, we begin to let go of that and open up to different [[Ways of Looking|ways of seeing]] [[the self]]. Who am I, if I'm not caught in some issue, caught in some views or thinking? Who am I when the thinking - if it calms down, am I still me? Am I the same me that I thought I was[[Samadhi in Metta Practice#Let go and open up to different ways of seeing the self|?]] ^11-4
 ###### 11-5
 So when the [[The Self|sense of self]] attenuates, this has a lot to do with the sense of [[love]], because when there's too much of a [[Nondualism|separation]] between self and other, that's perhaps the primary block to love flowing. Love, in a way, is that coming together, communion. [[Samadhi|Samādhi]], anyway, should, I very strongly feel, it should have love in it. Somehow when the mind collects, calms, deepens like that, there should be a quality of love in it: love for oneself, love for others, love for nature, love for all things[[Samadhi in Metta Practice#Samadhi should have love in it|.]] ^11-5
 ###### 11-6
@@ -149,5 +149,5 @@ But to understand - and it's usually a gradual, slow [[Insight|understanding]] -
 ###### 13-4
 Can we just sit quietly for a few moments together? ^13-4
 ###### 13-5
-May all beings live in peace. May all beings open to [[Happiness|joy]]. May all beings live in [[freedom]]. ^13-5
+May all beings live in peace. May all beings open to [[Happiness|joy]]. May all beings live in [[freedom]][[Samadhi in Metta Practice#Metta phrases|.]] ^13-5
 

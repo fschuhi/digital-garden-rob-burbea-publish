@@ -22,53 +22,75 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ##### Metta develops the heart, insight and samadhi
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^1-1" href="0122+Samadhi+in+Metta+Practice#^1-1" class="internal-link" target="_blank" rel="noopener">1-1</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (3) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (2) · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=00:02" type="audio/mpeg">???</audio>
+
 ---
 ### Terminology
 ##### Samadhi is often translated as "concentration"
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^1-2" href="0122+Samadhi+in+Metta+Practice#^1-2" class="internal-link" target="_blank" rel="noopener">1-2</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (5) · <a data-href="Buddhism" href="Buddhism" class="internal-link" target="_blank" rel="noopener">Buddhism</a> · <a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=01:26" type="audio/mpeg">???</audio>
+
 ---
 ##### Better: "collectedness", even better: "unification"
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^1-3" href="0122+Samadhi+in+Metta+Practice#^1-3" class="internal-link" target="_blank" rel="noopener">1-3</a>**: _<a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> (2) · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (8)_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=02:39" type="audio/mpeg">???</audio>
 
 ---
 ##### It's a continuum of depth and a lifelong exploration
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^1-4" href="0122+Samadhi+in+Metta+Practice#^1-4" class="internal-link" target="_blank" rel="noopener">1-4</a>**: _<a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> (2) · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (3)_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=03:57" type="audio/mpeg">???</audio>
+
 ---
 ##### Perceptions expands when the consciousness deepens
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^2-1" href="0122+Samadhi+in+Metta+Practice#^2-1" class="internal-link" target="_blank" rel="noopener">2-1</a>**: _<a data-href="Consciousness" href="Consciousness" class="internal-link" target="_blank" rel="noopener">Consciousness</a> (3) · <a data-href="Perception" href="Perception" class="internal-link" target="_blank" rel="noopener">Perception</a>_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=05:02" type="audio/mpeg">???</audio>
 
 ---
 ### Why we need Samadhi
 ##### We need a sense of deep nourishment
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^2-2" href="0122+Samadhi+in+Metta+Practice#^2-2" class="internal-link" target="_blank" rel="noopener">2-2</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> · <a data-href="Cultivation" href="Cultivation" class="internal-link" target="_blank" rel="noopener">Cultivation</a> (2) · <a data-href="Beauty" href="Beauty" class="internal-link" target="_blank" rel="noopener">Beauty</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=05:35" type="audio/mpeg">???</audio>
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=05:34" type="audio/mpeg">???</audio>
 
 ---
 ##### With samadhi we are maximizing the receptivity of the mind
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^2-3" href="0122+Samadhi+in+Metta+Practice#^2-3" class="internal-link" target="_blank" rel="noopener">2-3</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (3) · <a data-href="Perception" href="Perception" class="internal-link" target="_blank" rel="noopener">Perception</a> · <a data-href="Receptivity" href="Receptivity" class="internal-link" target="_blank" rel="noopener">Receptivity</a> (2) · <a data-href="Ways of Looking" href="Ways+of+Looking" class="internal-link" target="_blank" rel="noopener">Ways of Looking</a> (2)_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=06:25" type="audio/mpeg">???</audio>
+
 ---
 ##### Samadhi doesn't have to be with just one object
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^2-4" href="0122+Samadhi+in+Metta+Practice#^2-4" class="internal-link" target="_blank" rel="noopener">2-4</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (5) · <a data-href="Breath" href="Breath" class="internal-link" target="_blank" rel="noopener">Breath</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (3) · <a data-href="Awareness" href="Awareness" class="internal-link" target="_blank" rel="noopener">Awareness</a> · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> (2)_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=07:48" type="audio/mpeg">???</audio>
 
 ---
 ##### The mind is moving a lot, which is not conducive to calm
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^2-5" href="0122+Samadhi+in+Metta+Practice#^2-5" class="internal-link" target="_blank" rel="noopener">2-5</a>**: _<a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> · <a data-href="Mindfulness" href="Mindfulness" class="internal-link" target="_blank" rel="noopener">Mindfulness</a> (2) · <a data-href="Aversion" href="Aversion" class="internal-link" target="_blank" rel="noopener">Aversion</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=09:05" type="audio/mpeg">???</audio>
+
 ---
 ##### Metta is the most skilful relationship to have with what's going on
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^2-6" href="0122+Samadhi+in+Metta+Practice#^2-6" class="internal-link" target="_blank" rel="noopener">2-6</a>**: _<a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (2)_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=09:39" type="audio/mpeg">???</audio>
 
 ---
 ##### Samadhi is really worth developing (Guinness Book of Records)
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^3-1" href="0122+Samadhi+in+Metta+Practice#^3-1" class="internal-link" target="_blank" rel="noopener">3-1</a>**: _<a data-href="Personhood" href="Personhood" class="internal-link" target="_blank" rel="noopener">Personhood</a> (2) · <a data-href="Guinness Book of Records" href="Guinness+Book+of+Records" class="internal-link" target="_blank" rel="noopener">Guinness Book of Records</a> · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=10:08" type="audio/mpeg">???</audio>
+
 ---
 ##### Compared to what the Buddha says, we might have sidelined samadhi a bit in the West
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^3-2" href="0122+Samadhi+in+Metta+Practice#^3-2" class="internal-link" target="_blank" rel="noopener">3-2</a>**: _<a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (2) · <a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a> (2)_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=11:27" type="audio/mpeg">???</audio>
 
 ---
 ##### Samadhi is the soil where insights grow
@@ -80,10 +102,14 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ##### Samadhi goes to the cells and bones
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^3-4" href="0122+Samadhi+in+Metta+Practice#^3-4" class="internal-link" target="_blank" rel="noopener">3-4</a>**: _<a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> (2) · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=13:33" type="audio/mpeg">???</audio>
+
 ---
 ### How to develop samadhi?
 ##### We have lifelong habits of being scattered
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^3-5" href="0122+Samadhi+in+Metta+Practice#^3-5" class="internal-link" target="_blank" rel="noopener">3-5</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Habit" href="Habit" class="internal-link" target="_blank" rel="noopener">Habit</a> (2) · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a>_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=14:00" type="audio/mpeg">???</audio>
 
 ---
 #### Steadiness
@@ -96,9 +122,13 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ##### Samadhi has both softness and pliable strength in it
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^4-1" href="0122+Samadhi+in+Metta+Practice#^4-1" class="internal-link" target="_blank" rel="noopener">4-1</a>**: _<a data-href="Steadiness" href="Steadiness" class="internal-link" target="_blank" rel="noopener">Steadiness</a> · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (2) · <a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=15:46" type="audio/mpeg">???</audio>
+
 ---
 ##### Stay with metta for a while, that's how samadhi begins
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^4-2" href="0122+Samadhi+in+Metta+Practice#^4-2" class="internal-link" target="_blank" rel="noopener">4-2</a>**: _<a data-href="Steadiness" href="Steadiness" class="internal-link" target="_blank" rel="noopener">Steadiness</a> (3) · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (2) · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a>_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=16:33" type="audio/mpeg">???</audio>
 
 ---
 #### Happiness
@@ -111,25 +141,37 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ##### Happiness is both fruit and cause of samadhi
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^4-4" href="0122+Samadhi+in+Metta+Practice#^4-4" class="internal-link" target="_blank" rel="noopener">4-4</a>**: _<a data-href="Happiness" href="Happiness" class="internal-link" target="_blank" rel="noopener">Happiness</a> (3) · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (5) · <a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=17:52" type="audio/mpeg">???</audio>
+
 ---
 ##### Gratitude
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^4-5" href="0122+Samadhi+in+Metta+Practice#^4-5" class="internal-link" target="_blank" rel="noopener">4-5</a>**: _<a data-href="Gratitude" href="Gratitude" class="internal-link" target="_blank" rel="noopener">Gratitude</a> (3) · <a data-href="Happiness" href="Happiness" class="internal-link" target="_blank" rel="noopener">Happiness</a> (2) · <a data-href="Cultivation" href="Cultivation" class="internal-link" target="_blank" rel="noopener">Cultivation</a>_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=18:40" type="audio/mpeg">???</audio>
 
 ---
 ##### Freedom from remorse
 <span class="counts"><a data-href="0122 Samadhi in Metta Practice#^4-6" href="0122+Samadhi+in+Metta+Practice#^4-6" class="internal-link" target="_blank" rel="noopener">4-6</a></span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=19:06" type="audio/mpeg">???</audio>
+
 ---
 ##### Appreciation
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^4-7" href="0122+Samadhi+in+Metta+Practice#^4-7" class="internal-link" target="_blank" rel="noopener">4-7</a>**: _<a data-href="Appreciation" href="Appreciation" class="internal-link" target="_blank" rel="noopener">Appreciation</a> (2) · <a data-href="Gratitude" href="Gratitude" class="internal-link" target="_blank" rel="noopener">Gratitude</a> · <a data-href="Gaia House" href="Gaia+House" class="internal-link" target="_blank" rel="noopener">Gaia House</a> · <a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Happiness" href="Happiness" class="internal-link" target="_blank" rel="noopener">Happiness</a> · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a>_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=19:22" type="audio/mpeg">???</audio>
 
 ---
 ##### Love of the Dharma
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^4-8" href="0122+Samadhi+in+Metta+Practice#^4-8" class="internal-link" target="_blank" rel="noopener">4-8</a>**: _<a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> (4) · <a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=20:05" type="audio/mpeg">???</audio>
+
 ---
 ##### Nature
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^5-1" href="0122+Samadhi+in+Metta+Practice#^5-1" class="internal-link" target="_blank" rel="noopener">5-1</a>**: _<a data-href="Happiness" href="Happiness" class="internal-link" target="_blank" rel="noopener">Happiness</a> · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> · <a data-href="Beauty" href="Beauty" class="internal-link" target="_blank" rel="noopener">Beauty</a> (2)_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=20:21" type="audio/mpeg">???</audio>
 
 ---
 ### Hindrances
@@ -142,30 +184,44 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ##### Learn to expect and accept hindrances
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^5-3" href="0122+Samadhi+in+Metta+Practice#^5-3" class="internal-link" target="_blank" rel="noopener">5-3</a>**: _<a data-href="Hindrances" href="Hindrances" class="internal-link" target="_blank" rel="noopener">Hindrances</a> (2) · <a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> · <a data-href="Hell" href="Hell" class="internal-link" target="_blank" rel="noopener">Hell</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=21:50" type="audio/mpeg">???</audio>
+
 ---
 ##### Aversion
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^5-4" href="0122+Samadhi+in+Metta+Practice#^5-4" class="internal-link" target="_blank" rel="noopener">5-4</a>**: _<a data-href="Catherine McGee" href="Catherine+McGee" class="internal-link" target="_blank" rel="noopener">Catherine McGee</a> · <a data-href="Aversion" href="Aversion" class="internal-link" target="_blank" rel="noopener">Aversion</a> (3) · <a data-href="Hindrances" href="Hindrances" class="internal-link" target="_blank" rel="noopener">Hindrances</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (2) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Anger" href="Anger" class="internal-link" target="_blank" rel="noopener">Anger</a>_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=22:59" type="audio/mpeg">???</audio>
 
 ---
 ##### We don't have to get caught up in the content of what the hindrances are saying
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^5-5" href="0122+Samadhi+in+Metta+Practice#^5-5" class="internal-link" target="_blank" rel="noopener">5-5</a>**: _<a data-href="Aversion" href="Aversion" class="internal-link" target="_blank" rel="noopener">Aversion</a> (5) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Hindrances" href="Hindrances" class="internal-link" target="_blank" rel="noopener">Hindrances</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=23:46" type="audio/mpeg">???</audio>
+
 ---
 ##### Maturity comes from not taking things so personal
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^5-6" href="0122+Samadhi+in+Metta+Practice#^5-6" class="internal-link" target="_blank" rel="noopener">5-6</a>**: _<a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> · <a data-href="Anatta" href="Anatta" class="internal-link" target="_blank" rel="noopener">Anatta</a> (3) · <a data-href="Awakening" href="Awakening" class="internal-link" target="_blank" rel="noopener">Awakening</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=24:44" type="audio/mpeg">???</audio>
+
 ---
 ##### It's just human stuff, have some kindness towards it in meditation
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^6-1" href="0122+Samadhi+in+Metta+Practice#^6-1" class="internal-link" target="_blank" rel="noopener">6-1</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (2) · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a>_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=25:55" type="audio/mpeg">???</audio>
 
 ---
 #### Tightness
 ##### Tightness can come from focus, but relaxing the latter is only one way to deal with tightness
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^6-2" href="0122+Samadhi+in+Metta+Practice#^6-2" class="internal-link" target="_blank" rel="noopener">6-2</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (2) · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Breath" href="Breath" class="internal-link" target="_blank" rel="noopener">Breath</a> (2) · <a data-href="Contraction" href="Contraction" class="internal-link" target="_blank" rel="noopener">Contraction</a> (2) · <a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=26:54" type="audio/mpeg">???</audio>
+
 ---
 ##### Doing samadhi, am I suppressing some emotions?
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^6-3" href="0122+Samadhi+in+Metta+Practice#^6-3" class="internal-link" target="_blank" rel="noopener">6-3</a>**: _<a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> · <a data-href="Contraction" href="Contraction" class="internal-link" target="_blank" rel="noopener">Contraction</a> · <a data-href="Emotions" href="Emotions" class="internal-link" target="_blank" rel="noopener">Emotions</a>_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=28:09" type="audio/mpeg">???</audio>
 
 ---
 ##### Move towards softening the sense of the body
@@ -177,21 +233,31 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ##### Emotion is reflected as a contraction in the body
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^6-5" href="0122+Samadhi+in+Metta+Practice#^6-5" class="internal-link" target="_blank" rel="noopener">6-5</a>**: _<a data-href="Mindfulness" href="Mindfulness" class="internal-link" target="_blank" rel="noopener">Mindfulness</a> (3) · <a data-href="Awareness" href="Awareness" class="internal-link" target="_blank" rel="noopener">Awareness</a> (3) · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> (2) · <a data-href="Emotions" href="Emotions" class="internal-link" target="_blank" rel="noopener">Emotions</a> · <a data-href="Craving" href="Craving" class="internal-link" target="_blank" rel="noopener">Craving</a> · <a data-href="Contraction" href="Contraction" class="internal-link" target="_blank" rel="noopener">Contraction</a> (3)_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=29:48" type="audio/mpeg">???</audio>
+
 ---
 ##### Less effort, more subtlety
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^7-1" href="0122+Samadhi+in+Metta+Practice#^7-1" class="internal-link" target="_blank" rel="noopener">7-1</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (2)_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=31:08" type="audio/mpeg">???</audio>
 
 ---
 ##### Can we be okay with a sense of tightness?
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^7-2" href="0122+Samadhi+in+Metta+Practice#^7-2" class="internal-link" target="_blank" rel="noopener">7-2</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (2) · <a data-href="Contraction" href="Contraction" class="internal-link" target="_blank" rel="noopener">Contraction</a> (4) · <a data-href="Awareness" href="Awareness" class="internal-link" target="_blank" rel="noopener">Awareness</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=31:46" type="audio/mpeg">???</audio>
+
 ---
 ##### Accepting that the tightness is there
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^7-3" href="0122+Samadhi+in+Metta+Practice#^7-3" class="internal-link" target="_blank" rel="noopener">7-3</a>**: _<a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> · <a data-href="Contraction" href="Contraction" class="internal-link" target="_blank" rel="noopener">Contraction</a> (2) · <a data-href="Awareness" href="Awareness" class="internal-link" target="_blank" rel="noopener">Awareness</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=32:29" type="audio/mpeg">???</audio>
+
 ---
 ##### Can there be a kindness to the sense of tightness?
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^7-4" href="0122+Samadhi+in+Metta+Practice#^7-4" class="internal-link" target="_blank" rel="noopener">7-4</a>**: _<a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (2) · <a data-href="Emotions" href="Emotions" class="internal-link" target="_blank" rel="noopener">Emotions</a> · <a data-href="Contraction" href="Contraction" class="internal-link" target="_blank" rel="noopener">Contraction</a> (2)_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=33:08" type="audio/mpeg">???</audio>
 
 ---
 ### Effort
@@ -204,9 +270,13 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ##### We are giving metta to ourselves, but we are also receiving metta
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^7-6" href="0122+Samadhi+in+Metta+Practice#^7-6" class="internal-link" target="_blank" rel="noopener">7-6</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (6) · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> (2)_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=34:49" type="audio/mpeg">???</audio>
+
 ---
 ##### The question of effort is connected with a sense of duality, which is connected with a sense of love
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^7-7" href="0122+Samadhi+in+Metta+Practice#^7-7" class="internal-link" target="_blank" rel="noopener">7-7</a>**: _<a data-href="Contraction" href="Contraction" class="internal-link" target="_blank" rel="noopener">Contraction</a> (2) · <a data-href="Tiredness" href="Tiredness" class="internal-link" target="_blank" rel="noopener">Tiredness</a> · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> (4) · <a data-href="Acceptance" href="Acceptance" class="internal-link" target="_blank" rel="noopener">Acceptance</a> (2) · <a data-href="Nondualism" href="Nondualism" class="internal-link" target="_blank" rel="noopener">Nondualism</a> (6)_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=36:00" type="audio/mpeg">???</audio>
 
 <div class="admonition warning"><div class="title">WARNING</div><div class="content">
 "...sense of duality, which is connected to a _lack of_ sense of love" ?<br/>
@@ -216,9 +286,13 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ##### Samadhi as goal-oriented practice
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^8-1" href="0122+Samadhi+in+Metta+Practice#^8-1" class="internal-link" target="_blank" rel="noopener">8-1</a>**: _<a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=37:31" type="audio/mpeg">???</audio>
+
 ---
 ##### Samadhi doesn't lead to a sense of attachment
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^8-2" href="0122+Samadhi+in+Metta+Practice#^8-2" class="internal-link" target="_blank" rel="noopener">8-2</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (3) · <a data-href="Pleasantness" href="Pleasantness" class="internal-link" target="_blank" rel="noopener">Pleasantness</a> (3)_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=38:20" type="audio/mpeg">???</audio>
 
 ---
 #### Thinking
@@ -231,17 +305,25 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ##### Metta phrases are more helpful than a lot of the other thoughts we have during the day
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^8-4" href="0122+Samadhi+in+Metta+Practice#^8-4" class="internal-link" target="_blank" rel="noopener">8-4</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (5)_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=40:57" type="audio/mpeg">???</audio>
+
 ---
 ##### Samadhi is an acquired taste
 <span class="counts"><a data-href="0122 Samadhi in Metta Practice#^9-1" href="0122+Samadhi+in+Metta+Practice#^9-1" class="internal-link" target="_blank" rel="noopener">9-1</a></span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=42:49" type="audio/mpeg">???</audio>
 
 ---
 ##### There's no need to finish that thought
 <span class="counts"><a data-href="0122 Samadhi in Metta Practice#^9-2" href="0122+Samadhi+in+Metta+Practice#^9-2" class="internal-link" target="_blank" rel="noopener">9-2</a></span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=43:54" type="audio/mpeg">???</audio>
+
 ---
 ##### The compulsion of things we are addicted begins to get lost
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^9-3" href="0122+Samadhi+in+Metta+Practice#^9-3" class="internal-link" target="_blank" rel="noopener">9-3</a>**: _<a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> · <a data-href="Pleasantness" href="Pleasantness" class="internal-link" target="_blank" rel="noopener">Pleasantness</a> · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a>_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=44:26" type="audio/mpeg">???</audio>
 
 ---
 ### Piti
@@ -254,13 +336,19 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ##### The range of piti
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^9-5" href="0122+Samadhi+in+Metta+Practice#^9-5" class="internal-link" target="_blank" rel="noopener">9-5</a>**: _<a data-href="Piti" href="Piti" class="internal-link" target="_blank" rel="noopener">Piti</a> · <a data-href="Pleasantness" href="Pleasantness" class="internal-link" target="_blank" rel="noopener">Pleasantness</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=46:30" type="audio/mpeg">???</audio>
+
 ---
 ##### Centre the practice around the nice feeling which comes with metta
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^9-6" href="0122+Samadhi+in+Metta+Practice#^9-6" class="internal-link" target="_blank" rel="noopener">9-6</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Centre" href="Centre" class="internal-link" target="_blank" rel="noopener">Centre</a> (2) · <a data-href="Pleasantness" href="Pleasantness" class="internal-link" target="_blank" rel="noopener">Pleasantness</a> (3) · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> (2)_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=47:17" type="audio/mpeg">???</audio>
+
 ---
 ##### Do not grasp at any of this, it's really an infinite journey
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^10-1" href="0122+Samadhi+in+Metta+Practice#^10-1" class="internal-link" target="_blank" rel="noopener">10-1</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (2) · <a data-href="Consciousness" href="Consciousness" class="internal-link" target="_blank" rel="noopener">Consciousness</a>_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=48:20" type="audio/mpeg">???</audio>
 
 ---
 #### What allows piti?
@@ -273,13 +361,19 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ##### 2. Interest
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^10-3" href="0122+Samadhi+in+Metta+Practice#^10-3" class="internal-link" target="_blank" rel="noopener">10-3</a>**: _<a data-href="Piti" href="Piti" class="internal-link" target="_blank" rel="noopener">Piti</a> (3) · <a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> (3) · <a data-href="Pleasantness" href="Pleasantness" class="internal-link" target="_blank" rel="noopener">Pleasantness</a> (2)_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=50:15" type="audio/mpeg">???</audio>
+
 ---
 ##### 3. Openess of being
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^10-4" href="0122+Samadhi+in+Metta+Practice#^10-4" class="internal-link" target="_blank" rel="noopener">10-4</a>**: _<a data-href="Piti" href="Piti" class="internal-link" target="_blank" rel="noopener">Piti</a> (2) · <a data-href="Energy" href="Energy" class="internal-link" target="_blank" rel="noopener">Energy</a> · <a data-href="Receptivity" href="Receptivity" class="internal-link" target="_blank" rel="noopener">Receptivity</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=50:57" type="audio/mpeg">???</audio>
+
 ---
 ##### 4. Non-entanglement with things
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^10-5" href="0122+Samadhi+in+Metta+Practice#^10-5" class="internal-link" target="_blank" rel="noopener">10-5</a>**: _<a data-href="Piti" href="Piti" class="internal-link" target="_blank" rel="noopener">Piti</a> (2) · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (4) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> (2)_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=51:32" type="audio/mpeg">???</audio>
 
 ---
 ### Fear
@@ -292,17 +386,25 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ##### It's a lifelong exploration
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^11-1" href="0122+Samadhi+in+Metta+Practice#^11-1" class="internal-link" target="_blank" rel="noopener">11-1</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> (3)_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=53:30" type="audio/mpeg">???</audio>
+
 ---
 ##### Quality of softness
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^11-2" href="0122+Samadhi+in+Metta+Practice#^11-2" class="internal-link" target="_blank" rel="noopener">11-2</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (2) · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> · <a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">The Self</a> (2) · <a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a>_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=53:58" type="audio/mpeg">???</audio>
 
 ---
 ##### The softening of the sense of self can be an existential fear
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^11-3" href="0122+Samadhi+in+Metta+Practice#^11-3" class="internal-link" target="_blank" rel="noopener">11-3</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">The Self</a> · <a data-href="Fear" href="Fear" class="internal-link" target="_blank" rel="noopener">Fear</a> (4) · <a data-href="Death" href="Death" class="internal-link" target="_blank" rel="noopener">Death</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=54:34" type="audio/mpeg">???</audio>
+
 ---
 ##### Let go and open up to different ways of seeing the self
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^11-4" href="0122+Samadhi+in+Metta+Practice#^11-4" class="internal-link" target="_blank" rel="noopener">11-4</a>**: _<a data-href="Ways of Looking" href="Ways+of+Looking" class="internal-link" target="_blank" rel="noopener">Ways of Looking</a> · <a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">The Self</a>_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=55:23" type="audio/mpeg">???</audio>
 
 ---
 ##### Samadhi should have love in it
@@ -314,17 +416,25 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ##### Receptivity and an openess to some kind of wonder in being
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^11-6" href="0122+Samadhi+in+Metta+Practice#^11-6" class="internal-link" target="_blank" rel="noopener">11-6</a>**: _<a data-href="Receptivity" href="Receptivity" class="internal-link" target="_blank" rel="noopener">Receptivity</a> (4) · <a data-href="Wonder" href="Wonder" class="internal-link" target="_blank" rel="noopener">Wonder</a> · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> (4) · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=57:06" type="audio/mpeg">???</audio>
+
 ---
 ##### "I am surpressing something?"
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^12-1" href="0122+Samadhi+in+Metta+Practice#^12-1" class="internal-link" target="_blank" rel="noopener">12-1</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a>_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=58:38" type="audio/mpeg">???</audio>
 
 ---
 ##### Example story: because of samadhi there weren't the conditions there for anger
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^12-2" href="0122+Samadhi+in+Metta+Practice#^12-2" class="internal-link" target="_blank" rel="noopener">12-2</a>**: _<a data-href="Anger" href="Anger" class="internal-link" target="_blank" rel="noopener">Anger</a> (8) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (4) · <a data-href="Psyche" href="Psyche" class="internal-link" target="_blank" rel="noopener">Psyche</a> · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=59:14" type="audio/mpeg">???</audio>
+
 ---
 ##### Excercise: if calmness is there, drop in the thought of a difficult issue
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^12-3" href="0122+Samadhi+in+Metta+Practice#^12-3" class="internal-link" target="_blank" rel="noopener">12-3</a>**: _<a data-href="Steadiness" href="Steadiness" class="internal-link" target="_blank" rel="noopener">Steadiness</a> (3) · <a data-href="Anger" href="Anger" class="internal-link" target="_blank" rel="noopener">Anger</a>_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=01:01:00" type="audio/mpeg">???</audio>
 
 ---
 ### Emptiness
@@ -337,16 +447,30 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ##### With samadhi we are creating less and less
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^12-5" href="0122+Samadhi+in+Metta+Practice#^12-5" class="internal-link" target="_blank" rel="noopener">12-5</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (3) · <a data-href="Steadiness" href="Steadiness" class="internal-link" target="_blank" rel="noopener">Steadiness</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=01:02:45" type="audio/mpeg">???</audio>
+
 ---
 ##### Things that we create cause barriers, and with metta samadhi we are creating less
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^13-1" href="0122+Samadhi+in+Metta+Practice#^13-1" class="internal-link" target="_blank" rel="noopener">13-1</a>**: _<a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> (3) · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (2) · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a>_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=01:03:18" type="audio/mpeg">???</audio>
 
 ---
 ##### Awakening to emptiness
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^13-2" href="0122+Samadhi+in+Metta+Practice#^13-2" class="internal-link" target="_blank" rel="noopener">13-2</a>**: _<a data-href="Emptiness" href="Emptiness" class="internal-link" target="_blank" rel="noopener">Emptiness</a> (2) · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> · <a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a> · <a data-href="Awakening" href="Awakening" class="internal-link" target="_blank" rel="noopener">Awakening</a> (2) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a>_</span>
 
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=01:03:46" type="audio/mpeg">???</audio>
+
 ---
 ##### The emptiness brings freedom, gradually
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^13-3" href="0122+Samadhi+in+Metta+Practice#^13-3" class="internal-link" target="_blank" rel="noopener">13-3</a>**: _<a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> · <a data-href="Emptiness" href="Emptiness" class="internal-link" target="_blank" rel="noopener">Emptiness</a> · <a data-href="Freedom" href="Freedom" class="internal-link" target="_blank" rel="noopener">Freedom</a> (3) · <a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> · <a data-href="Bodhi Tree" href="Bodhi+Tree" class="internal-link" target="_blank" rel="noopener">Bodhi Tree</a>_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=01:04:24" type="audio/mpeg">???</audio>
+
+---
+##### (Metta phrases)
+<span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^13-5" href="0122+Samadhi+in+Metta+Practice#^13-5" class="internal-link" target="_blank" rel="noopener">13-5</a>**: _<a data-href="Happiness" href="Happiness" class="internal-link" target="_blank" rel="noopener">Happiness</a> · <a data-href="Freedom" href="Freedom" class="internal-link" target="_blank" rel="noopener">Freedom</a>_</span>
+
+<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=01:06:09" type="audio/mpeg">???</audio>
 
 ---

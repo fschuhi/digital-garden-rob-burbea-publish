@@ -87,3 +87,4 @@ obsidianUIMode: preview
 - [[Samadhi in Metta Practice#Things that we create cause barriers and with metta samadhi we are creating less|Things that we create cause barriers, and with metta samadhi we are creating less.]]
 - [[Samadhi in Metta Practice#Awakening to emptiness|Awakening to emptiness.]]
 - [[Samadhi in Metta Practice#The emptiness brings freedom gradually|The emptiness brings freedom, gradually.]]
+- [[Samadhi in Metta Practice#Metta phrases|(Metta phrases)]]
