@@ -9,7 +9,7 @@ Series: [[2020 Vajra Music]]
 Transcript: [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 Transcript PDF: [[2020_0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1.pdf]]
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3" type="audio/mpeg">???</audio>
 
 admonitions for structured listening are ==marked==
 
@@ -97,7 +97,7 @@ But again, how many people will actually take that out, and extract it, and capi
 ##### ==Make a set of instructions==
 <span class="counts">**<a data-href="0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^3-1" href="0301+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1#^3-1" class="internal-link" target="_blank" rel="noopener">3-1</a>**: _<a data-href="Sangha" href="Sangha" class="internal-link" target="_blank" rel="noopener">Sangha</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=09:23" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=09:23" type="audio/mpeg">???</audio>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
 One could, if one gets really interested in this stuff, go back to all those talks, and listen again, and listen to what's being said in the background, and those instructions that one might miss. Take the material out. Extract it. Write it down. Make a set of instructions. Start practising it. So there's an invitation there.<br/>
@@ -127,7 +127,7 @@ simile: Tiny bone in a bird<br/>
 ##### Soulmaking Dynamic
 <span class="counts">**<a data-href="0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^3-5" href="0301+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1#^3-5" class="internal-link" target="_blank" rel="noopener">3-5</a>**: _<a data-href="Soulmaking Dynamic" href="Soulmaking+Dynamic" class="internal-link" target="_blank" rel="noopener">Soulmaking Dynamic</a> (5) · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=13:09" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=13:09" type="audio/mpeg">???</audio>
 
 ---
 ##### Soulmaking wants to include movement, gesture, and voice
@@ -142,7 +142,7 @@ simile: Tiny bone in a bird<br/>
 ##### ==Is it possible to listen more actively?==
 <span class="counts"><a data-href="0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^4-3" href="0301+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1#^4-3" class="internal-link" target="_blank" rel="noopener">4-3</a></span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=17:00" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=17:00" type="audio/mpeg">???</audio>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
 But still, when you listen to this, this set of talks, when you listen to talks that have already been given - maybe by me; maybe by another teacher - is it possible to <i>think</i> about listening more actively?<br/>
@@ -172,7 +172,7 @@ see below, inertia is an important concept<br/>
 ##### Listening to talks together
 <span class="counts">**<a data-href="0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^5-2" href="0301+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1#^5-2" class="internal-link" target="_blank" rel="noopener">5-2</a>**: _<a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> (2)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=21:14" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=21:14" type="audio/mpeg">???</audio>
 
 <div class="admonition note"><div class="title">NOTE</div><div class="content">
 Could that be a routine agenda topic in the HAF yogis meetings?<br/>
@@ -234,7 +234,7 @@ Now, I would say that that inquiry into inertia, even though we're not really go
 ##### We can't help to move in the domain of my desires
 <span class="counts">**<a data-href="0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^8-2" href="0301+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1#^8-2" class="internal-link" target="_blank" rel="noopener">8-2</a>**: _<a data-href="Jhanas" href="Jhanas" class="internal-link" target="_blank" rel="noopener">Jhanas</a> (3) · <a data-href="Desire" href="Desire" class="internal-link" target="_blank" rel="noopener">Desire</a> (2) · <a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> (2) · <a data-href="Freedom" href="Freedom" class="internal-link" target="_blank" rel="noopener">Freedom</a> (2) · <a data-href="Inertia" href="Inertia" class="internal-link" target="_blank" rel="noopener">Inertia</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=36:30" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=36:30" type="audio/mpeg">???</audio>
 
 ---
 ### "Why?
@@ -265,7 +265,7 @@ Now, I would say that that inquiry into inertia, even though we're not really go
 ##### So "doesn't need to" might be a valid statement
 <span class="counts">**<a data-href="0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^9-5" href="0301+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1#^9-5" class="internal-link" target="_blank" rel="noopener">9-5</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> · <a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> · <a data-href="Mindfulness" href="Mindfulness" class="internal-link" target="_blank" rel="noopener">Mindfulness</a> (2) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> (3)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=45:04" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=45:04" type="audio/mpeg">???</audio>
 
 ---
 ##### But imagine a musician who doesn't need to make music
@@ -288,7 +288,7 @@ Now, I would say that that inquiry into inertia, even though we're not really go
 ##### This relates to the fantasy of the self and the path
 <span class="counts">**<a data-href="0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^11-2" href="0301+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1#^11-2" class="internal-link" target="_blank" rel="noopener">11-2</a>**: _<a data-href="Fantasy" href="Fantasy" class="internal-link" target="_blank" rel="noopener">Fantasy</a> · <a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a> · <a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=52:29" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=52:29" type="audio/mpeg">???</audio>
 
 ---
 ##### "Just don't struggle"
@@ -310,7 +310,7 @@ Then out of that comes a kind of mode of practising - effectively a technique (a
 ##### Soulmaking is elitist
 <span class="counts">**<a data-href="0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^12-1" href="0301+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1#^12-1" class="internal-link" target="_blank" rel="noopener">12-1</a>**: _<a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking</a> (3) · <a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a> · <a data-href="Emptiness" href="Emptiness" class="internal-link" target="_blank" rel="noopener">Emptiness</a> · <a data-href="Preliminaries" href="Preliminaries" class="internal-link" target="_blank" rel="noopener">Preliminaries</a> (2) · <a data-href="Dimensionality" href="Dimensionality" class="internal-link" target="_blank" rel="noopener">Dimensionality</a> · <a data-href="Elitism" href="Elitism" class="internal-link" target="_blank" rel="noopener">Elitism</a> (4) · <a data-href="Music" href="Music" class="internal-link" target="_blank" rel="noopener">Music</a> · <a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a> · <a data-href="Jhanas" href="Jhanas" class="internal-link" target="_blank" rel="noopener">Jhanas</a> · <a data-href="Awakening" href="Awakening" class="internal-link" target="_blank" rel="noopener">Awakening</a> · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> (3)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=56:44" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=56:44" type="audio/mpeg">???</audio>
 
 ---
 ##### The legacy of the Four Noble Truths
@@ -337,7 +337,7 @@ what does a reduction in suffering actually _mean_? And what does it look like? 
 ##### Example: Rob playing the Jazz guitar
 <span class="counts">**<a data-href="0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^13-2" href="0301+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1#^13-2" class="internal-link" target="_blank" rel="noopener">13-2</a>**: _<a data-href="Music" href="Music" class="internal-link" target="_blank" rel="noopener">Music</a> (2) · <a data-href="History" href="History" class="internal-link" target="_blank" rel="noopener">History</a> · <a data-href="Music#Jazz" href="Music#Jazz" class="internal-link" target="_blank" rel="noopener">Music &gt; Jazz</a> (6) · <a data-href="Energy" href="Energy" class="internal-link" target="_blank" rel="noopener">Energy</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=01:03:48" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=01:03:48" type="audio/mpeg">???</audio>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
 Learning to improvise jazz guitar, improvising jazz guitar, it's a lot of different skills and arts. It's not one thing. It's many, many. And again, it's just open-ended and it's infinite in the possibilities there.<br/>
@@ -371,7 +371,7 @@ comes out of
 ##### There is hope that practice opens possibilities
 <span class="counts">**<a data-href="0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^15-1" href="0301+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1#^15-1" class="internal-link" target="_blank" rel="noopener">15-1</a>**: _<a data-href="Music#Jazz" href="Music#Jazz" class="internal-link" target="_blank" rel="noopener">Music &gt; Jazz</a> · <a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> · <a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking</a> (5) · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (3) · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> (2)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=01:13:44" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=01:13:44" type="audio/mpeg">???</audio>
 
 <div class="admonition important"><div class="title">Check</div><div class="content">
 Unclear what he is pointing to in this paragraph<br/>
@@ -401,7 +401,7 @@ Unclear what he is pointing to in this paragraph<br/>
 ##### Excercise 1 has 5 parts
 <span class="counts"><a data-href="0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-3" href="0301+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1#^16-3" class="internal-link" target="_blank" rel="noopener">16-3</a></span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=01:19:50" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=01:19:50" type="audio/mpeg">???</audio>
 
 ---
 ##### 🟡 Excercise 1.1: fill the room with the energy body
@@ -450,7 +450,7 @@ the sensitivity, the imagination, the projection, the inhabiting, the filling of
 ##### let the energy body project to fill the space
 <span class="counts">**<a data-href="0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^17-5" href="0301+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1#^17-5" class="internal-link" target="_blank" rel="noopener">17-5</a>**: _<a data-href="Energy Body" href="Energy+Body" class="internal-link" target="_blank" rel="noopener">Energy Body</a> (4)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=01:26:37" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=01:26:37" type="audio/mpeg">???</audio>
 
 ---
 ##### Variation: start with slow movements, then faster
@@ -474,7 +474,7 @@ Is this excercise compatible with a all-around-the-day practice? What would be n
 ##### Voice excercise (again: physical or imagined)
 <span class="counts">**<a data-href="0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-3" href="0301+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1#^18-3" class="internal-link" target="_blank" rel="noopener">18-3</a>**: _<a data-href="Energy Body" href="Energy+Body" class="internal-link" target="_blank" rel="noopener">Energy Body</a> (2) · <a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=01:28:43" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=01:28:43" type="audio/mpeg">???</audio>
 
 ---
 ##### long notes, full range
@@ -512,7 +512,7 @@ Is this excercise compatible with a all-around-the-day practice? What would be n
 ##### Summary of the excercises
 <span class="counts">**<a data-href="0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^20-1" href="0301+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1#^20-1" class="internal-link" target="_blank" rel="noopener">20-1</a>**: _<a data-href="Energy Body" href="Energy+Body" class="internal-link" target="_blank" rel="noopener">Energy Body</a> (5) · <a data-href="Centre" href="Centre" class="internal-link" target="_blank" rel="noopener">Centre</a> (2) · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> (2) · <a data-href="Awareness" href="Awareness" class="internal-link" target="_blank" rel="noopener">Awareness</a> (3) · <a data-href="Energy" href="Energy" class="internal-link" target="_blank" rel="noopener">Energy</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=01:39:23" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=01:39:23" type="audio/mpeg">???</audio>
 
 ---
 ##### The excercises are relatively simple, but still really worth doing

@@ -9,7 +9,7 @@ Series: [[2020 Vajra Music]]
 Transcript: [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 Transcript PDF: [[2020_0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4.pdf]]
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3" type="audio/mpeg">???</audio>
 
 ```mermaid
 graph LR
@@ -96,7 +96,7 @@ What's the kind of rhythm that allows me to read, to sense, to be attuned and re
 ##### Leaning into Mode 2
 <span class="counts">**<a data-href="0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^3-2" href="0304+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4#^3-2" class="internal-link" target="_blank" rel="noopener">3-2</a>**: _<a data-href="Blessing" href="Blessing" class="internal-link" target="_blank" rel="noopener">Blessing</a> (3) · <a data-href="Receptivity" href="Receptivity" class="internal-link" target="_blank" rel="noopener">Receptivity</a> · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (2) · <a data-href="Energy Body" href="Energy+Body" class="internal-link" target="_blank" rel="noopener">Energy Body</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=10:53" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=10:53" type="audio/mpeg">???</audio>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
 [W]e're letting that intention lead us, and just starting the movement, and kind of reading it, surfing the whole situation, responding with our receptivity, with our sensitivity, responding to what we sense in terms of the <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">soulfulness</a> and the blessingness, and letting that shape the movements, the gestures, the vocalizations we're doing. So we're letting the body and the [[energy body]] and the sense of the soulfulness in the moment guide the movements, the gestures, the vocalizations...<br/>
@@ -127,7 +127,7 @@ What's the kind of rhythm that allows me to read, to sense, to be attuned and re
 ##### The mircacle of hearing and of sound
 <span class="counts">**<a data-href="0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^4-4" href="0304+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4#^4-4" class="internal-link" target="_blank" rel="noopener">4-4</a>**: _<a data-href="Dimensionality" href="Dimensionality" class="internal-link" target="_blank" rel="noopener">Dimensionality</a> (3) · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (2) · <a data-href="Music" href="Music" class="internal-link" target="_blank" rel="noopener">Music</a> (2)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=18:21" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=18:21" type="audio/mpeg">???</audio>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
 The meaning of this and the dimensionality, or the meaning of this and the sensing with soul of what's opened up through the meaning of what's being said in my voice, but also the dimensions that are opened up just through the sound, through the [[music]] of it, the mystery of it, the miracle of hearing and of sound. This particular sound, right now. This particular music. Different than other musics. Unique, particular.<br/>
@@ -137,7 +137,7 @@ The meaning of this and the dimensionality, or the meaning of this and the sensi
 ##### In 4.1.x there is still meaning, in 4.2 we are opening up dimensionality and go beyond meaning
 <span class="counts">**<a data-href="0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^5-1" href="0304+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4#^5-1" class="internal-link" target="_blank" rel="noopener">5-1</a>**: _<a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (2) · <a data-href="Blessing" href="Blessing" class="internal-link" target="_blank" rel="noopener">Blessing</a> · <a data-href="Dimensionality" href="Dimensionality" class="internal-link" target="_blank" rel="noopener">Dimensionality</a> · <a data-href="Mantra Practice" href="Mantra+Practice" class="internal-link" target="_blank" rel="noopener">Mantra Practice</a> (3)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=19:29" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=19:29" type="audio/mpeg">???</audio>
 
 ---
 ##### Witness is just noticing (albeit by bringing the whole energy body into sensual relationship) 🟢
@@ -200,7 +200,7 @@ The mindfulness expands to include that: "Oh, okay. There's self-consciousness g
 ##### Sensing anything with soul also counters the contracted self-consciousness
 <span class="counts">**<a data-href="0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-4" href="0304+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4#^7-4" class="internal-link" target="_blank" rel="noopener">7-4</a>**: _<a data-href="Perception" href="Perception" class="internal-link" target="_blank" rel="noopener">Perception</a> (2) · <a data-href="Dyad" href="Dyad" class="internal-link" target="_blank" rel="noopener">Dyad</a> · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (6) · <a data-href="Contraction" href="Contraction" class="internal-link" target="_blank" rel="noopener">Contraction</a> · <a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">The Self</a> (2)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=33:29" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=33:29" type="audio/mpeg">???</audio>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
 Because when there's sensing with soul, it will tend to counter that kind of reified and <a data-href="Contraction" href="Contraction" class="internal-link" target="_blank" rel="noopener">contracted</a> <a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">self-consciousness</a>, self-obsession, because that's not really a soul-movement. It may be a kind of squeezed, impoverished reflection of what's, if you like, originally a soul-movement, but in itself, it's not. So when we sense with soul, something opens that out.<br/>
@@ -240,7 +240,7 @@ Because when there's sensing with soul, it will tend to counter that kind of rei
 ##### Rather than actual person, dyad partner is intrapsychic image
 <span class="counts">**<a data-href="0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^9-5" href="0304+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4#^9-5" class="internal-link" target="_blank" rel="noopener">9-5</a>**: _<a data-href="Dyad" href="Dyad" class="internal-link" target="_blank" rel="noopener">Dyad</a> (4) · <a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a> (3) · <a data-href="Personhood" href="Personhood" class="internal-link" target="_blank" rel="noopener">Personhood</a> · <a data-href="Daimon" href="Daimon" class="internal-link" target="_blank" rel="noopener">Daimon</a> (3) · <a data-href="Imaginal" href="Imaginal" class="internal-link" target="_blank" rel="noopener">Imaginal</a> · <a data-href="Blessing" href="Blessing" class="internal-link" target="_blank" rel="noopener">Blessing</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=43:31" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=43:31" type="audio/mpeg">???</audio>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
 You're doing this in dyadic relationship with an image. Same thing though: you take your turn to move the body and make gestures and vocalize to the <a data-href="Daimon" href="Daimon" class="internal-link" target="_blank" rel="noopener">angel</a>, to your angel who is your dyad partner, to the image there, to the <a data-href="Imaginal" href="Imaginal" class="internal-link" target="_blank" rel="noopener">imaginal figure</a>. And then you receive, in your imagination, the movements, the gestures, the vocalizations, the [[blessing]] and just the mystery of that communication from the angel, in your imagination.<br/>
@@ -254,7 +254,7 @@ You're doing this in dyadic relationship with an image. Same thing though: you t
 ##### Why do it with an imaginal dyad partner?
 <span class="counts"><a data-href="0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^10-2" href="0304+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4#^10-2" class="internal-link" target="_blank" rel="noopener">10-2</a></span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=45:50" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=45:50" type="audio/mpeg">???</audio>
 
 ---
 ##### Less chance of self-consciousness arising if we do it with an imaginal dyad partner (Reason 1)
@@ -300,7 +300,7 @@ Usually when the intention goes into that kind of thing, that's when I'm seeking
 ##### Iconic movements and gestures
 <span class="counts">**<a data-href="0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^11-5" href="0304+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4#^11-5" class="internal-link" target="_blank" rel="noopener">11-5</a>**: _<a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a> (3) · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (2) · <a data-href="Energy Body" href="Energy+Body" class="internal-link" target="_blank" rel="noopener">Energy Body</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=54:50" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=54:50" type="audio/mpeg">???</audio>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
 The exercise is to take one of these moments and embody it. Feel into the <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">soul-sense</a> of that moment, and then let your body and your voice and your gesture and movement embody it.<br/>
@@ -326,7 +326,7 @@ The exercise is to take one of these moments and embody it. Feel into the <a dat
 ##### Sense of rightness, and being stretched to the limit
 <span class="counts">**<a data-href="0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^12-5" href="0304+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4#^12-5" class="internal-link" target="_blank" rel="noopener">12-5</a>**: _<a data-href="Daimon" href="Daimon" class="internal-link" target="_blank" rel="noopener">Daimon</a> · <a data-href="Dimensionality" href="Dimensionality" class="internal-link" target="_blank" rel="noopener">Dimensionality</a> · <a data-href="Fear" href="Fear" class="internal-link" target="_blank" rel="noopener">Fear</a> · <a data-href="Grief" href="Grief" class="internal-link" target="_blank" rel="noopener">Grief</a> · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (2)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=01:01:31" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=01:01:31" type="audio/mpeg">???</audio>
 
 ---
 ##### The outer environment has the cruelty and jeering, the inner the faith, telos, duty
@@ -342,7 +342,7 @@ The exercise is to take one of these moments and embody it. Feel into the <a dat
 ##### 🟡 Excercise 5.2: _The Bhumisparsa Mudra_
 <span class="counts">**<a data-href="0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^13-3" href="0304+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4#^13-3" class="internal-link" target="_blank" rel="noopener">13-3</a>**: _<a data-href="Buddhism" href="Buddhism" class="internal-link" target="_blank" rel="noopener">Buddhism</a> · <a data-href="Mudra" href="Mudra" class="internal-link" target="_blank" rel="noopener">Mudra</a> (2) · <a data-href="Bhumi" href="Bhumi" class="internal-link" target="_blank" rel="noopener">Bhumi</a> · <a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> (4) · <a data-href="Awakening" href="Awakening" class="internal-link" target="_blank" rel="noopener">Awakening</a> (5) · <a data-href="Mara" href="Mara" class="internal-link" target="_blank" rel="noopener">Mara</a> (2)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=01:04:43" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=01:04:43" type="audio/mpeg">???</audio>
 
 ---
 ##### Buddha touching the earth is calling it to bear witness
@@ -485,7 +485,7 @@ And then, again, in terms of consequences, one of the beautiful consequences - t
 ##### Embodying, reflecting, refracting
 <span class="counts">**<a data-href="0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^19-2" href="0304+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4#^19-2" class="internal-link" target="_blank" rel="noopener">19-2</a>**: _<a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a> (3) · <a data-href="Gestalt Psychology" href="Gestalt+Psychology" class="internal-link" target="_blank" rel="noopener">Gestalt Psychology</a> · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> (2) · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (6)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=01:36:10" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=01:36:10" type="audio/mpeg">???</audio>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
 Now, okay, so here's a certain personality, a certain kind of style of expression. Certainly it's not to imply that the only way to stand firm is in a quiet and serene way. I don't want to imply that at all. But if this is the kind of iconic moment we're drawing on or we're focusing on for this part of this exercise, then that's actually part of the [[image]], that it is quiet and serene. So maybe you can get a sense of that, of what would it be to sense into that whole, the whole <a data-href="Gestalt Psychology" href="Gestalt+Psychology" class="internal-link" target="_blank" rel="noopener">gestalt</a>, the whole configuration of that whole moment, that whole image, that whole time, that icon, that iconic moment, and then see how that wants to be mirrored or refracted or expressed with the body <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">movement, gesture, voice</a>, or what wants to manifest or express in response to that or from that as a seed.<br/>
@@ -496,7 +496,7 @@ Now, okay, so here's a certain personality, a certain kind of style of expressio
 ##### The excercises are seeds, not meant to be canonical
 <span class="counts">**<a data-href="0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^19-3" href="0304+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4#^19-3" class="internal-link" target="_blank" rel="noopener">19-3</a>**: _<a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=01:38:30" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=01:38:30" type="audio/mpeg">???</audio>
 
 ---
 ##### They are also path dependend, in response to different students that I've been working with
@@ -543,7 +543,7 @@ That's actually the overarching motto. Maybe have a "Why are we doing this?" sec
 ##### 🟢sarvatathāgatakāyavākcittaguhyahṛdayavajra
 <span class="counts">**<a data-href="0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^21-3" href="0304+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4#^21-3" class="internal-link" target="_blank" rel="noopener">21-3</a>**: _<a data-href="Eros Unfettered" href="Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">Eros Unfettered</a> · <a data-href="Guhyasamaja Tantra" href="Guhyasamaja+Tantra" class="internal-link" target="_blank" rel="noopener">Guhyasamaja Tantra</a> · <a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> (5)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=01:47:55" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62455/20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=01:47:55" type="audio/mpeg">???</audio>
 
 references <a data-href="The World and More" href="The+World+and+More" class="internal-link" target="_blank" rel="noopener">The World and More</a>
 

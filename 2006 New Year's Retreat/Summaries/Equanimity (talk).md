@@ -9,7 +9,7 @@ Series: [[2006 New Year's Retreat]]
 Transcript: [[1228 Equanimity (talk)]]
 Transcript PDF: [[2006_1228 Equanimity (talk).pdf]]
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3" type="audio/mpeg">???</audio>
 
 <div class="admonition note"><div class="title">NOTE</div><div class="content">
 This is a summary of a particular talk, as given by a transcript. Not all of the transcripts in the Digital Garden have summaries, but eventually most of them will.<br/>
@@ -94,13 +94,13 @@ There are also lines starting with "TODO". They are reminders for the "gardeners
 ##### Equanimity in relation to the eight worldly conditions
 <span class="counts">**<a data-href="1228 Equanimity (talk)#^2-1" href="1228+Equanimity+%28talk%29#^2-1" class="internal-link" target="_blank" rel="noopener">2-1</a>**: _<a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> (2) · <a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> (2) · <a data-href="Eight worldly conditions" href="Eight+worldly+conditions" class="internal-link" target="_blank" rel="noopener">Eight worldly conditions</a> · <a data-href="Pain" href="Pain" class="internal-link" target="_blank" rel="noopener">Pain</a> (3) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Jesus" href="Jesus" class="internal-link" target="_blank" rel="noopener">Jesus</a> · <a data-href="Mahatma Gandhi" href="Mahatma+Gandhi" class="internal-link" target="_blank" rel="noopener">Mahatma Gandhi</a> · [[Mother Teresa]] · <a data-href="Pleasantness" href="Pleasantness" class="internal-link" target="_blank" rel="noopener">Pleasantness</a> (2)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=03:32" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=03:32" type="audio/mpeg">???</audio>
 
 ---
 ##### The near enemy is indifference and lack of juicyness in life
 <span class="counts">**<a data-href="1228 Equanimity (talk)#^2-2" href="1228+Equanimity+%28talk%29#^2-2" class="internal-link" target="_blank" rel="noopener">2-2</a>**: _<a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> (9) · <a data-href="Near enemy" href="Near+enemy" class="internal-link" target="_blank" rel="noopener">Near enemy</a> (2) · [[Juiciness]] (2) · <a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">The Self</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=05:45" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=05:45" type="audio/mpeg">???</audio>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
 So this is quite interesting. Sometimes also the reason we are not so attracted to the idea of equanimity is that we have come to feel and believe that our sense of some juice in life, of juiciness, is wrapped up in drama - in the drama of the self, the drama of getting or getting rid of, of some difficulty or this or that - and when that drama dies down a bit, we're a little bit unsure if what will remain will be a bit grey or a bit boring. It's hard to imagine that maybe equanimity, true equanimity, actually has a quality of juiciness in it.<br/>
@@ -118,7 +118,7 @@ So this is quite interesting. Sometimes also the reason we are not so attracted 
 ##### We sometimes have this fear of striving and ambition, when the measuring mind comes in
 <span class="counts">**<a data-href="1228 Equanimity (talk)#^3-1" href="1228+Equanimity+%28talk%29#^3-1" class="internal-link" target="_blank" rel="noopener">3-1</a>**: _<a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a> (2) · <a data-href="Pain" href="Pain" class="internal-link" target="_blank" rel="noopener">Pain</a> · <a data-href="Cultivation" href="Cultivation" class="internal-link" target="_blank" rel="noopener">Cultivation</a> · <a data-href="Fear" href="Fear" class="internal-link" target="_blank" rel="noopener">Fear</a> · <a data-href="Measuring mind" href="Measuring+mind" class="internal-link" target="_blank" rel="noopener">Measuring mind</a> (2) · <a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> (2)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=10:16" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=10:16" type="audio/mpeg">???</audio>
 
 ---
 ##### With equanimity, there is a way to measure it
@@ -138,7 +138,7 @@ Weird mention of "you are probably a dog" (really a Buddha quote?)<br/>
 ##### (1) Steadiness of being with the breath
 <span class="counts">**<a data-href="1228 Equanimity (talk)#^3-5" href="1228+Equanimity+%28talk%29#^3-5" class="internal-link" target="_blank" rel="noopener">3-5</a>**: _<a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> (2) · <a data-href="Cultivation" href="Cultivation" class="internal-link" target="_blank" rel="noopener">Cultivation</a> (3) · <a data-href="Steadiness" href="Steadiness" class="internal-link" target="_blank" rel="noopener">Steadiness</a> · <a data-href="Breath" href="Breath" class="internal-link" target="_blank" rel="noopener">Breath</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=13:18" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=13:18" type="audio/mpeg">???</audio>
 
 ---
 ##### That movement of not being so pulled is the beginning of steadiness
@@ -152,7 +152,7 @@ Weird mention of "you are probably a dog" (really a Buddha quote?)<br/>
 ##### (2) Impermanence
 <span class="counts">**<a data-href="1228 Equanimity (talk)#^4-3" href="1228+Equanimity+%28talk%29#^4-3" class="internal-link" target="_blank" rel="noopener">4-3</a>**: _<a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> · <a data-href="Impermanence" href="Impermanence" class="internal-link" target="_blank" rel="noopener">Impermanence</a> (4) · <a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> · <a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a> · <a data-href="Eight worldly conditions" href="Eight+worldly+conditions" class="internal-link" target="_blank" rel="noopener">Eight worldly conditions</a> · <a data-href="Attention" href="Attention" class="internal-link" target="_blank" rel="noopener">Attention</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=15:37" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=15:37" type="audio/mpeg">???</audio>
 
 ---
 ##### Change can be seen on a microscoping level and on the everyday level
@@ -175,7 +175,7 @@ This right now, this sound, this sight, these body sensations, it's all in the c
 ##### When we have a trustworthy source of happiness, we become less wobbly
 <span class="counts">**<a data-href="1228 Equanimity (talk)#^5-3" href="1228+Equanimity+%28talk%29#^5-3" class="internal-link" target="_blank" rel="noopener">5-3</a>**: _<a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> (2) · <a data-href="Happiness" href="Happiness" class="internal-link" target="_blank" rel="noopener">Happiness</a> (3) · <a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=21:38" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=21:38" type="audio/mpeg">???</audio>
 
 ---
 ##### A heart of metta is a happy heart
@@ -194,7 +194,7 @@ really putting a lot of time, energy, effort into cultivating a heart of loving-
 ##### We heal ourselves by giving attention to ourselves and by caring for others
 <span class="counts">**<a data-href="1228 Equanimity (talk)#^6-3" href="1228+Equanimity+%28talk%29#^6-3" class="internal-link" target="_blank" rel="noopener">6-3</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (2) · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (3) · <a data-href="Cultivation" href="Cultivation" class="internal-link" target="_blank" rel="noopener">Cultivation</a> · <a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> · <a data-href="Healing" href="Healing" class="internal-link" target="_blank" rel="noopener">Healing</a> (2) · <a data-href="Attention" href="Attention" class="internal-link" target="_blank" rel="noopener">Attention</a> (2)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=24:17" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=24:17" type="audio/mpeg">???</audio>
 
 ---
 ##### Story: Tourists in The Tube
@@ -220,7 +220,7 @@ really putting a lot of time, energy, effort into cultivating a heart of loving-
 ##### Spiritual joy
 <span class="counts">**<a data-href="1228 Equanimity (talk)#^8-2" href="1228+Equanimity+%28talk%29#^8-2" class="internal-link" target="_blank" rel="noopener">8-2</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> · <a data-href="Mudita" href="Mudita" class="internal-link" target="_blank" rel="noopener">Mudita</a> (6) · <a data-href="Happiness" href="Happiness" class="internal-link" target="_blank" rel="noopener">Happiness</a> (2) · <a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">The Self</a> (2) · <a data-href="Wonder" href="Wonder" class="internal-link" target="_blank" rel="noopener">Wonder</a> (2) · <a data-href="Personhood" href="Personhood" class="internal-link" target="_blank" rel="noopener">Personhood</a> (2)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=31:41" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=31:41" type="audio/mpeg">???</audio>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
 A spiritual joy, doesn't have so much to do with the self. So one aspect of spiritual joy, we could say, is wonder, wonder. That quality of just a human being wondering, marveling.. a human being in awe at life, at existence, at the universe<br/>
@@ -248,7 +248,7 @@ A spiritual joy, doesn't have so much to do with the self. So one aspect of spir
 ##### What about wisdom?
 <span class="counts">**<a data-href="1228 Equanimity (talk)#^9-3" href="1228+Equanimity+%28talk%29#^9-3" class="internal-link" target="_blank" rel="noopener">9-3</a>**: _<a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> · <a data-href="Steadiness" href="Steadiness" class="internal-link" target="_blank" rel="noopener">Steadiness</a> (2) · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> · <a data-href="Impermanence" href="Impermanence" class="internal-link" target="_blank" rel="noopener">Impermanence</a> · <a data-href="Happiness" href="Happiness" class="internal-link" target="_blank" rel="noopener">Happiness</a> (2) · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> · <a data-href="Mudita" href="Mudita" class="internal-link" target="_blank" rel="noopener">Mudita</a> (2) · <a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> (2) · <a data-href="Eight worldly conditions" href="Eight+worldly+conditions" class="internal-link" target="_blank" rel="noopener">Eight worldly conditions</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=37:18" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=37:18" type="audio/mpeg">???</audio>
 
 ---
 ##### What is important to us in life changes over time
@@ -282,7 +282,7 @@ Who cares, who cares. These things are completely dependent, completely relative
 ##### Pain and pleasure are dependent on my reaction to it - I am making things with my reaction
 <span class="counts">**<a data-href="1228 Equanimity (talk)#^11-1" href="1228+Equanimity+%28talk%29#^11-1" class="internal-link" target="_blank" rel="noopener">11-1</a>**: _<a data-href="Pain" href="Pain" class="internal-link" target="_blank" rel="noopener">Pain</a> (13) · <a data-href="Aversion" href="Aversion" class="internal-link" target="_blank" rel="noopener">Aversion</a> · <a data-href="Mindfulness" href="Mindfulness" class="internal-link" target="_blank" rel="noopener">Mindfulness</a> · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=45:31" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=45:31" type="audio/mpeg">???</audio>
 
 ---
 ### Being equally near all things
@@ -294,7 +294,7 @@ Who cares, who cares. These things are completely dependent, completely relative
 ##### Then things begin to fade
 <span class="counts">**<a data-href="1228 Equanimity (talk)#^12-1" href="1228+Equanimity+%28talk%29#^12-1" class="internal-link" target="_blank" rel="noopener">12-1</a>**: _<a data-href="Craving" href="Craving" class="internal-link" target="_blank" rel="noopener">Craving</a> (4) · <a data-href="Reactivity" href="Reactivity" class="internal-link" target="_blank" rel="noopener">Reactivity</a> · <a data-href="Perception" href="Perception" class="internal-link" target="_blank" rel="noopener">Perception</a> (3) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> (3) · <a data-href="Emptiness" href="Emptiness" class="internal-link" target="_blank" rel="noopener">Emptiness</a> (3) · <a data-href="Pain" href="Pain" class="internal-link" target="_blank" rel="noopener">Pain</a> · <a data-href="Awareness" href="Awareness" class="internal-link" target="_blank" rel="noopener">Awareness</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=48:45" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12307/20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=48:45" type="audio/mpeg">???</audio>
 
 ---
 ##### There is nothing really to be equanimous about

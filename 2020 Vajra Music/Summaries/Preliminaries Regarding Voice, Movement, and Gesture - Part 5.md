@@ -9,7 +9,7 @@ Series: [[2020 Vajra Music]]
 Transcript: [[0305 Preliminaries Regarding Voice, Movement, and Gesture - Part 5]]
 Transcript PDF: [[2020_0305 Preliminaries Regarding Voice, Movement, and Gesture - Part 5.pdf]]
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62456/20200305-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_5-62456.mp3" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62456/20200305-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_5-62456.mp3" type="audio/mpeg">???</audio>
 
 ## Index
 <span class="counts">_<a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (6) · <a data-href="Energy Body" href="Energy+Body" class="internal-link" target="_blank" rel="noopener">Energy Body</a> (4) · <a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a> (4) · <a data-href="Emotions" href="Emotions" class="internal-link" target="_blank" rel="noopener">Emotions</a> (2) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> (2) · [[Index/Dharma Seed]] · <a data-href="Music" href="Music" class="internal-link" target="_blank" rel="noopener">Music</a>_</span>
@@ -30,7 +30,7 @@ Transcript PDF: [[2020_0305 Preliminaries Regarding Voice, Movement, and Gesture
 ##### 🟡 Excercise 6.1: melody, naa, baa
 <span class="counts">**<a data-href="0305 Preliminaries Regarding Voice, Movement, and Gesture - Part 5#^1-4" href="0305+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+5#^1-4" class="internal-link" target="_blank" rel="noopener">1-4</a>**: _<a data-href="Music" href="Music" class="internal-link" target="_blank" rel="noopener">Music</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62456/20200305-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_5-62456.mp3#t=03:02" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62456/20200305-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_5-62456.mp3#t=03:02" type="audio/mpeg">???</audio>
 
 ---
 ##### 🟡 Excercise 6.2: what happens if you spread your arms

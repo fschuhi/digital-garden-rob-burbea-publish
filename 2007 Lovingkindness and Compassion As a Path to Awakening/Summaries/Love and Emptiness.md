@@ -9,7 +9,7 @@ Series: [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 Transcript: [[0204 Love and Emptiness]]
 Transcript PDF: [[2007_0204 Love and Emptiness.pdf]]
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3" type="audio/mpeg">???</audio>
 
 ## Index
 <span class="counts">_<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (85) · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (63) · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> (63) · <a data-href="Emptiness" href="Emptiness" class="internal-link" target="_blank" rel="noopener">Emptiness</a> (47) · <a data-href="Craving" href="Craving" class="internal-link" target="_blank" rel="noopener">Craving</a> (38) · <a data-href="Perception" href="Perception" class="internal-link" target="_blank" rel="noopener">Perception</a> (31) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> (22) · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> (17) · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> (16) · <a data-href="Acceptance" href="Acceptance" class="internal-link" target="_blank" rel="noopener">Acceptance</a> (14) · <a data-href="Consciousness" href="Consciousness" class="internal-link" target="_blank" rel="noopener">Consciousness</a> (14) · <a data-href="Awareness" href="Awareness" class="internal-link" target="_blank" rel="noopener">Awareness</a> (12) · <a data-href="Fear" href="Fear" class="internal-link" target="_blank" rel="noopener">Fear</a> (12) · <a data-href="Mindfulness" href="Mindfulness" class="internal-link" target="_blank" rel="noopener">Mindfulness</a> (12) · <a data-href="Awakening" href="Awakening" class="internal-link" target="_blank" rel="noopener">Awakening</a> (11) · <a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> (11) · <a data-href="Cultivation" href="Cultivation" class="internal-link" target="_blank" rel="noopener">Cultivation</a> (10) · <a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> (10) · <a data-href="Oneness" href="Oneness" class="internal-link" target="_blank" rel="noopener">Oneness</a> (10) · <a data-href="Clinging" href="Clinging" class="internal-link" target="_blank" rel="noopener">Clinging</a> (9) · <a data-href="Attention" href="Attention" class="internal-link" target="_blank" rel="noopener">Attention</a> (8) · <a data-href="Freedom" href="Freedom" class="internal-link" target="_blank" rel="noopener">Freedom</a> (8) · <a data-href="Kusala" href="Kusala" class="internal-link" target="_blank" rel="noopener">Kusala</a> (8) · <a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a> (7) · <a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> (7) · <a data-href="Reconditioning" href="Reconditioning" class="internal-link" target="_blank" rel="noopener">Reconditioning</a> (7) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> (7) · <a data-href="Unfabricated" href="Unfabricated" class="internal-link" target="_blank" rel="noopener">Unfabricated</a> (7) · <a data-href="Anger" href="Anger" class="internal-link" target="_blank" rel="noopener">Anger</a> (5) · <a data-href="Dependent Origination" href="Dependent+Origination" class="internal-link" target="_blank" rel="noopener">Dependent Origination</a> (5) · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> (4) · <a data-href="Emotions" href="Emotions" class="internal-link" target="_blank" rel="noopener">Emotions</a> (4) · <a data-href="Mahayana" href="Mahayana" class="internal-link" target="_blank" rel="noopener">Mahayana</a> (4) · <a data-href="Mind state" href="Mind+state" class="internal-link" target="_blank" rel="noopener">Mind state</a> (4) · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (4) · <a data-href="Ways of Looking" href="Ways+of+Looking" class="internal-link" target="_blank" rel="noopener">Ways of Looking</a> (4) · <a data-href="Aksayamati Sutra" href="Aksayamati+Sutra" class="internal-link" target="_blank" rel="noopener">Aksayamati Sutra</a> (3) · <a data-href="Anatta" href="Anatta" class="internal-link" target="_blank" rel="noopener">Anatta</a> (3) · <a data-href="Aversion" href="Aversion" class="internal-link" target="_blank" rel="noopener">Aversion</a> (3) · <a data-href="Nondualism" href="Nondualism" class="internal-link" target="_blank" rel="noopener">Nondualism</a> (3) · <a data-href="Phenomenon" href="Phenomenon" class="internal-link" target="_blank" rel="noopener">Phenomenon</a> (3) · <a data-href="Present Moment" href="Present+Moment" class="internal-link" target="_blank" rel="noopener">Present Moment</a> (3) · <a data-href="Blessing" href="Blessing" class="internal-link" target="_blank" rel="noopener">Blessing</a> (2) · <a data-href="Chanda" href="Chanda" class="internal-link" target="_blank" rel="noopener">Chanda</a> (2) · <a data-href="Fabrication" href="Fabrication" class="internal-link" target="_blank" rel="noopener">Fabrication</a> (2) · <a data-href="Impermanence" href="Impermanence" class="internal-link" target="_blank" rel="noopener">Impermanence</a> (2) · <a data-href="Nihilism" href="Nihilism" class="internal-link" target="_blank" rel="noopener">Nihilism</a> (2) · <a data-href="Sutra" href="Sutra" class="internal-link" target="_blank" rel="noopener">Sutra</a> (2) · <a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">The Self</a> (2) · <a data-href="Activism" href="Activism" class="internal-link" target="_blank" rel="noopener">Activism</a> · <a data-href="Breath" href="Breath" class="internal-link" target="_blank" rel="noopener">Breath</a> · <a data-href="Dimensionality" href="Dimensionality" class="internal-link" target="_blank" rel="noopener">Dimensionality</a> · <a data-href="Feelings" href="Feelings" class="internal-link" target="_blank" rel="noopener">Feelings</a> · <a data-href="Gaia House" href="Gaia+House" class="internal-link" target="_blank" rel="noopener">Gaia House</a> · <a data-href="Habit" href="Habit" class="internal-link" target="_blank" rel="noopener">Habit</a> · <a data-href="Happiness" href="Happiness" class="internal-link" target="_blank" rel="noopener">Happiness</a> · <a data-href="Healing" href="Healing" class="internal-link" target="_blank" rel="noopener">Healing</a> · <a data-href="Heaven" href="Heaven" class="internal-link" target="_blank" rel="noopener">Heaven</a> · <a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a> · <a data-href="Letting go" href="Letting+go" class="internal-link" target="_blank" rel="noopener">Letting go</a> · <a data-href="Lotus Sutra" href="Lotus+Sutra" class="internal-link" target="_blank" rel="noopener">Lotus Sutra</a> · <a data-href="Middle Way" href="Middle+Way" class="internal-link" target="_blank" rel="noopener">Middle Way</a> · <a data-href="Pain" href="Pain" class="internal-link" target="_blank" rel="noopener">Pain</a> · <a data-href="Ram Dass" href="Ram+Dass" class="internal-link" target="_blank" rel="noopener">Ram Dass</a> · <a data-href="Relationships" href="Relationships" class="internal-link" target="_blank" rel="noopener">Relationships</a> · <a data-href="Romantic love" href="Romantic+love" class="internal-link" target="_blank" rel="noopener">Romantic love</a> · <a data-href="Rumi" href="Rumi" class="internal-link" target="_blank" rel="noopener">Rumi</a> · <a data-href="Stories" href="Stories" class="internal-link" target="_blank" rel="noopener">Stories</a> · <a data-href="Sutta" href="Sutta" class="internal-link" target="_blank" rel="noopener">Sutta</a> · <a data-href="Thanissaro Bhikkhu" href="Thanissaro+Bhikkhu" class="internal-link" target="_blank" rel="noopener">Thanissaro Bhikkhu</a> · <a data-href="Tibetan Buddhism" href="Tibetan+Buddhism" class="internal-link" target="_blank" rel="noopener">Tibetan Buddhism</a> · <a data-href="Vajrayana" href="Vajrayana" class="internal-link" target="_blank" rel="noopener">Vajrayana</a> · <a data-href="Wonder" href="Wonder" class="internal-link" target="_blank" rel="noopener">Wonder</a>_</span>
@@ -42,7 +42,7 @@ Transcript PDF: [[2007_0204 Love and Emptiness.pdf]]
 ##### The mind is conditions - there's nothing wrong with reconditioning it
 <span class="counts">**<a data-href="0204 Love and Emptiness#^2-1" href="0204+Love+and+Emptiness#^2-1" class="internal-link" target="_blank" rel="noopener">2-1</a>**: _<a data-href="Reconditioning" href="Reconditioning" class="internal-link" target="_blank" rel="noopener">Reconditioning</a> (5) · <a data-href="Kusala" href="Kusala" class="internal-link" target="_blank" rel="noopener">Kusala</a> · <a data-href="Cultivation" href="Cultivation" class="internal-link" target="_blank" rel="noopener">Cultivation</a> · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> · <a data-href="Unfabricated" href="Unfabricated" class="internal-link" target="_blank" rel="noopener">Unfabricated</a> (2) · <a data-href="Awakening" href="Awakening" class="internal-link" target="_blank" rel="noopener">Awakening</a> · <a data-href="Habit" href="Habit" class="internal-link" target="_blank" rel="noopener">Habit</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=05:42" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=05:42" type="audio/mpeg">???</audio>
 
 ---
 ##### There is cultivation, but also that we're actually getting out of the way
@@ -65,7 +65,7 @@ But sometimes, a different sense of it is visible, which is that we're actually 
 ##### So far, metta was directed to beings
 <span class="counts">**<a data-href="0204 Love and Emptiness#^3-1" href="0204+Love+and+Emptiness#^3-1" class="internal-link" target="_blank" rel="noopener">3-1</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (4) · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=10:38" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=10:38" type="audio/mpeg">???</audio>
 
 ---
 ##### "Seeing all things with compassion"
@@ -93,7 +93,7 @@ Dharma is one of these words that can have a lot of different meanings. I think 
 
 [[Guided meditation - Metta to phenomena]]
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=14:06" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=14:06" type="audio/mpeg">???</audio>
 
 ---
 ##### Emphasis was on complete acceptance
@@ -128,7 +128,7 @@ There's nowhere outside of acceptance. There's nowhere outside of love. So if we
 ##### Experience begin to fade
 <span class="counts">**<a data-href="0204 Love and Emptiness#^4-4" href="0204+Love+and+Emptiness#^4-4" class="internal-link" target="_blank" rel="noopener">4-4</a>**: _<a data-href="Feelings" href="Feelings" class="internal-link" target="_blank" rel="noopener">Feelings</a> · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> · <a data-href="Emotions" href="Emotions" class="internal-link" target="_blank" rel="noopener">Emotions</a> · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> · <a data-href="Perception" href="Perception" class="internal-link" target="_blank" rel="noopener">Perception</a> · <a data-href="Mindfulness" href="Mindfulness" class="internal-link" target="_blank" rel="noopener">Mindfulness</a> · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Emptiness" href="Emptiness" class="internal-link" target="_blank" rel="noopener">Emptiness</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=19:04" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=19:04" type="audio/mpeg">???</audio>
 
 ---
 ##### The practice is not about being in the present moment, but rather feeding what's beautiful and investigation
@@ -142,7 +142,7 @@ There's nowhere outside of acceptance. There's nowhere outside of love. So if we
 ##### With insight meditation there is the assumption that mindfulness is neutral
 <span class="counts">**<a data-href="0204 Love and Emptiness#^5-2" href="0204+Love+and+Emptiness#^5-2" class="internal-link" target="_blank" rel="noopener">5-2</a>**: _<a data-href="Mindfulness" href="Mindfulness" class="internal-link" target="_blank" rel="noopener">Mindfulness</a> (4) · <a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> · <a data-href="Emotions" href="Emotions" class="internal-link" target="_blank" rel="noopener">Emotions</a> · <a data-href="Mind state" href="Mind+state" class="internal-link" target="_blank" rel="noopener">Mind state</a> · <a data-href="Perception" href="Perception" class="internal-link" target="_blank" rel="noopener">Perception</a> (3) · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> · <a data-href="Anger" href="Anger" class="internal-link" target="_blank" rel="noopener">Anger</a> · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Heaven" href="Heaven" class="internal-link" target="_blank" rel="noopener">Heaven</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=22:37" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=22:37" type="audio/mpeg">???</audio>
 
 ---
 ##### But the mind is coloroud with anger, metta, romantic love
@@ -160,7 +160,7 @@ Mind always has some mind state. So with [mindfulness](app://obsidian.md/mindful
 ##### Things make less impression on consciousness when there's a lot of equanimity
 <span class="counts">**<a data-href="0204 Love and Emptiness#^6-1" href="0204+Love+and+Emptiness#^6-1" class="internal-link" target="_blank" rel="noopener">6-1</a>**: _<a data-href="Mindfulness" href="Mindfulness" class="internal-link" target="_blank" rel="noopener">Mindfulness</a> · <a data-href="Equanimity" href="Equanimity" class="internal-link" target="_blank" rel="noopener">Equanimity</a> (6) · <a data-href="Perception" href="Perception" class="internal-link" target="_blank" rel="noopener">Perception</a> · <a data-href="Emptiness" href="Emptiness" class="internal-link" target="_blank" rel="noopener">Emptiness</a> · <a data-href="Consciousness" href="Consciousness" class="internal-link" target="_blank" rel="noopener">Consciousness</a> · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> (2) · <a data-href="Emotions" href="Emotions" class="internal-link" target="_blank" rel="noopener">Emotions</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=27:14" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=27:14" type="audio/mpeg">???</audio>
 
 ---
 ##### ..."Kindfulness" is a skilful means for ease in the moment
@@ -190,7 +190,7 @@ Human consciousness is programmed incredibly strongly to go to that default mode
 ##### ..."By not holding to fixed views" - the liberation comes through how ways of seeing are fabricated
 <span class="counts">**<a data-href="0204 Love and Emptiness#^7-3" href="0204+Love+and+Emptiness#^7-3" class="internal-link" target="_blank" rel="noopener">7-3</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (3) · <a data-href="Sutta" href="Sutta" class="internal-link" target="_blank" rel="noopener">Sutta</a> · <a data-href="Awakening" href="Awakening" class="internal-link" target="_blank" rel="noopener">Awakening</a> (3) · <a data-href="Nondualism" href="Nondualism" class="internal-link" target="_blank" rel="noopener">Nondualism</a> · <a data-href="Oneness" href="Oneness" class="internal-link" target="_blank" rel="noopener">Oneness</a> · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> · <a data-href="Consciousness" href="Consciousness" class="internal-link" target="_blank" rel="noopener">Consciousness</a> · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> · <a data-href="Perception" href="Perception" class="internal-link" target="_blank" rel="noopener">Perception</a> · <a data-href="Ways of Looking" href="Ways+of+Looking" class="internal-link" target="_blank" rel="noopener">Ways of Looking</a> · <a data-href="Fabrication" href="Fabrication" class="internal-link" target="_blank" rel="noopener">Fabrication</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=35:27" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=35:27" type="audio/mpeg">???</audio>
 
 ---
 ##### The Middle Way points to neither existence, nor non-existence, nor some kind of compromise
@@ -216,7 +216,7 @@ So what we notice is, if we change the view, the perception changes. The irritab
 ##### Fear is not existing independently, but also dependend on the reaction to it
 <span class="counts">**<a data-href="0204 Love and Emptiness#^8-4" href="0204+Love+and+Emptiness#^8-4" class="internal-link" target="_blank" rel="noopener">8-4</a>**: _<a data-href="Fear" href="Fear" class="internal-link" target="_blank" rel="noopener">Fear</a> (7) · <a data-href="Anger" href="Anger" class="internal-link" target="_blank" rel="noopener">Anger</a> · <a data-href="Perception" href="Perception" class="internal-link" target="_blank" rel="noopener">Perception</a> (2)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=40:29" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=40:29" type="audio/mpeg">???</audio>
 
 ---
 ##### If I believe in the present as something real, independent of the mind, there will be fear of the future
@@ -246,7 +246,7 @@ If I don't really believe in the present, I can't really believe in the future, 
 ##### Chanda = noble aspiration
 <span class="counts">**<a data-href="0204 Love and Emptiness#^9-4" href="0204+Love+and+Emptiness#^9-4" class="internal-link" target="_blank" rel="noopener">9-4</a>**: _<a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> · <a data-href="Craving" href="Craving" class="internal-link" target="_blank" rel="noopener">Craving</a> (3) · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> (2) · <a data-href="Chanda" href="Chanda" class="internal-link" target="_blank" rel="noopener">Chanda</a> (2) · <a data-href="Attention" href="Attention" class="internal-link" target="_blank" rel="noopener">Attention</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=46:21" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=46:21" type="audio/mpeg">???</audio>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
 So, you know, the analogy of, there's the mountain, and there's the peak of the mountain, and that's where we're headed, but the step is right here, right now. And we can see where we're going, and pay attention to where we are right now. And it's both. It's finding a sensitive balance of that.<br/>
@@ -264,7 +264,7 @@ So, you know, the analogy of, there's the mountain, and there's the peak of the 
 ##### The appearance of something depends on the grasping
 <span class="counts">**<a data-href="0204 Love and Emptiness#^10-2" href="0204+Love+and+Emptiness#^10-2" class="internal-link" target="_blank" rel="noopener">10-2</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Craving" href="Craving" class="internal-link" target="_blank" rel="noopener">Craving</a> (3) · <a data-href="Emptiness" href="Emptiness" class="internal-link" target="_blank" rel="noopener">Emptiness</a> · <a data-href="Perception" href="Perception" class="internal-link" target="_blank" rel="noopener">Perception</a> · <a data-href="Clinging" href="Clinging" class="internal-link" target="_blank" rel="noopener">Clinging</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=49:00" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=49:00" type="audio/mpeg">???</audio>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
 But we begin to see: the appearance of something depends on the grasping. So there is no thing, there is no real thing that is independent of grasping, of clinging, of what the mind is doing with it. No thing, no problem. If a thing isn't real, it can't be a real problem.<br/>
@@ -286,7 +286,7 @@ Seeing emptiness leads to love and compassion, because it's kind of done away wi
 ##### Paradoxically, seeing that even that suffering doesn't really exist, somehow leads to even more love and compassion
 <span class="counts">**<a data-href="0204 Love and Emptiness#^10-5" href="0204+Love+and+Emptiness#^10-5" class="internal-link" target="_blank" rel="noopener">10-5</a>**: _<a data-href="Nihilism" href="Nihilism" class="internal-link" target="_blank" rel="noopener">Nihilism</a> · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> (2) · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=51:44" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=51:44" type="audio/mpeg">???</audio>
 
 ---
 ##### It's something that we go deeper, slowly, gradually, in a non-linear way
@@ -305,7 +305,7 @@ It's not that we're always going to stay in one state or another. It's something
 #### Q1: Metta towards dharmas
 <span class="counts">**<a data-href="0204 Love and Emptiness#^11-4" href="0204+Love+and+Emptiness#^11-4" class="internal-link" target="_blank" rel="noopener">11-4</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=58:02" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=58:02" type="audio/mpeg">???</audio>
 
 ---
 ##### Yogi: When one is walking, should you be including the trees, the clouds, as phenomena?
@@ -338,7 +338,7 @@ So experiment. What I think I'm interested in is beginning to see this relations
 #### Q2: acceptance, self-love, and fading
 <span class="counts">**<a data-href="0204 Love and Emptiness#^12-11" href="0204+Love+and+Emptiness#^12-11" class="internal-link" target="_blank" rel="noopener">12-11</a>**: _<a data-href="Acceptance" href="Acceptance" class="internal-link" target="_blank" rel="noopener">Acceptance</a> · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> · <a data-href="Emptiness" href="Emptiness" class="internal-link" target="_blank" rel="noopener">Emptiness</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=01:03:01" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=01:03:01" type="audio/mpeg">???</audio>
 
 ---
 ##### Yogi: What is the relationship between acceptance, self-love and fading?
@@ -364,7 +364,7 @@ when I say, "If I'm loving myself, what am I?", one level of looking at it in te
 #### Q3: clarification about what to practise, practice schedules; the spectrum and blending of metta and karuna
 <span class="counts">**<a data-href="0204 Love and Emptiness#^13-8" href="0204+Love+and+Emptiness#^13-8" class="internal-link" target="_blank" rel="noopener">13-8</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=01:05:07" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=01:05:07" type="audio/mpeg">???</audio>
 
 ---
 #####  Rob: For now, do not mix pure metta and pure compassion practice
@@ -384,7 +384,7 @@ when I say, "If I'm loving myself, what am I?", one level of looking at it in te
 #### Q4: noticing reaction then giving mettā vs just giving mettā straight
 <span class="counts">**<a data-href="0204 Love and Emptiness#^14-7" href="0204+Love+and+Emptiness#^14-7" class="internal-link" target="_blank" rel="noopener">14-7</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Acceptance" href="Acceptance" class="internal-link" target="_blank" rel="noopener">Acceptance</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=01:08:44" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=01:08:44" type="audio/mpeg">???</audio>
 
 ---
 ##### Rob: Both sensible, and you'll get very quick at doing it either way
@@ -398,7 +398,7 @@ So it's just whatever's in consciousness, whatever's prominent, there the mettā
 #### Q5: grasping is a part of attention
 <span class="counts">**<a data-href="0204 Love and Emptiness#^14-9" href="0204+Love+and+Emptiness#^14-9" class="internal-link" target="_blank" rel="noopener">14-9</a>**: _<a data-href="Craving" href="Craving" class="internal-link" target="_blank" rel="noopener">Craving</a> · <a data-href="Attention" href="Attention" class="internal-link" target="_blank" rel="noopener">Attention</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=01:10:09" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=01:10:09" type="audio/mpeg">???</audio>
 
 ---
 ##### Yogi: "Grasping" as actually grasping it?
@@ -416,7 +416,7 @@ There's a kind of grasping that goes on with attention. But we can also see that
 #### Q6: if an enlightened person isn't grasping, why doesn't everything fade
 <span class="counts">**<a data-href="0204 Love and Emptiness#^15-3" href="0204+Love+and+Emptiness#^15-3" class="internal-link" target="_blank" rel="noopener">15-3</a>**: _<a data-href="Awakening" href="Awakening" class="internal-link" target="_blank" rel="noopener">Awakening</a> · <a data-href="Craving" href="Craving" class="internal-link" target="_blank" rel="noopener">Craving</a> · <a data-href="Emptiness" href="Emptiness" class="internal-link" target="_blank" rel="noopener">Emptiness</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=01:11:44" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=01:11:44" type="audio/mpeg">???</audio>
 
 ---
 ##### Rob: Maybe only Buddhas can see emptiness and not bump into things
@@ -430,7 +430,7 @@ My take on it, as well, is that a person can be awakened to some degree, and the
 #### Q7: describing meditative states as 'emptiness'
 <span class="counts">**<a data-href="0204 Love and Emptiness#^16-3" href="0204+Love+and+Emptiness#^16-3" class="internal-link" target="_blank" rel="noopener">16-3</a>**: _<a data-href="Emptiness" href="Emptiness" class="internal-link" target="_blank" rel="noopener">Emptiness</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=01:14:29" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=01:14:29" type="audio/mpeg">???</audio>
 
 ---
 ##### Yogi: Is emptiness the concept that nothing exists in and of itself?
@@ -473,7 +473,7 @@ In <a data-href="Phenomenology" href="Phenomenology" class="internal-link" targe
 #### Q8: clarification about what to practise (2)
 <span class="counts"><a data-href="0204 Love and Emptiness#^17-1" href="0204+Love+and+Emptiness#^17-1" class="internal-link" target="_blank" rel="noopener">17-1</a></span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=01:17:36" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=01:17:36" type="audio/mpeg">???</audio>
 
 ---
 ##### Yogi: 2 practices: sending metta to persons and to dharmas ("new")
@@ -491,7 +491,7 @@ In <a data-href="Phenomenology" href="Phenomenology" class="internal-link" targe
 #### Q9: why differentiate between mettā and compassion
 <span class="counts">**<a data-href="0204 Love and Emptiness#^17-6" href="0204+Love+and+Emptiness#^17-6" class="internal-link" target="_blank" rel="noopener">17-6</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=01:18:55" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=01:18:55" type="audio/mpeg">???</audio>
 
 ##### Rob: They blend into each other, but we want to be sensitive to slight differences
 <span class="counts"><a data-href="0204 Love and Emptiness#^17-10" href="0204+Love+and+Emptiness#^17-10" class="internal-link" target="_blank" rel="noopener">17-10</a></span>
@@ -508,7 +508,7 @@ As I said, they will blend and bleed into each other. There is something that co
 #### Q10: too many dharmas to give mettā to
 <span class="counts">**<a data-href="0204 Love and Emptiness#^18-2" href="0204+Love+and+Emptiness#^18-2" class="internal-link" target="_blank" rel="noopener">18-2</a>**: _<a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=01:21:44" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12293/20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=01:21:44" type="audio/mpeg">???</audio>
 
 ---
 ##### Yogi: Many objects hurrying towards me makes it difficult to direct metta

@@ -9,7 +9,7 @@ Series: [[2020 Vajra Music]]
 Transcript: [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 Transcript PDF: [[2020_0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2.pdf]]
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3" type="audio/mpeg">???</audio>
 
 ```mermaid
 graph LR
@@ -99,7 +99,7 @@ revisits <a data-href="Inertia" href="Inertia" class="internal-link" target="_bl
 ##### If we like practicing soulmaking the soulmaking dynamic will expand
 <span class="counts">**<a data-href="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^4-1" href="0302+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#^4-1" class="internal-link" target="_blank" rel="noopener">4-1</a>**: _<a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking</a> · <a data-href="Soulmaking Dynamic" href="Soulmaking+Dynamic" class="internal-link" target="_blank" rel="noopener">Soulmaking Dynamic</a> (2) · <a data-href="Vessel" href="Vessel" class="internal-link" target="_blank" rel="noopener">Vessel</a> · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=15:46" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=15:46" type="audio/mpeg">???</audio>
 
 ---
 ##### There can be blocks which are too entrenched
@@ -113,7 +113,7 @@ revisits <a data-href="Inertia" href="Inertia" class="internal-link" target="_bl
 ##### What does it mean for movement/gesture/voice to be ensouled?
 <span class="counts">**<a data-href="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^4-4" href="0302+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#^4-4" class="internal-link" target="_blank" rel="noopener">4-4</a>**: _<a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> (2) · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (2)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=19:22" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=19:22" type="audio/mpeg">???</audio>
 
 ---
 ##### There are roads that are open
@@ -165,7 +165,7 @@ In a way, I'm offering these particular teachings now, offering them so that the
 ##### We need to take care about the basic nuts and bolts
 <span class="counts">**<a data-href="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^6-2" href="0302+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#^6-2" class="internal-link" target="_blank" rel="noopener">6-2</a>**: _<a data-href="Grief" href="Grief" class="internal-link" target="_blank" rel="noopener">Grief</a> · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=28:15" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=28:15" type="audio/mpeg">???</audio>
 
 ---
 ##### What does hearing about preliminaries do to you? First extreme: never bother
@@ -197,7 +197,7 @@ In a way, I'm offering these particular teachings now, offering them so that the
 ##### This was the one which started it all
 <span class="counts">**<a data-href="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^7-4" href="0302+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#^7-4" class="internal-link" target="_blank" rel="noopener">7-4</a>**: _<a data-href="Thunderclap" href="Thunderclap" class="internal-link" target="_blank" rel="noopener">Thunderclap</a> (2)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=33:34" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=33:34" type="audio/mpeg">???</audio>
 
 <div class="admonition important"><div class="title">Interesting</div><div class="content">
 This one was the one which made Rob compile those offerings, so it's really, really important<br/>
@@ -303,7 +303,7 @@ see [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^assessment-
 ##### Human? Angel? Mythic Figure? What are they protecting?
 <span class="counts">**<a data-href="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-6" href="0302+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#^9-6" class="internal-link" target="_blank" rel="noopener">9-6</a>**: _<a data-href="The Immovable Protector" href="The+Immovable+Protector" class="internal-link" target="_blank" rel="noopener">The Immovable Protector</a> (4) · <a data-href="Fantasy" href="Fantasy" class="internal-link" target="_blank" rel="noopener">Fantasy</a> · <a data-href="Sociology" href="Sociology" class="internal-link" target="_blank" rel="noopener">Sociology</a> (2) · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=46:55" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=46:55" type="audio/mpeg">???</audio>
 
 ==variations==
 - type of guardian
@@ -334,7 +334,7 @@ see [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^assessment-
 ##### 🟡 Excercise 3.5: _The Serpent_
 <span class="counts">**<a data-href="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^10-2" href="0302+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#^10-2" class="internal-link" target="_blank" rel="noopener">10-2</a>**: _<a data-href="The Serpent" href="The+Serpent" class="internal-link" target="_blank" rel="noopener">The Serpent</a> (4)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=49:02" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=49:02" type="audio/mpeg">???</audio>
 
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^the-serpent]]
 
@@ -346,7 +346,7 @@ see [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^assessment-
 ##### Excercise 3 ends
 <span class="counts"><a data-href="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^10-4" href="0302+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#^10-4" class="internal-link" target="_blank" rel="noopener">10-4</a></span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=50:32" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=50:32" type="audio/mpeg">???</audio>
 
 ---
 ### Again: Why?
@@ -393,7 +393,7 @@ There will be consequences to neglecting, not picking up, and just kind of givin
 ##### It may take repeated practice to reopen the circuits
 <span class="counts">**<a data-href="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^12-4" href="0302+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#^12-4" class="internal-link" target="_blank" rel="noopener">12-4</a>**: _<a data-href="Circuits" href="Circuits" class="internal-link" target="_blank" rel="noopener">Circuits</a> (3) · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> (2)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=01:01:50" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=01:01:50" type="audio/mpeg">???</audio>
 
 ---
 ##### It's not about self-empowerment or catharsis, it's to let soul do what soul wants
@@ -445,7 +445,7 @@ Putting that piece in, the assessment, the sort of exam piece, actually makes it
 ##### It's something that can be strikingly underdeveloped for practitioners
 <span class="counts"><a data-href="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^14-4" href="0302+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#^14-4" class="internal-link" target="_blank" rel="noopener">14-4</a></span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=01:14:23" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=01:14:23" type="audio/mpeg">???</audio>
 
 ---
 ##### Interview situation: opening up to a whole new sense of self, "wow"
@@ -523,7 +523,7 @@ Soul wants the whole palette to be available for its art. And it wants that not 
 ##### Closed circuit might lead to black-and-white thinking
 <span class="counts">**<a data-href="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^18-1" href="0302+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#^18-1" class="internal-link" target="_blank" rel="noopener">18-1</a>**: _<a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> (2) · <a data-href="Anger" href="Anger" class="internal-link" target="_blank" rel="noopener">Anger</a> (5) · <a data-href="Circuits" href="Circuits" class="internal-link" target="_blank" rel="noopener">Circuits</a> (2) · <a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a> · <a data-href="Habit" href="Habit" class="internal-link" target="_blank" rel="noopener">Habit</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=01:33:03" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=01:33:03" type="audio/mpeg">???</audio>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
 And that's something that often goes with anger when anger is not so healthy: it gets very black and white, the thinking and the viewing. But there may well be a relationship between the prevention, the absence, the block, the non-existence of those circuits of movement, gesture, and voice, and the entrenchment and habit of black-and-white thinking and viewing...<br/>
@@ -577,13 +577,13 @@ Sometimes something is so cut that we don't even feel the soul's want. If the ci
 ##### Blocks are normal. The angels come, and they help.
 <span class="counts">**<a data-href="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^20-1" href="0302+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#^20-1" class="internal-link" target="_blank" rel="noopener">20-1</a>**: _<a data-href="Personhood" href="Personhood" class="internal-link" target="_blank" rel="noopener">Personhood</a> · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (2) · <a data-href="Daimon" href="Daimon" class="internal-link" target="_blank" rel="noopener">Daimon</a> (3) · <a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a> (5) · <a data-href="Imaginal" href="Imaginal" class="internal-link" target="_blank" rel="noopener">Imaginal</a> (2) · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=01:45:03" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=01:45:03" type="audio/mpeg">???</audio>
 
 ---
 ##### Diamond Approach: "impeccability"
 <span class="counts">**<a data-href="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^20-2" href="0302+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#^20-2" class="internal-link" target="_blank" rel="noopener">20-2</a>**: _<a data-href="Diamond Approach" href="Diamond+Approach" class="internal-link" target="_blank" rel="noopener">Diamond Approach</a> (3) · <a data-href="Catherine McGee" href="Catherine+McGee" class="internal-link" target="_blank" rel="noopener">Catherine McGee</a> · <a data-href="Daimon" href="Daimon" class="internal-link" target="_blank" rel="noopener">Daimon</a> (4) · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> · <a data-href="Imaginal" href="Imaginal" class="internal-link" target="_blank" rel="noopener">Imaginal</a> (3) · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (2) · <a data-href="Devotion" href="Devotion" class="internal-link" target="_blank" rel="noopener">Devotion</a> · <a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=01:46:42" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62453/20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=01:46:42" type="audio/mpeg">???</audio>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
 ... what they really mean is ... the capacity to really be steady and grounded and consistent and follow through with your plans or what you said, honour your word - if you said you would do this, to really do it.<br/>

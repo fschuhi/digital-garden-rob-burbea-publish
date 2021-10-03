@@ -9,7 +9,7 @@ Series: [[2020 Vajra Music]]
 Transcript: [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 Transcript PDF: [[2020_0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3.pdf]]
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3" type="audio/mpeg">???</audio>
 
 ```mermaid
 graph LR
@@ -99,7 +99,7 @@ references <a data-href="Practising with Death and Dying" href="Practising+with+
 ##### Singularity of self (Aspect 3)
 <span class="counts">**<a data-href="0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-2" href="0303+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+3#^3-2" class="internal-link" target="_blank" rel="noopener">3-2</a>**: _<a data-href="Personhood" href="Personhood" class="internal-link" target="_blank" rel="noopener">Personhood</a> · <a data-href="Centre" href="Centre" class="internal-link" target="_blank" rel="noopener">Centre</a> (7) · <a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">The Self</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=11:42" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=11:42" type="audio/mpeg">???</audio>
 
 ---
 ##### You can reach out horizontally (socially) but also more plurally
@@ -139,7 +139,7 @@ This angel, in the mystery of their being, in the mystery of this angelic conste
 ##### Not "at the centre", but "in relationship with a theophany"
 <span class="counts">**<a data-href="0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^4-3" href="0303+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+3#^4-3" class="internal-link" target="_blank" rel="noopener">4-3</a>**: _<a data-href="Centre" href="Centre" class="internal-link" target="_blank" rel="noopener">Centre</a> (3) · <a data-href="Divinity" href="Divinity" class="internal-link" target="_blank" rel="noopener">Divinity</a> · <a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking</a> · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (3)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=20:04" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=20:04" type="audio/mpeg">???</audio>
 
 ---
 
@@ -206,7 +206,7 @@ They're not living and choosing in their life in ways that really stretch their 
 ##### Maybe it needs a kind of antinomy to call forth the angels 🟢
 <span class="counts">**<a data-href="0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^6-5" href="0303+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+3#^6-5" class="internal-link" target="_blank" rel="noopener">6-5</a>**: _<a data-href="Daimon" href="Daimon" class="internal-link" target="_blank" rel="noopener">Daimon</a> (2) · <a data-href="Antinomy" href="Antinomy" class="internal-link" target="_blank" rel="noopener">Antinomy</a> (2) · <a data-href="Ethics" href="Ethics" class="internal-link" target="_blank" rel="noopener">Ethics</a> · <a data-href="Sila and Soul" href="Sila+and+Soul" class="internal-link" target="_blank" rel="noopener">Sila and Soul</a> · <a data-href="The Image of Ethics" href="The+Image+of+Ethics" class="internal-link" target="_blank" rel="noopener">The Image of Ethics</a> · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (2) · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> · <a data-href="Duty" href="Duty" class="internal-link" target="_blank" rel="noopener">Duty</a> (2)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=34:45" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=34:45" type="audio/mpeg">???</audio>
 
 ---
 ##### If it doesn't bother you, ok
@@ -219,7 +219,7 @@ They're not living and choosing in their life in ways that really stretch their 
 ##### A teacher said: "I don't really relate to the word 'soul'"
 <span class="counts">**<a data-href="0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^7-2" href="0303+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+3#^7-2" class="internal-link" target="_blank" rel="noopener">7-2</a>**: _<a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking</a> (2) · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (4) · <a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a> · <a data-href="Ways of Looking" href="Ways+of+Looking" class="internal-link" target="_blank" rel="noopener">Ways of Looking</a> · <a data-href="Fabrication" href="Fabrication" class="internal-link" target="_blank" rel="noopener">Fabrication</a> (2) · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=37:22" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=37:22" type="audio/mpeg">???</audio>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
 Oftentimes it's the 'making' that people don't relate to, the word 'making.' Of course, if you understand the whole track of exploration of [[ways of looking]] and [[fabrication]] ('fabrication' is just another word for 'making'), and how that deepens, and how it opens out, and the understanding it opens out, then the word 'making' is almost an indispensable word in 'soulmaking.' But for a lot of people, it's very puzzling, because you'd usually think of the word 'soul,' or have a sense of soul, or use that in a very reified way: it wouldn't be something that we _make_. It would be something that _is_, or we discover, or that just is a level of being or whatever.<br/>
@@ -276,7 +276,7 @@ Oftentimes it's the 'making' that people don't relate to, the word 'making.' Of 
 ##### Words like 'angel', 'soul', 'image' imply unfathomability
 <span class="counts">**<a data-href="0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^10-1" href="0303+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+3#^10-1" class="internal-link" target="_blank" rel="noopener">10-1</a>**: _<a data-href="Daimon" href="Daimon" class="internal-link" target="_blank" rel="noopener">Daimon</a> (9) · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (6) · <a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a> (3) · <a data-href="Unfathomability" href="Unfathomability" class="internal-link" target="_blank" rel="noopener">Unfathomability</a> (2) · <a data-href="Nondualism" href="Nondualism" class="internal-link" target="_blank" rel="noopener">Nondualism</a> (3) · <a data-href="Dimensionality" href="Dimensionality" class="internal-link" target="_blank" rel="noopener">Dimensionality</a> · <a data-href="Divinity" href="Divinity" class="internal-link" target="_blank" rel="noopener">Divinity</a> · <a data-href="Infinity" href="Infinity" class="internal-link" target="_blank" rel="noopener">Infinity</a> (2) · <a data-href="Imaginal" href="Imaginal" class="internal-link" target="_blank" rel="noopener">Imaginal</a> · <a data-href="Middle Way" href="Middle+Way" class="internal-link" target="_blank" rel="noopener">Middle Way</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=53:43" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=53:43" type="audio/mpeg">???</audio>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
 There's a mystery in the kind of impossibility of finally dividing them up as one or two, this being that I'm encountering, this being that I'm sensing with soul. ... So that infinite echoing and mirroring is of the angel into this person's life, and this person's life and this person's being as the infinite echoing and mirroring of the angel, and the angel also a mirror and an echo of the being, in a kind of two-way, back-and-forth echoing and mirroring each other.<br/>
@@ -304,7 +304,7 @@ The being of the angel, the dimension of the being of the angel, is not of space
 ##### Excercise 4.1: One person blesses, the other person receives the blessing
 <span class="counts">**<a data-href="0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^11-3" href="0303+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+3#^11-3" class="internal-link" target="_blank" rel="noopener">11-3</a>**: _<a data-href="Dyad" href="Dyad" class="internal-link" target="_blank" rel="noopener">Dyad</a> (2) · <a data-href="Temenos" href="Temenos" class="internal-link" target="_blank" rel="noopener">Temenos</a> · <a data-href="Blessing" href="Blessing" class="internal-link" target="_blank" rel="noopener">Blessing</a> (2)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=59:49" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=59:49" type="audio/mpeg">???</audio>
 
 ---
 ##### 🟡 Excercise 4.1.1. no known language for blessing
@@ -346,7 +346,7 @@ The being of the angel, the dimension of the being of the angel, is not of space
 ##### 🟡 Excercise 4.1.2: no vocalizations
 <span class="counts">**<a data-href="0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^13-1" href="0303+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+3#^13-1" class="internal-link" target="_blank" rel="noopener">13-1</a>**: _<a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=01:12:19" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=01:12:19" type="audio/mpeg">???</audio>
 ==variations==
 - no words, no language (4.1.1)
 - gestures/movements, not only no words but no vocalizations whatsoever (4.1.2)
@@ -370,7 +370,7 @@ The being of the angel, the dimension of the being of the angel, is not of space
 ##### Drop any idea of an attempt to express some meaning
 <span class="counts">**<a data-href="0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^13-6" href="0303+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+3#^13-6" class="internal-link" target="_blank" rel="noopener">13-6</a>**: _<a data-href="Blessing" href="Blessing" class="internal-link" target="_blank" rel="noopener">Blessing</a> · <a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a> · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=01:14:32" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=01:14:32" type="audio/mpeg">???</audio>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
 You're taking it to another level, really, dropping any idea of an attempt to express or convey any meaning, something that _could_ get put into words, or an emotion. You're not conveying or expressing an emotion, or an [[image]], or an event, or a story, or my story, or your story, or whatever it is. There's just <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">movement, gesture, and voice</a>. And dropping any sense of an attempt to express something with that, to convey something that _means_ anything with that.<br/>
@@ -390,7 +390,7 @@ You're taking it to another level, really, dropping any idea of an attempt to ex
 ##### It might feel awkward, but it can grow and deepen
 <span class="counts">**<a data-href="0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^14-2" href="0303+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+3#^14-2" class="internal-link" target="_blank" rel="noopener">14-2</a>**: _<a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">The Self</a> · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=01:18:31" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62454/20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=01:18:31" type="audio/mpeg">???</audio>
 
 ---
 ##### Recognising soul is the main point

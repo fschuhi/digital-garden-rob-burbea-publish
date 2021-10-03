@@ -9,7 +9,7 @@ Series: [[2017 Eros Unfettered]]
 Transcript: [[0115 The Way of Non-Clinging Part 1]]
 Transcript PDF: [[2017_0115 The Way of Non-Clinging Part 1.pdf]]
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40190/20170115-Rob_Burbea-GAIA-the_way_of_non_clinging_part_1-40190.mp3" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40190/20170115-Rob_Burbea-GAIA-the_way_of_non_clinging_part_1-40190.mp3" type="audio/mpeg">???</audio>
 
 ## Notes
 - examples for dependent origination (and thus craving/clinging): smoking, dating
@@ -65,7 +65,7 @@ Transcript PDF: [[2017_0115 The Way of Non-Clinging Part 1.pdf]]
 ##### Clinging is more obsessive craving
 <span class="counts">**<a data-href="0115 The Way of Non-Clinging Part 1#^2-3" href="0115+The+Way+of+Non-Clinging+Part+1#^2-3" class="internal-link" target="_blank" rel="noopener">2-3</a>**: _<a data-href="Delineations" href="Delineations" class="internal-link" target="_blank" rel="noopener">Delineations</a> (2) · <a data-href="Craving" href="Craving" class="internal-link" target="_blank" rel="noopener">Craving</a> (4) · <a data-href="Clinging" href="Clinging" class="internal-link" target="_blank" rel="noopener">Clinging</a> (4) · <a data-href="Aversion" href="Aversion" class="internal-link" target="_blank" rel="noopener">Aversion</a> · <a data-href="Desire" href="Desire" class="internal-link" target="_blank" rel="noopener">Desire</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40190/20170115-Rob_Burbea-GAIA-the_way_of_non_clinging_part_1-40190.mp3#t=11:57" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40190/20170115-Rob_Burbea-GAIA-the_way_of_non_clinging_part_1-40190.mp3#t=11:57" type="audio/mpeg">???</audio>
 
 ---
 ##### Distinguishing between clinging and craving is sometimes not necessary
@@ -217,19 +217,19 @@ pdf: [[2017_0115 The Way of Non-Clinging Part 1.pdf#page=3]]
 ##### Impulsive, energetic movement
 <span class="counts">**<a data-href="0115 The Way of Non-Clinging Part 1#^9-5" href="0115+The+Way+of+Non-Clinging+Part+1#^9-5" class="internal-link" target="_blank" rel="noopener">9-5</a>**: _<a data-href="Vedana" href="Vedana" class="internal-link" target="_blank" rel="noopener">Vedana</a> · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Attention" href="Attention" class="internal-link" target="_blank" rel="noopener">Attention</a> · <a data-href="Craving" href="Craving" class="internal-link" target="_blank" rel="noopener">Craving</a> (3) · <a data-href="Pleasantness" href="Pleasantness" class="internal-link" target="_blank" rel="noopener">Pleasantness</a> (2)_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40190/20170115-Rob_Burbea-GAIA-the_way_of_non_clinging_part_1-40190.mp3#t=01:00:13" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40190/20170115-Rob_Burbea-GAIA-the_way_of_non_clinging_part_1-40190.mp3#t=01:00:13" type="audio/mpeg">???</audio>
 
 ---
 ##### Clinging doesn't happen if we stay with the craving (vedana)
 <span class="counts">**<a data-href="0115 The Way of Non-Clinging Part 1#^10-1" href="0115+The+Way+of+Non-Clinging+Part+1#^10-1" class="internal-link" target="_blank" rel="noopener">10-1</a>**: _<a data-href="Vedana" href="Vedana" class="internal-link" target="_blank" rel="noopener">Vedana</a> (3) · <a data-href="Craving" href="Craving" class="internal-link" target="_blank" rel="noopener">Craving</a> (4) · <a data-href="Clinging" href="Clinging" class="internal-link" target="_blank" rel="noopener">Clinging</a> (2) · <a data-href="Pain" href="Pain" class="internal-link" target="_blank" rel="noopener">Pain</a> · <a data-href="Aversion" href="Aversion" class="internal-link" target="_blank" rel="noopener">Aversion</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40190/20170115-Rob_Burbea-GAIA-the_way_of_non_clinging_part_1-40190.mp3#t=01:01:00" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40190/20170115-Rob_Burbea-GAIA-the_way_of_non_clinging_part_1-40190.mp3#t=01:01:00" type="audio/mpeg">???</audio>
 
 ---
 ##### 5. Experience the pressure that is involved with craving
 <span class="counts">**<a data-href="0115 The Way of Non-Clinging Part 1#^10-2" href="0115+The+Way+of+Non-Clinging+Part+1#^10-2" class="internal-link" target="_blank" rel="noopener">10-2</a>**: _<a data-href="Attention" href="Attention" class="internal-link" target="_blank" rel="noopener">Attention</a> · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Craving" href="Craving" class="internal-link" target="_blank" rel="noopener">Craving</a> (3) · <a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a> · <a data-href="Clinging" href="Clinging" class="internal-link" target="_blank" rel="noopener">Clinging</a>_</span>
 
-<audio controls style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40190/20170115-Rob_Burbea-GAIA-the_way_of_non_clinging_part_1-40190.mp3#t=01:01:51" type="audio/mpeg">???</audio>
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40190/20170115-Rob_Burbea-GAIA-the_way_of_non_clinging_part_1-40190.mp3#t=01:01:51" type="audio/mpeg">???</audio>
 
 ---
 ##### 6. Paying attention to impermanence
