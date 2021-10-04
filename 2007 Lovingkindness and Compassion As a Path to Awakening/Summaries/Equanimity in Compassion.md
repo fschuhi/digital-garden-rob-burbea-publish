@@ -1,6 +1,7 @@
 ---
 ParagraphsListPage: true
 obsidianUIMode: preview
+Series: 2007 Lovingkindness and Compassion As a Path to Awakening
 ---
 #TranscriptSummary
 

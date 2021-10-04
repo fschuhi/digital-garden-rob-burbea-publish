@@ -8,6 +8,6 @@ work in progress<br/>
 </div></div>
 
 ### Talks
-- 🛠️ [[1229 What is Insight]]
-- ⏸️ [[1231 Joy (talk)]]
+- 🛠️ [[What is Insight]]
+- 🛠️ [[Joy (talk)]]
 

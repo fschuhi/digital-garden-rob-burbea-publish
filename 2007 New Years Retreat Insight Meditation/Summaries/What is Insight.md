@@ -1,16 +1,35 @@
 ---
 ParagraphsListPage: false
-obsidianUIMode: preview
+Series: 2007 New Years Retreat Insight Meditation
+obsidianUIMode: source
 ---
 #TranscriptSummary
 
- | [[2007 New Years Retreat Insight Meditation|🡅]] | [[1231 Joy (talk)|🡆 1231 Joy (talk)]]
+ | [[2007 New Years Retreat Insight Meditation|🡅]] | [[Joy (talk)|🡆 Joy (talk)]]
 
-Series: 2007 New Years Retreat Insight Meditation
+Series: [[2007 New Years Retreat Insight Meditation]]
 Transcript: [[1229 What is Insight]]
 Transcript PDF: [[2007_1229 What is Insight.pdf]]
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11972/20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3" type="audio/mpeg">???</audio>
+
+<div class="admonition important"><div class="title">IMPORTANT</div><div class="content">
+Work in Progress<br/>
+</div></div>
+
+```sh
+runHAFScript reindexTranscripts --retreatName "2007 New Years Retreat Insight Meditation"
+```
+```sh
+runHAFScript updateSummary --talkName "What is Insight"
+```
+```sh
+runHAFScript unspanSummary --talkName "What is Insight"
+```
+```sh
+runHAFScript addMissingSummaryCards --retreatName "2007 New Years Retreat Insight Meditation"
+```
+
 
 ## Index
 <span class="counts">_[[some keyword]] (99)_</span><br/>

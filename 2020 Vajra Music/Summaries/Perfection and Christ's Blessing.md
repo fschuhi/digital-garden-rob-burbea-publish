@@ -1,6 +1,7 @@
 ---
 ParagraphsListPage: false
 obsidianUIMode: preview
+Series: 2020 Vajra Music
 ---
 #TranscriptSummary
 

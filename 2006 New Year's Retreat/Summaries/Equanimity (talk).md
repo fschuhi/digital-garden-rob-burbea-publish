@@ -1,5 +1,7 @@
 ---
+ParagraphsListPage: true
 obsidianUIMode: preview
+Series: 2006 New Year's Retreat
 ---
 #TranscriptSummary
 

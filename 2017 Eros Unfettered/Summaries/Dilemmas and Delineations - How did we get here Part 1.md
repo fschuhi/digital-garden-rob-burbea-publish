@@ -1,6 +1,7 @@
 ---
 ParagraphsListPage: true
 obsidianUIMode: preview
+Series: 2017 Eros Unfettered
 ---
 #TranscriptSummary
 
