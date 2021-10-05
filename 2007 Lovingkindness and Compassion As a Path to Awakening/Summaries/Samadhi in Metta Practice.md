@@ -18,7 +18,7 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 <br/>
 
 ## Paragraphs
-[[Samadhi in Metta Practice -|bare list]]
+[[Samadhi in Metta Practice -|plain list]]
 
 ---
 ##### Metta develops the heart, insight and samadhi

@@ -7,7 +7,9 @@ https://dharmaseed.org/retreats/1267/
 work in progress<br/>
 </div></div>
 
+This is the main page for the retreat, for help refer to [[How to browse a retreat]].
+
 ### Talks
-- 🛠️ [[What is Insight]]
+- ✔️ [[What is Insight]]
 - 🛠️ [[Joy (talk)]]
 

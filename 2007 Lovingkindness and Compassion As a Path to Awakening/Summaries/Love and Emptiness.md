@@ -18,7 +18,7 @@ Transcript PDF: [[2007_0204 Love and Emptiness.pdf]]
 <br/>
 
 ## Paragraphs
-[[Love and Emptiness -|bare list]]
+[[Love and Emptiness -|plain list]]
 
 ### Recap
 ##### We are cultivating metta and compassion, and we can see the blessings that come from that

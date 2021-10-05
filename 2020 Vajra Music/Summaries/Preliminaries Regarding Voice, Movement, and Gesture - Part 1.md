@@ -55,7 +55,7 @@ E2 --- E2-5[be louder, or not]:::FixFont
 
 
 ## Paragraphs
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1 -|bare list]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1 -|plain list]]
 
 ### Intro
 

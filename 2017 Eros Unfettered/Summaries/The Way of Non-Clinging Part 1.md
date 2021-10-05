@@ -33,7 +33,7 @@ Transcript PDF: [[2017_0115 The Way of Non-Clinging Part 1.pdf]]
 <br/>
 
 ## Paragraphs
-[[The Way of Non-Clinging Part 1 -|bare list]]
+[[The Way of Non-Clinging Part 1 -|plain list]]
 
 ---
 ##### Could be a standalone talk on clinging, but will set context

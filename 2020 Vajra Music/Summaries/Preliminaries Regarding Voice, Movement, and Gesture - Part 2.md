@@ -41,7 +41,7 @@ E --- E3-5[The Serpent]
 - <a data-href="Pain, as Void and as Sacrament" href="Pain%2C+as+Void+and+as+Sacrament" class="internal-link" target="_blank" rel="noopener">Pain, as Void and as Sacrament</a>
 
 ## Paragraphs
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2 -|bare list]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2 -|plain list]]
 
 ### Intro
 ##### Third set of excercises, but a few general things first

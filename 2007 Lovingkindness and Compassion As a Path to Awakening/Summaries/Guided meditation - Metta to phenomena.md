@@ -18,7 +18,7 @@ Transcript PDF: [[2007_0204 Guided meditation - Metta to phenomena.pdf]]
 <br/>
 
 ## Paragraphs
-[[Guided meditation - Metta to phenomena -|bare list]]
+[[Guided meditation - Metta to phenomena -|plain list]]
 
 ---
 ##### Just noticing if anything in experience is standing out

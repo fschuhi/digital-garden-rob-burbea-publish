@@ -18,7 +18,7 @@ Transcript PDF: [[2007_0125 Expressions of Metta.pdf]]
 <br/>
 
 ## Paragraphs
-[[Expressions of Metta -|bare list]]
+[[Expressions of Metta -|plain list]]
 
 ---
 ##### Metta is a constallation of feelings

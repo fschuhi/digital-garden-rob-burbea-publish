@@ -18,7 +18,7 @@ Transcript PDF: [[2020_0305 Preliminaries Regarding Voice, Movement, and Gesture
 <br/>
 
 ## Paragraphs
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 5 -|bare list]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 5 -|plain list]]
 
 ---
 ##### Micro-movements, hold posture, check for resonance in energy body and for image

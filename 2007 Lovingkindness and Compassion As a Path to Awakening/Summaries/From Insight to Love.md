@@ -18,7 +18,7 @@ Transcript PDF: [[2007_0127 From Insight to Love.pdf]]
 <br/>
 
 ## Paragraphs
-[[From Insight to Love -|bare list]]
+[[From Insight to Love -|plain list]]
 
 ---
 ### Intro

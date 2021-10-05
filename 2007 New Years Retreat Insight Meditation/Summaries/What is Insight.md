@@ -18,7 +18,7 @@ Transcript PDF: [[2007_1229 What is Insight.pdf]]
 <br/>
 
 ## Paragraphs
-[[What is Insight -|bare list]]
+[[What is Insight -|plain list]]
 
 ---
 ### Intro

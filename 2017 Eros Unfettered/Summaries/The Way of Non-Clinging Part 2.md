@@ -22,7 +22,7 @@ Good summary of the 2 talks: [[The Way of Non-Clinging Part 3#^1-1]]
 <br/>
 
 ## Paragraphs
-[[The Way of Non-Clinging Part 2 -|bare list]]
+[[The Way of Non-Clinging Part 2 -|plain list]]
 
 ---
 ##### What are the ways of conceiving this teaching?

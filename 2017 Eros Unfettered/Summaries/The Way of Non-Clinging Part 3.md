@@ -18,7 +18,7 @@ Transcript PDF: [[2017_0117 The Way of Non-Clinging Part 3.pdf]]
 <br/>
 
 ## Paragraphs
-[[The Way of Non-Clinging Part 3 -|bare list]]
+[[The Way of Non-Clinging Part 3 -|plain list]]
 
 ---
 ##### Summary of the first 2 talks

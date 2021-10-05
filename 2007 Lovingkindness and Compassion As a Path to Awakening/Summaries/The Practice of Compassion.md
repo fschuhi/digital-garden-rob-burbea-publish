@@ -18,7 +18,7 @@ Transcript PDF: [[2007_0201 The Practice of Compassion.pdf]]
 <br/>
 
 ## Paragraphs
-[[The Practice of Compassion -|bare list]]
+[[The Practice of Compassion -|plain list]]
 
 ---
 ##### Compassion is the natural response of the heart to suffering, in absense preoccupation with self

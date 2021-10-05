@@ -18,7 +18,7 @@ Transcript PDF: [[2007_0208 Equanimity in Compassion.pdf]]
 <br/>
 
 ## Paragraphs
-[[Equanimity in Compassion -|bare list]]
+[[Equanimity in Compassion -|plain list]]
 
 ### Brahmaviharas
 ##### Equanimity is the fourth of the brahmaviharas

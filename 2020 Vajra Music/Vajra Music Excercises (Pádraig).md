@@ -1,7 +1,6 @@
 ---
 obsidianUIMode: preview
 ---
-
  Brief overview of exercises in the series “[[2020 Vajra Music]]”
  
  Based on https://docs.google.com/document/d/1my-qnizw-9XKszhI6TCXsXuXpPChz_rayHlRV08fGXY/edit

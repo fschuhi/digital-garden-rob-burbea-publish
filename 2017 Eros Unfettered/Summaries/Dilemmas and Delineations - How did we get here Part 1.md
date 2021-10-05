@@ -18,7 +18,7 @@ Transcript PDF: [[2017_0118 Dilemmas and Delineations - How did we get here Part
 <br/>
 
 ## Paragraphs
-[[Dilemmas and Delineations - How did we get here Part 1 -|bare list]]
+[[Dilemmas and Delineations - How did we get here Part 1 -|plain list]]
 
 ---
 ##### We will gradually unfold the web around the word "eros"

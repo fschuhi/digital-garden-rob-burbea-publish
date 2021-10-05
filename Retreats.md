@@ -12,9 +12,9 @@ Curating this Digital Garden falls under the purview of the <b>Hermes Amāra Fou
 
 You find a short bio of Rob [[Rob Burbea|here]].
 
-The [[Rob Burbea Transcription Project]] has transcribed the talks from the recordings on [[Using Dharma Seed|using Dharma Seed]]. The transcript PDFs are translated to web pages in this Digital Garden and amended with keywords, crossreferences, summaries, quotes, notes and further information derived from the talks.
+The [[Rob Burbea Transcription Project]] has transcribed the talks from the recordings on [[Using Dharma Seed|Dharma Seed]]. The transcript PDFs are translated to web pages in this Digital Garden and amended with keywords, crossreferences, summaries, quotes, notes and further information derived from the talks.
 
-There is an [[Introduction]] to this Digital Garden, which also links to pages which show [[How to browse the Digital Garden|how to browse the Digital Garden]].
+There is an [[Introduction]] to this Digital Garden and also **help pages** which show [[How to browse the Digital Garden|how to browse the Digital Garden]].
 
 If you have been here before you might want to check out the [[Changelog]] for new content and features.
 

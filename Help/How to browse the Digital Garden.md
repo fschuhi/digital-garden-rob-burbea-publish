@@ -1,100 +1,58 @@
-<div class="admonition important"><div class="title">IMPORTANT</div><div class="content">
-work in progress<br/>
+### Elements of the website
+![[help-full-screen.png]]
+
+ - The Digital Garden always presents two pages in the center part of the screen. 
+ - More pages are held in "spines" on the left and right of the two pages (here "Retreats", on the left).
+ -  On the left is the explorer for files and folders.
+ -  On the top right the Digital Garden shows a graphical representation of the local network of pages and links between them.
+  - Below that the "Table of Contents" shows the indendent headers of the page. Clicking on any of the headers takes you to the particular section of the page.
+ 
+ Refer to **[[How to navigate the Digital Garden]]** for further information about those screen elements.
+<br/>
+
+### Links
+Words or phrases in blue are references or "links" to other parts of the Digital Garden. Clicking on any of them takes you to the particular web page.
+
+👉 Try it out by clicking on [[What is Insight]].
+
+If your screen is big enough then the Digital Garden will show the current and the previous pane next to each other. So you'll probably still see this text on the left.
+
+👉 Click on that left side to go back to this page (or go back with your browser). 
+
+**Links can point to parts of pages**, not just the whole page:
+- [[What is Insight#General definition of insight that which brings lessening of suffering|General definition of insight that which brings lessening of suffering]] links to one of the paragraph descriptions on the [[What is Insight|summary page]] of "What is Insight". 
+👉 Hover over the two links in this paragraph to see the difference.
+
+- The above "General definition..." is a description for a particular paragraph of the associated transcript of the talk refers, namely [[1229 What is Insight#^1-4|1-4]] - - the 4th paragraph on the 1st page.
+👉 Hover over the [[1229 What is Insight#^1-4|1-4]] to see a quick preview of the paragraph.
+
+<div class="admonition warning"><div class="title">Important</div><div class="content">
+Most of the links support a "quick preview" function: hover of the link and you'll see a small preview of that page. The preview is like a mini webpage: you can scroll, click links, mark and copy to clipboard anything etc. (even hover over links 😀)<br/>
 </div></div>
 
-### Entry page          
-- Open a new tab in your browser and go to "https://publish.obsidian.md/rob-burbea".
-- The first page which opens is "Retreats".
+This is especially helpful with links like [[1229 What is Insight#^1-4|1-4]], because you can not just read the text from that paragraph without opening the complete  page, but also click the ">" on the audio player visible in the summary preview - - without opening the summary page.
+
+<div class="admonition note"><div class="title">NOTE</div><div class="content">
+Depending on your internet connection it can take awhile until the audio files for a page have loaded. As soon as the small audio recorder shows a sensible length you can press play and listen to Rob's voice.<br/>
+</div></div>
+
 <br/>
 
-### Browsing a retreat
-On this page, there is a section there is a section "Retreats and series of talks". The name of **Retreat pages** start with the year, e.g. ""**2007** Lovingkindness and Compassion As a Path to Awakening". 
+### Don't be afraid to get lost
+There's a lot of content in this Digital Garden, and many links between the different parts. For those of you who have not been here often that can become a bit overwhelming. Even users who regularly check out the Garden get lost sometimes.
 
-👉 Click on that link. 
+One **important thing to remember**: You can never break anything in the Digital Garden! At any point you can always just close the browser tab and go anew to the [[Retreats|starting page]]!
 
-You are now on the retreat page.
+With a little bit of experimentation you'll quickly find your way around. **[[How to navigate the Digital Garden]]** gives you further hints on how to find you way.
+
+**[[How to browse a retreat]]** shows how the main content is organised in retreats, their transcript PDF files, the transcript pages derived and their summaries, the latter holding paragraph descriptions, keyword counts, audio links, and other additional information like overviews.
+
+For any feedback or suggestions relating to this Digital Garden, please email frank.schuhardt@gmail.com
 <br/>
 
-### Browsing a talk
-In the section “Talks” you find the talks in the series. Click on the first one, “Samadhi in Metta Practice”. This takes you to the **summary page** for this talk.
+### Poining others to this Digital Garden
+If you want to refer others to a certain part of the Digital Garden, look for 
 
-Summary pages all have the same structure:
-- _Navigation_. On the top of the page you see arrows which help you move serially through the talks.
-- _Series_. Most of the talks have been held as part of retreats. You can also access the retreat overview page using the 🡅 in the navigation.
-- _Transcript_. Here you find the transcript itself, in raw format adapted from the PDF.
-- _Transcript PDF_. That's the source PDF with the text which goes into the transcript.
-- _Audio link_ to the whole talk.
-<br/>
+![[link.png]]
 
-#### Browsing the talk transcript
-Following the example, you should see a link to “0122 Samadhi in Metta Practice”. This is the **transcript page**. Transcripts start with 4 numbers, month and day. In this example, Rob held the dharma talk on 2007-01-22.
-
-👉 Now click on the link to the transcript. The Digital Garden opens the page which has the actual transcript. What you see is a close representation of the original transcript PDF.
-
-The small numbers left to each paragraph are the PDF page and the paragraph number on the page. “3-2” is the 3rd page in the PDF, 2nd full paragraph (i.e. not counting ones which began on the previous page).
-
-The words and idioms in blue color are links to keywords.
-
-👉 Go to the paragraph 2-2 and hover with the mouse the small 2-2. A small link symbol appears. Move the mouse to the link symbol (the one pointed to by the “copy link” info):
-
-![[help3.png]]
-
--   If you now left-click with the mouse on the link, the Digital Garden copies the link to this paragraph onto the clipboard. I’ve just done this, and I paste the link to the following line...
--   [https://publish.obsidian.md/rob-burbea/2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening/Transcripts/0122+Samadhi+in+Metta+Practice#2-2](https://publish.obsidian.md/rob-burbea/2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening/Transcripts/0122+Samadhi+in+Metta+Practice#2-2)
--   When you click that link, the Digital Garden will open directly at this position, i.e. without the need to go via “Retreat” > “2007 Lovingkindness...” > “Samadhi in Metta Practice” (the summary) > “0122 Samadhi in Metta Practice”
--   The link chain only appears when you hover with the mouse over an element which supports this copy-to-clipboard functionality. All transcript paragraphs, headers anywhere and also the paragraph one-liners on the summary pages have this feature enabled.
--   This can be helpful if you are e.g. trying to merge a couple of paragraphs across different talks - - something that will be necessary because we have some duplication of themes in the list of talks.
--   You could then bookmark in your browser those positions, or have a Google Doc or Word Document with the links, or whatever makes sense to you.
-<br/>
-
-### The spine
-The Digital Garden doesn’t really care about which path you take through it. Still, it's probably a good idea if you follow the path set out in the recap section above. When doing this the pages shown and those hidden in the **"spines"** left and right give you the best view on the overall structure of the Garden.
-
- The spine on the left side shows the way you took to come here: 
- 
- “Retreats” > “2007 Lovingkindness...”. > "Samadhi in Metta Practice" (the summary) > "0122 Samadhi in Metta Practice" (the transcript)
- 
- You can always click on the spine to go back to any of the pages.
-<br/>
-
-#### Working with paragraphs on the summary page
-👉 Now go back to the summary, please. Click anywhere on the summary page “Samadhi in Metta Practice” and scroll down to the section “Paragraphs”.
-
-![[help1.png]]
-
-The “Why we need Samadhi” is a header we put into the summary to make the structure of the talk more evident. Some of the headers have been taken over from the [[Rob Burbea Transcription Project]]
-
-“We need a sense of deep nourishment” is a one-liner I added as a description of what Rob talks about in paragraph 2-2 of the transcript.
-- In that paragraph, there are 3 keywords, thereof “Cultivation” 2 times.
-- Clicking on the > starts the audio player at 5:35, which is the second of the Dharmaseed audio where Rob says what is transcribed in paragraph 2-2.
-<br/>
-
-#### The "bare list" of paragraphs
-You can also get a quick overview over the whole talk. 
-
-👉 Let's assume you are still on the summary page "Samadhi in Metta Practice". Now go to the beginning of the “Paragraphs” section and click on “bare list”.
-
-The Digital Garden now shows a page named “Samadhi in Metta Practice **–**“, i.e. ending with a dash. Here you find all paragraph descriptions below each other, without keywords, audio player, quotes, or other comments. It should now be possible to get a good sense about the content of talk in a couple of minutes, by just reading the one-liners
-
-If you hover on any of the descriptions, it shows you the particular position of the summary file. Let’s say you are in the bare list, with the mouse pointer on the “We need a sense of deep nourishment” description (the example from above). Now move the mouse quickly to the popup window and then hover over the 2-2:
-
-![[help2.png]]
-
-You can therefore get a quick overview over the flow of the talk, and take a look at comments or press the audio player, or look at the respective transcript paragraph – all from the “bare list”.
-<br/>
-
-#### Peeking into the summary from the transcript
- Sometimes you want to read the transcript like you would the PDF. You can still access the summary of a particular paragraph, though. This can be helpful for a number of reasons:
- - For many paragraphs, the summary has an audio player which plays back the recording at exactly the right timestamp. Many yogis have found it very helpful to listen to Rob's voice _and_ reading the transcript at the same time.
- - The summary has also a short description for each paragraph. This can help you to orient yourself more quickly.
- - On the transcript page important keywords and idioms are available as links. Further occurences of a keyword and its synonyms are not marked, though; only the first occurance is a link which takes you to the index entry. The summary counts all occurences, which gives you additional recap information without the need to need to read the paragraph on the transcript page.
- - Lastly, there might be further explanations, comments and crossreferences to other parts of the Digital Garden. Rob often refers to other talks, and many concepts are covered in more than one place in the overall talk database. Checking the summary can help you move more closely to Rob's thinking along his "semantic network".
-
-👉 Let’s say you are on the transcript page “0122 Samadhi in Metta Practice”. Now scroll down to the paragraph 2-2 and hover with the mouse over the fullstop at the end of the paragraph. This is what you’ll see:
-
-![[help4.png]]
-
-You can move the mouse quickly in this preview and click on any link there, including the > of the audio player.
-
-The Digital Garden will take you to the summary page when you click on the link behind then “.”
-<br/>
+This is a link to the particular position on the page. You can also share links to pages like the one you see above in the address box of your browser - - all parts of the Digital Garden are open for public.
