@@ -1,3 +1,6 @@
+---
+obsidianUIMode: preview
+---
 # The Garden of the Soul: Rob Burbea's Teachings
 <div class="admonition important"><div class="title">Thank you!</div><div class="content">
 This Digital Garden presents selected talks of <b>Rob Burbea</b>. Thank you, Rob, for those wonderful teachings!<br/>

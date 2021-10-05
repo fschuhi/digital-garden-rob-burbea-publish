@@ -32,6 +32,42 @@ Summary pages all have the same structure:
 - _Audio link_ to the whole talk on [[Dharma Seed]]
 <br/>
 
+### The "Index" section
+👉 Scroll down to the "Index" section.
+
+Certain keywords, word combination, idioms and phrases are marked as "index entry". For each transcript paragraph, the first occurance of such a term is turned into a link to the term's page, like [[Energy Body]]. Further occurrences are not marked, to have a less cluttered reading experience.
+
+Still the all occurrences are counted, as the "Index" section on top of a summary page shows. Here you'll find all terms, together with the total number of occurrences across all transcript paragraphs, starting with the term occuring most often.
+
+This can give you a quick overview over which parts of Rob's "semantic network" are covered in this talk.
+<br/>
+
+### Working with paragraphs on the summary page
+👉 Assuming you are on the summary page, scroll down to the section “Paragraphs”.
+
+![[help1.png]]
+
+The “Why we need Samadhi” is a header we put into the summary to make the structure of the talk more evident. Some of the headers have been taken over from the [[Rob Burbea Transcription Project]]. 
+
+“We need a sense of deep nourishment” is a one-liner we've added as a description of what Rob talks about in paragraph 2-2 of the transcript.
+- In that paragraph, there are 3 keywords, thereof “Cultivation” 2 times. The count here goes into the overall count for "Cultivation" in the "Index" section.
+- Clicking on the > starts the audio player at 5:35, which is the second of the Dharmaseed audio where Rob says what is transcribed in paragraph 2-2.
+<br/>
+
+### The "plain list" of paragraphs
+You can also get a quick overview over the whole talk. 
+
+👉 Let's assume you are still on the summary page "Samadhi in Metta Practice". Now go to the beginning of the “Paragraphs” section and click on “plain list”.
+
+The Digital Garden now shows a page named “Samadhi in Metta Practice **–**“, i.e. ending with a dash. Here you find all paragraph descriptions below each other, without keywords, audio player, quotes, or other comments. It should now be possible to get a good sense about the content of talk in a couple of minutes, by just reading the one-liners
+
+If you hover on any of the descriptions, it shows you the particular position of the summary file. Let’s say you are in the plain list, with the mouse pointer on the “We need a sense of deep nourishment” description (the example from above). Now move the mouse quickly to the popup window and then hover over the 2-2:
+
+![[help2.png]]
+
+You can therefore get a quick overview over the flow of the talk, and take a look at comments or press the audio player, or look at the respective transcript paragraph – all from the “plain list”.
+<br/>
+
 ### Browsing the talk transcript
 Following the example, you should see a link to “0122 Samadhi in Metta Practice”. This is the **transcript page**. Transcripts start with 4 numbers, month and day. In this example, Rob held the dharma talk on 2007-01-22.
 
@@ -53,33 +89,7 @@ The words and idioms in blue color are links to keywords.
 -   You could then bookmark in your browser those positions, or have a Google Doc or Word Document with the links, or whatever makes sense to you.
 <br/>
 
-### Working with paragraphs on the summary page
-👉 Now go back to the summary, please. Click anywhere on the summary page “Samadhi in Metta Practice” and scroll down to the section “Paragraphs”.
-
-![[help1.png]]
-
-The “Why we need Samadhi” is a header we put into the summary to make the structure of the talk more evident. Some of the headers have been taken over from the [[Rob Burbea Transcription Project]]
-
-“We need a sense of deep nourishment” is a one-liner I added as a description of what Rob talks about in paragraph 2-2 of the transcript.
-- In that paragraph, there are 3 keywords, thereof “Cultivation” 2 times.
-- Clicking on the > starts the audio player at 5:35, which is the second of the Dharmaseed audio where Rob says what is transcribed in paragraph 2-2.
-<br/>
-
-### The "plain list" of paragraphs
-You can also get a quick overview over the whole talk. 
-
-👉 Let's assume you are still on the summary page "Samadhi in Metta Practice". Now go to the beginning of the “Paragraphs” section and click on “plain list”.
-
-The Digital Garden now shows a page named “Samadhi in Metta Practice **–**“, i.e. ending with a dash. Here you find all paragraph descriptions below each other, without keywords, audio player, quotes, or other comments. It should now be possible to get a good sense about the content of talk in a couple of minutes, by just reading the one-liners
-
-If you hover on any of the descriptions, it shows you the particular position of the summary file. Let’s say you are in the plain list, with the mouse pointer on the “We need a sense of deep nourishment” description (the example from above). Now move the mouse quickly to the popup window and then hover over the 2-2:
-
-![[help2.png]]
-
-You can therefore get a quick overview over the flow of the talk, and take a look at comments or press the audio player, or look at the respective transcript paragraph – all from the “plain list”.
-<br/>
-
-### Peeking into the summary from the transcript
+### Peeking back into the summary from the transcript
  Sometimes you want to read the transcript like you would the PDF. You can still access the summary of a particular paragraph, though. This can be helpful for a number of reasons:
  - For many paragraphs, the summary has an audio player which plays back the recording at exactly the right timestamp. Many yogis have found it very helpful to listen to Rob's voice _and_ reading the transcript at the same time.
  - The summary has also a short description for each paragraph. This can help you to orient yourself more quickly.

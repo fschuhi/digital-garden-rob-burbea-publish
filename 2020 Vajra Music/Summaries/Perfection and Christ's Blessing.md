@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: false
-obsidianUIMode: preview
 Series: 2020 Vajra Music
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -12,13 +12,13 @@ Transcript: [[0306 Perfection and Christ's Blessing]]
 Transcript PDF: [[2020_0306 Perfection and Christ's Blessing.pdf]]
 
 ## Index
-<span class="counts">_<a data-href="Perfection" href="Perfection" class="internal-link" target="_blank" rel="noopener">Perfection</a> (10) · <a data-href="Blessing" href="Blessing" class="internal-link" target="_blank" rel="noopener">Blessing</a> (5) · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (4) · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> (3) · <a data-href="Jesus" href="Jesus" class="internal-link" target="_blank" rel="noopener">Jesus</a> (3) · <a data-href="Christianity" href="Christianity" class="internal-link" target="_blank" rel="noopener">Christianity</a> (2) · <a data-href="Beauty" href="Beauty" class="internal-link" target="_blank" rel="noopener">Beauty</a> · <a data-href="Devotion" href="Devotion" class="internal-link" target="_blank" rel="noopener">Devotion</a> · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> · <a data-href="Ways of Looking" href="Ways+of+Looking" class="internal-link" target="_blank" rel="noopener">Ways of Looking</a>_</span>
+<span class="counts">_<a data-href="Perfection" href="Perfection" class="internal-link" target="_blank" rel="noopener">Perfection</a> (10) · <a data-href="Blessing" href="Blessing" class="internal-link" target="_blank" rel="noopener">Blessing</a> (5) · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (4) · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> (3) · <a data-href="Jesus" href="Jesus" class="internal-link" target="_blank" rel="noopener">Jesus</a> (3) · <a data-href="Christianity" href="Christianity" class="internal-link" target="_blank" rel="noopener">Christianity</a> (2) · <a data-href="Beauty" href="Beauty" class="internal-link" target="_blank" rel="noopener">Beauty</a> · <a data-href="Devotion" href="Devotion" class="internal-link" target="_blank" rel="noopener">Devotion</a> · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> · <a data-href="Ways of Looking" href="Ways+of+Looking" class="internal-link" target="_blank" rel="noopener">Ways of Looking</a>_</span>
 <br/>
 
 ## Paragraphs
 ---
 ##### A very different sense of perfection
-<span class="counts">**<a data-href="0306 Perfection and Christ's Blessing#^1-1" href="0306+Perfection+and+Christ%27s+Blessing#^1-1" class="internal-link" target="_blank" rel="noopener">1-1</a>**: _<a data-href="Perfection" href="Perfection" class="internal-link" target="_blank" rel="noopener">Perfection</a> (6) · <a data-href="Beauty" href="Beauty" class="internal-link" target="_blank" rel="noopener">Beauty</a> · <a data-href="Devotion" href="Devotion" class="internal-link" target="_blank" rel="noopener">Devotion</a>_</span>
+<span class="counts">**<a data-href="0306 Perfection and Christ's Blessing#^1-1" href="0306+Perfection+and+Christ%27s+Blessing#^1-1" class="internal-link" target="_blank" rel="noopener">1-1</a>**: _<a data-href="Perfection" href="Perfection" class="internal-link" target="_blank" rel="noopener">Perfection</a> (6) · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> · <a data-href="Beauty" href="Beauty" class="internal-link" target="_blank" rel="noopener">Beauty</a> · <a data-href="Devotion" href="Devotion" class="internal-link" target="_blank" rel="noopener">Devotion</a>_</span>
 
 ---
 ##### Jesus's blessing is on everything

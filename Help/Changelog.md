@@ -5,6 +5,7 @@
 	- [[How to navigate the Digital Garden]]
 	- [[How to browse the Digital Garden]]
 	- [[How to browse a retreat]]
+- Top 10 referring transcripts for index entries, see e.g. [[Energy Body]]
 
 ##### 02.10.21 
 - retreat [[2007 Lovingkindness and Compassion As a Path to Awakening]]

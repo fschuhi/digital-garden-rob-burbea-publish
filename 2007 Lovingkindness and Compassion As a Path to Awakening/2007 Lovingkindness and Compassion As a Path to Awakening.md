@@ -14,4 +14,4 @@ _This series of talks and guided meditations explores the development of the pra
 ✔️ [[The Practice of Compassion]]
 ✔️ [[Guided meditation - Metta to phenomena]]
 ✔️ [[Love and Emptiness]]
-✔ [[Equanimity in Compassion]]
+✔️ [[Equanimity in Compassion]]
