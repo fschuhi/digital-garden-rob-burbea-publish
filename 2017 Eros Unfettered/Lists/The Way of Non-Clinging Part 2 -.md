@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-### Paragraphs in [[The Way of Non-Clinging Part 2]]
+## Paragraphs in [[The Way of Non-Clinging Part 2]]
 - [[The Way of Non-Clinging Part 2#What are the ways of conceiving this teaching|What are the ways of conceiving this teaching?]]
 - [[The Way of Non-Clinging Part 2#Experience of craving and clinging of something contracting|Experience of craving and clinging, of something contracting.]]
 - [[The Way of Non-Clinging Part 2#Relaxing the subtle dukkha|Relaxing the subtle dukkha.]]

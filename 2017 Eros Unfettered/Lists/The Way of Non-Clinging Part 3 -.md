@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-### Paragraphs in [[The Way of Non-Clinging Part 3]]
+## Paragraphs in [[The Way of Non-Clinging Part 3]]
 - [[The Way of Non-Clinging Part 3#Summary of the first 2 talks|Summary of the first 2 talks.]]
 - [[The Way of Non-Clinging Part 3#2nd problem of trying to live without clinging|2nd problem of trying to live without clinging.]]
 - [[The Way of Non-Clinging Part 3#Who would even want to live without clinging|Who would even want to live without clinging?]]

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-### Paragraphs in [[Love and Emptiness]]
+## Paragraphs in [[Love and Emptiness]]
 ### Recap
 - [[Love and Emptiness#We are cultivating metta and compassion and we can see the blessings that come from that|We are cultivating metta and compassion, and we can see the blessings that come from that.]]
 - [[Love and Emptiness#In transforming the heart we're transforming our intentions in life|In transforming the heart, we're transforming our intentions in life.]]

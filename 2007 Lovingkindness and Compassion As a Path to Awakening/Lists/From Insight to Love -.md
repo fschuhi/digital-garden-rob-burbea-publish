@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-### Paragraphs in [[From Insight to Love]]
+## Paragraphs in [[From Insight to Love]]
 ### Intro
 - [[From Insight to Love#What is going on in this retreat here how insights can lead to love|What is going on in this retreat, here: how insights can lead to love.]]
 - [[From Insight to Love#Metta is fabricated but it's also the natural state|Metta is fabricated, but it's also the natural state.]]

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-### Paragraphs in [[Dilemmas and Delineations - How did we get here Part 1]]
+## Paragraphs in [[Dilemmas and Delineations - How did we get here Part 1]]
 - [[Dilemmas and Delineations - How did we get here Part 1#We will gradually unfold the web around the word "eros"|We will gradually unfold the web around the word "eros".]]
 - [[Dilemmas and Delineations - How did we get here Part 1#Why delineate|Why delineate?]]
 - [[Dilemmas and Delineations - How did we get here Part 1#Teaching is always contextual|Teaching is always contextual.]]

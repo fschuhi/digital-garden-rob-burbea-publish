@@ -13,10 +13,6 @@ Transcript PDF: [[2007_1229 What is Insight.pdf]]
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11972/20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3" type="audio/mpeg">???</audio>
 
-<div class="admonition important"><div class="title">IMPORTANT</div><div class="content">
-Work in Progress<br/>
-</div></div>
-
 ## Index
 <span class="counts">_<a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> (89) · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> (55) · <a data-href="Impermanence" href="Impermanence" class="internal-link" target="_blank" rel="noopener">Impermanence</a> (30) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> (29) · <a data-href="Letting go" href="Letting+go" class="internal-link" target="_blank" rel="noopener">Letting go</a> (24) · <a data-href="Mindfulness" href="Mindfulness" class="internal-link" target="_blank" rel="noopener">Mindfulness</a> (22) · <a data-href="Ways of Looking" href="Ways+of+Looking" class="internal-link" target="_blank" rel="noopener">Ways of Looking</a> (17) · <a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> (16) · <a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a> (16) · <a data-href="Aversion" href="Aversion" class="internal-link" target="_blank" rel="noopener">Aversion</a> (12) · <a data-href="Consciousness" href="Consciousness" class="internal-link" target="_blank" rel="noopener">Consciousness</a> (11) · <a data-href="Freedom" href="Freedom" class="internal-link" target="_blank" rel="noopener">Freedom</a> (11) · <a data-href="Ultimate Truth" href="Ultimate+Truth" class="internal-link" target="_blank" rel="noopener">Ultimate Truth</a> (11) · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> (10) · [[Mind]] (10) · <a data-href="Stories" href="Stories" class="internal-link" target="_blank" rel="noopener">Stories</a> (10) · <a data-href="Craving" href="Craving" class="internal-link" target="_blank" rel="noopener">Craving</a> (9) · <a data-href="Habit" href="Habit" class="internal-link" target="_blank" rel="noopener">Habit</a> (9) · <a data-href="Emptiness" href="Emptiness" class="internal-link" target="_blank" rel="noopener">Emptiness</a> (8) · <a data-href="Happiness" href="Happiness" class="internal-link" target="_blank" rel="noopener">Happiness</a> (8) · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> (8) · <a data-href="Anatta" href="Anatta" class="internal-link" target="_blank" rel="noopener">Anatta</a> (6) · <a data-href="Conventional reality" href="Conventional+reality" class="internal-link" target="_blank" rel="noopener">Conventional reality</a> (6) · <a data-href="Generosity" href="Generosity" class="internal-link" target="_blank" rel="noopener">Generosity</a> (6) · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (6) · <a data-href="Pain" href="Pain" class="internal-link" target="_blank" rel="noopener">Pain</a> (6) · <a data-href="Attention" href="Attention" class="internal-link" target="_blank" rel="noopener">Attention</a> (5) · <a data-href="Emotions" href="Emotions" class="internal-link" target="_blank" rel="noopener">Emotions</a> (5) · <a data-href="Papanca" href="Papanca" class="internal-link" target="_blank" rel="noopener">Papanca</a> (5) · <a data-href="Phenomenon" href="Phenomenon" class="internal-link" target="_blank" rel="noopener">Phenomenon</a> (5) · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (5) · <a data-href="Beauty" href="Beauty" class="internal-link" target="_blank" rel="noopener">Beauty</a> (4) · <a data-href="Clinging" href="Clinging" class="internal-link" target="_blank" rel="noopener">Clinging</a> (4) · <a data-href="Ethics" href="Ethics" class="internal-link" target="_blank" rel="noopener">Ethics</a> (4) · <a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> (4) · <a data-href="Personality types" href="Personality+types" class="internal-link" target="_blank" rel="noopener">Personality types</a> (4) · <a data-href="Relationships" href="Relationships" class="internal-link" target="_blank" rel="noopener">Relationships</a> (4) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> (4) · <a data-href="Steadiness" href="Steadiness" class="internal-link" target="_blank" rel="noopener">Steadiness</a> (4) · <a data-href="Avijja" href="Avijja" class="internal-link" target="_blank" rel="noopener">Avijja</a> (3) · <a data-href="Conceptual Framework" href="Conceptual+Framework" class="internal-link" target="_blank" rel="noopener">Conceptual Framework</a> (3) · <a data-href="Perception" href="Perception" class="internal-link" target="_blank" rel="noopener">Perception</a> (3) · <a data-href="Three characteristics" href="Three+characteristics" class="internal-link" target="_blank" rel="noopener">Three characteristics</a> (3) · <a data-href="Awakening" href="Awakening" class="internal-link" target="_blank" rel="noopener">Awakening</a> (2) · <a data-href="Awareness" href="Awareness" class="internal-link" target="_blank" rel="noopener">Awareness</a> (2) · <a data-href="Breath" href="Breath" class="internal-link" target="_blank" rel="noopener">Breath</a> (2) · [[Commentaries]] (2) · <a data-href="Cultivation" href="Cultivation" class="internal-link" target="_blank" rel="noopener">Cultivation</a> (2) · <a data-href="Death" href="Death" class="internal-link" target="_blank" rel="noopener">Death</a> (2) · <a data-href="Dependent Origination" href="Dependent+Origination" class="internal-link" target="_blank" rel="noopener">Dependent Origination</a> (2) · <a data-href="Devotion" href="Devotion" class="internal-link" target="_blank" rel="noopener">Devotion</a> (2) · <a data-href="Emptiness#Suchness" href="Emptiness#Suchness" class="internal-link" target="_blank" rel="noopener">Emptiness &gt; Suchness</a> (2) · <a data-href="Feelings" href="Feelings" class="internal-link" target="_blank" rel="noopener">Feelings</a> (2) · <a data-href="Four Noble Truths" href="Four+Noble+Truths" class="internal-link" target="_blank" rel="noopener">Four Noble Truths</a> (2) · <a data-href="Healing" href="Healing" class="internal-link" target="_blank" rel="noopener">Healing</a> (2) · <a data-href="Kaccayana" href="Kaccayana" class="internal-link" target="_blank" rel="noopener">Kaccayana</a> (2) · <a data-href="Nihilism" href="Nihilism" class="internal-link" target="_blank" rel="noopener">Nihilism</a> (2) · <a data-href="Personhood" href="Personhood" class="internal-link" target="_blank" rel="noopener">Personhood</a> (2) · <a data-href="Skandhas" href="Skandhas" class="internal-link" target="_blank" rel="noopener">Skandhas</a> (2) · <a data-href="Spiritual circles" href="Spiritual+circles" class="internal-link" target="_blank" rel="noopener">Spiritual circles</a> (2) · <a data-href="Unfabricated" href="Unfabricated" class="internal-link" target="_blank" rel="noopener">Unfabricated</a> (2) · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> · <a data-href="Fabrication" href="Fabrication" class="internal-link" target="_blank" rel="noopener">Fabrication</a> · <a data-href="Fantasy" href="Fantasy" class="internal-link" target="_blank" rel="noopener">Fantasy</a> · <a data-href="Ignorance" href="Ignorance" class="internal-link" target="_blank" rel="noopener">Ignorance</a> · <a data-href="Pleasantness" href="Pleasantness" class="internal-link" target="_blank" rel="noopener">Pleasantness</a> · <a data-href="Present Moment" href="Present+Moment" class="internal-link" target="_blank" rel="noopener">Present Moment</a> · <a data-href="Psychological maturity" href="Psychological+maturity" class="internal-link" target="_blank" rel="noopener">Psychological maturity</a> · <a data-href="Satipatthana Sutta" href="Satipatthana+Sutta" class="internal-link" target="_blank" rel="noopener">Satipatthana Sutta</a>_</span>
 <br/>
@@ -25,6 +21,7 @@ Work in Progress<br/>
 [[What is Insight -|bare list]]
 
 ---
+### Intro
 ##### This talk is about putting things in place
 <span class="counts">**<a data-href="1229 What is Insight#^1-1" href="1229+What+is+Insight#^1-1" class="internal-link" target="_blank" rel="noopener">1-1</a>**: _<a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> (4) · <a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> · <a data-href="Conceptual Framework" href="Conceptual+Framework" class="internal-link" target="_blank" rel="noopener">Conceptual Framework</a>_</span>
 
@@ -43,6 +40,7 @@ Work in Progress<br/>
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11972/20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=01:50" type="audio/mpeg">???</audio>
 
 ---
+### Definition
 ##### General definition of insight: that which brings lessening of suffering
 <span class="counts">**<a data-href="1229 What is Insight#^1-4" href="1229+What+is+Insight#^1-4" class="internal-link" target="_blank" rel="noopener">1-4</a>**: _<a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> (12) · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> (7) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> (2) · <a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a>_</span>
 
@@ -62,13 +60,15 @@ Any situation, any experience, you can apply insight to, insight is relevant.<br
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11972/20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=04:46" type="audio/mpeg">???</audio>
 
 ---
+### Kinds of insight
 ##### 3 kinds of insights
 <span class="counts">**<a data-href="1229 What is Insight#^2-2" href="1229+What+is+Insight#^2-2" class="internal-link" target="_blank" rel="noopener">2-2</a>**: _<a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> (2) · <a data-href="Ways of Looking" href="Ways+of+Looking" class="internal-link" target="_blank" rel="noopener">Ways of Looking</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11972/20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=05:52" type="audio/mpeg">???</audio>
 
+#### (1) Personal insight
 ---
-##### (1) Personal insight into one's own habits of body, speech and mind
+##### Personal insight into one's own habits of body, speech and mind
 <span class="counts">**<a data-href="1229 What is Insight#^2-3" href="1229+What+is+Insight#^2-3" class="internal-link" target="_blank" rel="noopener">2-3</a>**: _<a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> (4) · <a data-href="Habit" href="Habit" class="internal-link" target="_blank" rel="noopener">Habit</a> (4) · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> · [[Mind]]_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11972/20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=06:17" type="audio/mpeg">???</audio>
@@ -122,7 +122,8 @@ Any story we have of ourselves can never, even if it's very beautiful, even if i
 </div></div>
 
 ---
-##### (2) Universal insights, for all beings and all things
+#### (2) Universal insights
+##### Universal insights pertain to all beings and all things
 <span class="counts">**<a data-href="1229 What is Insight#^4-3" href="1229+What+is+Insight#^4-3" class="internal-link" target="_blank" rel="noopener">4-3</a>**: _<a data-href="Ultimate Truth" href="Ultimate+Truth" class="internal-link" target="_blank" rel="noopener">Ultimate Truth</a> · <a data-href="Habit" href="Habit" class="internal-link" target="_blank" rel="noopener">Habit</a> · <a data-href="Impermanence" href="Impermanence" class="internal-link" target="_blank" rel="noopener">Impermanence</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11972/20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=13:35" type="audio/mpeg">???</audio>
@@ -145,7 +146,8 @@ add more "world of" index entries<br/>
 </div></div>
 
 ---
-##### (3) Ultimate truth is beyond words, transcends any of the other
+#### (3) Ultimate truth
+##### Ultimate truth is beyond words, transcends any of the other
 <span class="counts">**<a data-href="1229 What is Insight#^5-1" href="1229+What+is+Insight#^5-1" class="internal-link" target="_blank" rel="noopener">5-1</a>**: _<a data-href="Ultimate Truth" href="Ultimate+Truth" class="internal-link" target="_blank" rel="noopener">Ultimate Truth</a> · <a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> · <a data-href="Awakening" href="Awakening" class="internal-link" target="_blank" rel="noopener">Awakening</a> · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11972/20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=15:45" type="audio/mpeg">???</audio>
@@ -157,6 +159,7 @@ add more "world of" index entries<br/>
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11972/20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=16:10" type="audio/mpeg">???</audio>
 
 ---
+#### More on universal insights
 ##### Another universal insight: it's a good idea to practice
 <span class="counts">**<a data-href="1229 What is Insight#^5-3" href="1229+What+is+Insight#^5-3" class="internal-link" target="_blank" rel="noopener">5-3</a>**: _<a data-href="Ultimate Truth" href="Ultimate+Truth" class="internal-link" target="_blank" rel="noopener">Ultimate Truth</a> · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> (3) · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a>_</span>
 
@@ -192,6 +195,8 @@ Actually we need to see this over and over and over and over and over, until fin
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11972/20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=20:28" type="audio/mpeg">???</audio>
 
 ---
+### Insight practice
+#### Insights as results
 ##### "Insights arise", often from trusting mindfulness
 <span class="counts">**<a data-href="1229 What is Insight#^6-2" href="1229+What+is+Insight#^6-2" class="internal-link" target="_blank" rel="noopener">6-2</a>**: _<a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a> (4) · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> (5) · <a data-href="Cultivation" href="Cultivation" class="internal-link" target="_blank" rel="noopener">Cultivation</a> · <a data-href="Mindfulness" href="Mindfulness" class="internal-link" target="_blank" rel="noopener">Mindfulness</a> (6) · <a data-href="Attention" href="Attention" class="internal-link" target="_blank" rel="noopener">Attention</a> · <a data-href="Present Moment" href="Present+Moment" class="internal-link" target="_blank" rel="noopener">Present Moment</a> · [[Mind]]_</span>
 
@@ -204,6 +209,7 @@ Actually we need to see this over and over and over and over and over, until fin
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11972/20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=22:43" type="audio/mpeg">???</audio>
 
 ---
+#### Acting on insights
 ##### "Insights arising" vs "using insights"
 <span class="counts">**<a data-href="1229 What is Insight#^6-4" href="1229+What+is+Insight#^6-4" class="internal-link" target="_blank" rel="noopener">6-4</a>**: _<a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> (4) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> (2) · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Letting go" href="Letting+go" class="internal-link" target="_blank" rel="noopener">Letting go</a> · <a data-href="Impermanence" href="Impermanence" class="internal-link" target="_blank" rel="noopener">Impermanence</a>_</span>
 
@@ -233,6 +239,7 @@ check out some thing, or the other.<br/>
 </div></div>
 
 ---
+#### Using an insight as a lens
 ##### Another way to consolidate the insight is to use it as a mode of seeing
 <span class="counts">**<a data-href="1229 What is Insight#^7-3" href="1229+What+is+Insight#^7-3" class="internal-link" target="_blank" rel="noopener">7-3</a>**: _<a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> (3) · <a data-href="Mindfulness" href="Mindfulness" class="internal-link" target="_blank" rel="noopener">Mindfulness</a> (2) · <a data-href="Conceptual Framework" href="Conceptual+Framework" class="internal-link" target="_blank" rel="noopener">Conceptual Framework</a> · <a data-href="Impermanence" href="Impermanence" class="internal-link" target="_blank" rel="noopener">Impermanence</a> (3) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> (2) · <a data-href="Ways of Looking" href="Ways+of+Looking" class="internal-link" target="_blank" rel="noopener">Ways of Looking</a> (2) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a>_</span>
 
@@ -289,13 +296,15 @@ So some people always want to just "be," and just let things arise, and some peo
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11972/20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=33:52" type="audio/mpeg">???</audio>
 
 ---
-##### The Three Characteristics
+### Three Characteristics
+##### The Three Characteristics are modes of seeing which add to suffering
 <span class="counts">**<a data-href="1229 What is Insight#^9-3" href="1229+What+is+Insight#^9-3" class="internal-link" target="_blank" rel="noopener">9-3</a>**: _<a data-href="Ways of Looking" href="Ways+of+Looking" class="internal-link" target="_blank" rel="noopener">Ways of Looking</a> (2) · <a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> (2) · <a data-href="Consciousness" href="Consciousness" class="internal-link" target="_blank" rel="noopener">Consciousness</a> · <a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> · <a data-href="Three characteristics" href="Three+characteristics" class="internal-link" target="_blank" rel="noopener">Three characteristics</a> · <a data-href="Impermanence" href="Impermanence" class="internal-link" target="_blank" rel="noopener">Impermanence</a> · <a data-href="Anatta" href="Anatta" class="internal-link" target="_blank" rel="noopener">Anatta</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11972/20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=34:57" type="audio/mpeg">???</audio>
 
 ---
-##### (1) Impermanence: it is obvious, but are we seeing it in a way that makes a difference?
+#### (1) Impermance
+##### Impermanence is an obvious fact, but are we seeing it in a way that makes a difference?
 <span class="counts">**<a data-href="1229 What is Insight#^9-4" href="1229+What+is+Insight#^9-4" class="internal-link" target="_blank" rel="noopener">9-4</a>**: _<a data-href="Impermanence" href="Impermanence" class="internal-link" target="_blank" rel="noopener">Impermanence</a> (3) · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> (2) · <a data-href="Mindfulness" href="Mindfulness" class="internal-link" target="_blank" rel="noopener">Mindfulness</a> (2) · <a data-href="Attention" href="Attention" class="internal-link" target="_blank" rel="noopener">Attention</a> · <a data-href="Beauty" href="Beauty" class="internal-link" target="_blank" rel="noopener">Beauty</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11972/20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=35:40" type="audio/mpeg">???</audio>
@@ -347,7 +356,8 @@ So I'm talking about modes of seeing that we can pick up and use, that lead to a
 </div></div>
 
 ---
-##### (2) Dukkha
+#### (2) Dukkha
+##### Seeing things as unsatisfactory
 <span class="counts">**<a data-href="1229 What is Insight#^11-1" href="1229+What+is+Insight#^11-1" class="internal-link" target="_blank" rel="noopener">11-1</a>**: _<a data-href="Dukkha" href="Dukkha" class="internal-link" target="_blank" rel="noopener">Dukkha</a> (2) · <a data-href="Freedom" href="Freedom" class="internal-link" target="_blank" rel="noopener">Freedom</a> (2) · <a data-href="Happiness" href="Happiness" class="internal-link" target="_blank" rel="noopener">Happiness</a> · <a data-href="Impermanence" href="Impermanence" class="internal-link" target="_blank" rel="noopener">Impermanence</a> · <a data-href="Consciousness" href="Consciousness" class="internal-link" target="_blank" rel="noopener">Consciousness</a> · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Aversion" href="Aversion" class="internal-link" target="_blank" rel="noopener">Aversion</a> · <a data-href="Letting go" href="Letting+go" class="internal-link" target="_blank" rel="noopener">Letting go</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11972/20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=40:43" type="audio/mpeg">???</audio>
@@ -369,7 +379,8 @@ What if I saw everything as unsatisfactory? Just things come into consciousness,
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11972/20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=42:39" type="audio/mpeg">???</audio>
 
 ---
-##### (3) Anatta
+#### (3) Anatta
+##### Seeing things as not-self
 <span class="counts">**<a data-href="1229 What is Insight#^11-4" href="1229+What+is+Insight#^11-4" class="internal-link" target="_blank" rel="noopener">11-4</a>**: _<a data-href="Anatta" href="Anatta" class="internal-link" target="_blank" rel="noopener">Anatta</a> (3) · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> · <a data-href="Emotions" href="Emotions" class="internal-link" target="_blank" rel="noopener">Emotions</a> · <a data-href="Letting go" href="Letting+go" class="internal-link" target="_blank" rel="noopener">Letting go</a> (4)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11972/20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=43:38" type="audio/mpeg">???</audio>
@@ -452,6 +463,7 @@ I was just being there, and the experience was getting more and more bright, mor
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11972/20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=51:55" type="audio/mpeg">???</audio>
 
 ---
+#### Dependent Origination
 ##### Satipatthana Sutta
 <span class="counts">**<a data-href="1229 What is Insight#^14-2" href="1229+What+is+Insight#^14-2" class="internal-link" target="_blank" rel="noopener">14-2</a>**: _<a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> · <a data-href="Satipatthana Sutta" href="Satipatthana+Sutta" class="internal-link" target="_blank" rel="noopener">Satipatthana Sutta</a> · <a data-href="Meditation" href="Meditation" class="internal-link" target="_blank" rel="noopener">Meditation</a> · <a data-href="Phenomenon" href="Phenomenon" class="internal-link" target="_blank" rel="noopener">Phenomenon</a> · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> · <a data-href="Perception" href="Perception" class="internal-link" target="_blank" rel="noopener">Perception</a> · <a data-href="Consciousness" href="Consciousness" class="internal-link" target="_blank" rel="noopener">Consciousness</a> (2) · <a data-href="Impermanence" href="Impermanence" class="internal-link" target="_blank" rel="noopener">Impermanence</a> · <a data-href="Clinging" href="Clinging" class="internal-link" target="_blank" rel="noopener">Clinging</a> · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Emptiness" href="Emptiness" class="internal-link" target="_blank" rel="noopener">Emptiness</a> · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> · <a data-href="Awakening" href="Awakening" class="internal-link" target="_blank" rel="noopener">Awakening</a>_</span>
 

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-### Paragraphs in [[Samadhi in Metta Practice]]
+## Paragraphs in [[Samadhi in Metta Practice]]
 - [[Samadhi in Metta Practice#Metta develops the heart insight and samadhi|Metta develops the heart, insight and samadhi.]]
 ### Terminology
 - [[Samadhi in Metta Practice#Samadhi is often translated as "concentration"|Samadhi is often translated as "concentration".]]

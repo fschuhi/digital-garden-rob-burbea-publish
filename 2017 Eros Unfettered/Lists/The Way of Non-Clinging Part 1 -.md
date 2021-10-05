@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-### Paragraphs in [[The Way of Non-Clinging Part 1]]
+## Paragraphs in [[The Way of Non-Clinging Part 1]]
 - [[The Way of Non-Clinging Part 1#Could be a standalone talk on clinging but will set context|Could be a standalone talk on clinging, but will set context.]]
 - [[The Way of Non-Clinging Part 1#Different conceptual frameworks different understandings|Different conceptual frameworks, different understandings.]]
 - [[The Way of Non-Clinging Part 1#You've probably heard the teachings about non-clinging before|You've probably heard the teachings about non-clinging before.]]
