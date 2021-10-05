@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[The Way of Non-Clinging Part 3]]
+
+---
+<br/>
+
 ###### 1-1
 ^[test für [[meta-data]]] Okay, so in the last part, in part two of this talk, we unpacked a little bit, outlined, laid out a different way of thinking about [[clinging]] and this teaching of non-clinging so that one is actually investigating the [[experience]] of clinging, that movement of clinging, and times of more clinging, less clinging, even less clinging, becoming skillful at moving up and down on that spectrum. And opening up, through doing that, first of all what that word clinging means, seeing that it too is a spectrum of very, very gross to very, very subtle, and using it as an entry point and a tool, a key for investigation into the [[fabrication]] of [[perception]], the fabrication of appearances, the [[Dependent Origination|dependent arising]] of appearances, and the investigation of seeming reality, the questioning of that reality through the mechanism of playing with [[ways of looking]], fabrication, centered on the concept of clinging. And opening up in that way, very deeply, momentously, the actual sense of existence. As opposed to trying to live without clinging, somehow live a life that is free of clinging, [[craving]], et cetera[[The Way of Non-Clinging Part 3#Summary of the first 2 talks|.]] ^1-1
 ###### 1-2

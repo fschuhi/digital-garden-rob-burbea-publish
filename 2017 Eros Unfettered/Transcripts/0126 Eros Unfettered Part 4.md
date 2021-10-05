@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Eros Unfettered Part 4]]
+
+---
+<br/>
+
 ###### 1-1
 So you can see in so many different ways the possibilities of supporting or blocking the erotic movement, the movement of [[soulmaking]], the process and dynamic of soulmaking. This, we could say, this is what the [[soul]] wants. What do we [[love]] about being in love? We love the love, yeah, sure. But maybe more, maybe more than that, we love the sense of soulmaking when we are in love, to echo something we said the other day. We love the sense of [[Infinity|the infinite]] potential, the infinite creation and discovery, creativity and discovering with respect to the beloved other, in and with respect to them, in and with respect to [[the self]], to the world, to the [[eros]], to [[divinity]]. Eros, if it is allowed to stimulate and open this [[soulmaking dynamic]], the eros-psyche-logos dynamic, the bigger meaning of eros, eros opens, it opens things up, and that opening is what is soulmaking. And we love that. ^1-1
 ###### 1-2

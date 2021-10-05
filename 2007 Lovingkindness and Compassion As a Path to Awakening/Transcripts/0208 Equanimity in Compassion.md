@@ -2,6 +2,13 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Equanimity in Compassion]]
+
+---
+<br/>
+
+
 ###### 1-1
 Okay, so today I want to talk about [[equanimity]] - it's the fourth of the [[Brahmaviharas|brahmavihāras]] - and specifically I want to talk about equanimity and its relation to [[compassion]] (actually, maybe broaden it out if we have time). So as you know, there are these four brahmavihāras, four divine or sublime abidings, dwellings of the heart, and we've been working mostly on the [[Metta|loving-kindness]] (the mettā), the compassion (karuṇā). [[Catherine McGee|Catherine]], I think - Monday, or one day - talked about [[Happiness|joy]], which is the third one[[Equanimity in Compassion#Equanimity is the fourth of the brahmaviharas|.]] ^1-1
 ###### 1-2

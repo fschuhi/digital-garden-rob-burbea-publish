@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[The Way of Non-Clinging Part 1]]
+
+---
+<br/>
+
 ###### 1-1
 What I would like to do tonight is give a talk that in some ways could just stand alone, talking about [[Clinging|non-clinging]]. But in other ways, and this is my main purpose really, hopefully give something in a way that serves or gives a kind of preface, if you like, to the set of talks that we are going to start around the [[Alchemy|alchemy of desire]], around [[eros]] and practice. So kind of preface, but slightly strange preface, but one that serves to give a context, or at least part of a context for what many would probably consider relatively unusual teachings in the rest of the set. So I want to give part of a context tonight. And as well as context, begin also to contrast different, if you like, [[Insight|understandings]] or visions or [[Conceptual Framework|conceptual frameworks]] that we can have of [[Dharma]] and of this teaching of clinging and non-clinging in the Dharma[[The Way of Non-Clinging Part 1#Could be a standalone talk on clinging but will set context|.]] ^1-1
 ###### 1-2

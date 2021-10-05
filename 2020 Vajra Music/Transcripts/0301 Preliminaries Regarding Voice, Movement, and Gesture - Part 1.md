@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+
+---
+<br/>
+
 ###### 1-1
 Hello, everyone. There are a few things I would like to offer, so I'm making this recording, these recordings. I think usually I would probably have waited a little longer to (1) gather a little more material around these topics, and (2) to just hope that I felt a little bit more capable physically and mentally. But despite the difficulties, I think it's probably wiser not to wait, and just take this window of opportunity as it presents itself right now, as I don't know what the future will bring[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Time is short thus these talks|.]] ^1-1
 ###### 1-2

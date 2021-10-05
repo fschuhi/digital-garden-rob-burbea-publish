@@ -4,9 +4,22 @@ ignore-transcript-for-crossref:
    - Preliminaries Regarding Voice, Movement, and Gesture - Part 5
    - 0126 Eros Unfettered Part 4
 obsidianUIMode: preview
+showTop10ReferringTranscripts: true
 ---
 
 #IndexEntry #Robology
+
+### Top 10 referring transcripts
+[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (51)
+[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (31)
+[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (28)
+[[0123 Eros Unfettered Part 1]] (26)
+[[0119 Dilemmas and Delineations - How did we get here Part 2]] (14)
+[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (14)
+[[0120 Dilemmas and Delineations - How did we get here Part 3]] (10)
+[[0124 Eros Unfettered Part 2]] (8)
+[[0305 Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] (4)
+[[0116 The Way of Non-Clinging Part 2]] (3)
 
 ### Quotes
 ##### Vajra Music - Preliminaries - Part 1 [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1|(Transcript)]] 🟢 ^some-block-pointer
@@ -98,3 +111,4 @@ A good way to train the [[energy body]] is to continue to focus in the foregroun
 - Breath Energy (TB)
 - Shiné, all-around awareness
 - (Griffero 2017) Felt-bodily resonances.pdf
+

@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Perfection and Christ's Blessing]]
+
+---
+<br/>
+
 ###### 1-1
 Sometimes we have a very different sense of [[perfection]], our perfection, the perfection of being, the perfection that runs through being, existence. Washing my hands … so bony now. I've lost so much weight. Feeling my body wasted away, just bones really. I can't see properly. I can't stand up. I don't have any balance. Washing my hands after going to the toilet, trying to be careful because of the virus. And somehow, in the touch of one hand on the other, in the touch, there's some kind of perfection. There's some kind of [[beauty]] of God's [[Devotion|grace]] that has nothing to do with 'perfection' in the way that we usually understand it or think of it, _becoming_ perfect[[Perfection and Christ's Blessing#A very different sense of perfection|.]] ^1-1
 ###### 1-2

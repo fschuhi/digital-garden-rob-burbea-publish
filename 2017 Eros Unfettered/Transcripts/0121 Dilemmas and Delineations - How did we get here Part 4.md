@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Dilemmas and Delineations - How did we get here Part 4]]
+
+---
+<br/>
+
 ###### 1-1
 Now, I am aware that these are - well, many of these, at least, are quite unfamiliar ideas for many people, maybe even many [[Dharma]] people, and maybe in the culture. So I want to just say something about that. It is a lot easier to teach Dharma, or rather there is no objection, which makes it easier when we teach Dharma or present something as Dharma, in the cases where we mix in all kinds of assumptions, or frames of reference, or conceptual bases, or conceptual biases as well, as long as they are well-established in Western modernist culture and assumed to be true by that culture. So when you mix those kind of ideas in and assumptions in and package it all as, quote, "Dharma" - for instance, [[neuroscience]] or some of the ideas from modern psychotherapy - and you introduce them and they become absorbed or blended into, quote, "Dharma," that is a lot easier. Rarely does anyone's eyebrows get raised or anyone have a problem with that. ^1-1
 ###### 1-2

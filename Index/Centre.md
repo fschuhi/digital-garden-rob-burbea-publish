@@ -59,3 +59,16 @@ _occurrences: [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part
 
 ##### 2020 Vajra Music: Preliminaries Regarding Voice, Movement, and Gesture - Part 3 [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3|(Transcript)]]
 _occurrences: [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^1-2|1-2 (1)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^1-3|1-3 (4)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-2|2-2 (6)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-3|2-3 (8)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-4|2-4 (6)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-5|2-5 (1)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-2|3-2 (7)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-4|3-4 (1)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-5|3-5 (10)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^4-1|4-1 (2)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^4-2|4-2 (4)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^4-3|4-3 (3)]]_
+
+### Top 10 referring transcripts
+[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (53)
+[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (11)
+[[0127 From Insight to Love]] (3)
+[[0201 The Practice of Compassion]] (3)
+[[0125 Eros Unfettered Part 3]] (3)
+[[0122 Samadhi in Metta Practice]] (2)
+[[1231 Joy (talk)]] (2)
+[[0124 Eros Unfettered Part 2]] (2)
+[[0120 Dilemmas and Delineations - How did we get here Part 3]] (1)
+[[0122 Dilemmas and Delineations - How did we get here Part 5]] (1)
+

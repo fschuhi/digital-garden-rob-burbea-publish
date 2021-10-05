@@ -1,13 +1,26 @@
 ---
-obsidianUIMode: preview
 ignore-transcript-for-crossref:
    - Dilemmas and Delineations - How did we get here Part 5
    - Eros Unfettered Part 1
    - Preliminaries Regarding Voice, Movement, and Gesture - Part 1
    - From Insight to Love
+obsidianUIMode: preview
+showTop10ReferringTranscripts: true
 ---
 
 #IndexEntry #Buddhology
+
+### Top 10 referring transcripts
+[[0208 Equanimity in Compassion]] (75)
+[[1228 Equanimity (talk)]] (40)
+[[0201 The Practice of Compassion]] (8)
+[[1231 Joy (talk)]] (8)
+[[0204 Love and Emptiness]] (7)
+[[0127 From Insight to Love]] (1)
+[[0118 Dilemmas and Delineations - How did we get here Part 1]] (1)
+[[0122 Dilemmas and Delineations - How did we get here Part 5]] (1)
+[[0123 Eros Unfettered Part 1]] (1)
+[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)
 
 ### Quotes
 ##### 2006 New Year's Retreat: Equanimity [[1228 Equanimity (talk)|(Transcript)]]
@@ -67,3 +80,4 @@ ignore-transcript-for-crossref:
 
 ###### 2007 New Years Retreat Insight Meditation: Joy (talk) [[1231 Joy (talk)|(Transcript)]]
 _occurrences: [[1231 Joy (talk)#1-4|1-4]] (3) · [[1231 Joy (talk)#3-2|3-2]] (4) · [[1231 Joy (talk)#8-2|8-2]]_
+

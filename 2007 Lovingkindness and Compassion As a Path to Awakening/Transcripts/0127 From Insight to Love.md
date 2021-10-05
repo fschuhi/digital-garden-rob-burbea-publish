@@ -2,6 +2,13 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[From Insight to Love]]
+
+---
+<br/>
+
+
 ###### 1-1
 So through this practice, in this [[retreat]], a number of things are going on, hopefully. And one is the [[cultivation]] of the [[Metta|mettā]]. We could say the [[awakening]] of the heart, the awakening of a different way of being in the world. One could say that. And the development of the mettā, the deepening of the mettā as a gift, as a [[healing]] for ourselves and for the world. And all the benefits that that brings, and all the [[beauty]] that that brings. And we've talked also about the [[Samadhi|samādhi]], and the development of that and the benefits of that. And in this retreat in particular, how [[love]] develops [[insight]]. How love itself and the development of love leads to insight. We'll be talking more about that. But in _this_ talk, what I want to go into a little bit is how insights can lead to love, how the process of insight can feed and nourish the process of mettā and [[compassion]]. So nourishing love through insight[[From Insight to Love#What is going on in this retreat here how insights can lead to love|.]] ^1-1
 ###### 1-2

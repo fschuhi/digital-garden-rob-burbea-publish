@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Dilemmas and Delineations - How did we get here Part 3]]
+
+---
+<br/>
+
 ###### 1-1
 So, as I have already said, what we mean by [[eros]], the way we are using that term, is actually woven in and related to and indissolubly bound up with and connected to a whole range of other terms that we are using with specific meanings to form a kind of larger [[conceptual framework]]. There is a whole web of [[relationships]] and implied meanings there, so we can not really unpack what we mean by eros without beginning to include more of those terms and say a little about those other notions and a little bit about what the relationships are. But this whole edifice, this whole architecture, conceptual framework, is something we will unfold gradually. There is quite a lot to it, in a way. ^1-1
 ###### 1-2

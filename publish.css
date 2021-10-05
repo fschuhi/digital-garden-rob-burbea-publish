@@ -31,12 +31,6 @@
     color: white;
 }
 
-/* see also font-size.css */
-.markdown-preview-view {
-    font-size: 14px;
-    line-height: 1.6em;
-}
-
 /* 29.09.21 removed after Mary said she can only see 1 page /*
 /*
 .site-body-left-column {
@@ -130,6 +124,7 @@ audio {
     filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(5%);
     width: 200px;
     height: 20px;
+    font-size: 12px;
 }
 
 /* works only in Chrome */
@@ -162,6 +157,30 @@ audio::-webkit-media-controls-panel {
 
 .counts .internal-link {
     text-decoration: none;
+}
+
+
+/****************************************/
+/* font-family.css
+/****************************************/
+
+body {
+   font-family: "Avenir Next" !important; 
+}
+
+
+/****************************************/
+/* font-size.css
+/****************************************/
+
+.markdown-preview-view {
+    font-size: 14px;
+    line-height: 1.6em;
+}
+
+.markdown-source-view {
+    font-size: 14px;
+    line-height: 1.6em;
 }
 
 

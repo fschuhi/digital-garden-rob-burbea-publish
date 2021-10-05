@@ -2,6 +2,13 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[What is Insight]]
+
+---
+<br/>
+
+
 ###### 1-1
 So the theme I would like to explore this evening is [[insight]]. Just to go into what that means. What is insight? What does that mean when we talk about "insight," when we talk about "[[Meditation|insight meditation]]"? So very much what I want to do in this talk is give an overview, very much of an overview, so big, big picture. I want to offer some of the avenues of possibility for how insight deepens, and what that process is, can be - some of the possibilities. And to really give, what I want to do is to give a [[conceptual framework]]. So it's very much about just kind of putting things in place[[What is Insight#This talk is about putting things in place|.]] ^1-1
 ###### 1-2

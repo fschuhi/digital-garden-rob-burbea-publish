@@ -2,6 +2,13 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[The Practice of Compassion]]
+
+---
+<br/>
+
+
 ###### 1-1
 Okay, so I want to talk in a bit more detail about this practice of [[compassion]] that we're doing. One possible definition for compassion might be something, _something_, like: the natural response of the heart to [[Dukkha|suffering]] when that heart, when the mind, when the [[consciousness]], is not preoccupied with self, when it's not kind of [[Contraction|contracted]] around self, _what I want_, including a negative [[The Self|self-view]], "I'm terrible at all this" or whatever it is. So when that contraction around self isn't there, the natural response of the heart when it meets suffering will be this compassion. That's one possible definition[[The Practice of Compassion#Compassion is the natural response of the heart to suffering in absense preoccupation with self|.]] ^1-1
 ###### 1-2

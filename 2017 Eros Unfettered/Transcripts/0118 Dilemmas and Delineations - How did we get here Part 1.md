@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Dilemmas and Delineations - How did we get here Part 1]]
+
+---
+<br/>
+
 ###### 1-1
 So this is really a [[retreat]], a course, on the theme, on the subject, exploring the themes of [[eros]] and [[desire]] and the [[Alchemy|alchemy of desire]]. I want to take a little time now over the next few talks to begin to [[Delineations|delineate]] what we mean when we use this word eros, what we mean when we use this word eros. So to begin to do that. As you will quickly see, the way we are using that word is actually woven in with a whole web, if you like, a whole dynamic web of other words that we are using specifically, quite specifically related ideas, related notions, related experiences. So we will have to kind of gradually unfold all this, unpack it if you like, or gradually - reverse analogy - build a framework, an architecture that will help us here, build our ship or our vehicle[[Dilemmas and Delineations - How did we get here Part 1#We will gradually unfold the web around the word "eros"|.]] ^1-1
 ###### 1-2

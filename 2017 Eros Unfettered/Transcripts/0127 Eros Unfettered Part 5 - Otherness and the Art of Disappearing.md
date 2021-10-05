@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]]
+
+---
+<br/>
+
 ###### 1-1
 Let us pick up a couple of threads we have already touched on and take them a little further, elaborate them a little more, weave them together a little more, regarding this whole [[soulmaking dynamic]]. So one of the things we said quite early on was that the way we are defining [[eros]] - and these definitions are not about who is right and who is wrong or whatever - but the way we are defining eros is not the way some people have defined it historically and some people still do, which I think comes from the Neoplatonic tradition. We are not defining it as or saying that it is a drive or force to [[Samadhi|unification]], to union. Rather, or in contrast to that, we have been saying that eros, in the way that we are using that word, eros as we define it, preserves and creates or discovers twoness. ^1-1
 ###### 1-2

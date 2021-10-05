@@ -2,8 +2,15 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Guided meditation - Metta to phenomena]]
+
+---
+<br/>
+
+
 ###### 1-1
-[0:02, [[Meditation|guided meditation]] begins] ^1-1
+([[Meditation|guided meditation]] begins) ^1-1
 ###### 1-2
 Directing the [[Metta|mettā]], the [[compassion]], not to beings, to living beings, but towards [[experience]], towards [[Phenomenon|phenomena]] that arise in [[consciousness]]. So right now, in that lightness of [[awareness]], just noticing if something, anything in your experience is prominent, standing out. Something in the body, [[Embodiment|body sensations]], perhaps; an emotion or a [[mind state]], a feeling. Just noticing. Perhaps nothing is particularly standing out or prominent. So then just being in the body with whatever is in awareness in the moment[[Guided meditation - Metta to phenomena#Just noticing if anything in experience is standing out|.]] ^1-2
 ###### 1-3

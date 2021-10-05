@@ -1,7 +1,13 @@
 ---
 obsidianUIMode: preview
+showTop10ReferringTranscripts: true
 ---
 #IndexEntry #Robology
+
+### Top 10 referring transcripts
+[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (12)
+[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (12)
+[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (5)
 
 ### Quotes
 ##### Vajra Music: Preliminaries Regarding Voice, Movement, and Gesture - Part 1 [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1|(Transcript)]]
@@ -26,4 +32,3 @@ obsidianUIMode: preview
 > If you ask, say, a Tibetan rinpoche (...) what they spend most of their formal practice time doing, they still, even after many years, spend perhaps most of their time doing what are basically preliminary exercises. [[Ngöndro]] ... So yes, 'preliminary' as in, "This needs to come first. This is what precedes." But it doesn't necessarily mean that then, "Okay, now I've done that ... and I can just do my sort of more advanced practice." _([[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#23-1|23-1]])_
 
 > I'm not really sure about this word, 'preliminary.' I'm partly picking it and using it because there _are_ [[preliminaries]], as I've tried to explain, to certain areas, directions, domains of our being and our life's opening up with [[soul]]. So in some ways they _are_ preliminaries. But also, as we've explained, they can be expanded, stretched, developed. They can become [[soulmaking]] in themselves. They can become extraordinary and not basic at all. _([[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#23-2|23-2]])_
-

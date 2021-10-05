@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Logos in the Garden of Souls Part 3]]
+
+---
+<br/>
+
 ###### 1-1
 I remember many years ago one of my [[music]] teachers saying that I think it was [[Dwight Eisenhower|General Eisenhower]] - and I could have that wrong, but someone like that; and apologies to him and his memory if this is wrong; it actually does not matter who it was for the point of what I am relating - but General Eisenhower or someone said, proclaimed, "I only recognise two pieces of music: one is Yankee Doodle Dandy and the other is not". And so, I do not quite know the context or even what he was getting at when he said that and whether it is relevant that the tune he did recognise was, you know, a patriotic nationalistic militaristic thing or not. But imagine someone or consider someone who has that kind of degree or extent of tone-deafness in relation to music. They are really quite unreceptive to music, and really quite unperceptive. So what they are perceiving or what they are getting from it is, you know, almost for some people would be staggeringly little. ^1-1
 ###### 1-2

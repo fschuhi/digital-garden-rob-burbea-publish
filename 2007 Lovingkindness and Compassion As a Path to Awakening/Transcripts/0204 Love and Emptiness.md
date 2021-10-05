@@ -2,6 +2,13 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Love and Emptiness]]
+
+---
+<br/>
+
+
 ###### 1-1
 Okay, so I want to talk a bit about [[love]] and [[emptiness]], and pick up on what we introduced today in terms of practice. But first I think just a very brief sort of review of the show so far, sort of thing. And at this point, I don't think I need to sort of sell [[Metta|mettā]] any more to anyone - at least I hope not. But what are we doing here? We're cultivating mettā and [[compassion]]. And we can see, we can feel, here on the [[retreat]] and in our lives, the [[Blessing|blessings]] that come from that, the gifts of doing that, for our selves, for our own lives, for our own being, and in the world, for others[[Love and Emptiness#We are cultivating metta and compassion and we can see the blessings that come from that|.]] ^1-1
 ###### 1-2

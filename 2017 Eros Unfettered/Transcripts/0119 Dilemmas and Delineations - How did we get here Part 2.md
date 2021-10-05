@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Dilemmas and Delineations - How did we get here Part 2]]
+
+---
+<br/>
+
 ###### 1-1
 Okay, so if we just briefly sum up why [[eros]], why make this delineation: well, yes, because it is part of our life already, as should become more and more really evident. There is eros involved in our relationship with [[Dharma|the path]] and with [[awakening]]. To different degrees, eros is involved in our relationship with the path and awakening and the notion of awakening. Therefore, eros needs to be investigated there, because it is part of my path, because it is involved in my relationship with it. It is certainly part of [[Imaginal|imaginal practice]]. Eros is certainly part of imaginal practice. And, as I said, eros involves and leads to [[soulmaking]] and widening of the senses of [[Divinity|sacredness]] beyond just the 'isness' of things and even beyond the transcendence that is possible for us, for [[consciousness]] - transcendence in [[oneness]] or the [[Unfabricated]]. And opening up sacredness wider than a kind of universal sacredness. We have talked about this on other [[Retreat|retreats]] and we will go into this on this retreat. There is a kind of universal sacredness, and then there is particular sacredness, theophanies, that preserve particularities. ^1-1
 ###### 1-2

@@ -2,12 +2,18 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]]
+
+---
+<br/>
+
 ###### 1-1
 Okay, here's another exercise. And remember, it's only an exercise, like some of the other things we've done. It's reminiscent, or reminds me of - in a way, it's a variation of - something we did on the [[retreat]], some of the exercises we did on the retreat, on movement (I've forgotten what it's called; anyway, it's on [[Index/Dharma Seed]]), where we just moved the body, almost micro-movements, held a posture, and saw what that did to the [[energy body]], to the [[emotions]], to the [[Soul|soul-sense]], if [[Image|images]] arose or if not. Just an exercise. What we're doing here is training sensibility, training sensitivity. There are many possibilities. You can start with an image, and then let the body, let the voice move - from the image, move into the voice; express, manifest through the voice, through the posture or the movement. We can start with the movement, and see what happens in the soul. It's two ways round to do it. So there are all kinds of variations. We're going to combine voice and gesture or posture[[Preliminaries Regarding Voice, Movement, and Gesture - Part 5#Micro-movements hold posture check for resonance in energy body and for image|.]] ^1-1
 ###### 1-2
 This is just an exercise. I don't think we've done it before with this combination. But you can get to think in a certain way about exercises. It's not a big deal. Like I said, it's a screw on an airplane. If it's missing, it might be a big deal, but in terms of the bigger sort of structure of the aircraft, how it works, it's not such a big deal. It's not a central component. But if it's missing, it might be a big deal. So these exercises, occasionally, for a while, emphasizing them or whatever, filling out cracks that haven't been filled in the [[Soul|soulscape]][[Preliminaries Regarding Voice, Movement, and Gesture - Part 5#Use the excercise to fill out cracks that haven't been filled in the soulscape|.]] ^1-2
 ###### 1-3
-[3:02, **exercise six** begins] ^1-3
+(3:02, **exercise six** begins) ^1-3
 ###### 1-4
 **(6.1)** Okay, so there are two elements. There's a sound element, sonic, a voicing element, and a gesture or posture element or movement element. So for this, if we start with the sound, with the voicing, it goes with a little melody. [voices higher and lower notes: _naaa-ah-ah-ah-ah-ah-uh_] It's just repeating. I'm singing it, enunciating it more clearly than you need to necessarily. So that's part of your variation, how you sing it. _Naaa-da-da-da-da-da-da._ It's just that fragment repeating, with the syllable for instance, "ba": _baaa-ah-ah-ah-ah-ah-uh_, _baaaaaa-ah-ah-ah-ah-ah-uh_, _baaa-ah-ah-ah-ah-ah-uh._ It doesn't have to be exact; something like that, something rhythmically close to that. If you know [[music]], I'm holding roughly the long note for a count of three or six, and the rest is one each, of six. I'm thinking six eighth notes, or six - what are they called in English? I've forgotten what they're called! [laughs] Six [quavers], maybe they're called. Anyway, so that's the vague thing that you voice, with the syllable "ba," just to start[[Preliminaries Regarding Voice, Movement, and Gesture - Part 5#🟡 Excercise 61 melody naa baa|.]] ^1-4
 ###### 2-1

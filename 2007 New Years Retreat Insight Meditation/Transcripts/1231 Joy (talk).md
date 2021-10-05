@@ -2,6 +2,13 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Joy (talk)]]
+
+---
+<br/>
+
+
 ###### 1-1
 _([[Mudita|Spiritual Joy]])_ ^1-1
 ###### 1-2

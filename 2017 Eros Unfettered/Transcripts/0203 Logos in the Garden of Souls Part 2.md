@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Logos in the Garden of Souls Part 2]]
+
+---
+<br/>
+
 ###### 1-1
 So just to pick up where we left off. We said that if we are going to forge a [[conceptual framework]] then there is a lot of elements of our existence that it needs to account for, include, make sense of, give vital place and purpose to, and tie together. And part of it, just very quickly repeating what we have said, we are acknowledging its historical place. It is historically conditioned, contingent. We are not devising or discovering some kind of ultimately true, grand conceptual framework or theory that is completely [[History|ahistorical]]. We are recognising that there is always a [[Ways of Looking|way of looking]], which includes the concept. And the way of looking and the concept shapes, determines, gives rise to [[experience]], and vice versa; that it needs to support [[soulmaking]]; that it needs to support a fertility and widening of experience and also of ideation in fact as well, support a widening and an opening of other ways of knowing and not limiting that in some kind of [[Epistemology#Epistemicide|epistemicide]]; that it is opening [[Embodiment|embodied]] ways of looking without preprescribed limits to it. We are not shrinking down to a claim that there is just one right way of looking called [[mindfulness]] or science or whatever, and some kind of naive notion that there is only one way of looking and it reveals one reality. Even if we do not use the word truth, we are not shrinking down in any kind of [[monotheism]] in that way. ^1-1
 ###### 1-2

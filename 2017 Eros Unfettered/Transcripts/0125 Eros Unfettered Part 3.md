@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Eros Unfettered Part 3]]
+
+---
+<br/>
+
 ###### 1-1
 Okay, so let us look a little more at various aspects of what is involved in the movement of [[soulmaking]], what is necessary. Let us look at what is necessary, some of what is necessary for the [[Soulmaking Dynamic|eros-psyche-logos dynamic]] to unfold and have its range and its process, and correspondingly, how that movement and that expansion and deepening and widening can be stifled or blocked or diverted, how the movement of [[eros]] can be diverted. And again, why so much? Why are we circling around this, weaving in and out of this so much, this whole business about the soulmaking dynamic and the idea of eros-psyche-logos being stimulated by eros? We are circling because the ideas are unfamiliar, I think, because they are new ideas. They are not in circulation in the culture, I do not think - certainly not in [[Dharma|Dharma culture]]; I do not think in the wider culture either. And ideas that are new, that are unfamiliar, that are not in circulation need repeating for us. We need to chew on them, to digest them, to incorporate them, to assimilate them, to be able to use them, to actually have them be powerful. ^1-1
 ###### 1-2

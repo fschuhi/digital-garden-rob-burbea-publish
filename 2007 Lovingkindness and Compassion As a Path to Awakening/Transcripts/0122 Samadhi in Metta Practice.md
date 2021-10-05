@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Samadhi in Metta Practice]]
+
+---
+<br/>
+
 ###### 1-1
 So I'd like to talk a bit today about [[Samadhi|samādhi]], which is a word some of you may be familiar with. It's a Pali and a Sanskrit word, samādhi. And go into the meaning of that and the development of that and some different aspects and implications of it. When we were thinking about this [[retreat]], we thought, one of the primary questions was, "Well, is it going to be helpful to people? Is it going to be worthwhile for people?" And I reflected on it a little bit, and I thought, "Well, people will develop [[Metta|mettā]], which is a lovely thing. They'll develop that quality of heart. And then, hopefully, there'll be the exposure, the chance to open to the kind of [[Insight|insights]] that come from mettā practice. And then also there'll be the opportunity to develop samādhi." So three possibilities, any of which, or any amount of which, are all completely worthwhile, would make this time here worthwhile to someone[[Samadhi in Metta Practice#Metta develops the heart insight and samadhi|.]] ^1-1
 ###### 1-2

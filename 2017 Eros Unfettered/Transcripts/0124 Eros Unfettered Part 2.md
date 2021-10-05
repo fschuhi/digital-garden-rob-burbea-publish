@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Eros Unfettered Part 2]]
+
+---
+<br/>
+
 ###### 1-1
 So I know it is a lot of material and a lot of detail as well sometimes, so just to state again the kind of larger trajectory or the part of the trajectory we are on at the moment, if you like. We are exploring and opening up the possible [[manifestations]] of [[eros]], and its relation with the [[imaginal]], and the whole breadth of what that means and can mean, and the ways it can arise. And as well as that, we are also looking at, investigating and explaining what eros, when it is opened, will open for us, open to us, and that is connected with our explanation of what we are calling the [[soulmaking dynamic]], the eros-psyche-logos dynamic. So giving examples, and we will move through quite a lot of different examples. Some of them are so-called purely intrapsychic, they may arise in formal [[Meditation|meditation practice]], and some relate to our [[Perception|perceptions]] in the world, of the world, of others, of self, of objects, et cetera. Some are sexual, some non-sexual. All are erotic. And in discussing the sexual, part of the objective of that is to open up the possible manifestations of eros, kind of legitimize, open wider what can be taken and used validly and powerfully as part of our practice. ^1-1
 ###### 1-2

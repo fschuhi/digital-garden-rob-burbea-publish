@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Logos in the Garden of Souls Part 1]]
+
+---
+<br/>
+
 ###### 1-1
 So let us continue in our circling motion, our circling movement, between the different elements and facets of this whole area that we are trying to open up of [[eros]] and [[soulmaking]], and continue our weave back and forth revisiting certain of those elements and weaving them together with others, back and forth like a loom. ^1-1
 ###### 1-2

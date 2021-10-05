@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Equanimity (talk)]]
+
+---
+<br/>
+
 ###### 1-1
 _(introducing [[equanimity]])_ ^1-1
 ###### 1-2

@@ -2,6 +2,13 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Expressions of Metta]]
+
+---
+<br/>
+
+
 ###### 1-1
 Okay, what I want to talk about today is a little bit some of the different expressions of [[Metta|mettā]], some of the different [[Dimensionality|dimensions]] of loving-kindness. So first just to restate something I said in the instructions this morning, which is that mettā is not just one feeling. We have this word, mettā, and we go looking for _one_ thing: "What is that mettā?" And try and see, "Have I got it? Have I not got it?" And just to really be conscious that it's not one feeling. Could more accurately talk about perhaps a constellation of [[feelings]], when it expresses itself as a feeling at all. There's a constellation of feelings, and I've said, sometimes it will take on, it will feel to be, to have, a slightly different colour, a slightly different flavour. Sometimes it's very calming, very soothing. Sometimes there's a quality of [[healing]] in it. Sometimes it's a very bright [[energy]], a very sort of luminous energy. Sometimes bubbly. Sometimes there's a real warmth in it, or gentleness. So in the practice, however it seems to kind of come up and manifest, it's fine, and to really allow those differences, allow those differences of flavours, of colours. And just to notice and feel. It's all included in what we mean by mettā[[Expressions of Metta#Metta is a constallation of feelings|.]] ^1-1
 ###### 1-2

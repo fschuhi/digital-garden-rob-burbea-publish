@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[The Way of Non-Clinging Part 2]]
+
+---
+<br/>
+
 ###### 1-1
 Okay, so how might we think about this teaching about [[clinging]] and [[dukkha]], how might we conceive of it and this aim of non-clinging, how might we conceive of that and approach it in practice in ways that do open up the full depth of what is possible and do not constrain the breadth of [[beauty]] and possibility for us in our lives? What are the ways, what are the possibilities of conceiving and approaching in practice this area, this theme of the teaching[[The Way of Non-Clinging Part 2#What are the ways of conceiving this teaching|?]] ^1-1
 ###### 1-2

@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Dilemmas and Delineations - How did we get here Part 5]]
+
+---
+<br/>
+
 ###### 1-1
 Ralph Waldo Emerson wrote a lot of things that were sort of addressed to himself, kind of advice to himself and notes to self. One of the things he wrote was, "All things have two handles; beware of the wrong one." I think he - I am not sure, but I think he might have been paraphrasing or even quoting the Greek philosopher Epictetus. But anyway. You can see how that applies to a lot of what we have been talking about so far. It is relevant to [[desire]], how we pick it up, by what handle, by what direction, to [[eros]], to this whole notion of [[clinging]], as we explained, that actually are we picking it up as a key or are we picking it up as just something to reject just at one level? It certainly applies to imagination and [[Image|images]] in the conventional sense, two handles. Certainly also [[emptiness]], and the [[Mahayana|Mahāyāna]] tradition makes this very clear. To grasp at emptiness in the wrong way is like [[Craving|grasping]] at a snake by the tail, the wrong end - its head is just going to come and bite you, with regard to emptiness. I think it was Nāgārjuna who wrote that. ^1-1
 ###### 1-2

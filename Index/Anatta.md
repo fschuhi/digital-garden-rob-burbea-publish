@@ -11,3 +11,17 @@ I form a thingness around a "thing".
 Usefulness is defined in relation to dukkha (i.e. the release of it, freedom). Useful in relation to the path, to the goal.
 "true/untrue" not useful
 dukkha = absence of freedom
+
+### Top 10 referring transcripts
+[[0127 From Insight to Love]] (30)
+[[0116 The Way of Non-Clinging Part 2]] (20)
+[[0125 Expressions of Metta]] (6)
+[[1229 What is Insight]] (6)
+[[1231 Views in Practice - They Make All the Difference]] (5)
+[[0201 The Practice of Compassion]] (5)
+[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (5)
+[[0122 Samadhi in Metta Practice]] (3)
+[[0204 Love and Emptiness]] (3)
+[[0202 Logos in the Garden of Souls Part 1]] (3)
+
+## some other stuff

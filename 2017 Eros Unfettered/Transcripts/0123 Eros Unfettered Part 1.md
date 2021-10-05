@@ -2,6 +2,12 @@
 obsidianUIMode: preview
 ---
 #Transcript
+
+Summary: [[Eros Unfettered Part 1]]
+
+---
+<br/>
+
 ###### 1-1
 So let us begin to explore a little more, to unfold and unpack this movement of [[eros]], the movement of [[soulmaking]], what I have been [[Passion|calling]] the [[soulmaking dynamic]] or the eros-psyche-logos dynamic and look at that and some of its consequences, what it involves, what it brings into being and opens up, and also some of the ways that whole organic movement can be hindered or blocked or impeded or weakened or stopped in some way.^[Das ist eine Fußnote] So both speaking sort of in theoretical terms, but hopefully with examples and fleshing it out that way. So really there is a double intent here over the next few talks of opening up the possibilities of eros, opening up for ourselves the possibilities, the possible [[manifestations]] of eros in practice, in life, in our existence, in the way that we relate to existence and to [[image]], et cetera. So opening up the possibilities but also looking at what the possibilities of eros open for us, so what comes out for us, what is made available to us because of the movement and the manifestation, the different manifestations of eros. So double intent there. ^1-1
 ###### 1-2
