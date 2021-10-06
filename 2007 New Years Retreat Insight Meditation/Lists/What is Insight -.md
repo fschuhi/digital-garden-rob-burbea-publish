@@ -64,8 +64,6 @@ obsidianUIMode: preview
 - [[What is Insight#Seeing things as not-self|Seeing things as not-self.]]
 - [[What is Insight#Just letting go of the aversion in the heart the heart opens|Just letting go of the aversion in the heart, the heart opens.]]
 - [[What is Insight#To the degree we let go experience fades|To the degree we let go, experience fades.]]
-- [[What is Insight#Going back to mindfulness|Going back to mindfulness...]]
-- [[What is Insight#audio cut off for about 20 seconds|audio cut off for about 20 seconds.]]
 - [[What is Insight# the more we let go of papanca the more our experience begins to brighten|... the more we let go of papanca, the more our experience begins to brighten.]]
 - [[What is Insight#Letting go makes the now sparkle|Letting go makes the now sparkle.]]
 - [[What is Insight#It can feel that this radiance is the reality "suchness"|It can feel that this radiance is the reality ("suchness")]]
