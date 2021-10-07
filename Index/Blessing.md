@@ -1,10 +1,20 @@
 #IndexEntry #Robology
 
-### Top 10 referring transcripts
-[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (32)
-[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (24)
-[[0306 Perfection and Christ's Blessing]] (5)
-[[0204 Love and Emptiness]] (2)
-[[0204 Logos in the Garden of Souls Part 3]] (1)
-[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 32 | [[2020 Vajra Music]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 24 | [[2020 Vajra Music]]
+[[Perfection and Christ's Blessing]] | 5 | [[2020 Vajra Music]]
+[[Love and Emptiness]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 1 | [[2020 Vajra Music]]
+[[Logos in the Garden of Souls Part 3]] | 1 | [[2017 Eros Unfettered]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#"Blessing" in different traditions\|"Blessing" in different traditions]] [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^1-1\|.]] **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^1-2\|.]]** [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^1-3\|.]] | 6
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#🟡 Excercise 411 no known language for blessing\|🟡 Excercise 4.1.1. no known language for blessing]] [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^11-3\|.]] **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^11-4\|.]]** [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^11-5\|.]] | 5
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The question "what does blessing look like" is culturally contingent Mode 1\|The question "what does blessing look like" is culturally contingent (Mode 1)]]  **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^1-1\|.]]** [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^1-2\|.]] | 4
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Out of a traditional idea come particular movements gestures vocalizations\|Out of a traditional idea come particular movements, gestures, vocalizations]] [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^1-2\|.]] **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^1-3\|.]]** [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^2-1\|.]] | 4
 

@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
-showTop10ReferringTranscripts: true
+showTopReferringTalks: true
 ---
 #IndexEntry #Robology
 
-### Top 10 referring transcripts
-[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (18)
-[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (8)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 24 | [[2020 Vajra Music]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 8 | [[2020 Vajra Music]]
 
 ### Quotes
 #### [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1|Vajra Music: Preliminaries - Part 1 (Transcript)]]
@@ -23,4 +25,13 @@ showTop10ReferringTranscripts: true
 
 > As usual, a little bit of [[Middle Way]] can go a long way, bringing some intelligence here, knowing one's patterns, recognizing the kinds of [[inertia]] one typically gets entrenched in, falls into. All that's really important. As usual, it's really about [[Insight|discernment]], intelligence, and applying that to one's practice. _([[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#6-4|6-4]])_
 
+
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Inquiry into inertia is important\|Inquiry into inertia is important]] [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^7-2\|.]] **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^7-3\|.]]** [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^8-1\|.]] | 6
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Where's the inertia\|Where's the inertia?]] [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^7-2\|.]] **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^7-3\|.]]** [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^8-1\|.]] | 6
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Example the concept of "inertia"\|Example: the concept of "inertia"]] [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^4-5\|.]] **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^5-1\|.]]** [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^5-2\|.]] | 5
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Seeing That Frees is often read too fast without doing the practices\|Seeing That Frees is often read too fast, without doing the practices]] [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^5-3\|.]] **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^5-4\|.]]** [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^6-1\|.]] | 5
 

@@ -17,6 +17,8 @@ You find a short bio of Rob [[Rob Burbea|here]].
 
 The [[Rob Burbea Transcription Project]] has transcribed the talks from the recordings on [[Using Dharma Seed|Dharma Seed]]. The transcript PDFs are translated to web pages in this Digital Garden and amended with keywords, crossreferences, summaries, quotes, notes and further information derived from the talks.
 
+The Garden has an [[Index]] for key terms and phrases.
+
 There is an [[Introduction]] to this Digital Garden and also **help pages** which show [[How to browse the Digital Garden|how to browse the Digital Garden]].
 
 If you have been here before you might want to check out the [[Changelog]] for new content and features.

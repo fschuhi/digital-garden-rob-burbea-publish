@@ -1,14 +1,51 @@
 #IndexEntry #Buddhology
 
-### Top 10 referring transcripts
-[[0201 The Practice of Compassion]] (118)
-[[1229 What is Insight]] (55)
-[[1231 Views in Practice - They Make All the Difference]] (50)
-[[0208 Equanimity in Compassion]] (50)
-[[0115 The Way of Non-Clinging Part 1]] (28)
-[[0116 The Way of Non-Clinging Part 2]] (27)
-[[0127 From Insight to Love]] (23)
-[[0204 Love and Emptiness]] (17)
-[[0117 The Way of Non-Clinging Part 3]] (14)
-[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (14)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[The Practice of Compassion]] | 115 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[What is Insight]] | 55 | [[2007 New Years Retreat Insight Meditation]]
+[[Equanimity in Compassion]] | 48 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Way of Non-Clinging Part 1]] | 28 | [[2017 Eros Unfettered]]
+[[The Way of Non-Clinging Part 2]] | 27 | [[2017 Eros Unfettered]]
+[[From Insight to Love]] | 22 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Love and Emptiness]] | 15 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 14 | [[2020 Vajra Music]]
+[[The Way of Non-Clinging Part 3]] | 14 | [[2017 Eros Unfettered]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 12 | [[2017 Eros Unfettered]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[Equanimity in Compassion]] | [[Equanimity in Compassion#Rob feeling the suffering is important because there's a lot insight in this approach\|Rob: feeling the suffering is important because there's a lot insight in this approach]] [[0208 Equanimity in Compassion#^14-5\|.]] **[[0208 Equanimity in Compassion#^14-6\|.]]** [[0208 Equanimity in Compassion#^14-7\|.]] | 12
+[[What is Insight]] | [[What is Insight#The Four Noble Truths\|The Four Noble Truths]] [[1229 What is Insight#^6-4\|.]] **[[1229 What is Insight#^7-1\|.]]** [[1229 What is Insight#^7-2\|.]] | 9
+[[What is Insight]] | [[What is Insight#Whenever there is dukkha the unawakened mind does something unnecessary to itself\|Whenever there is dukkha, the unawakened mind does something unnecessary to itself]] [[1229 What is Insight#^7-1\|.]] **[[1229 What is Insight#^7-2\|.]]** [[1229 What is Insight#^7-3\|.]] | 9
+[[The Practice of Compassion]] | [[The Practice of Compassion#When metta meets suffering it transformsinto compassion\|When metta meets suffering, it transformsinto compassion]] [[0201 The Practice of Compassion#^1-1\|.]] **[[0201 The Practice of Compassion#^1-2\|.]]** [[0201 The Practice of Compassion#^1-3\|.]] | 9
+[[Dilemmas and Delineations - How did we get here Part 3]] | [[Dilemmas and Delineations - How did we get here Part 3#\|...]] [[0120 Dilemmas and Delineations - How did we get here Part 3#^5-1\|.]] **[[0120 Dilemmas and Delineations - How did we get here Part 3#^5-2\|.]]** [[0120 Dilemmas and Delineations - How did we get here Part 3#^5-3\|.]] | 8
+[[The Way of Non-Clinging Part 1]] | [[The Way of Non-Clinging Part 1#Huge range of what contitutes craving\|Huge range of what contitutes craving]] [[0115 The Way of Non-Clinging Part 1#^7-3\|.]] **[[0115 The Way of Non-Clinging Part 1#^7-4\|.]]** [[0115 The Way of Non-Clinging Part 1#^7-5\|.]] | 8
+[[What is Insight]] | [[What is Insight#General definition of insight that which brings lessening of suffering\|General definition of insight: that which brings lessening of suffering]] [[1229 What is Insight#^1-4\|.]] **[[1229 What is Insight#^1-5\|.]]** [[1229 What is Insight#^2-1\|.]] | 7
+[[Equanimity in Compassion]] | [[Equanimity in Compassion#Equanimity makes the compassion steady in the face of suffering\|Equanimity makes the compassion steady in the face of suffering]] [[0208 Equanimity in Compassion#^1-5\|.]] **[[0208 Equanimity in Compassion#^1-6\|.]]** [[0208 Equanimity in Compassion#^2-1\|.]] | 7
+[[The Practice of Compassion]] | [[The Practice of Compassion#Fear only compounds the suffering\|Fear only compounds the suffering]] [[0201 The Practice of Compassion#^5-1\|.]] **[[0201 The Practice of Compassion#^5-2\|.]]** [[0201 The Practice of Compassion#^5-3\|.]] | 7
+[[The Practice of Compassion]] | [[The Practice of Compassion#Compassion can be diverted into a kind of righteous indignationor judging others or ourselves\|Compassion can be diverted into a kind of righteous indignation,or judging others or ourselves]] [[0201 The Practice of Compassion#^5-2\|.]] **[[0201 The Practice of Compassion#^5-3\|.]]** [[0201 The Practice of Compassion#^5-4\|.]] | 7
+[[The Practice of Compassion]] | [[The Practice of Compassion#When we see the humanity of the suffering compassion for ourselves can begin to come in\|When we see the humanity of the suffering, compassion for ourselves can begin to come in]] [[0201 The Practice of Compassion#^10-5\|.]] **[[0201 The Practice of Compassion#^11-1\|.]]** [[0201 The Practice of Compassion#^11-2\|.]] | 7
+[[The Practice of Compassion]] | [[The Practice of Compassion#How to practice if the other person doesn't seem to have much suffering in their life\|How to practice if the other person doesn't seem to have much suffering in their life]] [[0201 The Practice of Compassion#^11-1\|.]] **[[0201 The Practice of Compassion#^11-2\|.]]** [[0201 The Practice of Compassion#^11-3\|.]] | 7
+[[The Way of Non-Clinging Part 2]] | [[The Way of Non-Clinging Part 2#Feel its tension feel its release\|Feel its tension, feel its release]] [[0116 The Way of Non-Clinging Part 2#^1-5\|.]] **[[0116 The Way of Non-Clinging Part 2#^1-6\|.]]** [[0116 The Way of Non-Clinging Part 2#^1-7\|.]] | 6
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#The dukkha of soullessness\|The dukkha of soullessness]] [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^8-1\|.]] **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^8-2\|.]]** [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^8-3\|.]] | 5
+[[Love and Emptiness]] | [[Love and Emptiness#Rob Compassion practice tunes into suffering and the outgoing healing can feel like metta\|Rob: Compassion practice tunes into suffering, and the outgoing healing can feel like metta]] [[0204 Love and Emptiness#^13-11\|.]] **[[0204 Love and Emptiness#^14-1\|.]]** [[0204 Love and Emptiness#^14-2\|.]] | 5
+[[The Practice of Compassion]] | [[The Practice of Compassion#Many people are wary that they might be taking on more suffering through compassion\|Many people are wary that they might be taking on more suffering through compassion]] [[0201 The Practice of Compassion#^1-5\|.]] **[[0201 The Practice of Compassion#^1-6\|.]]** [[0201 The Practice of Compassion#^2-1\|.]] | 5
+[[The Practice of Compassion]] | [[The Practice of Compassion#Spaciousness is holding whatever suffering arises\|Spaciousness is holding whatever suffering arises]] [[0201 The Practice of Compassion#^8-3\|.]] **[[0201 The Practice of Compassion#^8-4\|.]]** [[0201 The Practice of Compassion#^9-1\|.]] | 5
+[[From Insight to Love]] | [[From Insight to Love#We are all in the same boat with dukkha\|We are all in the same boat with dukkha]] [[0127 From Insight to Love#^8-1\|.]] **[[0127 From Insight to Love#^8-2\|.]]** [[0127 From Insight to Love#^8-3\|.]] | 5
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's about the soul that is moving through that dukkha\|It's about the soul that is moving through that dukkha]] [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^12-3\|.]] **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^12-4\|.]]** [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^12-5\|.]] | 4
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#The legacy of the Four Noble Truths\|The legacy of the Four Noble Truths]] [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^12-1\|.]] **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^12-2\|.]]** [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^12-3\|.]] | 4
+[[The Way of Non-Clinging Part 2]] | [[The Way of Non-Clinging Part 2#Relaxing the subtle dukkha\|Relaxing the subtle dukkha]] [[0116 The Way of Non-Clinging Part 2#^1-3\|.]] **[[0116 The Way of Non-Clinging Part 2#^1-4\|.]]** [[0116 The Way of Non-Clinging Part 2#^1-5\|.]] | 4
+[[What is Insight]] | [[What is Insight#Just take the way of seeing as a lens and use deepen consolidate it\|Just take the way of seeing as a lens and use, deepen, consolidate it]] [[1229 What is Insight#^9-2\|.]] **[[1229 What is Insight#^9-3\|.]]** [[1229 What is Insight#^9-4\|.]] | 4
+[[What is Insight]] | [[What is Insight#Kaccayana and Dependent Origination\|Kaccayana and Dependent Origination]] [[1229 What is Insight#^12-1\|.]] **[[1229 What is Insight#^12-2\|.]]** [[1229 What is Insight#^12-3\|.]] | 4
+[[Equanimity in Compassion]] | [[Equanimity in Compassion#With spaciousness any suffering can be held effortlessly in that space\|With spaciousness, any suffering can be held effortlessly in that space]] [[0208 Equanimity in Compassion#^4-2\|.]] **[[0208 Equanimity in Compassion#^4-3\|.]]** [[0208 Equanimity in Compassion#^4-4\|.]] | 4
+[[Equanimity in Compassion]] | [[Equanimity in Compassion#Can the compassion stay steady and strong but also that the tenderness of the heart remains\|Can the compassion stay steady and strong, but also that the tenderness of the heart remains?]] [[0208 Equanimity in Compassion#^7-1\|.]] **[[0208 Equanimity in Compassion#^7-2\|.]]** [[0208 Equanimity in Compassion#^7-3\|.]] | 4
+[[The Practice of Compassion]] | [[The Practice of Compassion#When there's insight into suffering compassion comes automatically\|When there's insight into suffering, compassion comes automatically]] [[0201 The Practice of Compassion#^4-1\|.]] **[[0201 The Practice of Compassion#^4-2\|.]]** [[0201 The Practice of Compassion#^4-3\|.]] | 4
+[[The Practice of Compassion]] | [[The Practice of Compassion#My suffering is not different than the suffering of others\|My suffering is not different than the suffering of others]] [[0201 The Practice of Compassion#^10-4\|.]] **[[0201 The Practice of Compassion#^10-5\|.]]** [[0201 The Practice of Compassion#^11-1\|.]] | 4
+[[The Practice of Compassion]] | [[The Practice of Compassion#We share avijja\|We share avijja]] [[0201 The Practice of Compassion#^11-3\|.]] **[[0201 The Practice of Compassion#^11-4\|.]]** [[0201 The Practice of Compassion#^12-1\|.]] | 4
+[[The Practice of Compassion]] | [[The Practice of Compassion#Rob Be clear what the difference is; get more and more used to the feeling of compassion\|Rob: Be clear what the difference is; get more and more used to the feeling of compassion]] [[0201 The Practice of Compassion#^17-1\|.]] **[[0201 The Practice of Compassion#^17-2\|.]]** [[0201 The Practice of Compassion#^17-3\|.]] | 4
+[[From Insight to Love]] | [[From Insight to Love#The "three characteristics"\|The "three characteristics"]] [[0127 From Insight to Love#^5-5\|.]] **[[0127 From Insight to Love#^5-6\|.]]** [[0127 From Insight to Love#^6-1\|.]] | 4
+[[From Insight to Love]] | [[From Insight to Love#Dukkha depends on the struggle of the push and pull\|Dukkha depends on the struggle of the push and pull]] [[0127 From Insight to Love#^8-5\|.]] **[[0127 From Insight to Love#^9-1\|.]]** [[0127 From Insight to Love#^9-2\|.]] | 4
 

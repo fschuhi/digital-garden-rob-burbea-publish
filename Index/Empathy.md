@@ -1,6 +1,15 @@
 #IndexEntry #Robology
 
-### Top 10 referring transcripts
-[[0201 The Practice of Compassion]] (4)
-[[0208 Equanimity in Compassion]] (1)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[The Practice of Compassion]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Equanimity in Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[The Practice of Compassion]] | [[The Practice of Compassion#Compassion involves different qualities eg empathy\|Compassion involves different qualities, e.g. empathy]] [[0201 The Practice of Compassion#^1-2\|.]] **[[0201 The Practice of Compassion#^1-3\|.]]** [[0201 The Practice of Compassion#^1-4\|.]] | 3
+[[Equanimity in Compassion]] | [[Equanimity in Compassion#1 Opening the heart to resonate with the suffering we see empathy\|(1) Opening the heart to resonate with the suffering we see (empathy)]] [[0208 Equanimity in Compassion#^2-1\|.]] **[[0208 Equanimity in Compassion#^2-2\|.]]** [[0208 Equanimity in Compassion#^2-3\|.]] | 1
+[[The Practice of Compassion]] | [[The Practice of Compassion#If there's too much sadness we feel we will get tired and feel burdened\|If there's too much sadness we feel, we will get tired and feel burdened]] [[0201 The Practice of Compassion#^8-1\|.]] **[[0201 The Practice of Compassion#^8-2\|.]]** [[0201 The Practice of Compassion#^8-3\|.]] | 1
 

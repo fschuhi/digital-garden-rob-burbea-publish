@@ -1,6 +1,15 @@
 #IndexEntry #Buddhology
 
-### Top 10 referring transcripts
-[[1229 What is Insight]] (6)
-[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[What is Insight]] | 6 | [[2007 New Years Retreat Insight Meditation]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 2 | [[2020 Vajra Music]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[What is Insight]] | [[What is Insight#Do we give equal attention to the conventional and the ultimate\|Do we give equal attention to the conventional and the ultimate?]] [[1229 What is Insight#^4-2\|.]] **[[1229 What is Insight#^4-3\|.]]** [[1229 What is Insight#^4-4\|.]] | 4
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Structural listening\|==Structural listening==]] [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^6-4\|.]] **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^7-1\|.]]** [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^7-2\|.]] | 2
+[[What is Insight]] | [[What is Insight#Personal and universal truths help us to respond well to conventional reality\|Personal and universal truths help us to respond well to conventional reality]] [[1229 What is Insight#^3-6\|.]] **[[1229 What is Insight#^4-1\|.]]** [[1229 What is Insight#^4-2\|.]] | 2
 

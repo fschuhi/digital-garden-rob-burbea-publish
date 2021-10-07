@@ -1,5 +1,14 @@
 #IndexEntry #Psychology
 
-### Top 10 referring transcripts
-[[1229 What is Insight]] (4)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[What is Insight]] | 4 | [[2007 New Years Retreat Insight Meditation]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[What is Insight]] | [[What is Insight#Different personality types react differently to conceptual frameworks\|Different personality types react differently to conceptual frameworks]] [[1229 What is Insight#^1-2\|.]] **[[1229 What is Insight#^1-3\|.]]** [[1229 What is Insight#^1-4\|.]] | 2
+[[What is Insight]] | [[What is Insight#Talking about the deep end of the path can feel daunting\|Talking about the deep end of the path can feel daunting]] [[1229 What is Insight#^1-3\|.]] **[[1229 What is Insight#^1-4\|.]]** [[1229 What is Insight#^1-5\|.]] | 1
+[[What is Insight]] | [[What is Insight#Insight as result vs insight as a process\|Insight as result vs insight as a process]] [[1229 What is Insight#^6-2\|.]] **[[1229 What is Insight#^6-3\|.]]** [[1229 What is Insight#^6-4\|.]] | 1
 

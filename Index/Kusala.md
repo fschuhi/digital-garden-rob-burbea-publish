@@ -1,10 +1,17 @@
 #IndexEntry #Buddhology
 
-### Top 10 referring transcripts
-[[0204 Love and Emptiness]] (8)
-[[0117 The Way of Non-Clinging Part 3]] (8)
-[[0127 From Insight to Love]] (3)
-[[0115 The Way of Non-Clinging Part 1]] (2)
-[[0116 The Way of Non-Clinging Part 2]] (1)
-[[0118 Dilemmas and Delineations - How did we get here Part 1]] (1)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[The Way of Non-Clinging Part 3]] | 8 | [[2017 Eros Unfettered]]
+[[Love and Emptiness]] | 8 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[From Insight to Love]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Way of Non-Clinging Part 1]] | 2 | [[2017 Eros Unfettered]]
+[[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
+[[The Way of Non-Clinging Part 2]] | 1 | [[2017 Eros Unfettered]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[The Way of Non-Clinging Part 3]] | [[The Way of Non-Clinging Part 3#3 distinctions divisions directions for "clinging"\|3 distinctions, divisions, directions (for "clinging")]] [[0117 The Way of Non-Clinging Part 3#^3-3\|.]] **[[0117 The Way of Non-Clinging Part 3#^3-4\|.]]** [[0117 The Way of Non-Clinging Part 3#^4-1\|.]] | 6
 

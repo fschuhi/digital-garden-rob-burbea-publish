@@ -6,8 +6,18 @@ https://dharmaseed.org/teacher/210/?search=voice+movement+possibilities
 
 part of [[Foundations of a Soulmaking Dharma]]
 
-### Top 10 referring transcripts
-[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)
-[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)
-[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 2 | [[2020 Vajra Music]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 1 | [[2020 Vajra Music]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 1 | [[2020 Vajra Music]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Witness is just noticing albeit by bringing the whole energy body into sensual relationship 🟢\|Witness is just noticing (albeit by bringing the whole energy body into sensual relationship) 🟢]] [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^5-1\|.]] **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^5-2\|.]]** [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^5-3\|.]] | 1
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Voice Movement and the Possibilities of Soul"  but how many have picked it up 🟢\|"Voice, Movement, and the Possibilities of Soul" ... but how many have picked it up? 🟢]] [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^1-2\|.]] **[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^1-3\|.]]** [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^1-4\|.]] | 1
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Doing the excercises can feel alien or comical or  go against what's associated with spirituality 🟢\|Doing the excercises can feel alien or comical, or  go against what's associated with spirituality 🟢]] [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^14-2\|.]] **[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^14-3\|.]]** [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^14-4\|.]] | 1
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Earlier talks 🟢\|Earlier talks 🟢]] [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^1-4\|.]] **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^1-5\|.]]** [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^2-1\|.]] | 1
 

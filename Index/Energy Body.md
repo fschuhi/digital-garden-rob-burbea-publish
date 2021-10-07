@@ -4,22 +4,48 @@ ignore-transcript-for-crossref:
    - Preliminaries Regarding Voice, Movement, and Gesture - Part 5
    - 0126 Eros Unfettered Part 4
 obsidianUIMode: preview
-showTop10ReferringTranscripts: true
+showTopReferringTalks: true
 ---
 
 #IndexEntry #Robology
 
-### Top 10 referring transcripts
-[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (51)
-[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (31)
-[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (28)
-[[0123 Eros Unfettered Part 1]] (26)
-[[0119 Dilemmas and Delineations - How did we get here Part 2]] (14)
-[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (14)
-[[0120 Dilemmas and Delineations - How did we get here Part 3]] (10)
-[[0124 Eros Unfettered Part 2]] (8)
-[[0305 Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] (4)
-[[0116 The Way of Non-Clinging Part 2]] (3)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 51 | [[2020 Vajra Music]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 31 | [[2020 Vajra Music]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 28 | [[2020 Vajra Music]]
+[[Eros Unfettered Part 1]] | 26 | [[2017 Eros Unfettered]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 14 | [[2020 Vajra Music]]
+[[Dilemmas and Delineations - How did we get here Part 2]] | 14 | [[2017 Eros Unfettered]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 10 | [[2017 Eros Unfettered]]
+[[Eros Unfettered Part 2]] | 8 | [[2017 Eros Unfettered]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] | 4 | [[2020 Vajra Music]]
+[[The Way of Non-Clinging Part 2]] | 3 | [[2017 Eros Unfettered]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Witness is just noticing albeit by bringing the whole energy body into sensual relationship 🟢\|Witness is just noticing (albeit by bringing the whole energy body into sensual relationship) 🟢]] [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^5-1\|.]] **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^5-2\|.]]** [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^5-3\|.]] | 6
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 11 fill the room with the energy body\|🟡 Excercise 1.1: fill the room with the energy body]] [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-3\|.]] **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-4\|.]]** [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-5\|.]] | 6
+[[Eros Unfettered Part 1]] | [[Eros Unfettered Part 1#\|...]] [[0123 Eros Unfettered Part 1#^10-6\|.]] **[[0123 Eros Unfettered Part 1#^11-1\|.]]** [[0123 Eros Unfettered Part 1#^11-2\|.]] | 6
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's not important to recognise the situation from the outside it's more important to resonate in the heart and the soul\|It's not important to recognise the situation from the outside, it's more important to resonate in the heart and the soul]] [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^14-1\|.]] **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^14-2\|.]]** [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^14-3\|.]] | 5
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#The blessed one is not responding but is sensitive with the energy body\|The blessed one is not responding but is sensitive with the energy body]] [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^11-6\|.]] **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^12-1\|.]]** [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^12-2\|.]] | 5
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Summary of the excercises\|Summary of the excercises]] [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^19-4\|.]] **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^20-1\|.]]** [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^20-2\|.]] | 5
+[[Eros Unfettered Part 1]] | [[Eros Unfettered Part 1#\|...]] [[0123 Eros Unfettered Part 1#^13-4\|.]] **[[0123 Eros Unfettered Part 1#^14-1\|.]]** [[0123 Eros Unfettered Part 1#^14-2\|.]] | 5
+[[Dilemmas and Delineations - How did we get here Part 3]] | [[Dilemmas and Delineations - How did we get here Part 3#\|...]] [[0120 Dilemmas and Delineations - How did we get here Part 3#^7-3\|.]] **[[0120 Dilemmas and Delineations - How did we get here Part 3#^7-4\|.]]** [[0120 Dilemmas and Delineations - How did we get here Part 3#^8-1\|.]] | 5
+[[Dilemmas and Delineations - How did we get here Part 2]] | [[Dilemmas and Delineations - How did we get here Part 2#\|...]] [[0119 Dilemmas and Delineations - How did we get here Part 2#^6-3\|.]] **[[0119 Dilemmas and Delineations - How did we get here Part 2#^6-4\|.]]** [[0119 Dilemmas and Delineations - How did we get here Part 2#^7-1\|.]] | 5
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Include sensing with soul the whole relational field\|Include sensing with soul the whole relational field]] [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^12-1\|.]] **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^12-2\|.]]** [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^12-3\|.]] | 4
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Energy body excercises open towards relating to it as imaginal image\|Energy body excercises open towards relating to it as imaginal image]] [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-1\|.]] **[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-2\|.]]** [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-3\|.]] | 4
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Interview situation opening up to a whole new sense of self "wow"\|Interview situation: opening up to a whole new sense of self, "wow"]] [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^14-4\|.]] **[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^14-5\|.]]** [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^15-1\|.]] | 4
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#It's about sensitivity\|It's about sensitivity]] [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-4\|.]] **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-5\|.]]** [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-6\|.]] | 4
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#The kinaesthetic sense of energy fills the whole space\|The kinaesthetic sense of energy fills the whole space]] [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-6\|.]] **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^17-1\|.]]** [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^17-2\|.]] | 4
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#let the energy body project to fill the space\|let the energy body project to fill the space]] [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^17-4\|.]] **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^17-5\|.]]** [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^17-6\|.]] | 4
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 21 Feel where the sound is coming from against energy body background\|🟡 Excercise 2.1: Feel where the sound is coming from, against energy body background]] [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-4\|.]] **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-5\|.]]** [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-6\|.]] | 4
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 23 mix sound and energy body\|🟡 Excercise 2.3: mix sound and energy body]] [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^19-1\|.]] **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^19-2\|.]]** [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^19-3\|.]] | 4
+[[Eros Unfettered Part 1]] | [[Eros Unfettered Part 1#\|...]] [[0123 Eros Unfettered Part 1#^11-1\|.]] **[[0123 Eros Unfettered Part 1#^11-2\|.]]** [[0123 Eros Unfettered Part 1#^11-3\|.]] | 4
+[[Eros Unfettered Part 1]] | [[Eros Unfettered Part 1#\|...]] [[0123 Eros Unfettered Part 1#^11-5\|.]] **[[0123 Eros Unfettered Part 1#^12-1\|.]]** [[0123 Eros Unfettered Part 1#^12-2\|.]] | 4
+[[Dilemmas and Delineations - How did we get here Part 2]] | [[Dilemmas and Delineations - How did we get here Part 2#\|...]] [[0119 Dilemmas and Delineations - How did we get here Part 2#^5-5\|.]] **[[0119 Dilemmas and Delineations - How did we get here Part 2#^6-1\|.]]** [[0119 Dilemmas and Delineations - How did we get here Part 2#^6-2\|.]] | 4
 
 ### Quotes
 ##### Vajra Music - Preliminaries - Part 1 [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1|(Transcript)]] 🟢 ^some-block-pointer
@@ -111,4 +137,3 @@ A good way to train the [[energy body]] is to continue to focus in the foregroun
 - Breath Energy (TB)
 - Shiné, all-around awareness
 - (Griffero 2017) Felt-bodily resonances.pdf
-

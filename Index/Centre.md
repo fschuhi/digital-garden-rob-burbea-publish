@@ -60,15 +60,30 @@ _occurrences: [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part
 ##### 2020 Vajra Music: Preliminaries Regarding Voice, Movement, and Gesture - Part 3 [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3|(Transcript)]]
 _occurrences: [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^1-2|1-2 (1)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^1-3|1-3 (4)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-2|2-2 (6)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-3|2-3 (8)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-4|2-4 (6)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-5|2-5 (1)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-2|3-2 (7)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-4|3-4 (1)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-5|3-5 (10)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^4-1|4-1 (2)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^4-2|4-2 (4)]], [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^4-3|4-3 (3)]]_
 
-### Top 10 referring transcripts
-[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (53)
-[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (11)
-[[0127 From Insight to Love]] (3)
-[[0201 The Practice of Compassion]] (3)
-[[0125 Eros Unfettered Part 3]] (3)
-[[0122 Samadhi in Metta Practice]] (2)
-[[1231 Joy (talk)]] (2)
-[[0124 Eros Unfettered Part 2]] (2)
-[[0120 Dilemmas and Delineations - How did we get here Part 3]] (1)
-[[0122 Dilemmas and Delineations - How did we get here Part 5]] (1)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 53 | [[2020 Vajra Music]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 11 | [[2020 Vajra Music]]
+[[Eros Unfettered Part 3]] | 3 | [[2017 Eros Unfettered]]
+[[The Practice of Compassion]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[From Insight to Love]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Eros Unfettered Part 2]] | 2 | [[2017 Eros Unfettered]]
+[[Joy (talk)]] | 2 | [[2007 New Years Retreat Insight Meditation]]
+[[Samadhi in Metta Practice]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 5]] | 1 | [[2017 Eros Unfettered]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 1 | [[2017 Eros Unfettered]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Finding in one's core the self or stillness Aspect 4\|Finding in one's core the self, or stillness (Aspect 4)]] [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-4\|.]] **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-5\|.]]** [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^4-1\|.]] | 10
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Often the centre is conceived something within an interiority Aspect 1\|Often the centre is conceived something within, an interiority (Aspect 1)]] [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-2\|.]] **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-3\|.]]** [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-4\|.]] | 8
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Singularity of self Aspect 3\|Singularity of self (Aspect 3)]] [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-1\|.]] **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-2\|.]]** [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-3\|.]] | 7
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Whats the logos of "centring"\|Whats the logos of "centring"?]] [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-1\|.]] **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-2\|.]]** [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-3\|.]] | 6
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Centre also relates to the centre of a circumscribed area Aspect 2\|Centre also relates to the centre of a circumscribed area (Aspect 2)]] [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-3\|.]] **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-4\|.]]** [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-5\|.]] | 6
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 21 Feel where the sound is coming from against energy body background\|🟡 Excercise 2.1: Feel where the sound is coming from, against energy body background]] [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-4\|.]] **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-5\|.]]** [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-6\|.]] | 5
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#"I've lost my centre" "I need to regain my centre"\|"I've lost my centre", "I need to regain my centre"]] [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^1-2\|.]] **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^1-3\|.]]** [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^1-4\|.]] | 4
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#If we do not aim for Aspect 4 we might see the face of the divine Aspect 5\|If we do not aim for Aspect 4 we might see the face of the divine (Aspect 5)]] [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^4-1\|.]] **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^4-2\|.]]** [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^4-3\|.]] | 4
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 22 experiment with different centres of emanation\|🟡 Excercise 2.2: experiment with different centres of emanation]] [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-5\|.]] **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-6\|.]]** [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^19-1\|.]] | 4
 

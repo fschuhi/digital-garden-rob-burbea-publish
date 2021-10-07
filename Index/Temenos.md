@@ -1,7 +1,18 @@
 #IndexEntry #Robology
 
-### Top 10 referring transcripts
-[[0126 Eros Unfettered Part 4]] (4)
-[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (4)
-[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 4 | [[2020 Vajra Music]]
+[[Eros Unfettered Part 4]] | 4 | [[2017 Eros Unfettered]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 1 | [[2020 Vajra Music]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Set up the temenos in the beginning and include metta\|Set up the temenos in the beginning and include metta]] [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-1\|.]] **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-2\|.]]** [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-3\|.]] | 4
+[[Eros Unfettered Part 4]] | [[Eros Unfettered Part 4#\|...]] [[0126 Eros Unfettered Part 4#^5-3\|.]] **[[0126 Eros Unfettered Part 4#^5-4\|.]]** [[0126 Eros Unfettered Part 4#^5-5\|.]] | 2
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Excercise 41 One person blesses the other person receives the blessing\|Excercise 4.1: One person blesses, the other person receives the blessing]] [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^11-2\|.]] **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^11-3\|.]]** [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^11-4\|.]] | 1
+[[Eros Unfettered Part 4]] | [[Eros Unfettered Part 4#\|...]] [[0126 Eros Unfettered Part 4#^5-4\|.]] **[[0126 Eros Unfettered Part 4#^5-5\|.]]** [[0126 Eros Unfettered Part 4#^5-6\|.]] | 1
+[[Eros Unfettered Part 4]] | [[Eros Unfettered Part 4#\|...]] [[0126 Eros Unfettered Part 4#^5-5\|.]] **[[0126 Eros Unfettered Part 4#^5-6\|.]]** [[0126 Eros Unfettered Part 4#^6-1\|.]] | 1
 

@@ -2,15 +2,17 @@
 ignore-transcript-for-crossref:
    - Otherness and the Art of Disappearing
 obsidianUIMode: preview
-showTop10ReferringTranscripts: true
+showTopReferringTalks: true
 ---
 
-### Top 10 referring transcripts
-[[0202 Logos in the Garden of Souls Part 1]] (7)
-[[0126 Eros Unfettered Part 4]] (6)
-[[0204 Logos in the Garden of Souls Part 3]] (2)
-[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)
-[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] (1)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[Logos in the Garden of Souls Part 1]] | 7 | [[2017 Eros Unfettered]]
+[[Eros Unfettered Part 4]] | 6 | [[2017 Eros Unfettered]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 2 | [[2020 Vajra Music]]
+[[Logos in the Garden of Souls Part 3]] | 2 | [[2017 Eros Unfettered]]
+[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | 1 | [[2017 Eros Unfettered]]
 
 ### Quotes
 #IndexEntry #Robology
@@ -48,4 +50,10 @@ showTop10ReferringTranscripts: true
 > So implicit in the way that we are talking about the [[soulmaking dynamic]] and eros psyche logos and all that is this idea of the [[Kabbala|Kabbalistic]] idea of the [[Vessel|breaking of the vessels]] we mentioned before (the Shevirat haKeilim). It will break. And the crack is a [[blessing]]. The light comes in. In other words, there is an illumination. There is a further expansion. Something of the divine - if we amplify that - the light of the divine comes in via the crack. We will reach a point with any idea, with any concept or framework, where it wo not be able to contain or account for our [[experience]] or new ideas or whatever, new observations - the very idea of the eros psyche logos dynamic, maybe that too, that too. It is interesting as an idea, though, because it includes within it this idea of the breaking of the vessels, of the cracks, because of what it implies about expansion. _([[0204 Logos in the Garden of Souls Part 3#12-1|12-1]])_
 
 <br/>
+
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[Eros Unfettered Part 4]] | [[Eros Unfettered Part 4#\|...]] [[0126 Eros Unfettered Part 4#^5-1\|.]] **[[0126 Eros Unfettered Part 4#^5-2\|.]]** [[0126 Eros Unfettered Part 4#^5-3\|.]] | 4
 

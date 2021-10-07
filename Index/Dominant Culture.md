@@ -1,14 +1,20 @@
 #IndexEntry #Robology
 
-### Top 10 referring transcripts
-[[0202 Logos in the Garden of Souls Part 1]] (6)
-[[0203 Logos in the Garden of Souls Part 2]] (5)
-[[0204 Logos in the Garden of Souls Part 3]] (3)
-[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3)
-[[1228 Equanimity (talk)]] (2)
-[[0120 Dilemmas and Delineations - How did we get here Part 3]] (2)
-[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)
-[[1231 Joy (talk)]] (1)
-[[0118 Dilemmas and Delineations - How did we get here Part 1]] (1)
-[[0121 Dilemmas and Delineations - How did we get here Part 4]] (1)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[Logos in the Garden of Souls Part 1]] | 6 | [[2017 Eros Unfettered]]
+[[Logos in the Garden of Souls Part 2]] | 5 | [[2017 Eros Unfettered]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 3 | [[2020 Vajra Music]]
+[[Logos in the Garden of Souls Part 3]] | 3 | [[2017 Eros Unfettered]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 2 | [[2020 Vajra Music]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 2 | [[2017 Eros Unfettered]]
+[[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
+[[Dilemmas and Delineations - How did we get here Part 4]] | 1 | [[2017 Eros Unfettered]]
+[[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
+[[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
 

@@ -1,9 +1,16 @@
 #IndexEntry #Buddhology
 
-### Top 10 referring transcripts
-[[0117 The Way of Non-Clinging Part 3]] (11)
-[[0115 The Way of Non-Clinging Part 1]] (7)
-[[0116 The Way of Non-Clinging Part 2]] (7)
-[[0201 The Practice of Compassion]] (3)
-[[1229 What is Insight]] (3)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[The Way of Non-Clinging Part 3]] | 11 | [[2017 Eros Unfettered]]
+[[The Way of Non-Clinging Part 2]] | 7 | [[2017 Eros Unfettered]]
+[[The Way of Non-Clinging Part 1]] | 7 | [[2017 Eros Unfettered]]
+[[What is Insight]] | 3 | [[2007 New Years Retreat Insight Meditation]]
+[[The Practice of Compassion]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[The Way of Non-Clinging Part 3]] | [[The Way of Non-Clinging Part 3#"Some of it is delusion and the rest can be fit into concepts"\|"Some of it is delusion and the rest can be fit into concepts"]] [[0117 The Way of Non-Clinging Part 3#^1-5\|.]] **[[0117 The Way of Non-Clinging Part 3#^2-1\|.]]** [[0117 The Way of Non-Clinging Part 3#^2-2\|.]] | 7
 

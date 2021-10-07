@@ -1,14 +1,28 @@
 #IndexEntry #Buddhology
 
-### Top 10 referring transcripts
-[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] (42)
-[[0204 Love and Emptiness]] (10)
-[[0201 The Practice of Compassion]] (8)
-[[0119 Dilemmas and Delineations - How did we get here Part 2]] (8)
-[[0125 Expressions of Metta]] (7)
-[[0204 Logos in the Garden of Souls Part 3]] (7)
-[[0127 From Insight to Love]] (5)
-[[0118 Dilemmas and Delineations - How did we get here Part 1]] (3)
-[[0123 Eros Unfettered Part 1]] (3)
-[[0124 Eros Unfettered Part 2]] (2)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | 42 | [[2017 Eros Unfettered]]
+[[Love and Emptiness]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 2]] | 8 | [[2017 Eros Unfettered]]
+[[The Practice of Compassion]] | 8 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Logos in the Garden of Souls Part 3]] | 7 | [[2017 Eros Unfettered]]
+[[Expressions of Metta]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[From Insight to Love]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Eros Unfettered Part 1]] | 3 | [[2017 Eros Unfettered]]
+[[Dilemmas and Delineations - How did we get here Part 1]] | 3 | [[2017 Eros Unfettered]]
+[[Eros Unfettered Part 2]] | 2 | [[2017 Eros Unfettered]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | [[Eros Unfettered Part 5 - Otherness and the Art of Disappearing#\|...]] [[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^1-3\|.]] **[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^1-4\|.]]** [[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^1-5\|.]] | 6
+[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | [[Eros Unfettered Part 5 - Otherness and the Art of Disappearing#\|...]] [[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^2-3\|.]] **[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^2-4\|.]]** [[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^2-5\|.]] | 6
+[[Logos in the Garden of Souls Part 3]] | [[Logos in the Garden of Souls Part 3#\|...]] [[0204 Logos in the Garden of Souls Part 3#^8-4\|.]] **[[0204 Logos in the Garden of Souls Part 3#^9-1\|.]]** [[0204 Logos in the Garden of Souls Part 3#^9-2\|.]] | 5
+[[Expressions of Metta]] | [[Expressions of Metta#A sense of merging begins to question our taken-for-granted perception of separation\|A sense of merging begins to question our taken-for-granted perception of separation]] [[0125 Expressions of Metta#^13-3\|.]] **[[0125 Expressions of Metta#^13-4\|.]]** [[0125 Expressions of Metta#^13-5\|.]] | 5
+[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | [[Eros Unfettered Part 5 - Otherness and the Art of Disappearing#\|...]] [[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^1-2\|.]] **[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^1-3\|.]]** [[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^1-4\|.]] | 4
+[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | [[Eros Unfettered Part 5 - Otherness and the Art of Disappearing#\|...]] [[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^3-3\|.]] **[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^3-4\|.]]** [[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^3-5\|.]] | 4
+[[Love and Emptiness]] | [[Love and Emptiness#Even oneness is not how things really are it's also dependend on conditions\|Even oneness is not how things really are, it's also dependend on conditions]] [[0204 Love and Emptiness#^6-4\|.]] **[[0204 Love and Emptiness#^7-1\|.]]** [[0204 Love and Emptiness#^7-2\|.]] | 4
+[[From Insight to Love]] | [[From Insight to Love#Metta practice can lead to the dissolving of the boundaries between self and other\|Metta practice can lead to the dissolving of the boundaries between self and other]] [[0127 From Insight to Love#^5-4\|.]] **[[0127 From Insight to Love#^5-5\|.]]** [[0127 From Insight to Love#^5-6\|.]] | 4
 

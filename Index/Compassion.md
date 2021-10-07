@@ -1,14 +1,49 @@
 #IndexEntry #Buddhology
 
-### Top 10 referring transcripts
-[[0201 The Practice of Compassion]] (155)
-[[0204 Love and Emptiness]] (63)
-[[0208 Equanimity in Compassion]] (63)
-[[0127 From Insight to Love]] (13)
-[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (13)
-[[0204 Guided meditation - Metta to phenomena]] (9)
-[[0125 Expressions of Metta]] (6)
-[[1231 Joy (talk)]] (6)
-[[1228 Equanimity (talk)]] (5)
-[[0122 Samadhi in Metta Practice]] (3)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[The Practice of Compassion]] | 150 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Equanimity in Compassion]] | 63 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Love and Emptiness]] | 59 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 13 | [[2020 Vajra Music]]
+[[From Insight to Love]] | 13 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Guided meditation - Metta to phenomena]] | 9 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Joy (talk)]] | 6 | [[2007 New Years Retreat Insight Meditation]]
+[[Expressions of Metta]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Equanimity (talk)]] | 5 | [[2006 New Year's Retreat]]
+[[Samadhi in Metta Practice]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[The Practice of Compassion]] | [[The Practice of Compassion#Giving compassion to mind moments\|Giving compassion to mind moments]] [[0201 The Practice of Compassion#^10-3\|.]] **[[0201 The Practice of Compassion#^10-4\|.]]** [[0201 The Practice of Compassion#^10-5\|.]] | 7
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Also add metta in an adhoc fassion to counteract self-consciousness\|Also add metta in an adhoc fassion to counteract self-consciousness]] [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-2\|.]] **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-3\|.]]** [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-4\|.]] | 6
+[[The Practice of Compassion]] | [[The Practice of Compassion#A space radiating compassion\|A space radiating compassion]] [[0201 The Practice of Compassion#^18-7\|.]] **[[0201 The Practice of Compassion#^18-8\|.]]** [[0201 The Practice of Compassion#^18-9\|.]] | 6
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Mantras also don't necessarily have particular meaning either\|Mantras also don't necessarily have particular meaning either]] [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^3-3\|.]] **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^3-4\|.]]** [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^4-1\|.]] | 5
+[[Equanimity in Compassion]] | [[Equanimity in Compassion#Still the self giving compassion is a necessary aspect of our humanity\|Still, the self giving compassion is a necessary aspect of our humanity]] [[0208 Equanimity in Compassion#^4-4\|.]] **[[0208 Equanimity in Compassion#^4-5\|.]]** [[0208 Equanimity in Compassion#^4-6\|.]] | 5
+[[Equanimity in Compassion]] | [[Equanimity in Compassion#So we need to ask ourselves in those situations how we can get at least some of what we need in a healthy way\|So we need to ask ourselves in those situations how we can get at least some of what we need in a healthy way]] [[0208 Equanimity in Compassion#^5-4\|.]] **[[0208 Equanimity in Compassion#^5-5\|.]]** [[0208 Equanimity in Compassion#^6-1\|.]] | 5
+[[Love and Emptiness]] | [[Love and Emptiness#"Seeing all things with compassion"\|"Seeing all things with compassion"]] [[0204 Love and Emptiness#^3-1\|.]] **[[0204 Love and Emptiness#^3-2\|.]]** [[0204 Love and Emptiness#^3-3\|.]] | 5
+[[Love and Emptiness]] | [[Love and Emptiness# Rob For now do not mix pure metta and pure compassion practice\| Rob: For now, do not mix pure metta and pure compassion practice]] [[0204 Love and Emptiness#^13-9\|.]] **[[0204 Love and Emptiness#^13-10\|.]]** [[0204 Love and Emptiness#^13-11\|.]] | 5
+[[The Practice of Compassion]] | [[The Practice of Compassion#Many people are wary that they might be taking on more suffering through compassion\|Many people are wary that they might be taking on more suffering through compassion]] [[0201 The Practice of Compassion#^1-5\|.]] **[[0201 The Practice of Compassion#^1-6\|.]]** [[0201 The Practice of Compassion#^2-1\|.]] | 5
+[[The Practice of Compassion]] | [[The Practice of Compassion#Compassion should be an energizing pleasant quality\|Compassion should be an energizing, pleasant quality]] [[0201 The Practice of Compassion#^1-6\|.]] **[[0201 The Practice of Compassion#^2-1\|.]]** [[0201 The Practice of Compassion#^2-2\|.]] | 5
+[[The Practice of Compassion]] | [[The Practice of Compassion#When there's metta and compassion for oneself the ego can take its rightful place in the scheme of things\|When there's metta and compassion for oneself, the ego can take its rightful place in the scheme of things]] [[0201 The Practice of Compassion#^9-2\|.]] **[[0201 The Practice of Compassion#^9-3\|.]]** [[0201 The Practice of Compassion#^9-4\|.]] | 5
+[[The Practice of Compassion]] | [[The Practice of Compassion#Cultivating a climate of compassion\|Cultivating a climate of compassion]] [[0201 The Practice of Compassion#^9-3\|.]] **[[0201 The Practice of Compassion#^9-4\|.]]** [[0201 The Practice of Compassion#^9-5\|.]] | 5
+[[The Practice of Compassion]] | [[The Practice of Compassion#Rob We are not completely in control of what will happen but acting out of compassion is still the best way to live\|Rob: We are not completely in control of what will happen, but acting out of compassion is still the best way to live]] [[0201 The Practice of Compassion#^16-6\|.]] **[[0201 The Practice of Compassion#^16-7\|.]]** [[0201 The Practice of Compassion#^16-8\|.]] | 5
+[[Joy (talk)]] | [[Joy (talk)#\|...]] [[1231 Joy (talk)#^9-4\|.]] **[[1231 Joy (talk)#^9-5\|.]]** [[1231 Joy (talk)#^9-6\|.]] | 4
+[[Equanimity in Compassion]] | [[Equanimity in Compassion#Equanimity makes the compassion steady in the face of suffering\|Equanimity makes the compassion steady in the face of suffering]] [[0208 Equanimity in Compassion#^1-5\|.]] **[[0208 Equanimity in Compassion#^1-6\|.]]** [[0208 Equanimity in Compassion#^2-1\|.]] | 4
+[[Equanimity in Compassion]] | [[Equanimity in Compassion#Equanimity means  buoyancy not to sink underneath the weight of the suffering\|Equanimity means  buoyancy, not to sink underneath the weight of the suffering]] [[0208 Equanimity in Compassion#^2-6\|.]] **[[0208 Equanimity in Compassion#^3-1\|.]]** [[0208 Equanimity in Compassion#^3-2\|.]] | 4
+[[Equanimity in Compassion]] | [[Equanimity in Compassion#How much is the self _doing_ the compassion practice\|How much is the self _doing_ the compassion practice]] [[0208 Equanimity in Compassion#^3-6\|.]] **[[0208 Equanimity in Compassion#^4-1\|.]]** [[0208 Equanimity in Compassion#^4-2\|.]] | 4
+[[Equanimity in Compassion]] | [[Equanimity in Compassion#Still loving-kindness and compassion is the best way to live even if actions or results seem to fall short\|Still, loving-kindness and compassion is the best way to live, even if actions or results seem to fall short]] [[0208 Equanimity in Compassion#^8-2\|.]] **[[0208 Equanimity in Compassion#^8-3\|.]]** [[0208 Equanimity in Compassion#^8-4\|.]] | 4
+[[Love and Emptiness]] | [[Love and Emptiness#Recap guided meditation - Metta to phenomena\|Recap guided meditation - Metta to phenomena]] [[0204 Love and Emptiness#^3-5\|.]] **[[0204 Love and Emptiness#^3-6\|.]]** [[0204 Love and Emptiness#^3-7\|.]] | 4
+[[Love and Emptiness]] | [[Love and Emptiness#Rob Compassion practice tunes into suffering and the outgoing healing can feel like metta\|Rob: Compassion practice tunes into suffering, and the outgoing healing can feel like metta]] [[0204 Love and Emptiness#^13-11\|.]] **[[0204 Love and Emptiness#^14-1\|.]]** [[0204 Love and Emptiness#^14-2\|.]] | 4
+[[The Practice of Compassion]] | [[The Practice of Compassion#Compassion involves different qualities eg empathy\|Compassion involves different qualities, e.g. empathy]] [[0201 The Practice of Compassion#^1-2\|.]] **[[0201 The Practice of Compassion#^1-3\|.]]** [[0201 The Practice of Compassion#^1-4\|.]] | 4
+[[The Practice of Compassion]] | [[The Practice of Compassion#Different practices for compassion\|Different practices for compassion]] [[0201 The Practice of Compassion#^3-2\|.]] **[[0201 The Practice of Compassion#^3-3\|.]]** [[0201 The Practice of Compassion#^3-4\|.]] | 4
+[[The Practice of Compassion]] | [[The Practice of Compassion#When there's insight into suffering compassion comes automatically\|When there's insight into suffering, compassion comes automatically]] [[0201 The Practice of Compassion#^4-1\|.]] **[[0201 The Practice of Compassion#^4-2\|.]]** [[0201 The Practice of Compassion#^4-3\|.]] | 4
+[[The Practice of Compassion]] | [[The Practice of Compassion#4 near enemies fear anger pity grief\|4 near enemies: fear, anger, pity, grief]] [[0201 The Practice of Compassion#^4-5\|.]] **[[0201 The Practice of Compassion#^5-1\|.]]** [[0201 The Practice of Compassion#^5-2\|.]] | 4
+[[The Practice of Compassion]] | [[The Practice of Compassion#When feeling the pain of anger coming in remember to give compassion to yourself\|When feeling the pain of anger coming in, remember to give compassion to yourself]] [[0201 The Practice of Compassion#^7-1\|.]] **[[0201 The Practice of Compassion#^7-2\|.]]** [[0201 The Practice of Compassion#^7-3\|.]] | 4
+[[The Practice of Compassion]] | [[The Practice of Compassion#Compassion wants to alleviate suffering but not by pushing it away out of aversion\|Compassion wants to alleviate suffering, but not by pushing it away out of aversion]] [[0201 The Practice of Compassion#^7-2\|.]] **[[0201 The Practice of Compassion#^7-3\|.]]** [[0201 The Practice of Compassion#^7-4\|.]] | 4
+[[The Practice of Compassion]] | [[The Practice of Compassion#How to practice if the other person doesn't seem to have much suffering in their life\|How to practice if the other person doesn't seem to have much suffering in their life]] [[0201 The Practice of Compassion#^11-1\|.]] **[[0201 The Practice of Compassion#^11-2\|.]]** [[0201 The Practice of Compassion#^11-3\|.]] | 4
+[[The Practice of Compassion]] | [[The Practice of Compassion#Yogi I feel I need to connect with mettā before being able to be in the compassion space\|Yogi: I feel I need to connect with mettā before being able to be in the compassion space]] [[0201 The Practice of Compassion#^16-8\|.]] **[[0201 The Practice of Compassion#^16-9\|.]]** [[0201 The Practice of Compassion#^16-10\|.]] | 4
+[[The Practice of Compassion]] | [[The Practice of Compassion#Rob Be clear what the difference is; get more and more used to the feeling of compassion\|Rob: Be clear what the difference is; get more and more used to the feeling of compassion]] [[0201 The Practice of Compassion#^17-1\|.]] **[[0201 The Practice of Compassion#^17-2\|.]]** [[0201 The Practice of Compassion#^17-3\|.]] | 4
 

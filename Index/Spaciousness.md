@@ -1,13 +1,20 @@
 #IndexEntry #Robology
 
-### Top 10 referring transcripts
-[[0208 Equanimity in Compassion]] (14)
-[[1228 Equanimity (talk)]] (5)
-[[0127 From Insight to Love]] (4)
-[[0125 Expressions of Metta]] (2)
-[[0201 The Practice of Compassion]] (2)
-[[1231 Joy (talk)]] (1)
-[[0115 The Way of Non-Clinging Part 1]] (1)
-[[0116 The Way of Non-Clinging Part 2]] (1)
-[[0122 Dilemmas and Delineations - How did we get here Part 5]] (1)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[Equanimity in Compassion]] | 12 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Equanimity (talk)]] | 5 | [[2006 New Year's Retreat]]
+[[From Insight to Love]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Practice of Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Expressions of Metta]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 5]] | 1 | [[2017 Eros Unfettered]]
+[[The Way of Non-Clinging Part 2]] | 1 | [[2017 Eros Unfettered]]
+[[The Way of Non-Clinging Part 1]] | 1 | [[2017 Eros Unfettered]]
+[[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[Equanimity (talk)]] | [[Equanimity (talk)#Spaciousness and equanimity go together\|Spaciousness and equanimity go together]] [[1228 Equanimity (talk)#^2-2\|.]] **[[1228 Equanimity (talk)#^2-3\|.]]** [[1228 Equanimity (talk)#^2-4\|.]] | 5
 

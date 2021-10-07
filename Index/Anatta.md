@@ -12,16 +12,27 @@ Usefulness is defined in relation to dukkha (i.e. the release of it, freedom). U
 "true/untrue" not useful
 dukkha = absence of freedom
 
-### Top 10 referring transcripts
-[[0127 From Insight to Love]] (30)
-[[0116 The Way of Non-Clinging Part 2]] (20)
-[[0125 Expressions of Metta]] (6)
-[[1229 What is Insight]] (6)
-[[1231 Views in Practice - They Make All the Difference]] (5)
-[[0201 The Practice of Compassion]] (5)
-[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (5)
-[[0122 Samadhi in Metta Practice]] (3)
-[[0204 Love and Emptiness]] (3)
-[[0202 Logos in the Garden of Souls Part 1]] (3)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[From Insight to Love]] | 30 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Way of Non-Clinging Part 2]] | 20 | [[2017 Eros Unfettered]]
+[[What is Insight]] | 6 | [[2007 New Years Retreat Insight Meditation]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 5 | [[2020 Vajra Music]]
+[[The Practice of Compassion]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Expressions of Metta]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Logos in the Garden of Souls Part 1]] | 3 | [[2017 Eros Unfettered]]
+[[Love and Emptiness]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Samadhi in Metta Practice]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Equanimity in Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ## some other stuff
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[The Way of Non-Clinging Part 2]] | [[The Way of Non-Clinging Part 2#Let go of the of the believing it is me or mine\|Let go of the of the believing it is me or mine]] [[0116 The Way of Non-Clinging Part 2#^3-5\|.]] **[[0116 The Way of Non-Clinging Part 2#^3-6\|.]]** [[0116 The Way of Non-Clinging Part 2#^4-1\|.]] | 6
+[[From Insight to Love]] | [[From Insight to Love#The "three characteristics"\|The "three characteristics"]] [[0127 From Insight to Love#^5-5\|.]] **[[0127 From Insight to Love#^5-6\|.]]** [[0127 From Insight to Love#^6-1\|.]] | 5
+[[The Way of Non-Clinging Part 2]] | [[The Way of Non-Clinging Part 2#"Self is an illusion" leads to anatta practice\|"Self is an illusion" leads to anatta practice]] [[0116 The Way of Non-Clinging Part 2#^3-2\|.]] **[[0116 The Way of Non-Clinging Part 2#^3-3\|.]]** [[0116 The Way of Non-Clinging Part 2#^3-4\|.]] | 4
+[[From Insight to Love]] | [[From Insight to Love#Yes it might be but we are interested in freedom rather than a certain badge\|Yes, it might be, but we are interested in freedom, rather than a certain badge]] [[0127 From Insight to Love#^13-4\|.]] **[[0127 From Insight to Love#^13-5\|.]]** [[0127 From Insight to Love#^13-6\|.]] | 4
+

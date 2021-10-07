@@ -1,5 +1,12 @@
 #IndexEntry #Buddhology
 
-### Top 10 referring transcripts
-[[0202 Logos in the Garden of Souls Part 1]] (2)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[Logos in the Garden of Souls Part 1]] | 2 | [[2017 Eros Unfettered]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[Logos in the Garden of Souls Part 1]] | [[Logos in the Garden of Souls Part 1#\|...]] [[0202 Logos in the Garden of Souls Part 1#^5-1\|.]] **[[0202 Logos in the Garden of Souls Part 1#^5-2\|.]]** [[0202 Logos in the Garden of Souls Part 1#^5-3\|.]] | 2
 

@@ -1,14 +1,21 @@
 #IndexEntry #Robology
 
-### Top 10 referring transcripts
-[[0117 The Way of Non-Clinging Part 3]] (7)
-[[0127 From Insight to Love]] (5)
-[[0123 Eros Unfettered Part 1]] (4)
-[[0125 Eros Unfettered Part 3]] (3)
-[[0201 The Practice of Compassion]] (1)
-[[0116 The Way of Non-Clinging Part 2]] (1)
-[[0126 Eros Unfettered Part 4]] (1)
-[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] (1)
-[[0203 Logos in the Garden of Souls Part 2]] (1)
-[[0204 Logos in the Garden of Souls Part 3]] (1)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[The Way of Non-Clinging Part 3]] | 7 | [[2017 Eros Unfettered]]
+[[From Insight to Love]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Eros Unfettered Part 1]] | 4 | [[2017 Eros Unfettered]]
+[[Eros Unfettered Part 3]] | 3 | [[2017 Eros Unfettered]]
+[[Logos in the Garden of Souls Part 3]] | 1 | [[2017 Eros Unfettered]]
+[[Logos in the Garden of Souls Part 2]] | 1 | [[2017 Eros Unfettered]]
+[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | 1 | [[2017 Eros Unfettered]]
+[[Eros Unfettered Part 4]] | 1 | [[2017 Eros Unfettered]]
+[[The Way of Non-Clinging Part 2]] | 1 | [[2017 Eros Unfettered]]
+[[The Practice of Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[The Way of Non-Clinging Part 3]] | [[The Way of Non-Clinging Part 3#We limit our experience through the ideas we are hanging on to\|We limit our experience through the ideas we are hanging on to]] [[0117 The Way of Non-Clinging Part 3#^8-3\|.]] **[[0117 The Way of Non-Clinging Part 3#^8-4\|.]]** [[0117 The Way of Non-Clinging Part 3#^8-5\|.]] | 5
 

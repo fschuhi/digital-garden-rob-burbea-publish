@@ -1,14 +1,23 @@
 #IndexEntry #Buddhology
 
-### Top 10 referring transcripts
-[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (24)
-[[0118 Dilemmas and Delineations - How did we get here Part 1]] (17)
-[[0122 Samadhi in Metta Practice]] (12)
-[[0123 Eros Unfettered Part 1]] (11)
-[[0204 Love and Emptiness]] (10)
-[[0116 The Way of Non-Clinging Part 2]] (10)
-[[0120 Dilemmas and Delineations - How did we get here Part 3]] (9)
-[[1231 Views in Practice - They Make All the Difference]] (7)
-[[0115 The Way of Non-Clinging Part 1]] (7)
-[[0203 Logos in the Garden of Souls Part 2]] (7)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 25 | [[2020 Vajra Music]]
+[[Dilemmas and Delineations - How did we get here Part 1]] | 17 | [[2017 Eros Unfettered]]
+[[Samadhi in Metta Practice]] | 12 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Eros Unfettered Part 1]] | 11 | [[2017 Eros Unfettered]]
+[[The Way of Non-Clinging Part 2]] | 10 | [[2017 Eros Unfettered]]
+[[Love and Emptiness]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 9 | [[2017 Eros Unfettered]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 7 | [[2020 Vajra Music]]
+[[Logos in the Garden of Souls Part 2]] | 7 | [[2017 Eros Unfettered]]
+[[The Way of Non-Clinging Part 1]] | 7 | [[2017 Eros Unfettered]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[Dilemmas and Delineations - How did we get here Part 1]] | [[Dilemmas and Delineations - How did we get here Part 1#\|...]] [[0118 Dilemmas and Delineations - How did we get here Part 1#^7-1\|.]] **[[0118 Dilemmas and Delineations - How did we get here Part 1#^7-2\|.]]** [[0118 Dilemmas and Delineations - How did we get here Part 1#^7-3\|.]] | 6
+[[Logos in the Garden of Souls Part 2]] | [[Logos in the Garden of Souls Part 2#\|...]] [[0203 Logos in the Garden of Souls Part 2#^7-1\|.]] **[[0203 Logos in the Garden of Souls Part 2#^7-2\|.]]** [[0203 Logos in the Garden of Souls Part 2#^7-3\|.]] | 4
+[[Dilemmas and Delineations - How did we get here Part 3]] | [[Dilemmas and Delineations - How did we get here Part 3#\|...]] [[0120 Dilemmas and Delineations - How did we get here Part 3#^11-3\|.]] **[[0120 Dilemmas and Delineations - How did we get here Part 3#^11-4\|.]]** [[0120 Dilemmas and Delineations - How did we get here Part 3#^12-1\|.]] | 4
 

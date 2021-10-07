@@ -1,14 +1,60 @@
 #IndexEntry #Buddhology
 
-### Top 10 referring transcripts
-[[0204 Love and Emptiness]] (85)
-[[0127 From Insight to Love]] (73)
-[[0125 Expressions of Metta]] (65)
-[[0122 Samadhi in Metta Practice]] (43)
-[[0201 The Practice of Compassion]] (31)
-[[0204 Guided meditation - Metta to phenomena]] (26)
-[[1228 Equanimity (talk)]] (22)
-[[0208 Equanimity in Compassion]] (15)
-[[1231 Joy (talk)]] (12)
-[[0125 Eros Unfettered Part 3]] (10)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[Love and Emptiness]] | 79 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[From Insight to Love]] | 70 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Expressions of Metta]] | 64 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Samadhi in Metta Practice]] | 43 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Practice of Compassion]] | 29 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Guided meditation - Metta to phenomena]] | 26 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Equanimity (talk)]] | 22 | [[2006 New Year's Retreat]]
+[[Equanimity in Compassion]] | 15 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Joy (talk)]] | 12 | [[2007 New Years Retreat Insight Meditation]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 10 | [[2020 Vajra Music]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[Equanimity (talk)]] | [[Equanimity (talk)#Doing metta all day long\|Doing metta, all day long]] [[1228 Equanimity (talk)#^7-1\|.]] **[[1228 Equanimity (talk)#^7-2\|.]]** [[1228 Equanimity (talk)#^7-3\|.]] | 8
+[[Guided meditation - Metta to phenomena]] | [[Guided meditation - Metta to phenomena#Nothing is excluded\|Nothing is excluded]] [[0204 Guided meditation - Metta to phenomena#^1-6\|.]] **[[0204 Guided meditation - Metta to phenomena#^2-1\|.]]** [[0204 Guided meditation - Metta to phenomena#^2-2\|.]] | 7
+[[Love and Emptiness]] | [[Love and Emptiness#But the mind is coloroud with anger metta romantic love\|But the mind is coloroud with anger, metta, romantic love]] [[0204 Love and Emptiness#^5-2\|.]] **[[0204 Love and Emptiness#^5-3\|.]]** [[0204 Love and Emptiness#^5-4\|.]] | 7
+[[From Insight to Love]] | [[From Insight to Love#Over time the groove of metta will be more established than the groove of measuring comparing juding\|Over time, the groove of metta will be more established than the groove of measuring, comparing, juding]] [[0127 From Insight to Love#^10-5\|.]] **[[0127 From Insight to Love#^11-1\|.]]** [[0127 From Insight to Love#^11-2\|.]] | 7
+[[Equanimity (talk)]] | [[Equanimity (talk)#A heart of metta is a happy heart\|A heart of metta is a happy heart]] [[1228 Equanimity (talk)#^5-3\|.]] **[[1228 Equanimity (talk)#^6-1\|.]]** [[1228 Equanimity (talk)#^6-2\|.]] | 7
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Also add metta in an adhoc fassion to counteract self-consciousness\|Also add metta in an adhoc fassion to counteract self-consciousness]] [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-2\|.]] **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-3\|.]]** [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-4\|.]] | 6
+[[From Insight to Love]] | [[From Insight to Love#Metta is fabricated but it's also the natural state\|Metta is fabricated, but it's also the natural state]] [[0127 From Insight to Love#^1-1\|.]] **[[0127 From Insight to Love#^1-2\|.]]** [[0127 From Insight to Love#^1-3\|.]] | 6
+[[From Insight to Love]] | [[From Insight to Love#I wouldn't worry too much about the levels\|I wouldn't worry too much about the levels]] [[0127 From Insight to Love#^14-5\|.]] **[[0127 From Insight to Love#^14-6\|.]]** [[0127 From Insight to Love#^14-7\|.]] | 6
+[[Expressions of Metta]] | [[Expressions of Metta#Metta is a constallation of feelings\|Metta is a constallation of feelings]]  **[[0125 Expressions of Metta#^1-1\|.]]** [[0125 Expressions of Metta#^1-2\|.]] | 6
+[[Expressions of Metta]] | [[Expressions of Metta#The near enemy of metta is attached love\|The near enemy of metta is attached love]] [[0125 Expressions of Metta#^2-2\|.]] **[[0125 Expressions of Metta#^2-3\|.]]** [[0125 Expressions of Metta#^2-4\|.]] | 6
+[[Expressions of Metta]] | [[Expressions of Metta#Metta being unconditioned and boundless can seem a bit unreal "metta machine"\|Metta being unconditioned and boundless can seem a bit unreal ("metta machine")]] [[0125 Expressions of Metta#^3-1\|.]] **[[0125 Expressions of Metta#^3-2\|.]]** [[0125 Expressions of Metta#^3-3\|.]] | 6
+[[Expressions of Metta]] | [[Expressions of Metta#Experiment with letting the phrases go\|Experiment with letting the phrases go]] [[0125 Expressions of Metta#^13-1\|.]] **[[0125 Expressions of Metta#^13-2\|.]]** [[0125 Expressions of Metta#^13-3\|.]] | 6
+[[Samadhi in Metta Practice]] | [[Samadhi in Metta Practice#We are giving metta to ourselves but we are also receiving metta\|We are giving metta to ourselves, but we are also receiving metta]] [[0122 Samadhi in Metta Practice#^7-5\|.]] **[[0122 Samadhi in Metta Practice#^7-6\|.]]** [[0122 Samadhi in Metta Practice#^7-7\|.]] | 6
+[[Eros Unfettered Part 3]] | [[Eros Unfettered Part 3#\|...]] [[0125 Eros Unfettered Part 3#^8-6\|.]] **[[0125 Eros Unfettered Part 3#^9-1\|.]]** [[0125 Eros Unfettered Part 3#^9-2\|.]] | 5
+[[The Way of Non-Clinging Part 3]] | [[The Way of Non-Clinging Part 3#Sometimes our fantasies about the Dharma are inadquate\|Sometimes our fantasies about the Dharma are inadquate]] [[0117 The Way of Non-Clinging Part 3#^3-2\|.]] **[[0117 The Way of Non-Clinging Part 3#^3-3\|.]]** [[0117 The Way of Non-Clinging Part 3#^3-4\|.]] | 5
+[[Joy (talk)]] | [[Joy (talk)#\|...]] [[1231 Joy (talk)#^1-3\|.]] **[[1231 Joy (talk)#^1-4\|.]]** [[1231 Joy (talk)#^1-5\|.]] | 5
+[[Guided meditation - Metta to phenomena]] | [[Guided meditation - Metta to phenomena#Bathing that in loving kindness over and over\|Bathing that in loving kindness, over and over]] [[0204 Guided meditation - Metta to phenomena#^1-2\|.]] **[[0204 Guided meditation - Metta to phenomena#^1-3\|.]]** [[0204 Guided meditation - Metta to phenomena#^1-4\|.]] | 5
+[[Guided meditation - Metta to phenomena]] | [[Guided meditation - Metta to phenomena#Whatever there is in consciousness in the moment touching it with tenderness\|Whatever there is in consciousness in the moment, touching it with tenderness]] [[0204 Guided meditation - Metta to phenomena#^1-4\|.]] **[[0204 Guided meditation - Metta to phenomena#^1-5\|.]]** [[0204 Guided meditation - Metta to phenomena#^1-6\|.]] | 5
+[[Guided meditation - Metta to phenomena]] | [[Guided meditation - Metta to phenomena#Arising staying passing is bathed welcomed allowed in metta\|Arising, staying, passing is bathed, welcomed, allowed in metta]] [[0204 Guided meditation - Metta to phenomena#^1-5\|.]] **[[0204 Guided meditation - Metta to phenomena#^1-6\|.]]** [[0204 Guided meditation - Metta to phenomena#^2-1\|.]] | 5
+[[Love and Emptiness]] | [[Love and Emptiness# Rob For now do not mix pure metta and pure compassion practice\| Rob: For now, do not mix pure metta and pure compassion practice]] [[0204 Love and Emptiness#^13-9\|.]] **[[0204 Love and Emptiness#^13-10\|.]]** [[0204 Love and Emptiness#^13-11\|.]] | 5
+[[The Practice of Compassion]] | [[The Practice of Compassion#Yogi I feel I need to connect with mettā before being able to be in the compassion space\|Yogi: I feel I need to connect with mettā before being able to be in the compassion space]] [[0201 The Practice of Compassion#^16-8\|.]] **[[0201 The Practice of Compassion#^16-9\|.]]** [[0201 The Practice of Compassion#^16-10\|.]] | 5
+[[Samadhi in Metta Practice]] | [[Samadhi in Metta Practice#Metta phrases are more helpful than a lot of the other thoughts we have during the day\|Metta phrases are more helpful than a lot of the other thoughts we have during the day]] [[0122 Samadhi in Metta Practice#^8-3\|.]] **[[0122 Samadhi in Metta Practice#^8-4\|.]]** [[0122 Samadhi in Metta Practice#^9-1\|.]] | 5
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Set up the temenos in the beginning and include metta\|Set up the temenos in the beginning and include metta]] [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-1\|.]] **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-2\|.]]** [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-3\|.]] | 4
+[[Eros Unfettered Part 3]] | [[Eros Unfettered Part 3#\|...]] [[0125 Eros Unfettered Part 3#^5-2\|.]] **[[0125 Eros Unfettered Part 3#^5-3\|.]]** [[0125 Eros Unfettered Part 3#^5-4\|.]] | 4
+[[Eros Unfettered Part 2]] | [[Eros Unfettered Part 2#\|...]] [[0124 Eros Unfettered Part 2#^2-4\|.]] **[[0124 Eros Unfettered Part 2#^2-5\|.]]** [[0124 Eros Unfettered Part 2#^3-1\|.]] | 4
+[[Joy (talk)]] | [[Joy (talk)#\|...]] [[1231 Joy (talk)#^8-1\|.]] **[[1231 Joy (talk)#^8-2\|.]]** [[1231 Joy (talk)#^8-3\|.]] | 4
+[[Love and Emptiness]] | [[Love and Emptiness#So far metta was directed to beings\|So far, metta was directed to beings]] [[0204 Love and Emptiness#^2-4\|.]] **[[0204 Love and Emptiness#^3-1\|.]]** [[0204 Love and Emptiness#^3-2\|.]] | 4
+[[Love and Emptiness]] | [[Love and Emptiness#Rob Compassion practice tunes into suffering and the outgoing healing can feel like metta\|Rob: Compassion practice tunes into suffering, and the outgoing healing can feel like metta]] [[0204 Love and Emptiness#^13-11\|.]] **[[0204 Love and Emptiness#^14-1\|.]]** [[0204 Love and Emptiness#^14-2\|.]] | 4
+[[Love and Emptiness]] | [[Love and Emptiness#Rob Both sensible and you'll get very quick at doing it either way\|Rob: Both sensible, and you'll get very quick at doing it either way]] [[0204 Love and Emptiness#^14-7\|.]] **[[0204 Love and Emptiness#^14-8\|.]]** [[0204 Love and Emptiness#^14-9\|.]] | 4
+[[The Practice of Compassion]] | [[The Practice of Compassion#When metta meets suffering it transformsinto compassion\|When metta meets suffering, it transformsinto compassion]] [[0201 The Practice of Compassion#^1-1\|.]] **[[0201 The Practice of Compassion#^1-2\|.]]** [[0201 The Practice of Compassion#^1-3\|.]] | 4
+[[From Insight to Love]] | [[From Insight to Love#What is going on in this retreat here how insights can lead to love\|What is going on in this retreat, here: how insights can lead to love]]  **[[0127 From Insight to Love#^1-1\|.]]** [[0127 From Insight to Love#^1-2\|.]] | 4
+[[From Insight to Love]] | [[From Insight to Love#3 possibilities + anatta\|3 possibilities + anatta]] [[0127 From Insight to Love#^5-3\|.]] **[[0127 From Insight to Love#^5-4\|.]]** [[0127 From Insight to Love#^5-5\|.]] | 4
+[[From Insight to Love]] | [[From Insight to Love#Reflect about the other persons' death\|Reflect about the other persons' death]] [[0127 From Insight to Love#^7-3\|.]] **[[0127 From Insight to Love#^7-4\|.]]** [[0127 From Insight to Love#^7-5\|.]] | 4
+[[From Insight to Love]] | [[From Insight to Love#The unfindability of a fixed sense gives way for space where metta can come in\|The unfindability of a fixed sense gives way for space where metta can come in]] [[0127 From Insight to Love#^7-6\|.]] **[[0127 From Insight to Love#^7-7\|.]]** [[0127 From Insight to Love#^8-1\|.]] | 4
+[[From Insight to Love]] | [[From Insight to Love#The more metta the less soil fear has to establish itself as a habit\|The more metta, the less soil fear has to establish itself as a habit]] [[0127 From Insight to Love#^16-1\|.]] **[[0127 From Insight to Love#^16-2\|.]]** [[0127 From Insight to Love#^16-3\|.]] | 4
+[[Expressions of Metta]] | [[Expressions of Metta#Category "the self"\|Category "the self"]] [[0125 Expressions of Metta#^1-3\|.]] **[[0125 Expressions of Metta#^1-4\|.]]** [[0125 Expressions of Metta#^2-1\|.]] | 4
+[[Expressions of Metta]] | [[Expressions of Metta#Category "friend"\|Category "friend"]] [[0125 Expressions of Metta#^2-4\|.]] **[[0125 Expressions of Metta#^2-5\|.]]** [[0125 Expressions of Metta#^3-1\|.]] | 4
+[[Expressions of Metta]] | [[Expressions of Metta#Guilt and remorse\|Guilt and remorse]] [[0125 Expressions of Metta#^11-2\|.]] **[[0125 Expressions of Metta#^11-3\|.]]** [[0125 Expressions of Metta#^11-4\|.]] | 4
+[[Expressions of Metta]] | [[Expressions of Metta#Love being unveiled somehow it's there all the time\|Love being unveiled, somehow it's there all the time]] [[0125 Expressions of Metta#^12-1\|.]] **[[0125 Expressions of Metta#^12-2\|.]]** [[0125 Expressions of Metta#^12-3\|.]] | 4
+[[Samadhi in Metta Practice]] | [[Samadhi in Metta Practice#4 Non-entanglement with things\|4. Non-entanglement with things]] [[0122 Samadhi in Metta Practice#^10-4\|.]] **[[0122 Samadhi in Metta Practice#^10-5\|.]]** [[0122 Samadhi in Metta Practice#^10-6\|.]] | 4
 

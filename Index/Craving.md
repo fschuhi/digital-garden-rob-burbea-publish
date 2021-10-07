@@ -1,14 +1,47 @@
 #IndexEntry #Buddhology
 
-### Top 10 referring transcripts
-[[0115 The Way of Non-Clinging Part 1]] (85)
-[[0116 The Way of Non-Clinging Part 2]] (57)
-[[0117 The Way of Non-Clinging Part 3]] (39)
-[[0204 Love and Emptiness]] (38)
-[[0208 Equanimity in Compassion]] (21)
-[[0118 Dilemmas and Delineations - How did we get here Part 1]] (12)
-[[0121 Dilemmas and Delineations - How did we get here Part 4]] (12)
-[[1228 Equanimity (talk)]] (11)
-[[0120 Dilemmas and Delineations - How did we get here Part 3]] (10)
-[[0122 Dilemmas and Delineations - How did we get here Part 5]] (10)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[The Way of Non-Clinging Part 1]] | 85 | [[2017 Eros Unfettered]]
+[[The Way of Non-Clinging Part 2]] | 57 | [[2017 Eros Unfettered]]
+[[The Way of Non-Clinging Part 3]] | 39 | [[2017 Eros Unfettered]]
+[[Love and Emptiness]] | 36 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Equanimity in Compassion]] | 20 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 4]] | 12 | [[2017 Eros Unfettered]]
+[[Dilemmas and Delineations - How did we get here Part 1]] | 12 | [[2017 Eros Unfettered]]
+[[Equanimity (talk)]] | 11 | [[2006 New Year's Retreat]]
+[[Dilemmas and Delineations - How did we get here Part 5]] | 10 | [[2017 Eros Unfettered]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 10 | [[2017 Eros Unfettered]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[The Way of Non-Clinging Part 1]] | [[The Way of Non-Clinging Part 1#Huge range of what contitutes craving\|Huge range of what contitutes craving]] [[0115 The Way of Non-Clinging Part 1#^7-3\|.]] **[[0115 The Way of Non-Clinging Part 1#^7-4\|.]]** [[0115 The Way of Non-Clinging Part 1#^7-5\|.]] | 9
+[[The Way of Non-Clinging Part 2]] | [[The Way of Non-Clinging Part 2#Less craving less self gets fabricated - - fading\|Less craving, less self gets fabricated - - fading]] [[0116 The Way of Non-Clinging Part 2#^1-7\|.]] **[[0116 The Way of Non-Clinging Part 2#^2-1\|.]]** [[0116 The Way of Non-Clinging Part 2#^2-2\|.]] | 8
+[[Dilemmas and Delineations - How did we get here Part 3]] | [[Dilemmas and Delineations - How did we get here Part 3#\|...]] [[0120 Dilemmas and Delineations - How did we get here Part 3#^8-3\|.]] **[[0120 Dilemmas and Delineations - How did we get here Part 3#^8-4\|.]]** [[0120 Dilemmas and Delineations - How did we get here Part 3#^8-5\|.]] | 7
+[[The Way of Non-Clinging Part 1]] | [[The Way of Non-Clinging Part 1#Craving for extinction\|Craving for extinction]] [[0115 The Way of Non-Clinging Part 1#^5-3\|.]] **[[0115 The Way of Non-Clinging Part 1#^5-4\|.]]** [[0115 The Way of Non-Clinging Part 1#^6-1\|.]] | 7
+[[The Way of Non-Clinging Part 3]] | [[The Way of Non-Clinging Part 3#Some do not have a deep calling to explore desire more fully \|Some do not have a deep calling to explore desire more fully ...]] [[0117 The Way of Non-Clinging Part 3#^8-5\|.]] **[[0117 The Way of Non-Clinging Part 3#^9-1\|.]]** [[0117 The Way of Non-Clinging Part 3#^9-2\|.]] | 6
+[[The Way of Non-Clinging Part 1]] | [[The Way of Non-Clinging Part 1#"Is she going to call"\|"Is she going to call?"]] [[0115 The Way of Non-Clinging Part 1#^4-5\|.]] **[[0115 The Way of Non-Clinging Part 1#^4-6\|.]]** [[0115 The Way of Non-Clinging Part 1#^5-1\|.]] | 6
+[[Equanimity in Compassion]] | [[Equanimity in Compassion#Rob two ways to see samatha collectedness vs calming the agitation of the being\|Rob: two ways to see samatha: collectedness vs calming the agitation of the being]] [[0208 Equanimity in Compassion#^13-4\|.]] **[[0208 Equanimity in Compassion#^13-5\|.]]** [[0208 Equanimity in Compassion#^13-6\|.]] | 6
+[[Love and Emptiness]] | [[Love and Emptiness#When there's no clinging and grasping wee feel the suffering go out of experience\|When there's no clinging and grasping, wee feel the suffering go out of experience]] [[0204 Love and Emptiness#^9-4\|.]] **[[0204 Love and Emptiness#^9-5\|.]]** [[0204 Love and Emptiness#^10-1\|.]] | 6
+[[Love and Emptiness]] | [[Love and Emptiness#Rob attention is kind of like prongs\|Rob: attention is kind of like prongs]] [[0204 Love and Emptiness#^15-1\|.]] **[[0204 Love and Emptiness#^15-2\|.]]** [[0204 Love and Emptiness#^15-3\|.]] | 6
+[[The Way of Non-Clinging Part 2]] | [[The Way of Non-Clinging Part 2#Experience of craving and clinging of something contracting\|Experience of craving and clinging, of something contracting]] [[0116 The Way of Non-Clinging Part 2#^1-2\|.]] **[[0116 The Way of Non-Clinging Part 2#^1-3\|.]]** [[0116 The Way of Non-Clinging Part 2#^1-4\|.]] | 5
+[[The Way of Non-Clinging Part 1]] | [[The Way of Non-Clinging Part 1#Craving itself is dukkha\|Craving itself is dukkha]] [[0115 The Way of Non-Clinging Part 1#^5-4\|.]] **[[0115 The Way of Non-Clinging Part 1#^6-1\|.]]** [[0115 The Way of Non-Clinging Part 1#^6-2\|.]] | 5
+[[The Way of Non-Clinging Part 1]] | [[The Way of Non-Clinging Part 1#Techniques of "just let go of everything" 1\|==Techniques of "just let go of everything"==, 1.]] [[0115 The Way of Non-Clinging Part 1#^8-1\|.]] **[[0115 The Way of Non-Clinging Part 1#^8-2\|.]]** [[0115 The Way of Non-Clinging Part 1#^8-3\|.]] | 5
+[[Love and Emptiness]] | [[Love and Emptiness#Rob deep metta has this quality of non-craving\|Rob: deep metta has this quality of non-craving]] [[0204 Love and Emptiness#^13-4\|.]] **[[0204 Love and Emptiness#^13-5\|.]]** [[0204 Love and Emptiness#^13-6\|.]] | 5
+[[Dilemmas and Delineations - How did we get here Part 5]] | [[Dilemmas and Delineations - How did we get here Part 5#\|...]] [[0122 Dilemmas and Delineations - How did we get here Part 5#^6-1\|.]] **[[0122 Dilemmas and Delineations - How did we get here Part 5#^6-2\|.]]** [[0122 Dilemmas and Delineations - How did we get here Part 5#^6-3\|.]] | 4
+[[Dilemmas and Delineations - How did we get here Part 5]] | [[Dilemmas and Delineations - How did we get here Part 5#\|...]] [[0122 Dilemmas and Delineations - How did we get here Part 5#^6-2\|.]] **[[0122 Dilemmas and Delineations - How did we get here Part 5#^6-3\|.]]** [[0122 Dilemmas and Delineations - How did we get here Part 5#^6-4\|.]] | 4
+[[The Way of Non-Clinging Part 3]] | [[The Way of Non-Clinging Part 3#Different avenues\|Different avenues]] [[0117 The Way of Non-Clinging Part 3#^4-5\|.]] **[[0117 The Way of Non-Clinging Part 3#^5-1\|.]]** [[0117 The Way of Non-Clinging Part 3#^5-2\|.]] | 4
+[[The Way of Non-Clinging Part 2]] | [[The Way of Non-Clinging Part 2#Release and calmness\|Release and calmness]] [[0116 The Way of Non-Clinging Part 2#^1-4\|.]] **[[0116 The Way of Non-Clinging Part 2#^1-5\|.]]** [[0116 The Way of Non-Clinging Part 2#^1-6\|.]] | 4
+[[The Way of Non-Clinging Part 2]] | [[The Way of Non-Clinging Part 2#Feel its tension feel its release\|Feel its tension, feel its release]] [[0116 The Way of Non-Clinging Part 2#^1-5\|.]] **[[0116 The Way of Non-Clinging Part 2#^1-6\|.]]** [[0116 The Way of Non-Clinging Part 2#^1-7\|.]] | 4
+[[The Way of Non-Clinging Part 2]] | [[The Way of Non-Clinging Part 2#No clinger no clung to no clinging\|No clinger, no clung to, no clinging]] [[0116 The Way of Non-Clinging Part 2#^9-3\|.]] **[[0116 The Way of Non-Clinging Part 2#^9-4\|.]]** [[0116 The Way of Non-Clinging Part 2#^10-1\|.]] | 4
+[[The Way of Non-Clinging Part 2]] | [[The Way of Non-Clinging Part 2#What it means that craving is part of perception\|What it means that craving is part of perception]] [[0116 The Way of Non-Clinging Part 2#^10-1\|.]] **[[0116 The Way of Non-Clinging Part 2#^10-2\|.]]** [[0116 The Way of Non-Clinging Part 2#^10-3\|.]] | 4
+[[The Way of Non-Clinging Part 1]] | [[The Way of Non-Clinging Part 1#Clinging is more obsessive craving\|Clinging is more obsessive craving]] [[0115 The Way of Non-Clinging Part 1#^2-2\|.]] **[[0115 The Way of Non-Clinging Part 1#^2-3\|.]]** [[0115 The Way of Non-Clinging Part 1#^2-4\|.]] | 4
+[[The Way of Non-Clinging Part 1]] | [[The Way of Non-Clinging Part 1#Craving\|Craving]] [[0115 The Way of Non-Clinging Part 1#^3-4\|.]] **[[0115 The Way of Non-Clinging Part 1#^3-5\|.]]** [[0115 The Way of Non-Clinging Part 1#^3-6\|.]] | 4
+[[The Way of Non-Clinging Part 1]] | [[The Way of Non-Clinging Part 1#Clinging doesn't happen if we stay with the craving vedana\|Clinging doesn't happen if we stay with the craving (vedana)]] [[0115 The Way of Non-Clinging Part 1#^9-5\|.]] **[[0115 The Way of Non-Clinging Part 1#^10-1\|.]]** [[0115 The Way of Non-Clinging Part 1#^10-2\|.]] | 4
+[[The Way of Non-Clinging Part 1]] | [[The Way of Non-Clinging Part 1#6 Paying attention to impermanence\|6. Paying attention to impermanence]] [[0115 The Way of Non-Clinging Part 1#^10-2\|.]] **[[0115 The Way of Non-Clinging Part 1#^10-3\|.]]** [[0115 The Way of Non-Clinging Part 1#^10-4\|.]] | 4
+[[Equanimity in Compassion]] | [[Equanimity in Compassion#2 Equanimity deepens by letting go of grasping and craving\|(2) Equanimity deepens by letting go of grasping and craving]] [[0208 Equanimity in Compassion#^9-4\|.]] **[[0208 Equanimity in Compassion#^10-1\|.]]** [[0208 Equanimity in Compassion#^10-2\|.]] | 4
+[[Love and Emptiness]] | [[Love and Emptiness#Grasping clouds our seeing\|Grasping clouds our seeing]] [[0204 Love and Emptiness#^10-2\|.]] **[[0204 Love and Emptiness#^10-3\|.]]** [[0204 Love and Emptiness#^10-4\|.]] | 4
+[[Equanimity (talk)]] | [[Equanimity (talk)#Then things begin to fade\|Then things begin to fade]] [[1228 Equanimity (talk)#^11-3\|.]] **[[1228 Equanimity (talk)#^12-1\|.]]** [[1228 Equanimity (talk)#^12-2\|.]] | 4
 

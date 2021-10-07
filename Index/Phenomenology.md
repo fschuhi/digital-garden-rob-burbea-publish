@@ -2,13 +2,20 @@
 
 
 
-### Top 10 referring transcripts
-[[0120 Dilemmas and Delineations - How did we get here Part 3]] (11)
-[[0119 Dilemmas and Delineations - How did we get here Part 2]] (2)
-[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] (2)
-[[0121 Dilemmas and Delineations - How did we get here Part 4]] (1)
-[[0124 Eros Unfettered Part 2]] (1)
-[[0202 Logos in the Garden of Souls Part 1]] (1)
-[[0204 Logos in the Garden of Souls Part 3]] (1)
-[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[Dilemmas and Delineations - How did we get here Part 3]] | 11 | [[2017 Eros Unfettered]]
+[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | 2 | [[2017 Eros Unfettered]]
+[[Dilemmas and Delineations - How did we get here Part 2]] | 2 | [[2017 Eros Unfettered]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 1 | [[2020 Vajra Music]]
+[[Logos in the Garden of Souls Part 3]] | 1 | [[2017 Eros Unfettered]]
+[[Logos in the Garden of Souls Part 1]] | 1 | [[2017 Eros Unfettered]]
+[[Eros Unfettered Part 2]] | 1 | [[2017 Eros Unfettered]]
+[[Dilemmas and Delineations - How did we get here Part 4]] | 1 | [[2017 Eros Unfettered]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[Dilemmas and Delineations - How did we get here Part 3]] | [[Dilemmas and Delineations - How did we get here Part 3#\|...]] [[0120 Dilemmas and Delineations - How did we get here Part 3#^3-4\|.]] **[[0120 Dilemmas and Delineations - How did we get here Part 3#^3-5\|.]]** [[0120 Dilemmas and Delineations - How did we get here Part 3#^4-1\|.]] | 4
 

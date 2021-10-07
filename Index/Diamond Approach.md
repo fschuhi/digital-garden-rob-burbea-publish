@@ -1,5 +1,12 @@
 #IndexEntry #Robology
 
-### Top 10 referring transcripts
-[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (3)
+### Top 10 referring talks
+talk | count | series
+:- | - |: -
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 3 | [[2020 Vajra Music]]
+
+### Paragraphs with 4+ mentions
+summary | description | count
+:- | : - | -
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Diamond Approach "impeccability"\|Diamond Approach: "impeccability"]] [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^20-1\|.]] **[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^20-2\|.]]** [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^20-3\|.]] | 3
 
