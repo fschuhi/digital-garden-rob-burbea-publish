@@ -15,8 +15,8 @@ talk | count | series
 [[What is Insight]] | 8 | [[2007 New Years Retreat Insight Meditation]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[The Way of Non-Clinging Part 2#Objects fade to the degree I do not lean on them\|Objects fade to the degree I (do not) lean on them]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^9-1\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^9-2\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^9-3\|.]] | 8 | [[The Way of Non-Clinging Part 2]]
 [[Love and Emptiness#Rob That I cannot say how a thing is that is the meaning of emptiness\|Rob: That I cannot say how a thing is, that is the meaning of emptiness]] &nbsp;&nbsp;[[0204 Love and Emptiness#^16-4\|.]] &nbsp; **[[0204 Love and Emptiness#^16-5\|.]]** &nbsp; [[0204 Love and Emptiness#^16-6\|.]] | 8 | [[Love and Emptiness]]
 [[The Way of Non-Clinging Part 2#Keeping appearances around but knowing them to be empty\|Keeping appearances around but knowing them to be empty]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^9-2\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^9-3\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^9-4\|.]] | 7 | [[The Way of Non-Clinging Part 2]]

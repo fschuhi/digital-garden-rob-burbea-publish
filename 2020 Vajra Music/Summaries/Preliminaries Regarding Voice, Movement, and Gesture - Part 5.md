@@ -3,7 +3,7 @@ ParagraphsListPage: true
 Series: 2020 Vajra Music
 obsidianUIMode: preview
 ---
-#TranscriptSummary
+#Talk
 
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4|Preliminaries Regarding Voice, Movement, and Gesture - Part 4 🡄]] | [[2020 Vajra Music|🡅]] | [[Perfection and Christ's Blessing|🡆 Perfection and Christ's Blessing]]
 

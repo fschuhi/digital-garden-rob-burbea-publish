@@ -15,8 +15,8 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 5]] | 6 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[The Way of Non-Clinging Part 3#Summary of the first 2 talks\|Summary of the first 2 talks]] &nbsp;&nbsp; &nbsp; **[[0117 The Way of Non-Clinging Part 3#^1-1\|.]]** &nbsp; [[0117 The Way of Non-Clinging Part 3#^1-2\|.]] | 11 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 2#No clinger no clung to no clinging\|No clinger, no clung to, no clinging]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^9-3\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^9-4\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^10-1\|.]] | 10 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#The process of non-clinging evolves through clining to something else\|The process of non-clinging evolves through clining to something else]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^12-2\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^12-3\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^12-4\|.]] | 10 | [[The Way of Non-Clinging Part 2]]

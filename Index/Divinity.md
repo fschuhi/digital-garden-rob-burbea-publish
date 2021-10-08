@@ -25,7 +25,7 @@ talk | count | series
 [[The Way of Non-Clinging Part 3]] | 4 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#If we do not aim for Aspect 4 we might see the face of the divine Aspect 5\|If we do not aim for Aspect 4 we might see the face of the divine (Aspect 5)]] &nbsp;&nbsp;[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^4-1\|.]] &nbsp; **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^4-2\|.]]** &nbsp; [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^4-3\|.]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 

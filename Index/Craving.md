@@ -15,8 +15,8 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 3]] | 10 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[The Way of Non-Clinging Part 1#Huge range of what contitutes craving\|Huge range of what contitutes craving]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^7-3\|.]] &nbsp; **[[0115 The Way of Non-Clinging Part 1#^7-4\|.]]** &nbsp; [[0115 The Way of Non-Clinging Part 1#^7-5\|.]] | 9 | [[The Way of Non-Clinging Part 1]]
 [[The Way of Non-Clinging Part 2#Less craving less self gets fabricated - - fading\|Less craving, less self gets fabricated - - fading]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^1-7\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^2-1\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^2-2\|.]] | 8 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 1#Craving for extinction\|Craving for extinction]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^5-3\|.]] &nbsp; **[[0115 The Way of Non-Clinging Part 1#^5-4\|.]]** &nbsp; [[0115 The Way of Non-Clinging Part 1#^6-1\|.]] | 7 | [[The Way of Non-Clinging Part 1]]

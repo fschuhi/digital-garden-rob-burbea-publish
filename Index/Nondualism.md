@@ -15,7 +15,7 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 2 | [[2020 Vajra Music]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Samadhi in Metta Practice#The question of effort is connected with a sense of duality which is connected with a sense of love\|The question of effort is connected with a sense of duality, which is connected with a sense of love]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^7-6\|.]] &nbsp; **[[0122 Samadhi in Metta Practice#^7-7\|.]]** &nbsp; [[0122 Samadhi in Metta Practice#^8-1\|.]] | 6 | [[Samadhi in Metta Practice]]
 

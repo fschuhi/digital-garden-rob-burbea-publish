@@ -24,6 +24,17 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
 [[From Insight to Love]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
+### Paragraphs with 4+ mentions
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
+[[Equanimity (talk)#The near enemy is indifference and lack of juicyness in life\|The near enemy is indifference and lack of juicyness in life]] &nbsp;&nbsp;[[1228 Equanimity (talk)#^2-1\|.]] &nbsp; **[[1228 Equanimity (talk)#^2-2\|.]]** &nbsp; [[1228 Equanimity (talk)#^2-3\|.]] | 9 | [[Equanimity (talk)]]
+[[Love and Emptiness#Things make less impression on consciousness when there's a lot of equanimity\|Things make less impression on consciousness when there's a lot of equanimity]] &nbsp;&nbsp;[[0204 Love and Emptiness#^5-4\|.]] &nbsp; **[[0204 Love and Emptiness#^6-1\|.]]** &nbsp; [[0204 Love and Emptiness#^6-2\|.]] | 6 | [[Love and Emptiness]]
+[[Equanimity in Compassion#Equanimity is not indifference\|Equanimity is not indifference]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^6-5\|.]] &nbsp; **[[0208 Equanimity in Compassion#^6-6\|.]]** &nbsp; [[0208 Equanimity in Compassion#^7-1\|.]] | 5 | [[Equanimity in Compassion]]
+[[Equanimity in Compassion#As the self-sense gets quite equanimity becomes the natural state\|As the self-sense gets quite, equanimity becomes the natural state]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^4-1\|.]] &nbsp; **[[0208 Equanimity in Compassion#^4-2\|.]]** &nbsp; [[0208 Equanimity in Compassion#^4-3\|.]] | 4 | [[Equanimity in Compassion]]
+[[Equanimity in Compassion#2 Equanimity deepens by letting go of grasping and craving\|(2) Equanimity deepens by letting go of grasping and craving]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^9-4\|.]] &nbsp; **[[0208 Equanimity in Compassion#^10-1\|.]]** &nbsp; [[0208 Equanimity in Compassion#^10-2\|.]] | 4 | [[Equanimity in Compassion]]
+[[Equanimity in Compassion#Rob spaciousness and progressivly letting go\|Rob: spaciousness and progressivly letting go]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^13-6\|.]] &nbsp; **[[0208 Equanimity in Compassion#^13-7\|.]]** &nbsp; [[0208 Equanimity in Compassion#^13-8\|.]] | 4 | [[Equanimity in Compassion]]
+[[Equanimity (talk)#There is nothing really to be equanimous about\|There is nothing really to be equanimous about]] &nbsp;&nbsp;[[1228 Equanimity (talk)#^12-1\|.]] &nbsp; **[[1228 Equanimity (talk)#^12-2\|.]]** &nbsp; [[1228 Equanimity (talk)#^12-3\|.]] | 4 | [[Equanimity (talk)]]
+
 ### Quotes
 ##### 2006 New Year's Retreat: Equanimity [[1228 Equanimity (talk)|(Transcript)]]
 <span class="counts">[[1228 Equanimity (talk)#1-1|1-1]] · **[[1228 Equanimity (talk)#1-2|1-2]]** (2) · **[[1228 Equanimity (talk)#1-3|1-3]]** · **[[1228 Equanimity (talk)#2-1|2-1]]** (2) · **[[1228 Equanimity (talk)#2-2|2-2]]** (9) · **[[1228 Equanimity (talk)#2-3|2-3]]** (2) · **[[1228 Equanimity (talk)#2-4|2-4]]** (2) · [[1228 Equanimity (talk)#3-1|3-1]] (2) · [[1228 Equanimity (talk)#3-2|3-2]] · [[1228 Equanimity (talk)#3-4|3-4]] · [[1228 Equanimity (talk)#3-5|3-5]] (2) · **[[1228 Equanimity (talk)#4-2|4-2]]** · [[1228 Equanimity (talk)#4-3|4-3]] · [[1228 Equanimity (talk)#5-2|5-2]] · **[[1228 Equanimity (talk)#5-3|5-3]]** (2) · **[[1228 Equanimity (talk)#6-3|6-3]]** · **[[1228 Equanimity (talk)#9-3|9-3]]** · **[[1228 Equanimity (talk)#11-3|11-3]]** (2) · **[[1228 Equanimity (talk)#12-2|12-2]]** (4) · **[[1228 Equanimity (talk)#12-5|12-5]]** · [[1228 Equanimity (talk)#13-1|13-1]]</span>
@@ -80,18 +91,6 @@ talk | count | series
 
 #### added 22.09.21 16:16:30
 
-###### 2007 New Years Retreat Insight Meditation: Joy (talk) [[2007 New Years Retreat Insight Meditation/Transcripts/1231 Joy (talk)|(Transcript)]]
+##### 2007 New Years Retreat Insight Meditation: Joy (talk) [[2007 New Years Retreat Insight Meditation/Transcripts/1231 Joy (talk)|(Transcript)]]
 _occurrences: [[2007 New Years Retreat Insight Meditation/Transcripts/1231 Joy (talk)#1-4|1-4]] (3) · [[2007 New Years Retreat Insight Meditation/Transcripts/1231 Joy (talk)#3-2|3-2]] (4) · [[2007 New Years Retreat Insight Meditation/Transcripts/1231 Joy (talk)#8-2|8-2]]_
-
-
-### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
-[[Equanimity (talk)#The near enemy is indifference and lack of juicyness in life\|The near enemy is indifference and lack of juicyness in life]] &nbsp;&nbsp;[[1228 Equanimity (talk)#^2-1\|.]] &nbsp; **[[1228 Equanimity (talk)#^2-2\|.]]** &nbsp; [[1228 Equanimity (talk)#^2-3\|.]] | 9 | [[Equanimity (talk)]]
-[[Love and Emptiness#Things make less impression on consciousness when there's a lot of equanimity\|Things make less impression on consciousness when there's a lot of equanimity]] &nbsp;&nbsp;[[0204 Love and Emptiness#^5-4\|.]] &nbsp; **[[0204 Love and Emptiness#^6-1\|.]]** &nbsp; [[0204 Love and Emptiness#^6-2\|.]] | 6 | [[Love and Emptiness]]
-[[Equanimity in Compassion#Equanimity is not indifference\|Equanimity is not indifference]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^6-5\|.]] &nbsp; **[[0208 Equanimity in Compassion#^6-6\|.]]** &nbsp; [[0208 Equanimity in Compassion#^7-1\|.]] | 5 | [[Equanimity in Compassion]]
-[[Equanimity in Compassion#As the self-sense gets quite equanimity becomes the natural state\|As the self-sense gets quite, equanimity becomes the natural state]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^4-1\|.]] &nbsp; **[[0208 Equanimity in Compassion#^4-2\|.]]** &nbsp; [[0208 Equanimity in Compassion#^4-3\|.]] | 4 | [[Equanimity in Compassion]]
-[[Equanimity in Compassion#2 Equanimity deepens by letting go of grasping and craving\|(2) Equanimity deepens by letting go of grasping and craving]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^9-4\|.]] &nbsp; **[[0208 Equanimity in Compassion#^10-1\|.]]** &nbsp; [[0208 Equanimity in Compassion#^10-2\|.]] | 4 | [[Equanimity in Compassion]]
-[[Equanimity in Compassion#Rob spaciousness and progressivly letting go\|Rob: spaciousness and progressivly letting go]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^13-6\|.]] &nbsp; **[[0208 Equanimity in Compassion#^13-7\|.]]** &nbsp; [[0208 Equanimity in Compassion#^13-8\|.]] | 4 | [[Equanimity in Compassion]]
-[[Equanimity (talk)#There is nothing really to be equanimous about\|There is nothing really to be equanimous about]] &nbsp;&nbsp;[[1228 Equanimity (talk)#^12-1\|.]] &nbsp; **[[1228 Equanimity (talk)#^12-2\|.]]** &nbsp; [[1228 Equanimity (talk)#^12-3\|.]] | 4 | [[Equanimity (talk)]]
 

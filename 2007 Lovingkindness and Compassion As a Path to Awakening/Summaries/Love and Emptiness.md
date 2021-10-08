@@ -3,7 +3,7 @@ ParagraphsListPage: true
 Series: 2007 Lovingkindness and Compassion As a Path to Awakening
 obsidianUIMode: preview
 ---
-#TranscriptSummary
+#Talk
 
 [[Guided meditation - Metta to phenomena|Guided meditation - Metta to phenomena 🡄]] | [[2007 Lovingkindness and Compassion As a Path to Awakening|🡅]] | [[Equanimity in Compassion|🡆 Equanimity in Compassion]]
 

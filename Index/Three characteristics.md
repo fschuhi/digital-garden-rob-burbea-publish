@@ -8,8 +8,8 @@ talk | count | series
 [[Joy (talk)]] | 2 | [[2007 New Years Retreat Insight Meditation]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[From Insight to Love#The "three characteristics"\|The "three characteristics"]] &nbsp;&nbsp;[[0127 From Insight to Love#^5-5\|.]] &nbsp; **[[0127 From Insight to Love#^5-6\|.]]** &nbsp; [[0127 From Insight to Love#^6-1\|.]] | 3 | [[From Insight to Love]]
 [[What is Insight#The Three Characteristics are modes of seeing which add to suffering\|The Three Characteristics are modes of seeing which add to suffering]] &nbsp;&nbsp;[[1229 What is Insight#^7-5\|.]] &nbsp; **[[1229 What is Insight#^7-6\|.]]** &nbsp; [[1229 What is Insight#^8-1\|.]] | 1 | [[What is Insight]]
 [[What is Insight#Just letting go of the aversion in the heart the heart opens\|Just letting go of the aversion in the heart, the heart opens]] &nbsp;&nbsp;[[1229 What is Insight#^9-4\|.]] &nbsp; **[[1229 What is Insight#^9-5\|.]]** &nbsp; [[1229 What is Insight#^10-1\|.]] | 1 | [[What is Insight]]

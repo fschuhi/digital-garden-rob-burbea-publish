@@ -7,6 +7,6 @@ talk | count | series
 [[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 

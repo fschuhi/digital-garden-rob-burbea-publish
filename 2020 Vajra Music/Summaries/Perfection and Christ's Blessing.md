@@ -3,7 +3,7 @@ ParagraphsListPage: false
 Series: 2020 Vajra Music
 obsidianUIMode: preview
 ---
-#TranscriptSummary
+#Talk
 
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5|Preliminaries Regarding Voice, Movement, and Gesture - Part 5 🡄]] | [[2020 Vajra Music|🡅]] | 
 

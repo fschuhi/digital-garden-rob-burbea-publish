@@ -9,8 +9,8 @@ talk | count | series
 [[The Way of Non-Clinging Part 3]] | 3 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[The Way of Non-Clinging Part 2#Let go of the of the believing it is me or mine\|Let go of the of the believing it is me or mine]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^3-5\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^3-6\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^4-1\|.]] | 6 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 3#Some do not have a deep calling to explore desire more fully \|Some do not have a deep calling to explore desire more fully ...]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^8-5\|.]] &nbsp; **[[0117 The Way of Non-Clinging Part 3#^9-1\|.]]** &nbsp; [[0117 The Way of Non-Clinging Part 3#^9-2\|.]] | 3 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 1#Clinging doesn't happen if we stay with the craving vedana\|Clinging doesn't happen if we stay with the craving (vedana)]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^9-5\|.]] &nbsp; **[[0115 The Way of Non-Clinging Part 1#^10-1\|.]]** &nbsp; [[0115 The Way of Non-Clinging Part 1#^10-2\|.]] | 3 | [[The Way of Non-Clinging Part 1]]

@@ -9,7 +9,7 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Dilemmas and Delineations - How did we get here Part 1#Another equates Eros with life\|Another equates Eros with life]] &nbsp;&nbsp;[[0118 Dilemmas and Delineations - How did we get here Part 1#^2-4\|.]] &nbsp; **[[0118 Dilemmas and Delineations - How did we get here Part 1#^2-5\|.]]** &nbsp; [[0118 Dilemmas and Delineations - How did we get here Part 1#^2-6\|.]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
 

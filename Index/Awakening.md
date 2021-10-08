@@ -15,8 +15,8 @@ talk | count | series
 [[From Insight to Love]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[The Way of Non-Clinging Part 1#Fetters and arahantship\|Fetters and arahantship]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^2-1\|.]] &nbsp; **[[0115 The Way of Non-Clinging Part 1#^2-2\|.]]** &nbsp; [[0115 The Way of Non-Clinging Part 1#^2-3\|.]] | 6 | [[The Way of Non-Clinging Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 52 _The Bhumisparsa Mudra_\|🟡 Excercise 5.2: _The Bhumisparsa Mudra_]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^13-2\|.]] &nbsp; **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^13-3\|.]]** &nbsp; [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^13-4\|.]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[The Way of Non-Clinging Part 1#"Just let go of everything"\|"Just let go of everything"]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^7-1\|.]] &nbsp; **[[0115 The Way of Non-Clinging Part 1#^7-2\|.]]** &nbsp; [[0115 The Way of Non-Clinging Part 1#^7-3\|.]] | 4 | [[The Way of Non-Clinging Part 1]]

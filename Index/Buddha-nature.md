@@ -11,6 +11,6 @@ talk | count | series
 [[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 

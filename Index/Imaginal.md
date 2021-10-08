@@ -15,8 +15,8 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 1]] | 16 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Something in the larger constellation may ignite and become image\|Something in the larger constellation may ignite and become image]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^8-4\|.]] &nbsp; **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^9-1\|.]]** &nbsp; [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^9-2\|.]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Holding an imaginal image and dancing at the same time is difficult\|Holding an imaginal image and dancing at the same time is difficult]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^14-4\|.]] &nbsp; **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^15-1\|.]]** &nbsp; [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^15-2\|.]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Energy body excercises open towards relating to it as imaginal image\|Energy body excercises open towards relating to it as imaginal image]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-1\|.]] &nbsp; **[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-2\|.]]** &nbsp; [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-3\|.]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]

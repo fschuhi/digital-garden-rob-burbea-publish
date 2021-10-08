@@ -15,8 +15,8 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 2]] | 20 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#There is hope that practice opens possibilities\|There is hope that practice opens possibilities]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^14-3\|.]] &nbsp; **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^15-1\|.]]** &nbsp; [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^15-2\|.]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The soulmaking poise has a range is elastic with soft edges\|The soulmaking poise has a range, is elastic with soft edges]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^16-1\|.]] &nbsp; **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^16-2\|.]]** &nbsp; [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^16-3\|.]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#This affects the whole psyche heart relation to others\|This affects the whole psyche, heart, relation to others]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^10-6\|.]] &nbsp; **[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^11-1\|.]]** &nbsp; [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^11-2\|.]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]

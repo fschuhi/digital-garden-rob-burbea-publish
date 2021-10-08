@@ -15,8 +15,8 @@ talk | count | series
 [[Equanimity in Compassion]] | 15 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[What is Insight#General definition of insight that which brings lessening of suffering\|General definition of insight: that which brings lessening of suffering]] &nbsp;&nbsp;[[1229 What is Insight#^1-4\|.]] &nbsp; **[[1229 What is Insight#^1-5\|.]]** &nbsp; [[1229 What is Insight#^2-1\|.]] | 12 | [[What is Insight]]
 [[The Practice of Compassion#When there's insight into suffering compassion comes automatically\|When there's insight into suffering, compassion comes automatically]] &nbsp;&nbsp;[[0201 The Practice of Compassion#^4-1\|.]] &nbsp; **[[0201 The Practice of Compassion#^4-2\|.]]** &nbsp; [[0201 The Practice of Compassion#^4-3\|.]] | 9 | [[The Practice of Compassion]]
 [[The Practice of Compassion#There's a difference between 'judgement' and 'discernment'\|There's a difference between 'judgement' and 'discernment']] &nbsp;&nbsp;[[0201 The Practice of Compassion#^6-4\|.]] &nbsp; **[[0201 The Practice of Compassion#^6-5\|.]]** &nbsp; [[0201 The Practice of Compassion#^7-1\|.]] | 6 | [[The Practice of Compassion]]

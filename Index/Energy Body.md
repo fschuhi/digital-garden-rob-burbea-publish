@@ -24,8 +24,8 @@ talk | count | series
 [[The Way of Non-Clinging Part 2]] | 3 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Witness is just noticing albeit by bringing the whole energy body into sensual relationship 🟢\|Witness is just noticing (albeit by bringing the whole energy body into sensual relationship) 🟢]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^5-1\|.]] &nbsp; **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^5-2\|.]]** &nbsp; [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^5-3\|.]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 11 fill the room with the energy body\|🟡 Excercise 1.1: fill the room with the energy body]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-3\|.]] &nbsp; **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-4\|.]]** &nbsp; [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-5\|.]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's not important to recognise the situation from the outside it's more important to resonate in the heart and the soul\|It's not important to recognise the situation from the outside, it's more important to resonate in the heart and the soul]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^14-1\|.]] &nbsp; **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^14-2\|.]]** &nbsp; [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^14-3\|.]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]

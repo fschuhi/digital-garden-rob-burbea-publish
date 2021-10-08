@@ -9,8 +9,8 @@ talk | count | series
 [[Equanimity in Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Samadhi in Metta Practice#1 Piti is a kind of energy\|1. Piti is a kind of energy]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^10-1\|.]] &nbsp; **[[0122 Samadhi in Metta Practice#^10-2\|.]]** &nbsp; [[0122 Samadhi in Metta Practice#^10-3\|.]] | 4 | [[Samadhi in Metta Practice]]
 [[Samadhi in Metta Practice#Piti\|Piti]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^9-3\|.]] &nbsp; **[[0122 Samadhi in Metta Practice#^9-4\|.]]** &nbsp; [[0122 Samadhi in Metta Practice#^9-5\|.]] | 3 | [[Samadhi in Metta Practice]]
 [[Samadhi in Metta Practice#2 Interest\|2. Interest]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^10-2\|.]] &nbsp; **[[0122 Samadhi in Metta Practice#^10-3\|.]]** &nbsp; [[0122 Samadhi in Metta Practice#^10-4\|.]] | 3 | [[Samadhi in Metta Practice]]

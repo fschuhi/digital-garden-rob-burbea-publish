@@ -15,8 +15,8 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 1]] | 6 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[The Way of Non-Clinging Part 2#Bare sensations etc is not ultimate reality\|Bare sensations etc. is not ultimate reality]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^6-3\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^6-4\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^6-5\|.]] | 12 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#States of mind and experiences are just ways of looking\|States of mind and experiences are just ways of looking]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^10-3\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^10-4\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^10-5\|.]] | 7 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#Different directions of unfabrication\|Different directions of unfabrication]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^10-4\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^10-5\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^11-1\|.]] | 7 | [[The Way of Non-Clinging Part 2]]

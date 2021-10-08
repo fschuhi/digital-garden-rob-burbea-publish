@@ -7,8 +7,8 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Dilemmas and Delineations - How did we get here Part 1#Other talks\|Other talks]] &nbsp;&nbsp;[[0118 Dilemmas and Delineations - How did we get here Part 1#^3-3\|.]] &nbsp; **[[0118 Dilemmas and Delineations - How did we get here Part 1#^3-4\|.]]** &nbsp; [[0118 Dilemmas and Delineations - How did we get here Part 1#^3-5\|.]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[Equanimity in Compassion#Yogi In terms of generating samādhi and equanimity is samatha the best approach to that\|Yogi: In terms of generating samādhi and equanimity, is samatha the best approach to that?]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^13-3\|.]] &nbsp; **[[0208 Equanimity in Compassion#^13-4\|.]]** &nbsp; [[0208 Equanimity in Compassion#^13-5\|.]] | 1 | [[Equanimity in Compassion]]
 [[Equanimity in Compassion#Rob two ways to see samatha collectedness vs calming the agitation of the being\|Rob: two ways to see samatha: collectedness vs calming the agitation of the being]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^13-4\|.]] &nbsp; **[[0208 Equanimity in Compassion#^13-5\|.]]** &nbsp; [[0208 Equanimity in Compassion#^13-6\|.]] | 1 | [[Equanimity in Compassion]]

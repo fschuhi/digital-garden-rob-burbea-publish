@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Summary: [[What is Insight]]
+ [[What is Insight]]
 
 ---
 <br/>

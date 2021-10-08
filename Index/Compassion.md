@@ -15,8 +15,8 @@ talk | count | series
 [[Samadhi in Metta Practice]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[The Practice of Compassion#Giving compassion to mind moments\|Giving compassion to mind moments]] &nbsp;&nbsp;[[0201 The Practice of Compassion#^10-3\|.]] &nbsp; **[[0201 The Practice of Compassion#^10-4\|.]]** &nbsp; [[0201 The Practice of Compassion#^10-5\|.]] | 7 | [[The Practice of Compassion]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Also add metta in an adhoc fassion to counteract self-consciousness\|Also add metta in an adhoc fassion to counteract self-consciousness]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-2\|.]] &nbsp; **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-3\|.]]** &nbsp; [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-4\|.]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[The Practice of Compassion#A space radiating compassion\|A space radiating compassion]] &nbsp;&nbsp;[[0201 The Practice of Compassion#^18-7\|.]] &nbsp; **[[0201 The Practice of Compassion#^18-8\|.]]** &nbsp; [[0201 The Practice of Compassion#^18-9\|.]] | 6 | [[The Practice of Compassion]]

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Summary: [[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]]
+[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]]
 
 ---
 <br/>

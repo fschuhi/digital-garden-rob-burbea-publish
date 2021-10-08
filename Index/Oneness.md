@@ -15,8 +15,8 @@ talk | count | series
 [[Eros Unfettered Part 2]] | 2 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Expressions of Metta#A sense of merging begins to question our taken-for-granted perception of separation\|A sense of merging begins to question our taken-for-granted perception of separation]] &nbsp;&nbsp;[[0125 Expressions of Metta#^13-3\|.]] &nbsp; **[[0125 Expressions of Metta#^13-4\|.]]** &nbsp; [[0125 Expressions of Metta#^13-5\|.]] | 5 | [[Expressions of Metta]]
 [[Love and Emptiness#Even oneness is not how things really are it's also dependend on conditions\|Even oneness is not how things really are, it's also dependend on conditions]] &nbsp;&nbsp;[[0204 Love and Emptiness#^6-4\|.]] &nbsp; **[[0204 Love and Emptiness#^7-1\|.]]** &nbsp; [[0204 Love and Emptiness#^7-2\|.]] | 4 | [[Love and Emptiness]]
 [[From Insight to Love#Metta practice can lead to the dissolving of the boundaries between self and other\|Metta practice can lead to the dissolving of the boundaries between self and other]] &nbsp;&nbsp;[[0127 From Insight to Love#^5-4\|.]] &nbsp; **[[0127 From Insight to Love#^5-5\|.]]** &nbsp; [[0127 From Insight to Love#^5-6\|.]] | 4 | [[From Insight to Love]]

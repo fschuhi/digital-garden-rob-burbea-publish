@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Summary: [[Equanimity (talk)]]
+[[Equanimity (talk)]]
 
 ---
 <br/>

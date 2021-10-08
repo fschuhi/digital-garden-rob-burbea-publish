@@ -3,7 +3,7 @@ ParagraphsListPage: true
 Series: 2007 Lovingkindness and Compassion As a Path to Awakening
 obsidianUIMode: preview
 ---
-#TranscriptSummary
+#Talk
 
 [[Expressions of Metta|Expressions of Metta 🡄]] | [[2007 Lovingkindness and Compassion As a Path to Awakening|🡅]] | [[The Practice of Compassion|🡆 The Practice of Compassion]]
 

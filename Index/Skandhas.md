@@ -11,8 +11,8 @@ talk | count | series
 [[Eros Unfettered Part 2]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#We are trained in certain words\|We are trained in certain words]] &nbsp;&nbsp;[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^7-3\|.]] &nbsp; **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^7-4\|.]]** &nbsp; [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^8-1\|.]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Couldn't 'soul' be similarly unfamiliar at first but eventually become helpful like 'aggregate'\|Couldn't 'soul' be similarly unfamiliar at first, but eventually become helpful like 'aggregate'?]] &nbsp;&nbsp;[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^7-4\|.]] &nbsp; **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^8-1\|.]]** &nbsp; [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^8-2\|.]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Even Vajrayana with seeing the aggregates as holy misses the person\|Even Vajrayana (with seeing the aggregates as holy) misses the person]] &nbsp;&nbsp;[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^9-2\|.]] &nbsp; **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^9-3\|.]]** &nbsp; [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^9-4\|.]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]

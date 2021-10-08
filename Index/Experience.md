@@ -15,8 +15,8 @@ talk | count | series
 [[Guided meditation - Metta to phenomena]] | 12 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#In this case "wow" can lead to long-term change - - but how about beautiful soulmaking or metta retreats\|In this case "wow" can lead to long-term change - - but how about beautiful soulmaking or metta retreats?]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^16-3\|.]] &nbsp; **[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^16-4\|.]]** &nbsp; [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^17-1\|.]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[What is Insight#The more entanglement with experience the more prominent it is\|The more entanglement with experience, the more prominent it is]] &nbsp;&nbsp;[[1229 What is Insight#^11-3\|.]] &nbsp; **[[1229 What is Insight#^11-4\|.]]** &nbsp; [[1229 What is Insight#^11-5\|.]] | 5 | [[What is Insight]]
 [[Guided meditation - Metta to phenomena#Bathing that in loving kindness over and over\|Bathing that in loving kindness, over and over]] &nbsp;&nbsp;[[0204 Guided meditation - Metta to phenomena#^1-2\|.]] &nbsp; **[[0204 Guided meditation - Metta to phenomena#^1-3\|.]]** &nbsp; [[0204 Guided meditation - Metta to phenomena#^1-4\|.]] | 5 | [[Guided meditation - Metta to phenomena]]

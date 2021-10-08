@@ -15,8 +15,8 @@ talk | count | series
 [[Guided meditation - Metta to phenomena]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[From Insight to Love#Practice total acceptance of the physical sensations of fear\|Practice: total acceptance of the physical sensations of fear]] &nbsp;&nbsp;[[0127 From Insight to Love#^3-2\|.]] &nbsp; **[[0127 From Insight to Love#^3-3\|.]]** &nbsp; [[0127 From Insight to Love#^3-4\|.]] | 15 | [[From Insight to Love]]
 [[From Insight to Love#Don't push away fear but incline the awareness a bit towards loveliness\|Don't push away fear, but incline the awareness a bit towards loveliness]] &nbsp;&nbsp;[[0127 From Insight to Love#^2-4\|.]] &nbsp; **[[0127 From Insight to Love#^2-5\|.]]** &nbsp; [[0127 From Insight to Love#^3-1\|.]] | 12 | [[From Insight to Love]]
 [[From Insight to Love#The aversion to fear is part of the fear itself\|The aversion to fear is part of the fear itself]] &nbsp;&nbsp;[[0127 From Insight to Love#^4-2\|.]] &nbsp; **[[0127 From Insight to Love#^4-3\|.]]** &nbsp; [[0127 From Insight to Love#^4-4\|.]] | 9 | [[From Insight to Love]]

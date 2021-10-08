@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Summary: [[Eros Unfettered Part 3]]
+[[Eros Unfettered Part 3]]
 
 ---
 <br/>

@@ -15,8 +15,8 @@ talk | count | series
 [[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[The Way of Non-Clinging Part 2#Cling to an insight to let go at a deeper level\|Cling to an insight to let go at a deeper level]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^11-4\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^12-1\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^12-2\|.]] | 7 | [[The Way of Non-Clinging Part 2]]
 [[Equanimity in Compassion#Paradoxically we become even more devoted with seeing the emptiness of everything\|Paradoxically, we become even more devoted with seeing the emptiness of everything]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^8-4\|.]] &nbsp; **[[0208 Equanimity in Compassion#^8-5\|.]]** &nbsp; [[0208 Equanimity in Compassion#^8-6\|.]] | 4 | [[Equanimity in Compassion]]
 

@@ -15,8 +15,8 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 7 | [[2020 Vajra Music]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Structural listening\|==Structural listening==]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^6-4\|.]] &nbsp; **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^7-1\|.]]** &nbsp; [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^7-2\|.]] | 7 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Words from other conceptual frameworks might turn out to be useful like words from psychology\|Words from other conceptual frameworks might turn out to be useful, like words from psychology]] &nbsp;&nbsp;[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^8-2\|.]] &nbsp; **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^8-3\|.]]** &nbsp; [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^8-4\|.]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 

@@ -15,8 +15,8 @@ talk | count | series
 [[The Way of Non-Clinging Part 3]] | 3 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Equanimity (talk)#Happiness is dependent on what qualities arein the mind and heart at the time\|Happiness is dependent on what qualities arein the mind and heart at the time]] &nbsp;&nbsp;[[1228 Equanimity (talk)#^7-2\|.]] &nbsp; **[[1228 Equanimity (talk)#^7-3\|.]]** &nbsp; [[1228 Equanimity (talk)#^8-1\|.]] | 11 | [[Equanimity (talk)]]
 [[Equanimity in Compassion#When feel like we have enough external circumstances make less of an impact\|When feel like we have enough, external circumstances make less of an impact]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^10-5\|.]] &nbsp; **[[0208 Equanimity in Compassion#^10-6\|.]]** &nbsp; [[0208 Equanimity in Compassion#^10-7\|.]] | 8 | [[Equanimity in Compassion]]
 [[Equanimity in Compassion#Mudita is a kind of joy that's not so based on the ego\|Mudita is a kind of joy that's not so based on the ego]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^1-2\|.]] &nbsp; **[[0208 Equanimity in Compassion#^1-3\|.]]** &nbsp; [[0208 Equanimity in Compassion#^1-4\|.]] | 4 | [[Equanimity in Compassion]]

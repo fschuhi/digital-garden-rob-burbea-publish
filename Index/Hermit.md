@@ -8,7 +8,7 @@ talk | count | series
 [[The Way of Non-Clinging Part 3]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[The Way of Non-Clinging Part 3#The problem is when fantasy is regarded as a problem\|The problem is when fantasy is regarded as a problem]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^3-1\|.]] &nbsp; **[[0117 The Way of Non-Clinging Part 3#^3-2\|.]]** &nbsp; [[0117 The Way of Non-Clinging Part 3#^3-3\|.]] | 1 | [[The Way of Non-Clinging Part 3]]
 

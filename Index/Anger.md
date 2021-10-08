@@ -13,8 +13,8 @@ talk | count | series
 [[Equanimity (talk)]] | 1 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Expressions of Metta#Anger is complicated\|Anger is complicated]] &nbsp;&nbsp;[[0125 Expressions of Metta#^6-2\|.]] &nbsp; **[[0125 Expressions of Metta#^6-3\|.]]** &nbsp; [[0125 Expressions of Metta#^6-4\|.]] | 8 | [[Expressions of Metta]]
 [[Samadhi in Metta Practice#Example story because of samadhi there weren't the conditions there for anger\|Example story: because of samadhi there weren't the conditions there for anger]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^12-1\|.]] &nbsp; **[[0122 Samadhi in Metta Practice#^12-2\|.]]** &nbsp; [[0122 Samadhi in Metta Practice#^12-3\|.]] | 8 | [[Samadhi in Metta Practice]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#The anger can be brittle and not have depth to it\|The anger can be brittle and not have depth to it]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^18-2\|.]] &nbsp; **[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^18-3\|.]]** &nbsp; [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^18-4\|.]] | 7 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]

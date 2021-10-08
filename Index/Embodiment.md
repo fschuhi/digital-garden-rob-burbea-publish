@@ -15,8 +15,8 @@ talk | count | series
 [[What is Insight]] | 10 | [[2007 New Years Retreat Insight Meditation]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Samadhi in Metta Practice#Emotion is reflected as a contraction in the body\|Emotion is reflected as a contraction in the body]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^6-4\|.]] &nbsp; **[[0122 Samadhi in Metta Practice#^6-5\|.]]** &nbsp; [[0122 Samadhi in Metta Practice#^7-1\|.]] | 9 | [[Samadhi in Metta Practice]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Open up so that we too are dwelling there\|Open up so that we, too, are dwelling there]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^22-1\|.]] &nbsp; **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^22-2\|.]]** &nbsp; [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^22-3\|.]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Be moved by these angels\|Be moved by these angels]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-1\|.]] &nbsp; **[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-2\|.]]** &nbsp; [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-3\|.]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]

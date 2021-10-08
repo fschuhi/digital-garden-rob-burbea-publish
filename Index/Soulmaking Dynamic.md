@@ -15,8 +15,8 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 8 | [[2020 Vajra Music]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#There can be blocks which are too entrenched\|There can be blocks which are too entrenched]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^4-1\|.]] &nbsp; **[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^4-2\|.]]** &nbsp; [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^4-3\|.]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Soulmaking Dynamic\|Soulmaking Dynamic]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^3-4\|.]] &nbsp; **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^3-5\|.]]** &nbsp; [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^4-1\|.]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 

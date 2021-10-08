@@ -3,7 +3,7 @@ ParagraphsListPage: true
 Series: 2007 Lovingkindness and Compassion As a Path to Awakening
 obsidianUIMode: preview
 ---
-#TranscriptSummary
+#Talk
 
 [[Samadhi in Metta Practice|Samadhi in Metta Practice 🡄]] | [[2007 Lovingkindness and Compassion As a Path to Awakening|🡅]] | [[From Insight to Love|🡆 From Insight to Love]]
 

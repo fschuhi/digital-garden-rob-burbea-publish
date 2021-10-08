@@ -9,8 +9,8 @@ talk | count | series
 [[Logos in the Garden of Souls Part 2]] | 2 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[The Way of Non-Clinging Part 3#The idea that discrepancy-based processing is the opposite of mindfulness\|The idea that discrepancy-based processing is the opposite of mindfulness]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^6-2\|.]] &nbsp; **[[0117 The Way of Non-Clinging Part 3#^6-3\|.]]** &nbsp; [[0117 The Way of Non-Clinging Part 3#^6-4\|.]] | 3 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 3#Discrepancy-based processing\|Discrepancy-based processing]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^6-1\|.]] &nbsp; **[[0117 The Way of Non-Clinging Part 3#^6-2\|.]]** &nbsp; [[0117 The Way of Non-Clinging Part 3#^6-3\|.]] | 2 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 3#Viewpoints which do not nourish\|Viewpoints which do not nourish]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^7-1\|.]] &nbsp; **[[0117 The Way of Non-Clinging Part 3#^7-2\|.]]** &nbsp; [[0117 The Way of Non-Clinging Part 3#^7-3\|.]] | 2 | [[The Way of Non-Clinging Part 3]]

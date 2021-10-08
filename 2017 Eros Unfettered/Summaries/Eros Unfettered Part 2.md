@@ -3,7 +3,7 @@ ParagraphsListPage: false
 Series: 2017 Eros Unfettered
 obsidianUIMode: preview
 ---
-#TranscriptSummary
+#Talk
 
 [[Eros Unfettered Part 1|Eros Unfettered Part 1 🡄]] | [[2017 Eros Unfettered|🡅]] | [[Eros Unfettered Part 3|🡆 Eros Unfettered Part 3]]
 

@@ -3,7 +3,7 @@ ParagraphsListPage: true
 Series: 2006 New Year's Retreat
 obsidianUIMode: preview
 ---
-#TranscriptSummary
+#Talk
 
  | [[2006 New Year's Retreat|🡅]] | 
 

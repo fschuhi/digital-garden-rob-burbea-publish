@@ -15,8 +15,8 @@ talk | count | series
 [[From Insight to Love]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[The Way of Non-Clinging Part 1#"Just let go of everything"\|"Just let go of everything"]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^7-1\|.]] &nbsp; **[[0115 The Way of Non-Clinging Part 1#^7-2\|.]]** &nbsp; [[0115 The Way of Non-Clinging Part 1#^7-3\|.]] | 8 | [[The Way of Non-Clinging Part 1]]
 [[The Way of Non-Clinging Part 1#Techniques of "just let go of everything" 1\|==Techniques of "just let go of everything"==, 1.]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^8-1\|.]] &nbsp; **[[0115 The Way of Non-Clinging Part 1#^8-2\|.]]** &nbsp; [[0115 The Way of Non-Clinging Part 1#^8-3\|.]] | 6 | [[The Way of Non-Clinging Part 1]]
 [[The Way of Non-Clinging Part 3#The framework is not enough for us\|The framework is not enough for us]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^5-2\|.]] &nbsp; **[[0117 The Way of Non-Clinging Part 3#^5-3\|.]]** &nbsp; [[0117 The Way of Non-Clinging Part 3#^5-4\|.]] | 5 | [[The Way of Non-Clinging Part 3]]

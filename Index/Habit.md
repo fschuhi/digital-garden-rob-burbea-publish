@@ -15,8 +15,8 @@ talk | count | series
 [[Love and Emptiness]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[The Way of Non-Clinging Part 1#Sankhara\|Sankhara]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^3-3\|.]] &nbsp; **[[0115 The Way of Non-Clinging Part 1#^3-4\|.]]** &nbsp; [[0115 The Way of Non-Clinging Part 1#^3-5\|.]] | 6 | [[The Way of Non-Clinging Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#What out for rigid reasserting habits\|What out for rigid, reasserting habits]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^20-2\|.]] &nbsp; **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^20-3\|.]]** &nbsp; [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^20-4\|.]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[From Insight to Love#Much of our life is just grooves\|Much of our life is just grooves]] &nbsp;&nbsp;[[0127 From Insight to Love#^16-2\|.]] &nbsp; **[[0127 From Insight to Love#^16-3\|.]]** &nbsp; [[0127 From Insight to Love#^16-4\|.]] | 5 | [[From Insight to Love]]

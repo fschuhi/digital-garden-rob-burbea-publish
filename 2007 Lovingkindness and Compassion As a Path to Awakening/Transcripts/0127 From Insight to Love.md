@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Summary: [[From Insight to Love]]
+[[From Insight to Love]]
 
 ---
 <br/>

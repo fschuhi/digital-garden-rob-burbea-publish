@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Summary: [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]]
+ [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]]
 
 ---
 <br/>

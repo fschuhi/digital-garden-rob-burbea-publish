@@ -15,8 +15,8 @@ talk | count | series
 [[From Insight to Love]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Liberation of sustained desire is needed to a goal\|(Liberation of) sustained desire is needed to a goal]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^7-3\|.]] &nbsp; **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^8-1\|.]]** &nbsp; [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^8-2\|.]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[The Way of Non-Clinging Part 2#Different directions of unfabrication\|Different directions of unfabrication]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^10-4\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^10-5\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^11-1\|.]] | 4 | [[The Way of Non-Clinging Part 2]]
 

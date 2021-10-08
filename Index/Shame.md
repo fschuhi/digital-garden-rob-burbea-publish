@@ -6,6 +6,6 @@ talk | count | series
 [[Eros Unfettered Part 1]] | 3 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 

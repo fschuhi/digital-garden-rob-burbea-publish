@@ -9,8 +9,8 @@ talk | count | series
 [[The Practice of Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[What is Insight#This far from being nihilistic quite the opposite\|This far from being nihilistic, quite the opposite]] &nbsp;&nbsp;[[1229 What is Insight#^12-2\|.]] &nbsp; **[[1229 What is Insight#^12-3\|.]]** &nbsp; [[1229 What is Insight#^12-4\|.]] | 2 | [[What is Insight]]
 [[Equanimity in Compassion#Paradoxically we become even more devoted with seeing the emptiness of everything\|Paradoxically, we become even more devoted with seeing the emptiness of everything]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^8-4\|.]] &nbsp; **[[0208 Equanimity in Compassion#^8-5\|.]]** &nbsp; [[0208 Equanimity in Compassion#^8-6\|.]] | 2 | [[Equanimity in Compassion]]
 [[Love and Emptiness#The indicator for emptiness is love and freedom\|The indicator for emptiness is love and freedom]] &nbsp;&nbsp;[[0204 Love and Emptiness#^10-3\|.]] &nbsp; **[[0204 Love and Emptiness#^10-4\|.]]** &nbsp; [[0204 Love and Emptiness#^10-5\|.]] | 1 | [[Love and Emptiness]]

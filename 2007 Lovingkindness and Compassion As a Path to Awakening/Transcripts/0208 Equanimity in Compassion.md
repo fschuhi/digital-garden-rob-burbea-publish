@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Summary: [[Equanimity in Compassion]]
+ [[Equanimity in Compassion]]
 
 ---
 <br/>

@@ -12,7 +12,7 @@ talk | count | series
 [[Love and Emptiness]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[What is Insight#Are the personal stories we tell ourselves helpful or unhelpful\|Are the personal stories we tell ourselves helpful or unhelpful?]] &nbsp;&nbsp;[[1229 What is Insight#^3-1\|.]] &nbsp; **[[1229 What is Insight#^3-2\|.]]** &nbsp; [[1229 What is Insight#^3-3\|.]] | 7 | [[What is Insight]]
 

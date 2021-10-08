@@ -3,7 +3,7 @@ ParagraphsListPage: true
 Series: 2017 Eros Unfettered
 obsidianUIMode: preview
 ---
-#TranscriptSummary
+#Talk
 
  | [[2017 Eros Unfettered|🡅]] | [[The Way of Non-Clinging Part 2|🡆 The Way of Non-Clinging Part 2]]
 

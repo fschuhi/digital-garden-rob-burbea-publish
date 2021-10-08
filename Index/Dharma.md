@@ -15,8 +15,8 @@ talk | count | series
 [[The Way of Non-Clinging Part 2]] | 11 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#"Just don't struggle"\|"Just don't struggle"]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^11-2\|.]] &nbsp; **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^11-3\|.]]** &nbsp; [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^11-4\|.]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[The Way of Non-Clinging Part 3#How do we reconcile "just let go of everything" with our deepest passions\|How do we reconcile "just let go of everything" with our deepest passions?]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^5-4\|.]] &nbsp; **[[0117 The Way of Non-Clinging Part 3#^6-1\|.]]** &nbsp; [[0117 The Way of Non-Clinging Part 3#^6-2\|.]] | 5 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 3#Fantasy of the Buddhist path\|Fantasy of the Buddhist path]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^2-2\|.]] &nbsp; **[[0117 The Way of Non-Clinging Part 3#^2-3\|.]]** &nbsp; [[0117 The Way of Non-Clinging Part 3#^3-1\|.]] | 4 | [[The Way of Non-Clinging Part 3]]

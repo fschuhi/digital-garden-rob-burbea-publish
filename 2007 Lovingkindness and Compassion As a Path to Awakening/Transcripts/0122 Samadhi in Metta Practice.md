@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Summary: [[Samadhi in Metta Practice]]
+[[Samadhi in Metta Practice]]
 
 ---
 <br/>

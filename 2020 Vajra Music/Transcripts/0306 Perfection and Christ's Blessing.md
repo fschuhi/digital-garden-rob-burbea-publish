@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Summary: [[Perfection and Christ's Blessing]]
+ [[Perfection and Christ's Blessing]]
 
 ---
 <br/>

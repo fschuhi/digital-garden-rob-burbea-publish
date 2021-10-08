@@ -3,7 +3,7 @@ ParagraphsListPage: false
 Series: 2017 Eros Unfettered
 obsidianUIMode: preview
 ---
-#TranscriptSummary
+#Talk
 
 [[Logos in the Garden of Souls Part 2|Logos in the Garden of Souls Part 2 🡄]] | [[2017 Eros Unfettered|🡅]] | 
 

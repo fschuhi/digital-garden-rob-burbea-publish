@@ -15,8 +15,8 @@ talk | count | series
 [[Samadhi in Metta Practice]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[The Way of Non-Clinging Part 3#Constraints on the kinds of desire that are allowed\|Constraints on the kinds of desire that are allowed]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^2-1\|.]] &nbsp; **[[0117 The Way of Non-Clinging Part 3#^2-2\|.]]** &nbsp; [[0117 The Way of Non-Clinging Part 3#^2-3\|.]] | 6 | [[The Way of Non-Clinging Part 3]]
 [[What is Insight#"Insights arise" often from trusting mindfulness\|"Insights arise", often from trusting mindfulness]] &nbsp;&nbsp;[[1229 What is Insight#^5-4\|.]] &nbsp; **[[1229 What is Insight#^5-5\|.]]** &nbsp; [[1229 What is Insight#^5-6\|.]] | 6 | [[What is Insight]]
 [[The Way of Non-Clinging Part 3#The idea that discrepancy-based processing is the opposite of mindfulness\|The idea that discrepancy-based processing is the opposite of mindfulness]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^6-2\|.]] &nbsp; **[[0117 The Way of Non-Clinging Part 3#^6-3\|.]]** &nbsp; [[0117 The Way of Non-Clinging Part 3#^6-4\|.]] | 5 | [[The Way of Non-Clinging Part 3]]

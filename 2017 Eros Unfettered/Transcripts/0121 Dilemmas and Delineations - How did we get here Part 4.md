@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Summary: [[Dilemmas and Delineations - How did we get here Part 4]]
+[[Dilemmas and Delineations - How did we get here Part 4]]
 
 ---
 <br/>

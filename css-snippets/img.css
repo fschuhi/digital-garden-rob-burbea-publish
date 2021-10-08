@@ -5,14 +5,14 @@
   display: block;
   margin-top: 10pt;
   margin-bottom: 10pt;
-  margin-left: 70pt; /*auto;*/
+  margin-left: auto; /* 70pt better for notebook, but gets too cramped in publish*/
   margin-right: auto;
   /* width: 40%;  */
   transition:transform 0.25s ease;
-  transform:scale(0.9);
+  /* transform:scale(0.9); */
 }
 
 .markdown-preview-view img:hover {
     -webkit-transform:scale(1.8); /* experiment with values */
-    transform:scale(1.1);
+    transform:scale(1.0);
 }

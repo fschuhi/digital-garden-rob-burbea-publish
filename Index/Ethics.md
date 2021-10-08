@@ -11,8 +11,8 @@ talk | count | series
 [[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Sila and Soul" "The Image of Ethics" 🟢\|"Sila and Soul", "The Image of Ethics" 🟢]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-2\|.]] &nbsp; **[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-3\|.]]** &nbsp; [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-4\|.]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#There's a body in there\|There's a body in there]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^17-5\|.]] &nbsp; **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^17-6\|.]]** &nbsp; [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^18-1\|.]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[What is Insight#What qualities do I need to cultivate that actually lead to a lessening of suffering\|What qualities do I need to cultivate that actually lead to a lessening of suffering]] &nbsp;&nbsp;[[1229 What is Insight#^5-2\|.]] &nbsp; **[[1229 What is Insight#^5-3\|.]]** &nbsp; [[1229 What is Insight#^5-4\|.]] | 2 | [[What is Insight]]

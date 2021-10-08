@@ -1,3 +1,7 @@
+![[bla.gif]]
+
+![[bla.gif|600]]
+
 #### October
 ##### Talks
 - new retreat [[2007 New Years Retreat Insight Meditation]]

@@ -3,7 +3,7 @@ ParagraphsListPage: false
 Series: 2017 Eros Unfettered
 obsidianUIMode: preview
 ---
-#TranscriptSummary
+#Talk
 
 [[Dilemmas and Delineations - How did we get here Part 3|Dilemmas and Delineations - How did we get here Part 3 🡄]] | [[2017 Eros Unfettered|🡅]] | [[Dilemmas and Delineations - How did we get here Part 5|🡆 Dilemmas and Delineations - How did we get here Part 5]]
 

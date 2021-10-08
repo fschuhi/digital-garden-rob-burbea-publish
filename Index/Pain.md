@@ -15,7 +15,7 @@ talk | count | series
 [[The Way of Non-Clinging Part 2]] | 2 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Equanimity (talk)#Pain and pleasure are dependent on my reaction to it - I am making things with my reaction\|Pain and pleasure are dependent on my reaction to it - I am making things with my reaction]] &nbsp;&nbsp;[[1228 Equanimity (talk)#^10-4\|.]] &nbsp; **[[1228 Equanimity (talk)#^11-1\|.]]** &nbsp; [[1228 Equanimity (talk)#^11-2\|.]] | 13 | [[Equanimity (talk)]]
 

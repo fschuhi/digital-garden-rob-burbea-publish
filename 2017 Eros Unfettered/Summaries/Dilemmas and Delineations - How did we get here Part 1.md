@@ -3,7 +3,7 @@ ParagraphsListPage: true
 Series: 2017 Eros Unfettered
 obsidianUIMode: preview
 ---
-#TranscriptSummary
+#Talk
 
 [[The Way of Non-Clinging Part 3|The Way of Non-Clinging Part 3 🡄]] | [[2017 Eros Unfettered|🡅]] | [[Dilemmas and Delineations - How did we get here Part 2|🡆 Dilemmas and Delineations - How did we get here Part 2]]
 

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Summary: [[Expressions of Metta]]
+[[Expressions of Metta]]
 
 ---
 <br/>

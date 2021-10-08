@@ -29,8 +29,8 @@ talk | count | series
 ## some other stuff
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[The Way of Non-Clinging Part 2#Let go of the of the believing it is me or mine\|Let go of the of the believing it is me or mine]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^3-5\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^3-6\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^4-1\|.]] | 6 | [[The Way of Non-Clinging Part 2]]
 [[From Insight to Love#The "three characteristics"\|The "three characteristics"]] &nbsp;&nbsp;[[0127 From Insight to Love#^5-5\|.]] &nbsp; **[[0127 From Insight to Love#^5-6\|.]]** &nbsp; [[0127 From Insight to Love#^6-1\|.]] | 5 | [[From Insight to Love]]
 [[The Way of Non-Clinging Part 2#"Self is an illusion" leads to anatta practice\|"Self is an illusion" leads to anatta practice]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^3-2\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^3-3\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^3-4\|.]] | 4 | [[The Way of Non-Clinging Part 2]]

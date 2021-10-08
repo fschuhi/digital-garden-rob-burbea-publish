@@ -14,8 +14,8 @@ talk | count | series
 [[Samadhi in Metta Practice]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Dilemmas and Delineations - How did we get here Part 1#International meeting of Insight Meditation teachers Gaia House 2005\|International meeting of Insight Meditation teachers, Gaia House, 2005]] &nbsp;&nbsp;[[0118 Dilemmas and Delineations - How did we get here Part 1#^1-4\|.]] &nbsp; **[[0118 Dilemmas and Delineations - How did we get here Part 1#^1-5\|.]]** &nbsp; [[0118 Dilemmas and Delineations - How did we get here Part 1#^2-1\|.]] | 2 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"I'll come back to what's this assessment bit about" ^assessment-1\|"I'll come back to what's this assessment bit about" ^assessment-1]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^8-3\|.]] &nbsp; **[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^8-4\|.]]** &nbsp; [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-1\|.]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Example the concept of "inertia"\|Example: the concept of "inertia"]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^4-5\|.]] &nbsp; **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^5-1\|.]]** &nbsp; [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^5-2\|.]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]

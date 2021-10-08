@@ -15,8 +15,8 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 10 | [[2020 Vajra Music]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Equanimity (talk)#Doing metta all day long\|Doing metta, all day long]] &nbsp;&nbsp;[[1228 Equanimity (talk)#^7-1\|.]] &nbsp; **[[1228 Equanimity (talk)#^7-2\|.]]** &nbsp; [[1228 Equanimity (talk)#^7-3\|.]] | 8 | [[Equanimity (talk)]]
 [[Guided meditation - Metta to phenomena#Nothing is excluded\|Nothing is excluded]] &nbsp;&nbsp;[[0204 Guided meditation - Metta to phenomena#^1-6\|.]] &nbsp; **[[0204 Guided meditation - Metta to phenomena#^2-1\|.]]** &nbsp; [[0204 Guided meditation - Metta to phenomena#^2-2\|.]] | 7 | [[Guided meditation - Metta to phenomena]]
 [[Love and Emptiness#But the mind is coloroud with anger metta romantic love\|But the mind is coloroud with anger, metta, romantic love]] &nbsp;&nbsp;[[0204 Love and Emptiness#^5-2\|.]] &nbsp; **[[0204 Love and Emptiness#^5-3\|.]]** &nbsp; [[0204 Love and Emptiness#^5-4\|.]] | 7 | [[Love and Emptiness]]

@@ -15,8 +15,8 @@ talk | count | series
 [[Equanimity (talk)]] | 11 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#All the Tathāgatas\|All the Tathāgatas]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^21-3\|.]] &nbsp; **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^21-4\|.]]** &nbsp; [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^22-1\|.]] | 10 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟢sarvatathāgatakāyavākcittaguhyahṛdayavajra\|🟢sarvatathāgatakāyavākcittaguhyahṛdayavajra]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^21-2\|.]] &nbsp; **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^21-3\|.]]** &nbsp; [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^21-4\|.]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Dilemmas and Delineations - How did we get here Part 1#Another equates Eros with life\|Another equates Eros with life]] &nbsp;&nbsp;[[0118 Dilemmas and Delineations - How did we get here Part 1#^2-4\|.]] &nbsp; **[[0118 Dilemmas and Delineations - How did we get here Part 1#^2-5\|.]]** &nbsp; [[0118 Dilemmas and Delineations - How did we get here Part 1#^2-6\|.]] | 5 | [[Dilemmas and Delineations - How did we get here Part 1]]

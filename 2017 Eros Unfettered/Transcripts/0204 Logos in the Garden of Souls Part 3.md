@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Summary: [[Logos in the Garden of Souls Part 3]]
+[[Logos in the Garden of Souls Part 3]]
 
 ---
 <br/>

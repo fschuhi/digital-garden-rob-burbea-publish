@@ -15,8 +15,8 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 3]] | 12 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Equanimity in Compassion#Rob feeling the suffering is important because there's a lot insight in this approach\|Rob: feeling the suffering is important because there's a lot insight in this approach]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^14-5\|.]] &nbsp; **[[0208 Equanimity in Compassion#^14-6\|.]]** &nbsp; [[0208 Equanimity in Compassion#^14-7\|.]] | 12 | [[Equanimity in Compassion]]
 [[What is Insight#The Four Noble Truths\|The Four Noble Truths]] &nbsp;&nbsp;[[1229 What is Insight#^6-4\|.]] &nbsp; **[[1229 What is Insight#^7-1\|.]]** &nbsp; [[1229 What is Insight#^7-2\|.]] | 9 | [[What is Insight]]
 [[What is Insight#Whenever there is dukkha the unawakened mind does something unnecessary to itself\|Whenever there is dukkha, the unawakened mind does something unnecessary to itself]] &nbsp;&nbsp;[[1229 What is Insight#^7-1\|.]] &nbsp; **[[1229 What is Insight#^7-2\|.]]** &nbsp; [[1229 What is Insight#^7-3\|.]] | 9 | [[What is Insight]]

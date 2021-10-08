@@ -12,8 +12,8 @@ talk | count | series
 [[Equanimity (talk)]] | 1 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[What is Insight#Looking at things through certain modes of seeing as insight calms the being\|Looking at things through certain modes of seeing as insight calms the being]] &nbsp;&nbsp;[[1229 What is Insight#^6-3\|.]] &nbsp; **[[1229 What is Insight#^6-4\|.]]** &nbsp; [[1229 What is Insight#^7-1\|.]] | 2 | [[What is Insight]]
 [[The Practice of Compassion#We breathe the same air molecules as everyone before us\|We breathe the same air molecules as everyone before us]] &nbsp;&nbsp;[[0201 The Practice of Compassion#^12-4\|.]] &nbsp; **[[0201 The Practice of Compassion#^12-5\|.]]** &nbsp; [[0201 The Practice of Compassion#^12-6\|.]] | 2 | [[The Practice of Compassion]]
 [[Samadhi in Metta Practice#Tightness can come from focus but relaxing the latter is only one way to deal with tightness\|Tightness can come from focus, but relaxing the latter is only one way to deal with tightness]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^6-1\|.]] &nbsp; **[[0122 Samadhi in Metta Practice#^6-2\|.]]** &nbsp; [[0122 Samadhi in Metta Practice#^6-3\|.]] | 2 | [[Samadhi in Metta Practice]]

@@ -19,8 +19,8 @@ talk | count | series
 [[Love and Emptiness]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[The Way of Non-Clinging Part 1#6 Paying attention to impermanence\|6. Paying attention to impermanence]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^10-2\|.]] &nbsp; **[[0115 The Way of Non-Clinging Part 1#^10-3\|.]]** &nbsp; [[0115 The Way of Non-Clinging Part 1#^10-4\|.]] | 8 | [[The Way of Non-Clinging Part 1]]
 [[What is Insight#Using impermance as a lense\|Using impermance as a lense]] &nbsp;&nbsp;[[1229 What is Insight#^8-1\|.]] &nbsp; **[[1229 What is Insight#^8-2\|.]]** &nbsp; [[1229 What is Insight#^8-3\|.]] | 8 | [[What is Insight]]
 [[Equanimity in Compassion#Find ways of working with impermanence which brings a sense of freedom\|Find ways of working with impermanence which brings a sense of freedom]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^9-3\|.]] &nbsp; **[[0208 Equanimity in Compassion#^9-4\|.]]** &nbsp; [[0208 Equanimity in Compassion#^10-1\|.]] | 8 | [[Equanimity in Compassion]]

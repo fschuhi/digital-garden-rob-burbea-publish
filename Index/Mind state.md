@@ -10,8 +10,8 @@ talk | count | series
 [[Samadhi in Metta Practice]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Equanimity in Compassion#Equanimity is steadiness in the face of all conditions\|Equanimity is steadiness in the face of all conditions]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^8-6\|.]] &nbsp; **[[0208 Equanimity in Compassion#^9-1\|.]]** &nbsp; [[0208 Equanimity in Compassion#^9-2\|.]] | 2 | [[Equanimity in Compassion]]
 [[Love and Emptiness#Past present and future are empty\|Past, present and future are empty]] &nbsp;&nbsp;[[0204 Love and Emptiness#^8-5\|.]] &nbsp; **[[0204 Love and Emptiness#^9-1\|.]]** &nbsp; [[0204 Love and Emptiness#^9-2\|.]] | 2 | [[Love and Emptiness]]
 [[Guided meditation - Metta to phenomena#Just noticing if anything in experience is standing out\|Just noticing if anything in experience is standing out]] &nbsp;&nbsp;[[0204 Guided meditation - Metta to phenomena#^1-1\|.]] &nbsp; **[[0204 Guided meditation - Metta to phenomena#^1-2\|.]]** &nbsp; [[0204 Guided meditation - Metta to phenomena#^1-3\|.]] | 1 | [[Guided meditation - Metta to phenomena]]

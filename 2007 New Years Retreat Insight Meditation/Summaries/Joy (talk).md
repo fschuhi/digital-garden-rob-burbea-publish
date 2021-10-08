@@ -3,7 +3,7 @@ ParagraphsListPage: false
 Series: 2007 New Years Retreat Insight Meditation
 obsidianUIMode: preview
 ---
-#TranscriptSummary
+#Talk
 
 [[What is Insight|What is Insight 🡄]] | [[2007 New Years Retreat Insight Meditation|🡅]] | 
 

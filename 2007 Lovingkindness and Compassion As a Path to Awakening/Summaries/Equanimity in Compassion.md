@@ -3,7 +3,7 @@ ParagraphsListPage: true
 Series: 2007 Lovingkindness and Compassion As a Path to Awakening
 obsidianUIMode: preview
 ---
-#TranscriptSummary
+#Talk
 
 [[Love and Emptiness|Love and Emptiness 🡄]] | [[2007 Lovingkindness and Compassion As a Path to Awakening|🡅]] | 
 

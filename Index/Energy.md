@@ -15,8 +15,8 @@ talk | count | series
 [[Expressions of Metta]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | -
+description | count | &nbsp;&nbsp;talk
+:- | : - | : -
 [[Samadhi in Metta Practice#1 Piti is a kind of energy\|1. Piti is a kind of energy]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^10-1\|.]] &nbsp; **[[0122 Samadhi in Metta Practice#^10-2\|.]]** &nbsp; [[0122 Samadhi in Metta Practice#^10-3\|.]] | 5 | [[Samadhi in Metta Practice]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#We are often held back or holding in of our energy\|We are often held back or holding in of our energy]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^2-3\|.]] &nbsp; **[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^2-4\|.]]** &nbsp; [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-1\|.]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 
