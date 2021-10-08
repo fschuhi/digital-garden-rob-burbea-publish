@@ -1,12 +1,9 @@
-![[bla.gif]]
-
-![[bla.gif|600]]
-
 #### October
 ##### Talks
 - new retreat [[2007 New Years Retreat Insight Meditation]]
 - retreat [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 - added [[What is Insight]], with feedback from Shannon
+- added [[Joy (talk)]]
 
 ##### Features
 - top X referring talks for index entries, see e.g. [[Energy Body]], with different X for some talks

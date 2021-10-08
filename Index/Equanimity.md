@@ -25,11 +25,12 @@ talk | count | series
 [[From Insight to Love]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[Equanimity (talk)#The near enemy is indifference and lack of juicyness in life\|The near enemy is indifference and lack of juicyness in life]] &nbsp;&nbsp;[[1228 Equanimity (talk)#^2-1\|.]] &nbsp; **[[1228 Equanimity (talk)#^2-2\|.]]** &nbsp; [[1228 Equanimity (talk)#^2-3\|.]] | 9 | [[Equanimity (talk)]]
 [[Love and Emptiness#Things make less impression on consciousness when there's a lot of equanimity\|Things make less impression on consciousness when there's a lot of equanimity]] &nbsp;&nbsp;[[0204 Love and Emptiness#^5-4\|.]] &nbsp; **[[0204 Love and Emptiness#^6-1\|.]]** &nbsp; [[0204 Love and Emptiness#^6-2\|.]] | 6 | [[Love and Emptiness]]
 [[Equanimity in Compassion#Equanimity is not indifference\|Equanimity is not indifference]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^6-5\|.]] &nbsp; **[[0208 Equanimity in Compassion#^6-6\|.]]** &nbsp; [[0208 Equanimity in Compassion#^7-1\|.]] | 5 | [[Equanimity in Compassion]]
+[[Joy (talk)#Joy moves naturally towards equanimity\|Joy moves naturally towards equanimity]] &nbsp;&nbsp;[[1231 Joy (talk)#^2-4\|.]] &nbsp; **[[1231 Joy (talk)#^2-5\|.]]** &nbsp; [[1231 Joy (talk)#^2-6\|.]] | 4 | [[Joy (talk)]]
 [[Equanimity in Compassion#As the self-sense gets quite equanimity becomes the natural state\|As the self-sense gets quite, equanimity becomes the natural state]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^4-1\|.]] &nbsp; **[[0208 Equanimity in Compassion#^4-2\|.]]** &nbsp; [[0208 Equanimity in Compassion#^4-3\|.]] | 4 | [[Equanimity in Compassion]]
 [[Equanimity in Compassion#2 Equanimity deepens by letting go of grasping and craving\|(2) Equanimity deepens by letting go of grasping and craving]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^9-4\|.]] &nbsp; **[[0208 Equanimity in Compassion#^10-1\|.]]** &nbsp; [[0208 Equanimity in Compassion#^10-2\|.]] | 4 | [[Equanimity in Compassion]]
 [[Equanimity in Compassion#Rob spaciousness and progressivly letting go\|Rob: spaciousness and progressivly letting go]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^13-6\|.]] &nbsp; **[[0208 Equanimity in Compassion#^13-7\|.]]** &nbsp; [[0208 Equanimity in Compassion#^13-8\|.]] | 4 | [[Equanimity in Compassion]]

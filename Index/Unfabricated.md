@@ -15,8 +15,8 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 2]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[The Way of Non-Clinging Part 1#Can there be more\|Can there be more?]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^11-3\|.]] &nbsp; **[[0115 The Way of Non-Clinging Part 1#^11-4\|.]]** &nbsp; [[0115 The Way of Non-Clinging Part 1#^12-1\|.]] | 5 | [[The Way of Non-Clinging Part 1]]
 [[The Way of Non-Clinging Part 2#It's the resulting letting go of clinging unfabricates not contemplating rapid impermance\|It's the resulting letting go of clinging unfabricates, not contemplating rapid impermance]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^6-4\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^6-5\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^7-1\|.]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#Different directions of unfabrication\|Different directions of unfabrication]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^10-4\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^10-5\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^11-1\|.]] | 4 | [[The Way of Non-Clinging Part 2]]

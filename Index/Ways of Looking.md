@@ -15,8 +15,8 @@ talk | count | series
 [[From Insight to Love]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[The Way of Non-Clinging Part 2#Does Mahasi-style meditation on impermance disclose reality\|Does Mahasi-style meditation on impermance disclose reality?]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^6-2\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^6-3\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^6-4\|.]] | 9 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#There is always a way of looking with more or less conceiving\|There is always a way of looking, with more or less conceiving]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^2-2\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^2-3\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^2-4\|.]] | 6 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#That way of looking says empty empty empty\|That way of looking says empty, empty, empty]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^4-2\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^4-3\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^4-4\|.]] | 6 | [[The Way of Non-Clinging Part 2]]

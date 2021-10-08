@@ -15,8 +15,8 @@ talk | count | series
 [[The Way of Non-Clinging Part 3]] | 15 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The principle is to make one body and soul\|The principle is to make one body and soul]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^19-4\|.]] &nbsp; **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^20-1\|.]]** &nbsp; [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^20-2\|.]] | 10 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's about the soul that is moving through that dukkha\|It's about the soul that is moving through that dukkha]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^12-3\|.]] &nbsp; **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^12-4\|.]]** &nbsp; [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^12-5\|.]] | 9 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#There are roads that are open\|There are roads that are open]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^4-4\|.]] &nbsp; **[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^4-5\|.]]** &nbsp; [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^5-1\|.]] | 8 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]

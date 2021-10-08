@@ -15,8 +15,8 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 3]] | 13 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[Equanimity in Compassion#As the self-sense gets quite equanimity becomes the natural state\|As the self-sense gets quite, equanimity becomes the natural state]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^4-1\|.]] &nbsp; **[[0208 Equanimity in Compassion#^4-2\|.]]** &nbsp; [[0208 Equanimity in Compassion#^4-3\|.]] | 7 | [[Equanimity in Compassion]]
 [[Equanimity (talk)#How does wonder get squashed\|How does wonder get squashed]] &nbsp;&nbsp;[[1228 Equanimity (talk)#^8-3\|.]] &nbsp; **[[1228 Equanimity (talk)#^8-4\|.]]** &nbsp; [[1228 Equanimity (talk)#^8-5\|.]] | 7 | [[Equanimity (talk)]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Opening up counteracts the contraction that's inherent in self-consciousness\|Opening up counteracts the contraction that's inherent in self-consciousness]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^6-4\|.]] &nbsp; **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-1\|.]]** &nbsp; [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-2\|.]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]

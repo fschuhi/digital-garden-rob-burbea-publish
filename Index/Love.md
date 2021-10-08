@@ -15,8 +15,8 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 3]] | 13 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[Samadhi in Metta Practice#Samadhi should have love in it\|Samadhi should have love in it]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^11-4\|.]] &nbsp; **[[0122 Samadhi in Metta Practice#^11-5\|.]]** &nbsp; [[0122 Samadhi in Metta Practice#^11-6\|.]] | 9 | [[Samadhi in Metta Practice]]
 [[Love and Emptiness#A continuum of love\|A continuum of love]] &nbsp;&nbsp;[[0204 Love and Emptiness#^10-6\|.]] &nbsp; **[[0204 Love and Emptiness#^11-1\|.]]** &nbsp; [[0204 Love and Emptiness#^11-2\|.]] | 7 | [[Love and Emptiness]]
 [[Expressions of Metta#According to the Buddha your're worthy of giving love to yourself\|According to the Buddha, your're worthy of giving love to yourself]] &nbsp;&nbsp;[[0125 Expressions of Metta#^2-1\|.]] &nbsp; **[[0125 Expressions of Metta#^2-2\|.]]** &nbsp; [[0125 Expressions of Metta#^2-3\|.]] | 7 | [[Expressions of Metta]]

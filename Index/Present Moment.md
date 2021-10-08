@@ -11,11 +11,11 @@ talk | count | series
 [[From Insight to Love]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[The Way of Non-Clinging Part 2#conceiving subject object time\|conceiving subject, object, time]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^2-1\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^2-2\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^2-3\|.]] | 2 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#An even deeper level of fading\|An even deeper level of fading]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^4-4\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^4-5\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^5-1\|.]] | 1 | [[The Way of Non-Clinging Part 2]]
-[[What is Insight#"Insights arise" often from trusting mindfulness\|"Insights arise", often from trusting mindfulness]] &nbsp;&nbsp;[[1229 What is Insight#^5-4\|.]] &nbsp; **[[1229 What is Insight#^5-5\|.]]** &nbsp; [[1229 What is Insight#^5-6\|.]] | 1 | [[What is Insight]]
+[[What is Insight#"Insights arise" often from trusting mindfulness\|"Insights arise", often from trusting mindfulness]] &nbsp;&nbsp;[[1229 What is Insight#^5-2\|.]] &nbsp; **[[1229 What is Insight#^5-3\|.]]** &nbsp; [[1229 What is Insight#^5-4\|.]] | 1 | [[What is Insight]]
 [[Love and Emptiness#The practice is not about being in the present moment but rather feeding what's beautiful and investigation\|The practice is not about being in the present moment, but rather feeding what's beautiful and investigation]] &nbsp;&nbsp;[[0204 Love and Emptiness#^4-4\|.]] &nbsp; **[[0204 Love and Emptiness#^4-5\|.]]** &nbsp; [[0204 Love and Emptiness#^5-1\|.]] | 1 | [[Love and Emptiness]]
 [[Love and Emptiness#"Kindfulness" is a skilful means for ease in the moment\|..."Kindfulness" is a skilful means for ease in the moment]] &nbsp;&nbsp;[[0204 Love and Emptiness#^6-1\|.]] &nbsp; **[[0204 Love and Emptiness#^6-2\|.]]** &nbsp; [[0204 Love and Emptiness#^6-3\|.]] | 1 | [[Love and Emptiness]]
 [[Love and Emptiness#If I believe in the present as something real independent of the mind there will be fear of the future\|If I believe in the present as something real, independent of the mind, there will be fear of the future]] &nbsp;&nbsp;[[0204 Love and Emptiness#^8-4\|.]] &nbsp; **[[0204 Love and Emptiness#^8-5\|.]]** &nbsp; [[0204 Love and Emptiness#^9-1\|.]] | 1 | [[Love and Emptiness]]

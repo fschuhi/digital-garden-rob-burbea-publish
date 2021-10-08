@@ -6,7 +6,7 @@ talk | count | series
 [[What is Insight]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[What is Insight#Be aware of both personal weaknesses and strenghts\|Be aware of both personal weaknesses and strenghts]] &nbsp;&nbsp;[[1229 What is Insight#^2-4\|.]] &nbsp; **[[1229 What is Insight#^2-5\|.]]** &nbsp; [[1229 What is Insight#^3-1\|.]] | 1 | [[What is Insight]]
 

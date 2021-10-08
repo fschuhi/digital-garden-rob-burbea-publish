@@ -37,7 +37,7 @@ For any feedback or suggestions relating to this Digital Garden, please email fr
 - ✔️ [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 	- _This is a pretty complete collection of the talks of that retreat._
 	- _It continues to be work in progress, with more comments, links and additional information to come._
-- 🛠️ [[2007 New Years Retreat Insight Meditation]]
+- ✔️ [[2007 New Years Retreat Insight Meditation]]
 	- _short retreat, for the [[Metta book project]]_
 - ✔️ [[2020 Vajra Music]] 
 	- _The talks of that series contain have charts at the top of the summary pages. The charts show visually how the parts of the talk hang together._

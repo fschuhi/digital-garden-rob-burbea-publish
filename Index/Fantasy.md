@@ -15,8 +15,8 @@ talk | count | series
 [[Logos in the Garden of Souls Part 1]] | 3 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[The Way of Non-Clinging Part 3#The problem is when fantasy is regarded as a problem\|The problem is when fantasy is regarded as a problem]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^3-1\|.]] &nbsp; **[[0117 The Way of Non-Clinging Part 3#^3-2\|.]]** &nbsp; [[0117 The Way of Non-Clinging Part 3#^3-3\|.]] | 10 | [[The Way of Non-Clinging Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#The "why" images and fantasies will always have consequences\|The "why" (images and fantasies) will always have consequences]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^8-3\|.]] &nbsp; **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^8-4\|.]]** &nbsp; [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^9-1\|.]] | 8 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[The Way of Non-Clinging Part 3#Fantasy of the Buddhist path\|Fantasy of the Buddhist path]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^2-2\|.]] &nbsp; **[[0117 The Way of Non-Clinging Part 3#^2-3\|.]]** &nbsp; [[0117 The Way of Non-Clinging Part 3#^3-1\|.]] | 8 | [[The Way of Non-Clinging Part 3]]

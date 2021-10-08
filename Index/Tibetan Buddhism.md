@@ -10,8 +10,8 @@ talk | count | series
 [[The Practice of Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Rinpoches spend most of their time doing Ngöndro what are basically preliminary excercises\|Rinpoches spend most of their time doing Ngöndro, what are basically preliminary excercises]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^22-5\|.]] &nbsp; **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^23-1\|.]]** &nbsp; [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^23-2\|.]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#"Études" Preliminaries"\|"Études", Preliminaries"]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^1-1\|.]] &nbsp; **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^1-2\|.]]** &nbsp; [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^1-3\|.]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Love and Emptiness#Rob Maybe only Buddhas can see emptiness and not bump into things\|Rob: Maybe only Buddhas can see emptiness and not bump into things]] &nbsp;&nbsp;[[0204 Love and Emptiness#^15-8\|.]] &nbsp; **[[0204 Love and Emptiness#^15-9\|.]]** &nbsp; [[0204 Love and Emptiness#^16-1\|.]] | 1 | [[Love and Emptiness]]

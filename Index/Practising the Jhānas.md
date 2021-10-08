@@ -7,6 +7,6 @@ talk | count | series
 :- | - |: -
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 

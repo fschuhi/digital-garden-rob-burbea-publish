@@ -10,7 +10,7 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 1 | [[2020 Vajra Music]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[What is Insight#Personal and universal truths help us to respond well to conventional reality\|Personal and universal truths help us to respond well to conventional reality]] &nbsp;&nbsp;[[1229 What is Insight#^3-6\|.]] &nbsp; **[[1229 What is Insight#^4-1\|.]]** &nbsp; [[1229 What is Insight#^4-2\|.]] | 5 | [[What is Insight]]
 

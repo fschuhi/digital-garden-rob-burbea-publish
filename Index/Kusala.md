@@ -11,7 +11,7 @@ talk | count | series
 [[The Way of Non-Clinging Part 2]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[The Way of Non-Clinging Part 3#3 distinctions divisions directions for "clinging"\|3 distinctions, divisions, directions (for "clinging")]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^3-3\|.]] &nbsp; **[[0117 The Way of Non-Clinging Part 3#^3-4\|.]]** &nbsp; [[0117 The Way of Non-Clinging Part 3#^4-1\|.]] | 6 | [[The Way of Non-Clinging Part 3]]
 

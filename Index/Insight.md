@@ -3,7 +3,7 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[What is Insight]] | 89 | [[2007 New Years Retreat Insight Meditation]]
+[[What is Insight]] | 84 | [[2007 New Years Retreat Insight Meditation]]
 [[The Practice of Compassion]] | 34 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Dilemmas and Delineations - How did we get here Part 5]] | 33 | [[2017 Eros Unfettered]]
 [[From Insight to Love]] | 32 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
@@ -15,13 +15,13 @@ talk | count | series
 [[Equanimity in Compassion]] | 15 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[What is Insight#General definition of insight that which brings lessening of suffering\|General definition of insight: that which brings lessening of suffering]] &nbsp;&nbsp;[[1229 What is Insight#^1-4\|.]] &nbsp; **[[1229 What is Insight#^1-5\|.]]** &nbsp; [[1229 What is Insight#^2-1\|.]] | 12 | [[What is Insight]]
 [[The Practice of Compassion#When there's insight into suffering compassion comes automatically\|When there's insight into suffering, compassion comes automatically]] &nbsp;&nbsp;[[0201 The Practice of Compassion#^4-1\|.]] &nbsp; **[[0201 The Practice of Compassion#^4-2\|.]]** &nbsp; [[0201 The Practice of Compassion#^4-3\|.]] | 9 | [[The Practice of Compassion]]
 [[The Practice of Compassion#There's a difference between 'judgement' and 'discernment'\|There's a difference between 'judgement' and 'discernment']] &nbsp;&nbsp;[[0201 The Practice of Compassion#^6-4\|.]] &nbsp; **[[0201 The Practice of Compassion#^6-5\|.]]** &nbsp; [[0201 The Practice of Compassion#^7-1\|.]] | 6 | [[The Practice of Compassion]]
 [[From Insight to Love#Insight is that which releases clinging\|Insight is that which releases clinging]] &nbsp;&nbsp;[[0127 From Insight to Love#^1-2\|.]] &nbsp; **[[0127 From Insight to Love#^1-3\|.]]** &nbsp; [[0127 From Insight to Love#^1-4\|.]] | 6 | [[From Insight to Love]]
-[[What is Insight#"Insights arise" often from trusting mindfulness\|"Insights arise", often from trusting mindfulness]] &nbsp;&nbsp;[[1229 What is Insight#^5-4\|.]] &nbsp; **[[1229 What is Insight#^5-5\|.]]** &nbsp; [[1229 What is Insight#^5-6\|.]] | 5 | [[What is Insight]]
+[[What is Insight#"Insights arise" often from trusting mindfulness\|"Insights arise", often from trusting mindfulness]] &nbsp;&nbsp;[[1229 What is Insight#^5-2\|.]] &nbsp; **[[1229 What is Insight#^5-3\|.]]** &nbsp; [[1229 What is Insight#^5-4\|.]] | 5 | [[What is Insight]]
 [[What is Insight#Insight as result vs insight as a process\|Insight as result vs insight as a process]] &nbsp;&nbsp;[[1229 What is Insight#^6-2\|.]] &nbsp; **[[1229 What is Insight#^6-3\|.]]** &nbsp; [[1229 What is Insight#^6-4\|.]] | 5 | [[What is Insight]]
 [[From Insight to Love#What is going on in this retreat here how insights can lead to love\|What is going on in this retreat, here: how insights can lead to love]] &nbsp;&nbsp; &nbsp; **[[0127 From Insight to Love#^1-1\|.]]** &nbsp; [[0127 From Insight to Love#^1-2\|.]] | 5 | [[From Insight to Love]]
 [[Samadhi in Metta Practice#Samadhi is the soil where insights grow\|Samadhi is the soil where insights grow]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^3-2\|.]] &nbsp; **[[0122 Samadhi in Metta Practice#^3-3\|.]]** &nbsp; [[0122 Samadhi in Metta Practice#^3-4\|.]] | 5 | [[Samadhi in Metta Practice]]
@@ -31,10 +31,10 @@ description | count | &nbsp;&nbsp;talk
 [[The Way of Non-Clinging Part 2#The links of dependent origination are not real either\|The links of dependent origination are not real either]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^10-5\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^11-1\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^11-2\|.]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[What is Insight#This talk is about putting things in place\|This talk is about putting things in place]] &nbsp;&nbsp;[[1229 What is Insight#^1-1\|.]] &nbsp; **[[1229 What is Insight#^1-2\|.]]** &nbsp; [[1229 What is Insight#^1-3\|.]] | 4 | [[What is Insight]]
 [[What is Insight#Personal insight into one's own habits of body speech and mind\|Personal insight into one's own habits of body, speech and mind]] &nbsp;&nbsp;[[1229 What is Insight#^2-2\|.]] &nbsp; **[[1229 What is Insight#^2-3\|.]]** &nbsp; [[1229 What is Insight#^2-4\|.]] | 4 | [[What is Insight]]
+[[What is Insight#Are the personal stories we tell ourselves helpful or unhelpful\|Are the personal stories we tell ourselves helpful or unhelpful?]] &nbsp;&nbsp;[[1229 What is Insight#^3-1\|.]] &nbsp; **[[1229 What is Insight#^3-2\|.]]** &nbsp; [[1229 What is Insight#^3-3\|.]] | 4 | [[What is Insight]]
 [[What is Insight#Personal and universal truths help us to respond well to conventional reality\|Personal and universal truths help us to respond well to conventional reality]] &nbsp;&nbsp;[[1229 What is Insight#^3-6\|.]] &nbsp; **[[1229 What is Insight#^4-1\|.]]** &nbsp; [[1229 What is Insight#^4-2\|.]] | 4 | [[What is Insight]]
-[[What is Insight#Unshakeable knowing is pretty rate\|Unshakeable knowing is pretty rate]] &nbsp;&nbsp;[[1229 What is Insight#^5-3\|.]] &nbsp; **[[1229 What is Insight#^5-4\|.]]** &nbsp; [[1229 What is Insight#^5-5\|.]] | 4 | [[What is Insight]]
-[[What is Insight#"Insights arising" vs "using insights"\|"Insights arising" vs "using insights"]] &nbsp;&nbsp;[[1229 What is Insight#^12-5\|.]] &nbsp; **[[1229 What is Insight#^5-7\|.]]** &nbsp;  | 4 | [[What is Insight]]
-[[What is Insight#To consolidate the insight needs us to act on it\|To consolidate the insight needs us to act on it]] &nbsp;&nbsp;[[1229 What is Insight#^12-5\|.]] &nbsp; **[[1229 What is Insight#^5-8\|.]]** &nbsp;  | 4 | [[What is Insight]]
+[[What is Insight#"Insights arising" vs "using insights"\|"Insights arising" vs "using insights"]] &nbsp;&nbsp;[[1229 What is Insight#^5-4\|.]] &nbsp; **[[1229 What is Insight#^5-5\|.]]** &nbsp; [[1229 What is Insight#^5-6\|.]] | 4 | [[What is Insight]]
+[[What is Insight#To consolidate the insight needs us to act on it\|To consolidate the insight needs us to act on it]] &nbsp;&nbsp;[[1229 What is Insight#^5-5\|.]] &nbsp; **[[1229 What is Insight#^5-6\|.]]** &nbsp; [[1229 What is Insight#^6-1\|.]] | 4 | [[What is Insight]]
 [[What is Insight#Insight is like a muscle if we don't use it it will atrophy\|Insight is like a muscle, if we don't use it it will atrophy]] &nbsp;&nbsp;[[1229 What is Insight#^5-6\|.]] &nbsp; **[[1229 What is Insight#^6-1\|.]]** &nbsp; [[1229 What is Insight#^6-2\|.]] | 4 | [[What is Insight]]
 [[Equanimity in Compassion#The true nature of all things is immeasurable\|The true nature of all things is immeasurable]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^12-4\|.]] &nbsp; **[[0208 Equanimity in Compassion#^12-5\|.]]** &nbsp; [[0208 Equanimity in Compassion#^13-1\|.]] | 4 | [[Equanimity in Compassion]]
 [[From Insight to Love#Yes it might be but we are interested in freedom rather than a certain badge\|Yes, it might be, but we are interested in freedom, rather than a certain badge]] &nbsp;&nbsp;[[0127 From Insight to Love#^13-4\|.]] &nbsp; **[[0127 From Insight to Love#^13-5\|.]]** &nbsp; [[0127 From Insight to Love#^13-6\|.]] | 4 | [[From Insight to Love]]

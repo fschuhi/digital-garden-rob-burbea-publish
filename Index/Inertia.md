@@ -11,8 +11,8 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 8 | [[2020 Vajra Music]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Inquiry into inertia is important\|Inquiry into inertia is important]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^7-2\|.]] &nbsp; **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^7-3\|.]]** &nbsp; [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^8-1\|.]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Where's the inertia\|Where's the inertia?]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^7-2\|.]] &nbsp; **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^7-3\|.]]** &nbsp; [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^8-1\|.]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Example the concept of "inertia"\|Example: the concept of "inertia"]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^4-5\|.]] &nbsp; **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^5-1\|.]]** &nbsp; [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^5-2\|.]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]

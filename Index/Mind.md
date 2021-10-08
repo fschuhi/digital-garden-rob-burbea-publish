@@ -15,8 +15,8 @@ talk | count | series
 [[Logos in the Garden of Souls Part 3]] | 12 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[The Practice of Compassion#Non-separation as corrolary to the mind having perceptions\|Non-separation as corrolary to the mind having perceptions]] &nbsp;&nbsp;[[0201 The Practice of Compassion#^12-7\|.]] &nbsp; **[[0201 The Practice of Compassion#^12-8\|.]]** &nbsp; [[0201 The Practice of Compassion#^13-1\|.]] | 8 | [[The Practice of Compassion]]
 [[The Practice of Compassion#Giving compassion to mind moments\|Giving compassion to mind moments]] &nbsp;&nbsp;[[0201 The Practice of Compassion#^10-3\|.]] &nbsp; **[[0201 The Practice of Compassion#^10-4\|.]]** &nbsp; [[0201 The Practice of Compassion#^10-5\|.]] | 7 | [[The Practice of Compassion]]
 [[Samadhi in Metta Practice#There can be some fear in there\|There can be some fear in there]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^10-5\|.]] &nbsp; **[[0122 Samadhi in Metta Practice#^10-6\|.]]** &nbsp; [[0122 Samadhi in Metta Practice#^11-1\|.]] | 6 | [[Samadhi in Metta Practice]]

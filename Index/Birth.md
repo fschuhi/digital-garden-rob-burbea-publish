@@ -11,8 +11,8 @@ talk | count | series
 [[Eros Unfettered Part 3]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[The Way of Non-Clinging Part 1#Birth\|Birth]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^3-6\|.]] &nbsp; **[[0115 The Way of Non-Clinging Part 1#^4-1\|.]]** &nbsp; [[0115 The Way of Non-Clinging Part 1#^4-2\|.]] | 2 | [[The Way of Non-Clinging Part 1]]
 [[The Way of Non-Clinging Part 1#Fetters and arahantship\|Fetters and arahantship]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^2-1\|.]] &nbsp; **[[0115 The Way of Non-Clinging Part 1#^2-2\|.]]** &nbsp; [[0115 The Way of Non-Clinging Part 1#^2-3\|.]] | 1 | [[The Way of Non-Clinging Part 1]]
 

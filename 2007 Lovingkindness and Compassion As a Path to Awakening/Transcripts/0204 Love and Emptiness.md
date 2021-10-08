@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
- [[Love and Emptiness]]
+[[Love and Emptiness]]
 
 ---
 <br/>

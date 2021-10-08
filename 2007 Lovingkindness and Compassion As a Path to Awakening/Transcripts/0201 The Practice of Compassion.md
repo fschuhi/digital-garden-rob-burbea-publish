@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
- [[The Practice of Compassion]]
+[[The Practice of Compassion]]
 
 ---
 <br/>

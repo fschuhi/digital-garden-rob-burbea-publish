@@ -8,8 +8,8 @@ talk | count | series
 [[The Way of Non-Clinging Part 1]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[From Insight to Love#The aversion to fear is part of the fear itself\|The aversion to fear is part of the fear itself]] &nbsp;&nbsp;[[0127 From Insight to Love#^4-2\|.]] &nbsp; **[[0127 From Insight to Love#^4-3\|.]]** &nbsp; [[0127 From Insight to Love#^4-4\|.]] | 4 | [[From Insight to Love]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#There might be self-consciousness arising\|There might be self-consciousness arising]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^6-3\|.]] &nbsp; **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^6-4\|.]]** &nbsp; [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-1\|.]] | 3 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[From Insight to Love#Hearing about fear brings fear\|Hearing about fear brings fear]] &nbsp;&nbsp;[[0127 From Insight to Love#^14-7\|.]] &nbsp; **[[0127 From Insight to Love#^14-8\|.]]** &nbsp; [[0127 From Insight to Love#^15-1\|.]] | 2 | [[From Insight to Love]]

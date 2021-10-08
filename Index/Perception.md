@@ -15,8 +15,8 @@ talk | count | series
 [[Eros Unfettered Part 1]] | 14 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[From Insight to Love#All I see are moments of perception that are both part of the world and part of me\|All I see are moments of perception that are both part of the world and part of me]] &nbsp;&nbsp;[[0127 From Insight to Love#^7-7\|.]] &nbsp; **[[0127 From Insight to Love#^8-1\|.]]** &nbsp; [[0127 From Insight to Love#^8-2\|.]] | 11 | [[From Insight to Love]]
 [[The Way of Non-Clinging Part 1#Can there be more\|Can there be more?]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^11-3\|.]] &nbsp; **[[0115 The Way of Non-Clinging Part 1#^11-4\|.]]** &nbsp; [[0115 The Way of Non-Clinging Part 1#^12-1\|.]] | 8 | [[The Way of Non-Clinging Part 1]]
 [[The Practice of Compassion#Non-separation as corrolary to the mind having perceptions\|Non-separation as corrolary to the mind having perceptions]] &nbsp;&nbsp;[[0201 The Practice of Compassion#^12-7\|.]] &nbsp; **[[0201 The Practice of Compassion#^12-8\|.]]** &nbsp; [[0201 The Practice of Compassion#^13-1\|.]] | 6 | [[The Practice of Compassion]]

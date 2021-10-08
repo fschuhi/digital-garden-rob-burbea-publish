@@ -9,7 +9,7 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Some soul-secrets might be for the ears of the angel only Reason 4\|Some soul-secrets might be for the ears of the angel only (Reason 4)]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^10-5\|.]] &nbsp; **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^10-6\|.]]** &nbsp; [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^11-1\|.]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 

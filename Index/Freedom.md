@@ -15,8 +15,8 @@ talk | count | series
 [[The Way of Non-Clinging Part 1]] | 5 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[The Way of Non-Clinging Part 1#Can there be more\|Can there be more?]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^11-3\|.]] &nbsp; **[[0115 The Way of Non-Clinging Part 1#^11-4\|.]]** &nbsp; [[0115 The Way of Non-Clinging Part 1#^12-1\|.]] | 4 | [[The Way of Non-Clinging Part 1]]
 [[Love and Emptiness#The indicator for emptiness is love and freedom\|The indicator for emptiness is love and freedom]] &nbsp;&nbsp;[[0204 Love and Emptiness#^10-3\|.]] &nbsp; **[[0204 Love and Emptiness#^10-4\|.]]** &nbsp; [[0204 Love and Emptiness#^10-5\|.]] | 4 | [[Love and Emptiness]]
 [[From Insight to Love#Yes it might be but we are interested in freedom rather than a certain badge\|Yes, it might be, but we are interested in freedom, rather than a certain badge]] &nbsp;&nbsp;[[0127 From Insight to Love#^13-4\|.]] &nbsp; **[[0127 From Insight to Love#^13-5\|.]]** &nbsp; [[0127 From Insight to Love#^13-6\|.]] | 4 | [[From Insight to Love]]

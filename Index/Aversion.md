@@ -15,8 +15,8 @@ talk | count | series
 [[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[What is Insight#Just letting go of the aversion in the heart the heart opens\|Just letting go of the aversion in the heart, the heart opens]] &nbsp;&nbsp;[[1229 What is Insight#^9-4\|.]] &nbsp; **[[1229 What is Insight#^9-5\|.]]** &nbsp; [[1229 What is Insight#^10-1\|.]] | 6 | [[What is Insight]]
 [[The Practice of Compassion#Compassion wants to alleviate suffering but not by pushing it away out of aversion\|Compassion wants to alleviate suffering, but not by pushing it away out of aversion]] &nbsp;&nbsp;[[0201 The Practice of Compassion#^7-2\|.]] &nbsp; **[[0201 The Practice of Compassion#^7-3\|.]]** &nbsp; [[0201 The Practice of Compassion#^7-4\|.]] | 5 | [[The Practice of Compassion]]
 [[Samadhi in Metta Practice#We don't have to get caught up in the content of what the hindrances are saying\|We don't have to get caught up in the content of what the hindrances are saying]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^5-4\|.]] &nbsp; **[[0122 Samadhi in Metta Practice#^5-5\|.]]** &nbsp; [[0122 Samadhi in Metta Practice#^5-6\|.]] | 5 | [[Samadhi in Metta Practice]]

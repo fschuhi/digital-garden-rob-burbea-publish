@@ -11,5 +11,5 @@ This is the main page for the retreat, for help refer to [[How to browse a retre
 
 ### Talks
 - ✔️ [[What is Insight]]
-- 🛠️ [[Joy (talk)]]
+- ✔️ [[Joy (talk)]]
 

@@ -282,7 +282,6 @@ body {
 /****************************************/
 /* img.css
 /****************************************/
-
 /* 02.10.21 */
 
 .markdown-preview-view img {
@@ -292,6 +291,7 @@ body {
   margin-bottom: 10pt;
   margin-left: auto; /* 70pt better for notebook, but gets too cramped in publish*/
   margin-right: auto;
+  padding: 20pt;   
   /* width: 40%;  */
   transition:transform 0.25s ease;
   /* transform:scale(0.9); */

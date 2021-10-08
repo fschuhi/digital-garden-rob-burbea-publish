@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
- [[The Way of Non-Clinging Part 1]]
+[[The Way of Non-Clinging Part 1]]
 
 ---
 <br/>

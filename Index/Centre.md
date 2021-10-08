@@ -75,8 +75,8 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 3]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Finding in one's core the self or stillness Aspect 4\|Finding in one's core the self, or stillness (Aspect 4)]] &nbsp;&nbsp;[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-4\|.]] &nbsp; **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-5\|.]]** &nbsp; [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^4-1\|.]] | 10 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Often the centre is conceived something within an interiority Aspect 1\|Often the centre is conceived something within, an interiority (Aspect 1)]] &nbsp;&nbsp;[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-2\|.]] &nbsp; **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-3\|.]]** &nbsp; [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-4\|.]] | 8 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Singularity of self Aspect 3\|Singularity of self (Aspect 3)]] &nbsp;&nbsp;[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-1\|.]] &nbsp; **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-2\|.]]** &nbsp; [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-3\|.]] | 7 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]

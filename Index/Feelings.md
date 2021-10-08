@@ -11,8 +11,8 @@ talk | count | series
 [[Love and Emptiness]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-description | count | &nbsp;&nbsp;talk
-:- | : - | : -
+description | count | talk
+:- | : - | :-
 [[Expressions of Metta#Metta is a constallation of feelings\|Metta is a constallation of feelings]] &nbsp;&nbsp; &nbsp; **[[0125 Expressions of Metta#^1-1\|.]]** &nbsp; [[0125 Expressions of Metta#^1-2\|.]] | 2 | [[Expressions of Metta]]
 [[What is Insight#Personal and universal truths help us to respond well to conventional reality\|Personal and universal truths help us to respond well to conventional reality]] &nbsp;&nbsp;[[1229 What is Insight#^3-6\|.]] &nbsp; **[[1229 What is Insight#^4-1\|.]]** &nbsp; [[1229 What is Insight#^4-2\|.]] | 1 | [[What is Insight]]
 [[What is Insight#Do we give equal attention to the conventional and the ultimate\|Do we give equal attention to the conventional and the ultimate?]] &nbsp;&nbsp;[[1229 What is Insight#^4-2\|.]] &nbsp; **[[1229 What is Insight#^4-3\|.]]** &nbsp; [[1229 What is Insight#^4-4\|.]] | 1 | [[What is Insight]]

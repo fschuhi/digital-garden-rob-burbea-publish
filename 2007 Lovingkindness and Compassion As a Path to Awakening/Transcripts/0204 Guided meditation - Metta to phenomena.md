@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
- [[Guided meditation - Metta to phenomena]]
+[[Guided meditation - Metta to phenomena]]
 
 ---
 <br/>
