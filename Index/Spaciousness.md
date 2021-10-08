@@ -14,7 +14,7 @@ talk | count | series
 [[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
-[[Equanimity (talk)]] | [[Equanimity (talk)#Spaciousness and equanimity go together\|Spaciousness and equanimity go together]] [[1228 Equanimity (talk)#^2-2\|.]] **[[1228 Equanimity (talk)#^2-3\|.]]** [[1228 Equanimity (talk)#^2-4\|.]] | 5
+[[Equanimity (talk)#Spaciousness and equanimity go together\|Spaciousness and equanimity go together]] &nbsp;&nbsp;[[1228 Equanimity (talk)#^2-2\|.]] &nbsp; **[[1228 Equanimity (talk)#^2-3\|.]]** &nbsp; [[1228 Equanimity (talk)#^2-4\|.]] | 5 | [[Equanimity (talk)]]
 

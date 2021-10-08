@@ -7,8 +7,8 @@ talk | count | series
 [[Equanimity (talk)]] | 1 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
-[[Love and Emptiness]] | [[Love and Emptiness#Rob Maybe only Buddhas can see emptiness and not bump into things\|Rob: Maybe only Buddhas can see emptiness and not bump into things]] [[0204 Love and Emptiness#^15-8\|.]] **[[0204 Love and Emptiness#^15-9\|.]]** [[0204 Love and Emptiness#^16-1\|.]] | 1
-[[Equanimity (talk)]] | [[Equanimity (talk)#This moment is in the context of vast time and the vast unknown of death\|This moment is in the context of vast time and the vast unknown of death]] [[1228 Equanimity (talk)#^5-1\|.]] **[[1228 Equanimity (talk)#^5-2\|.]]** [[1228 Equanimity (talk)#^5-3\|.]] | 1
+[[Love and Emptiness#Rob Maybe only Buddhas can see emptiness and not bump into things\|Rob: Maybe only Buddhas can see emptiness and not bump into things]] &nbsp;&nbsp;[[0204 Love and Emptiness#^15-8\|.]] &nbsp; **[[0204 Love and Emptiness#^15-9\|.]]** &nbsp; [[0204 Love and Emptiness#^16-1\|.]] | 1 | [[Love and Emptiness]]
+[[Equanimity (talk)#This moment is in the context of vast time and the vast unknown of death\|This moment is in the context of vast time and the vast unknown of death]] &nbsp;&nbsp;[[1228 Equanimity (talk)#^5-1\|.]] &nbsp; **[[1228 Equanimity (talk)#^5-2\|.]]** &nbsp; [[1228 Equanimity (talk)#^5-3\|.]] | 1 | [[Equanimity (talk)]]
 

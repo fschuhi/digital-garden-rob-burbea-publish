@@ -13,8 +13,6 @@ talk | count | series
 [[Logos in the Garden of Souls Part 1]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
-[[Eros Unfettered Part 3]] | [[Eros Unfettered Part 3#\|...]] [[0125 Eros Unfettered Part 3#^5-1\|.]] **[[0125 Eros Unfettered Part 3#^5-2\|.]]** [[0125 Eros Unfettered Part 3#^5-3\|.]] | 4
-[[Dilemmas and Delineations - How did we get here Part 5]] | [[Dilemmas and Delineations - How did we get here Part 5#\|...]] [[0122 Dilemmas and Delineations - How did we get here Part 5#^6-4\|.]] **[[0122 Dilemmas and Delineations - How did we get here Part 5#^6-5\|.]]** [[0122 Dilemmas and Delineations - How did we get here Part 5#^6-6\|.]] | 4
 

@@ -49,7 +49,7 @@ obsidianUIMode: preview
 - [[What is Insight#Be aware of subtle kind of delusions of awareness|Be aware of subtle kind of delusions of awareness.]]
 ### Three Characteristics
 - [[What is Insight#The Three Characteristics are modes of seeing which add to suffering|The Three Characteristics are modes of seeing which add to suffering.]]
-#### (1) Impermance
+#### (1) Impermanence
 - [[What is Insight#Impermanence is an obvious fact but are we seeing it in a way that makes a difference|Impermanence is an obvious fact, but are we seeing it in a way that makes a difference?]]
 - [[What is Insight#Using impermance as a lense|Using impermance as a lense.]]
 - [[What is Insight#"Take up the theme" seeing impermanence in visual forms emotions body sensations sounds|"Take up the theme": seeing impermanence in visual forms, emotions, body sensations, sounds.]]

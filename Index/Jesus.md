@@ -12,7 +12,6 @@ talk | count | series
 [[Expressions of Metta]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
-[[Logos in the Garden of Souls Part 1]] | [[Logos in the Garden of Souls Part 1#\|...]] [[0202 Logos in the Garden of Souls Part 1#^8-1\|.]] **[[0202 Logos in the Garden of Souls Part 1#^8-2\|.]]** [[0202 Logos in the Garden of Souls Part 1#^8-3\|.]] | 6
 

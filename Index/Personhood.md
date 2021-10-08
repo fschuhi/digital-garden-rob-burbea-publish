@@ -15,9 +15,7 @@ talk | count | series
 [[Expressions of Metta]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#But the notion of the aggregates and the notion of soul are divergent directions when making sense of a person\|But: the notion of the aggregates and the notion of soul are divergent directions when making sense of a person]] [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^9-1\|.]] **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^9-2\|.]]** [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^9-3\|.]] | 5
-[[Logos in the Garden of Souls Part 1]] | [[Logos in the Garden of Souls Part 1#\|...]] [[0202 Logos in the Garden of Souls Part 1#^5-1\|.]] **[[0202 Logos in the Garden of Souls Part 1#^5-2\|.]]** [[0202 Logos in the Garden of Souls Part 1#^5-3\|.]] | 4
-[[Eros Unfettered Part 3]] | [[Eros Unfettered Part 3#\|...]] [[0125 Eros Unfettered Part 3#^6-2\|.]] **[[0125 Eros Unfettered Part 3#^6-3\|.]]** [[0125 Eros Unfettered Part 3#^6-4\|.]] | 4
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#But the notion of the aggregates and the notion of soul are divergent directions when making sense of a person\|But: the notion of the aggregates and the notion of soul are divergent directions when making sense of a person]] &nbsp;&nbsp;[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^9-1\|.]] &nbsp; **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^9-2\|.]]** &nbsp; [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^9-3\|.]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 

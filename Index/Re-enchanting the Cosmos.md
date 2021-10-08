@@ -9,8 +9,6 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 3]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
-[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | [[Eros Unfettered Part 5 - Otherness and the Art of Disappearing#\|...]] [[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^2-2\|.]] **[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^2-3\|.]]** [[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^2-4\|.]] | 1
-[[Dilemmas and Delineations - How did we get here Part 3]] | [[Dilemmas and Delineations - How did we get here Part 3#\|...]] [[0120 Dilemmas and Delineations - How did we get here Part 3#^10-5\|.]] **[[0120 Dilemmas and Delineations - How did we get here Part 3#^11-1\|.]]** [[0120 Dilemmas and Delineations - How did we get here Part 3#^11-2\|.]] | 1
 

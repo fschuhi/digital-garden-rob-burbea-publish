@@ -13,7 +13,6 @@ talk | count | series
 [[Eros Unfettered Part 2]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
-[[Dilemmas and Delineations - How did we get here Part 5]] | [[Dilemmas and Delineations - How did we get here Part 5#\|...]] [[0122 Dilemmas and Delineations - How did we get here Part 5#^8-3\|.]] **[[0122 Dilemmas and Delineations - How did we get here Part 5#^8-4\|.]]** [[0122 Dilemmas and Delineations - How did we get here Part 5#^8-5\|.]] | 4
 

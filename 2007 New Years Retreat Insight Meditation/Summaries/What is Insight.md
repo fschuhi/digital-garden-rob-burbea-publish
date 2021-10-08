@@ -305,7 +305,7 @@ So some people always want to just "be," and just let things arise, and some peo
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11972/20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=34:57" type="audio/mpeg">???</audio>
 
 ---
-#### (1) Impermance
+#### (1) Impermanence
 ##### Impermanence is an obvious fact, but are we seeing it in a way that makes a difference?
 <span class="counts">**<a data-href="1229 What is Insight#^8-1" href="1229+What+is+Insight#^8-1" class="internal-link" target="_blank" rel="noopener">8-1</a>**: _<a data-href="Impermanence" href="Impermanence" class="internal-link" target="_blank" rel="noopener">Impermanence</a> (3) · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> (2) · <a data-href="Mindfulness" href="Mindfulness" class="internal-link" target="_blank" rel="noopener">Mindfulness</a> (2) · <a data-href="Attention" href="Attention" class="internal-link" target="_blank" rel="noopener">Attention</a> · <a data-href="Beauty" href="Beauty" class="internal-link" target="_blank" rel="noopener">Beauty</a>_</span>
 

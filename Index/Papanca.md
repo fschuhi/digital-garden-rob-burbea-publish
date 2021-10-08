@@ -15,10 +15,9 @@ talk | count | series
 [[From Insight to Love]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
-[[The Way of Non-Clinging Part 1]] | [[The Way of Non-Clinging Part 1#Mindfulness as antidote to papanca\|Mindfulness as antidote to papanca]] [[0115 The Way of Non-Clinging Part 1#^9-1\|.]] **[[0115 The Way of Non-Clinging Part 1#^9-2\|.]]** [[0115 The Way of Non-Clinging Part 1#^9-3\|.]] | 5
-[[Dilemmas and Delineations - How did we get here Part 5]] | [[Dilemmas and Delineations - How did we get here Part 5#\|...]] [[0122 Dilemmas and Delineations - How did we get here Part 5#^8-4\|.]] **[[0122 Dilemmas and Delineations - How did we get here Part 5#^8-5\|.]]** [[0122 Dilemmas and Delineations - How did we get here Part 5#^9-1\|.]] | 4
-[[The Way of Non-Clinging Part 3]] | [[The Way of Non-Clinging Part 3#There are some who cannot wait\|There are some who cannot wait]] [[0117 The Way of Non-Clinging Part 3#^9-2\|.]] **[[0117 The Way of Non-Clinging Part 3#^9-3\|.]]** [[0117 The Way of Non-Clinging Part 3#^9-4\|.]] | 4
-[[The Way of Non-Clinging Part 2]] | [[The Way of Non-Clinging Part 2#Everybody knows papanca\|Everybody knows papanca]] [[0116 The Way of Non-Clinging Part 2#^5-3\|.]] **[[0116 The Way of Non-Clinging Part 2#^5-4\|.]]** [[0116 The Way of Non-Clinging Part 2#^6-1\|.]] | 4
+[[The Way of Non-Clinging Part 1#Mindfulness as antidote to papanca\|Mindfulness as antidote to papanca]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^9-1\|.]] &nbsp; **[[0115 The Way of Non-Clinging Part 1#^9-2\|.]]** &nbsp; [[0115 The Way of Non-Clinging Part 1#^9-3\|.]] | 5 | [[The Way of Non-Clinging Part 1]]
+[[The Way of Non-Clinging Part 3#There are some who cannot wait\|There are some who cannot wait]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^9-2\|.]] &nbsp; **[[0117 The Way of Non-Clinging Part 3#^9-3\|.]]** &nbsp; [[0117 The Way of Non-Clinging Part 3#^9-4\|.]] | 4 | [[The Way of Non-Clinging Part 3]]
+[[The Way of Non-Clinging Part 2#Everybody knows papanca\|Everybody knows papanca]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^5-3\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^5-4\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^6-1\|.]] | 4 | [[The Way of Non-Clinging Part 2]]
 

@@ -10,8 +10,8 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 1 | [[2020 Vajra Music]]
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
-[[The Practice of Compassion]] | [[The Practice of Compassion#Grief is complicated because it may be necessary but can also be draining\|Grief is complicated, because it may be necessary but can also be draining]] [[0201 The Practice of Compassion#^7-6\|.]] **[[0201 The Practice of Compassion#^8-1\|.]]** [[0201 The Practice of Compassion#^8-2\|.]] | 10
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Soul-grief from not practicing being fluid\|Soul-grief from not practicing being fluid]] [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^13-3\|.]] **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^14-1\|.]]** [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^14-2\|.]] | 4
+[[The Practice of Compassion#Grief is complicated because it may be necessary but can also be draining\|Grief is complicated, because it may be necessary but can also be draining]] &nbsp;&nbsp;[[0201 The Practice of Compassion#^7-6\|.]] &nbsp; **[[0201 The Practice of Compassion#^8-1\|.]]** &nbsp; [[0201 The Practice of Compassion#^8-2\|.]] | 10 | [[The Practice of Compassion]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Soul-grief from not practicing being fluid\|Soul-grief from not practicing being fluid]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^13-3\|.]] &nbsp; **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^14-1\|.]]** &nbsp; [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^14-2\|.]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 

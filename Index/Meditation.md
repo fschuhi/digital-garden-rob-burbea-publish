@@ -15,9 +15,6 @@ talk | count | series
 [[The Way of Non-Clinging Part 1]] | 7 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
-[[Dilemmas and Delineations - How did we get here Part 1]] | [[Dilemmas and Delineations - How did we get here Part 1#\|...]] [[0118 Dilemmas and Delineations - How did we get here Part 1#^7-1\|.]] **[[0118 Dilemmas and Delineations - How did we get here Part 1#^7-2\|.]]** [[0118 Dilemmas and Delineations - How did we get here Part 1#^7-3\|.]] | 6
-[[Logos in the Garden of Souls Part 2]] | [[Logos in the Garden of Souls Part 2#\|...]] [[0203 Logos in the Garden of Souls Part 2#^7-1\|.]] **[[0203 Logos in the Garden of Souls Part 2#^7-2\|.]]** [[0203 Logos in the Garden of Souls Part 2#^7-3\|.]] | 4
-[[Dilemmas and Delineations - How did we get here Part 3]] | [[Dilemmas and Delineations - How did we get here Part 3#\|...]] [[0120 Dilemmas and Delineations - How did we get here Part 3#^11-3\|.]] **[[0120 Dilemmas and Delineations - How did we get here Part 3#^11-4\|.]]** [[0120 Dilemmas and Delineations - How did we get here Part 3#^12-1\|.]] | 4
 

@@ -6,7 +6,6 @@ talk | count | series
 [[Logos in the Garden of Souls Part 1]] | 5 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
-[[Logos in the Garden of Souls Part 1]] | [[Logos in the Garden of Souls Part 1#\|...]] [[0202 Logos in the Garden of Souls Part 1#^8-1\|.]] **[[0202 Logos in the Garden of Souls Part 1#^8-2\|.]]** [[0202 Logos in the Garden of Souls Part 1#^8-3\|.]] | 5
 

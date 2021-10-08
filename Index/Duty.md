@@ -8,6 +8,6 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 4 | [[2020 Vajra Music]]
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
 

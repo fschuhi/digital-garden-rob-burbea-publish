@@ -15,7 +15,6 @@ talk | count | series
 [[Samadhi in Metta Practice]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
-[[Joy (talk)]] | [[Joy (talk)#\|...]] [[1231 Joy (talk)#^10-4\|.]] **[[1231 Joy (talk)#^11-1\|.]]** [[1231 Joy (talk)#^11-2\|.]] | 4
 

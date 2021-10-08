@@ -15,7 +15,6 @@ talk | count | series
 [[Expressions of Metta]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
-[[Eros Unfettered Part 3]] | [[Eros Unfettered Part 3#\|...]] [[0125 Eros Unfettered Part 3#^3-2\|.]] **[[0125 Eros Unfettered Part 3#^3-3\|.]]** [[0125 Eros Unfettered Part 3#^3-4\|.]] | 5
 

@@ -15,9 +15,9 @@ talk | count | series
 [[What is Insight]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
-[[The Way of Non-Clinging Part 2]] | [[The Way of Non-Clinging Part 2#Avijja is a form of clinging\|Avijja is a form of clinging]] [[0116 The Way of Non-Clinging Part 2#^4-1\|.]] **[[0116 The Way of Non-Clinging Part 2#^4-2\|.]]** [[0116 The Way of Non-Clinging Part 2#^4-3\|.]] | 5
-[[The Way of Non-Clinging Part 1]] | [[The Way of Non-Clinging Part 1# Smoking Avijja\|... ==Smoking==, Avijja]] [[0115 The Way of Non-Clinging Part 1#^3-2\|.]] **[[0115 The Way of Non-Clinging Part 1#^3-3\|.]]** [[0115 The Way of Non-Clinging Part 1#^3-4\|.]] | 4
-[[The Practice of Compassion]] | [[The Practice of Compassion#Ignorance does not belong to anyone\|Ignorance does not belong to anyone]] [[0201 The Practice of Compassion#^6-3\|.]] **[[0201 The Practice of Compassion#^6-4\|.]]** [[0201 The Practice of Compassion#^6-5\|.]] | 4
+[[The Way of Non-Clinging Part 2#Avijja is a form of clinging\|Avijja is a form of clinging]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^4-1\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^4-2\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^4-3\|.]] | 5 | [[The Way of Non-Clinging Part 2]]
+[[The Way of Non-Clinging Part 1# Smoking Avijja\|... ==Smoking==, Avijja]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^3-2\|.]] &nbsp; **[[0115 The Way of Non-Clinging Part 1#^3-3\|.]]** &nbsp; [[0115 The Way of Non-Clinging Part 1#^3-4\|.]] | 4 | [[The Way of Non-Clinging Part 1]]
+[[The Practice of Compassion#Ignorance does not belong to anyone\|Ignorance does not belong to anyone]] &nbsp;&nbsp;[[0201 The Practice of Compassion#^6-3\|.]] &nbsp; **[[0201 The Practice of Compassion#^6-4\|.]]** &nbsp; [[0201 The Practice of Compassion#^6-5\|.]] | 4 | [[The Practice of Compassion]]
 

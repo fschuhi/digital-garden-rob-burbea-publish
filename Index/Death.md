@@ -15,12 +15,9 @@ talk | count | series
 [[The Practice of Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
-[[From Insight to Love]] | [[From Insight to Love#Remembering death\|Remembering death]] [[0127 From Insight to Love#^6-4\|.]] **[[0127 From Insight to Love#^6-5\|.]]** [[0127 From Insight to Love#^7-1\|.]] | 8
-[[Logos in the Garden of Souls Part 1]] | [[Logos in the Garden of Souls Part 1#\|...]] [[0202 Logos in the Garden of Souls Part 1#^5-1\|.]] **[[0202 Logos in the Garden of Souls Part 1#^5-2\|.]]** [[0202 Logos in the Garden of Souls Part 1#^5-3\|.]] | 6
-[[Logos in the Garden of Souls Part 1]] | [[Logos in the Garden of Souls Part 1#\|...]] [[0202 Logos in the Garden of Souls Part 1#^5-3\|.]] **[[0202 Logos in the Garden of Souls Part 1#^5-4\|.]]** [[0202 Logos in the Garden of Souls Part 1#^6-1\|.]] | 6
-[[Logos in the Garden of Souls Part 1]] | [[Logos in the Garden of Souls Part 1#\|...]] [[0202 Logos in the Garden of Souls Part 1#^5-2\|.]] **[[0202 Logos in the Garden of Souls Part 1#^5-3\|.]]** [[0202 Logos in the Garden of Souls Part 1#^5-4\|.]] | 4
-[[Dilemmas and Delineations - How did we get here Part 1]] | [[Dilemmas and Delineations - How did we get here Part 1#One was more interested in Thanatos\|One was more interested in Thanatos]] [[0118 Dilemmas and Delineations - How did we get here Part 1#^2-3\|.]] **[[0118 Dilemmas and Delineations - How did we get here Part 1#^2-4\|.]]** [[0118 Dilemmas and Delineations - How did we get here Part 1#^2-5\|.]] | 4
-[[From Insight to Love]] | [[From Insight to Love#This moment here is in the context of death\|This moment here is in the context of death]] [[0127 From Insight to Love#^6-5\|.]] **[[0127 From Insight to Love#^7-1\|.]]** [[0127 From Insight to Love#^7-2\|.]] | 4
+[[From Insight to Love#Remembering death\|Remembering death]] &nbsp;&nbsp;[[0127 From Insight to Love#^6-4\|.]] &nbsp; **[[0127 From Insight to Love#^6-5\|.]]** &nbsp; [[0127 From Insight to Love#^7-1\|.]] | 8 | [[From Insight to Love]]
+[[Dilemmas and Delineations - How did we get here Part 1#One was more interested in Thanatos\|One was more interested in Thanatos]] &nbsp;&nbsp;[[0118 Dilemmas and Delineations - How did we get here Part 1#^2-3\|.]] &nbsp; **[[0118 Dilemmas and Delineations - How did we get here Part 1#^2-4\|.]]** &nbsp; [[0118 Dilemmas and Delineations - How did we get here Part 1#^2-5\|.]] | 4 | [[Dilemmas and Delineations - How did we get here Part 1]]
+[[From Insight to Love#This moment here is in the context of death\|This moment here is in the context of death]] &nbsp;&nbsp;[[0127 From Insight to Love#^6-5\|.]] &nbsp; **[[0127 From Insight to Love#^7-1\|.]]** &nbsp; [[0127 From Insight to Love#^7-2\|.]] | 4 | [[From Insight to Love]]
 

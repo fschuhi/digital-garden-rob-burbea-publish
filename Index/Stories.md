@@ -12,8 +12,7 @@ talk | count | series
 [[Love and Emptiness]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
-[[What is Insight]] | [[What is Insight#Are the personal stories we tell ourselves helpful or unhelpful\|Are the personal stories we tell ourselves helpful or unhelpful?]] [[1229 What is Insight#^3-1\|.]] **[[1229 What is Insight#^3-2\|.]]** [[1229 What is Insight#^3-3\|.]] | 7
-[[Eros Unfettered Part 1]] | [[Eros Unfettered Part 1#\|...]] [[0123 Eros Unfettered Part 1#^8-5\|.]] **[[0123 Eros Unfettered Part 1#^9-1\|.]]** [[0123 Eros Unfettered Part 1#^9-2\|.]] | 4
+[[What is Insight#Are the personal stories we tell ourselves helpful or unhelpful\|Are the personal stories we tell ourselves helpful or unhelpful?]] &nbsp;&nbsp;[[1229 What is Insight#^3-1\|.]] &nbsp; **[[1229 What is Insight#^3-2\|.]]** &nbsp; [[1229 What is Insight#^3-3\|.]] | 7 | [[What is Insight]]
 

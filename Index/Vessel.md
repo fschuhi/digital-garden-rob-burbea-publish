@@ -53,7 +53,6 @@ talk | count | series
 
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
-[[Eros Unfettered Part 4]] | [[Eros Unfettered Part 4#\|...]] [[0126 Eros Unfettered Part 4#^5-1\|.]] **[[0126 Eros Unfettered Part 4#^5-2\|.]]** [[0126 Eros Unfettered Part 4#^5-3\|.]] | 4
 

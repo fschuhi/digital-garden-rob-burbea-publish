@@ -9,8 +9,6 @@ talk | count | series
 [[The Way of Non-Clinging Part 1]] | 3 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
-[[Logos in the Garden of Souls Part 2]] | [[Logos in the Garden of Souls Part 2#\|...]] [[0203 Logos in the Garden of Souls Part 2#^2-4\|.]] **[[0203 Logos in the Garden of Souls Part 2#^3-1\|.]]** [[0203 Logos in the Garden of Souls Part 2#^3-2\|.]] | 7
-[[Logos in the Garden of Souls Part 2]] | [[Logos in the Garden of Souls Part 2#\|...]] [[0203 Logos in the Garden of Souls Part 2#^3-1\|.]] **[[0203 Logos in the Garden of Souls Part 2#^3-2\|.]]** [[0203 Logos in the Garden of Souls Part 2#^3-3\|.]] | 6
 

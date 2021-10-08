@@ -8,11 +8,8 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 1 | [[2020 Vajra Music]]
 
 ### Paragraphs with 4+ mentions
-summary | description | count
+description | count | talk
 :- | : - | -
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Set up the temenos in the beginning and include metta\|Set up the temenos in the beginning and include metta]] [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-1\|.]] **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-2\|.]]** [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-3\|.]] | 4
-[[Eros Unfettered Part 4]] | [[Eros Unfettered Part 4#\|...]] [[0126 Eros Unfettered Part 4#^5-3\|.]] **[[0126 Eros Unfettered Part 4#^5-4\|.]]** [[0126 Eros Unfettered Part 4#^5-5\|.]] | 2
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Excercise 41 One person blesses the other person receives the blessing\|Excercise 4.1: One person blesses, the other person receives the blessing]] [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^11-2\|.]] **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^11-3\|.]]** [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^11-4\|.]] | 1
-[[Eros Unfettered Part 4]] | [[Eros Unfettered Part 4#\|...]] [[0126 Eros Unfettered Part 4#^5-4\|.]] **[[0126 Eros Unfettered Part 4#^5-5\|.]]** [[0126 Eros Unfettered Part 4#^5-6\|.]] | 1
-[[Eros Unfettered Part 4]] | [[Eros Unfettered Part 4#\|...]] [[0126 Eros Unfettered Part 4#^5-5\|.]] **[[0126 Eros Unfettered Part 4#^5-6\|.]]** [[0126 Eros Unfettered Part 4#^6-1\|.]] | 1
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Set up the temenos in the beginning and include metta\|Set up the temenos in the beginning and include metta]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-1\|.]] &nbsp; **[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-2\|.]]** &nbsp; [[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-3\|.]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Excercise 41 One person blesses the other person receives the blessing\|Excercise 4.1: One person blesses, the other person receives the blessing]] &nbsp;&nbsp;[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^11-2\|.]] &nbsp; **[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^11-3\|.]]** &nbsp; [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^11-4\|.]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 
