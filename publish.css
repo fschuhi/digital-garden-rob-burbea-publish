@@ -198,25 +198,42 @@ body {
     padding-top: 8px;
     padding-bottom: 8px;
     line-height: 1.2em;
+    padding-left: 6px;
+    margin-left: -6px;
 }
 
 .markdown-preview-view h2 {
     background-color: #ABEBC6;
     padding-top: 8px;
     padding-bottom: 8px;
+    padding-left: 6px;
+    margin-left: -6px;
+    font-weight: 600;
+    font-size: 1.5em;
 }
 
 .markdown-preview-view h3 {
-    background-color: #D5F5E3;
-    padding-top: 8px;
-    padding-bottom: 8px;
+    background-color: #D5F5E3; /* White Ice */
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    margin-top: 20px;    /* only here */
+    margin-left: -6px;
+    font-weight: 600;
+    font-size: 1.3em;
 }
+
+/* #EAFAF1 Lily White */
+/* #F1FCF6 Mint Cream, slightly lighter */
 
 .markdown-preview-view h4 {
     background-color: #EAFAF1;
-    padding-top: 8px;
-    padding-bottom: 8px;
-    font-weight: 600;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    margin-left: -6px;
+    font-weight: 500;
+    font-size: 1.1em;
 }
 
 /* 22.09.21 h6 -> h5 */
@@ -225,6 +242,7 @@ body {
     color: #45B39D;
     font-weight: 600;
     margin-bottom: -10px;
+    font-size: 1.1em;
 }
 
 /* 22.09.21 new h6 */
@@ -257,6 +275,31 @@ body {
     border-color: #e0e0e0;
     margin-top: 2px;
     margin-bottom: -7px;
+    margin-left: -6px;
+}
+
+
+/****************************************/
+/* img.css
+/****************************************/
+
+/* 02.10.21 */
+
+.markdown-preview-view img {
+ 
+  display: block;
+  margin-top: 10pt;
+  margin-bottom: 10pt;
+  margin-left: 70pt; /*auto;*/
+  margin-right: auto;
+  /* width: 40%;  */
+  transition:transform 0.25s ease;
+  transform:scale(0.9);
+}
+
+.markdown-preview-view img:hover {
+    -webkit-transform:scale(1.8); /* experiment with values */
+    transform:scale(1.1);
 }
 
 
@@ -294,6 +337,23 @@ body {
 
 
 /****************************************/
+/* table.css
+/****************************************/
+
+.markdown-preview-view table {
+    font-size: 12px;
+    line-height: 1.2em;
+    padding: 4px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.cm-s-obsidian .HyperMD-table-row {
+    font-size: 11px
+}
+
+
+/****************************************/
 /* tooltip.css
 /****************************************/
 
@@ -312,26 +372,3 @@ body {
   border-bottom: 5px solid transparent;
 }
 
-
-/****************************************/
-/* img.css
-/****************************************/
-
-/* 02.10.21 */
-
-.markdown-preview-view img {
- 
-  display: block;
-  margin-top: 10pt;
-  margin-bottom: 10pt;
-  margin-left: 70pt; /*auto;*/
-  margin-right: auto;
-  /* width: 40%;  */
-  transition:transform 0.25s ease;
-  transform:scale(0.9);
-}
-
-.markdown-preview-view img:hover {
-    -webkit-transform:scale(1.8); /* experiment with values */
-    transform:scale(1.1);
-}
