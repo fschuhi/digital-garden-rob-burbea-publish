@@ -12,5 +12,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[From Insight to Love#"Just unhook" is not a metaphysical statement\|"Just unhook" is not a metaphysical statement]] &nbsp;&nbsp;[[0127 From Insight to Love#^10-2\|.]] &nbsp; **[[0127 From Insight to Love#^10-3\|.]]** &nbsp; [[0127 From Insight to Love#^10-4\|.]] | 1 | [[From Insight to Love]]
+[[From Insight to Love#"Just unhook" is not a metaphysical statement\|"Just unhook" is not a metaphysical statement]] &nbsp;&nbsp;[[0127 From Insight to Love#^10-2\|◀]]**[[0127 From Insight to Love#^10-3\|•]]**[[0127 From Insight to Love#^10-4\|▶]] | 1 | [[From Insight to Love]]
 

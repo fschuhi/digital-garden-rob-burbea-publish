@@ -17,5 +17,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Samadhi in Metta Practice#The question of effort is connected with a sense of duality which is connected with a sense of love\|The question of effort is connected with a sense of duality, which is connected with a sense of love]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^7-6\|.]] &nbsp; **[[0122 Samadhi in Metta Practice#^7-7\|.]]** &nbsp; [[0122 Samadhi in Metta Practice#^8-1\|.]] | 6 | [[Samadhi in Metta Practice]]
+[[Samadhi in Metta Practice#The question of effort is connected with a sense of duality which is connected with a sense of love\|The question of effort is connected with a sense of duality, which is connected with a sense of love]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^7-6\|◀]]**[[0122 Samadhi in Metta Practice#^7-7\|•]]**[[0122 Samadhi in Metta Practice#^8-1\|▶]] | 6 | [[Samadhi in Metta Practice]]
 

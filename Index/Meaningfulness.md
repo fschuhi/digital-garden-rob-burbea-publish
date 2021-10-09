@@ -14,4 +14,6 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Soul is more than any meaning\|Soul is more than any meaning]] &nbsp;&nbsp;[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^13-6\|◀]]**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^13-7\|•]]**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^13-8\|▶]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
+[[The Way of Non-Clinging Part 3#Eros is always abc\|Eros is always abc]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^7-6\|◀]]**[[0117 The Way of Non-Clinging Part 3#^8-1\|•]]**[[0117 The Way of Non-Clinging Part 3#^8-2\|▶]] | 1 | [[The Way of Non-Clinging Part 3]]
 

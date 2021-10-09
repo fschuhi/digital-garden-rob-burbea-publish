@@ -8,5 +8,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Love and Emptiness#Relaxing back into a space of metta\|Relaxing back into a space of metta]] &nbsp;&nbsp;[[0204 Love and Emptiness#^4-1\|.]] &nbsp; **[[0204 Love and Emptiness#^4-2\|.]]** &nbsp; [[0204 Love and Emptiness#^4-3\|.]] | 1 | [[Love and Emptiness]]
+[[Love and Emptiness#Relaxing back into a space of metta\|Relaxing back into a space of metta]] &nbsp;&nbsp;[[0204 Love and Emptiness#^4-1\|◀]]**[[0204 Love and Emptiness#^4-2\|•]]**[[0204 Love and Emptiness#^4-3\|▶]] | 1 | [[Love and Emptiness]]
 

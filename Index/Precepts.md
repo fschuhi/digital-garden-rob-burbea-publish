@@ -9,5 +9,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Sila and Soul" "The Image of Ethics" 🟢\|"Sila and Soul", "The Image of Ethics" 🟢]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-2\|.]] &nbsp; **[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-3\|.]]** &nbsp; [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-4\|.]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Sila and Soul" "The Image of Ethics" 🟢\|"Sila and Soul", "The Image of Ethics" 🟢]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-2\|◀]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-3\|•]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-4\|▶]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 

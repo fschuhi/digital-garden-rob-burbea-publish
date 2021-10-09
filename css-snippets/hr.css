@@ -8,3 +8,15 @@
     margin-left: -6px;
 }
 
+.markdown-preview-view hr.dashed-red {
+  border-top: 1px dashed red;
+  margin: 0;
+  padding: 0;
+}
+
+.markdown-preview-view hr.pagebreak {
+  border-top: 1px dashed #e0e0e0;
+  margin-bottom: 10px;
+  magin-left:-5px;
+  padding: 0;
+}

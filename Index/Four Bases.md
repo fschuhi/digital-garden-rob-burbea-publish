@@ -8,5 +8,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Dilemmas and Delineations - How did we get here Part 1#Desire is one of the Four Bases\|Desire is one of the Four Bases]] &nbsp;&nbsp;[[0118 Dilemmas and Delineations - How did we get here Part 1#^3-1\|.]] &nbsp; **[[0118 Dilemmas and Delineations - How did we get here Part 1#^3-2\|.]]** &nbsp; [[0118 Dilemmas and Delineations - How did we get here Part 1#^3-3\|.]] | 2 | [[Dilemmas and Delineations - How did we get here Part 1]]
+[[Dilemmas and Delineations - How did we get here Part 1#Desire is one of the Four Bases\|Desire is one of the Four Bases]] &nbsp;&nbsp;[[0118 Dilemmas and Delineations - How did we get here Part 1#^3-1\|◀]]**[[0118 Dilemmas and Delineations - How did we get here Part 1#^3-2\|•]]**[[0118 Dilemmas and Delineations - How did we get here Part 1#^3-3\|▶]] | 2 | [[Dilemmas and Delineations - How did we get here Part 1]]
 

@@ -10,6 +10,6 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 2#See the emptiness of all things\|See the emptiness of all things]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^8-1\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^8-2\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^8-3\|.]] | 1 | [[The Way of Non-Clinging Part 2]]
-[[The Way of Non-Clinging Part 2#There is always a way of looking\|There is always a way of looking]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^8-2\|.]] &nbsp; **[[0116 The Way of Non-Clinging Part 2#^8-3\|.]]** &nbsp; [[0116 The Way of Non-Clinging Part 2#^8-4\|.]] | 1 | [[The Way of Non-Clinging Part 2]]
+[[The Way of Non-Clinging Part 2#See the emptiness of all things\|See the emptiness of all things]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^8-1\|◀]]**[[0116 The Way of Non-Clinging Part 2#^8-2\|•]]**[[0116 The Way of Non-Clinging Part 2#^8-3\|▶]] | 1 | [[The Way of Non-Clinging Part 2]]
+[[The Way of Non-Clinging Part 2#There is always a way of looking\|There is always a way of looking]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^8-2\|◀]]**[[0116 The Way of Non-Clinging Part 2#^8-3\|•]]**[[0116 The Way of Non-Clinging Part 2#^8-4\|▶]] | 1 | [[The Way of Non-Clinging Part 2]]
 

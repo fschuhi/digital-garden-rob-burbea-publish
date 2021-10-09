@@ -55,4 +55,6 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Why "preliminaries" Because it expands soulmaking\|Why "preliminaries"? Because it expands soulmaking]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-3\|◀]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-4\|•]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^4-1\|▶]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#If we like practicing soulmaking the soulmaking dynamic will expand\|If we like practicing soulmaking the soulmaking dynamic will expand]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-4\|◀]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^4-1\|•]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^4-2\|▶]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 

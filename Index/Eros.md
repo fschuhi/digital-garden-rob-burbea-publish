@@ -17,7 +17,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 3#Eros is more than xyz\|Eros is more than xyz]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^7-5\|.]] &nbsp; **[[0117 The Way of Non-Clinging Part 3#^7-6\|.]]** &nbsp; [[0117 The Way of Non-Clinging Part 3#^8-1\|.]] | 7 | [[The Way of Non-Clinging Part 3]]
-[[The Way of Non-Clinging Part 3#Eros is always abc\|Eros is always abc]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^7-6\|.]] &nbsp; **[[0117 The Way of Non-Clinging Part 3#^8-1\|.]]** &nbsp; [[0117 The Way of Non-Clinging Part 3#^8-2\|.]] | 6 | [[The Way of Non-Clinging Part 3]]
-[[The Way of Non-Clinging Part 3#Movement of eros opens up our whole sense of existence\|Movement of eros opens up our whole sense of existence]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^9-5\|.]] &nbsp; **[[0117 The Way of Non-Clinging Part 3#^10-1\|.]]** &nbsp; [[0117 The Way of Non-Clinging Part 3#^10-2\|.]] | 4 | [[The Way of Non-Clinging Part 3]]
+[[The Way of Non-Clinging Part 3#Eros is more than xyz\|Eros is more than xyz]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^7-5\|◀]]**[[0117 The Way of Non-Clinging Part 3#^7-6\|•]]**[[0117 The Way of Non-Clinging Part 3#^8-1\|▶]] | 7 | [[The Way of Non-Clinging Part 3]]
+[[The Way of Non-Clinging Part 3#Eros is always abc\|Eros is always abc]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^7-6\|◀]]**[[0117 The Way of Non-Clinging Part 3#^8-1\|•]]**[[0117 The Way of Non-Clinging Part 3#^8-2\|▶]] | 6 | [[The Way of Non-Clinging Part 3]]
+[[The Way of Non-Clinging Part 3#Movement of eros opens up our whole sense of existence\|Movement of eros opens up our whole sense of existence]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^9-5\|◀]]**[[0117 The Way of Non-Clinging Part 3#^10-1\|•]]**[[0117 The Way of Non-Clinging Part 3#^10-2\|▶]] | 4 | [[The Way of Non-Clinging Part 3]]
 

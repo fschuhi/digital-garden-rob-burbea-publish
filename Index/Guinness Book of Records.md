@@ -8,5 +8,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Samadhi in Metta Practice#Samadhi is really worth developing Guinness Book of Records\|Samadhi is really worth developing (Guinness Book of Records)]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^2-6\|.]] &nbsp; **[[0122 Samadhi in Metta Practice#^3-1\|.]]** &nbsp; [[0122 Samadhi in Metta Practice#^3-2\|.]] | 1 | [[Samadhi in Metta Practice]]
+[[Samadhi in Metta Practice#Samadhi is really worth developing Guinness Book of Records\|Samadhi is really worth developing (Guinness Book of Records)]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^2-6\|◀]]**[[0122 Samadhi in Metta Practice#^3-1\|•]]**[[0122 Samadhi in Metta Practice#^3-2\|▶]] | 1 | [[Samadhi in Metta Practice]]
 

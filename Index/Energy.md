@@ -17,7 +17,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Samadhi in Metta Practice#1 Piti is a kind of energy\|1. Piti is a kind of energy]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^10-1\|.]] &nbsp; **[[0122 Samadhi in Metta Practice#^10-2\|.]]** &nbsp; [[0122 Samadhi in Metta Practice#^10-3\|.]] | 5 | [[Samadhi in Metta Practice]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#We are often held back or holding in of our energy\|We are often held back or holding in of our energy]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^2-3\|.]] &nbsp; **[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^2-4\|.]]** &nbsp; [[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-1\|.]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
-[[Joy (talk)#Mindfulness ie the its energy brings joy\|Mindfulness (i.e. the its energy) brings joy]] &nbsp;&nbsp;[[1231 Joy (talk)#^9-5\|.]] &nbsp; **[[1231 Joy (talk)#^9-6\|.]]** &nbsp; [[1231 Joy (talk)#^10-1\|.]] | 4 | [[Joy (talk)]]
+[[Samadhi in Metta Practice#1 Piti is a kind of energy\|1. Piti is a kind of energy]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^10-1\|◀]]**[[0122 Samadhi in Metta Practice#^10-2\|•]]**[[0122 Samadhi in Metta Practice#^10-3\|▶]] | 5 | [[Samadhi in Metta Practice]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#We are often held back or holding in of our energy\|We are often held back or holding in of our energy]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^2-3\|◀]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^2-4\|•]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-1\|▶]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Joy (talk)#Mindfulness ie the its energy brings joy\|Mindfulness (i.e. the its energy) brings joy]] &nbsp;&nbsp;[[1231 Joy (talk)#^9-5\|◀]]**[[1231 Joy (talk)#^9-6\|•]]**[[1231 Joy (talk)#^10-1\|▶]] | 4 | [[Joy (talk)]]
 

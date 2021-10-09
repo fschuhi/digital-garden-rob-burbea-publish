@@ -14,5 +14,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Samadhi in Metta Practice#Receptivity and an openess to some kind of wonder in being\|Receptivity and an openess to some kind of wonder in being]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^11-5\|.]] &nbsp; **[[0122 Samadhi in Metta Practice#^11-6\|.]]** &nbsp; [[0122 Samadhi in Metta Practice#^12-1\|.]] | 4 | [[Samadhi in Metta Practice]]
+[[Samadhi in Metta Practice#Receptivity and an openess to some kind of wonder in being\|Receptivity and an openess to some kind of wonder in being]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^11-5\|◀]]**[[0122 Samadhi in Metta Practice#^11-6\|•]]**[[0122 Samadhi in Metta Practice#^12-1\|▶]] | 4 | [[Samadhi in Metta Practice]]
 
