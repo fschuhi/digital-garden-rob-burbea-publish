@@ -1,4 +1,4 @@
-1### Elements of the website
+### Elements of the website
 ![[help-full-screen.png]]
 
  - The Digital Garden always presents two pages in the center part of the screen. 

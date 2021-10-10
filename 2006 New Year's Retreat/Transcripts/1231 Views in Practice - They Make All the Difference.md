@@ -191,7 +191,7 @@ But I remember him saying, I think it was quite a long time ago. I don't remembe
 ###### 11-4
 So, the question, again, the question of Right View: what do I need to understand about how [[Dukkha|suffering]] arises? What do I need to understand about that? How is suffering being built in the present? How is suffering being built? And is it possible to remove some of the builders? You know, like - I don't know the name of it. That game where you put sticks, you know, and you build a thing and then you pull - or a house, a house of cards, you know. Suffering is being built like that and we can just remove some of the things. ^11-4
 ###### 11-5
-[52:32] So, I don't know, maybe all that sounds very complex, too. I don't know, maybe it does. But again, you know, another view that can creep in or that we can feel very attracted to… truth is so simple, and we [[love]] the simplicity, and it's a relief because often our lives are very complicated. ^11-5
+[52:32] So, I don't know, maybe all that sounds very complex, too. I don't know, maybe it does. But again, you know, another view that can creep in or that we can feel very attracted to… truth is so simple, and we love the simplicity, and it's a relief because often our lives are very complicated. ^11-5
 ###### 11-6
 Some people are really attracted towards complexity and they want all this Buddhist psychology and theories and Abhidhamma and all this. Most of us are hungering for a kind of simplicity. And we feel very attracted to simplicity and the [[beauty]] of that. But maybe the truth is not complex and not simple. Maybe those are just our particular preconceptions or [[Desire|desires]], and has nothing to do - it's not even in that realm. ^11-6
 ###### 11-7

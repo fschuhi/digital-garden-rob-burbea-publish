@@ -3,8 +3,6 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Eros Unfettered Part 2]] | 2 | [[2017 Eros Unfettered]]
-[[Logos in the Garden of Souls Part 1]] | 1 | [[2017 Eros Unfettered]]
 [[From Insight to Love]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 

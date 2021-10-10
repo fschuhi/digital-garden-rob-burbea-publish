@@ -7,12 +7,12 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 60 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 30 | [[2020 Vajra Music]]
 [[Samadhi in Metta Practice]] | 27 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Eros Unfettered Part 1]] | 26 | [[2017 Eros Unfettered]]
-[[Eros Unfettered Part 2]] | 24 | [[2017 Eros Unfettered]]
-[[Logos in the Garden of Souls Part 1]] | 22 | [[2017 Eros Unfettered]]
-[[Logos in the Garden of Souls Part 3]] | 17 | [[2017 Eros Unfettered]]
 [[From Insight to Love]] | 13 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Way of Non-Clinging Part 1]] | 10 | [[2017 Eros Unfettered]]
 [[What is Insight]] | 10 | [[2007 New Years Retreat Insight Meditation]]
+[[The Practice of Compassion]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Joy (talk)]] | 7 | [[2007 New Years Retreat Insight Meditation]]
+[[Expressions of Metta]] | 7 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -23,6 +23,7 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#And always listen to you body adapt it if necessary\|And always listen to you body, adapt it if necessary]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^6-4\|◀]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^6-5\|•]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^7-1\|▶]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Sometimes we don't let certain expressions of movementgesturevoice into the body\|Sometimes we don't let certain expressions of movement/gesture/voice into the body]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^17-3\|◀]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^17-4\|•]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^17-5\|▶]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#When does an image need to be concretized in movement gesture voice\|When does an image need to be concretized in movement, gesture, voice?]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^19-1\|◀]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^19-2\|•]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^19-3\|▶]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Dilemmas and Delineations - How did we get here Part 1#Eros involves energy embodiment the imaginal and logos\|Eros involves energy, embodiment, the imaginal, and logos]] &nbsp;&nbsp;[[0118 Dilemmas and Delineations - How did we get here Part 1#^11-2\|◀]]**[[0118 Dilemmas and Delineations - How did we get here Part 1#^11-3\|•]]**[[0118 Dilemmas and Delineations - How did we get here Part 1#^11-4\|▶]] | 5 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[Joy (talk)#Attention to joy itself feeds joy\|Attention to joy itself feeds joy]] &nbsp;&nbsp;[[1231 Joy (talk)#^9-6\|◀]]**[[1231 Joy (talk)#^10-1\|•]]**[[1231 Joy (talk)#^10-2\|▶]] | 5 | [[Joy (talk)]]
 [[Samadhi in Metta Practice#Better "collectedness" even better "unification"\|Better: "collectedness", even better: "unification"]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^1-2\|◀]]**[[0122 Samadhi in Metta Practice#^1-3\|•]]**[[0122 Samadhi in Metta Practice#^1-4\|▶]] | 5 | [[Samadhi in Metta Practice]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#There's a body in there\|There's a body in there]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^17-5\|◀]]**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^17-6\|•]]**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^18-1\|▶]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]

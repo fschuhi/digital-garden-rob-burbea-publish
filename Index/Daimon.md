@@ -6,10 +6,6 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 80 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 33 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 22 | [[2020 Vajra Music]]
-[[Eros Unfettered Part 1]] | 9 | [[2017 Eros Unfettered]]
-[[Dilemmas and Delineations - How did we get here Part 5]] | 7 | [[2017 Eros Unfettered]]
-[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | 1 | [[2017 Eros Unfettered]]
-[[Eros Unfettered Part 4]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

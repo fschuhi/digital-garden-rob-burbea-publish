@@ -3,16 +3,12 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Logos in the Garden of Souls Part 3]] | 43 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 40 | [[2020 Vajra Music]]
-[[Eros Unfettered Part 3]] | 38 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 30 | [[2020 Vajra Music]]
-[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | 30 | [[2017 Eros Unfettered]]
-[[Eros Unfettered Part 4]] | 27 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 23 | [[2020 Vajra Music]]
-[[Dilemmas and Delineations - How did we get here Part 5]] | 23 | [[2017 Eros Unfettered]]
-[[Logos in the Garden of Souls Part 1]] | 22 | [[2017 Eros Unfettered]]
-[[Dilemmas and Delineations - How did we get here Part 2]] | 20 | [[2017 Eros Unfettered]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 14 | [[2020 Vajra Music]]
+[[Dilemmas and Delineations - How did we get here Part 1]] | 13 | [[2017 Eros Unfettered]]
+[[The Way of Non-Clinging Part 3]] | 6 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

@@ -4,7 +4,6 @@
 talk | count | series
 :- | - |: -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 1 | [[2020 Vajra Music]]
-[[Logos in the Garden of Souls Part 1]] | 1 | [[2017 Eros Unfettered]]
 [[From Insight to Love]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions

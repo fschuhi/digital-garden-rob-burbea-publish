@@ -8,7 +8,6 @@ talk | count | series
 [[Perfection and Christ's Blessing]] | 5 | [[2020 Vajra Music]]
 [[Love and Emptiness]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 1 | [[2020 Vajra Music]]
-[[Logos in the Garden of Souls Part 3]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

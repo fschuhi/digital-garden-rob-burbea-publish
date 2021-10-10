@@ -8,11 +8,7 @@ showTopReferringTalks: true
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Logos in the Garden of Souls Part 1]] | 7 | [[2017 Eros Unfettered]]
-[[Eros Unfettered Part 4]] | 6 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 2 | [[2020 Vajra Music]]
-[[Logos in the Garden of Souls Part 3]] | 2 | [[2017 Eros Unfettered]]
-[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | 1 | [[2017 Eros Unfettered]]
 
 ### Quotes
 #IndexEntry #Robology

@@ -4,7 +4,6 @@
 talk | count | series
 :- | - |: -
 [[What is Insight]] | 2 | [[2007 New Years Retreat Insight Meditation]]
-[[Eros Unfettered Part 1]] | 1 | [[2017 Eros Unfettered]]
 [[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 [[Equanimity in Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]

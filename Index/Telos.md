@@ -4,8 +4,6 @@
 talk | count | series
 :- | - |: -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 7 | [[2020 Vajra Music]]
-[[Eros Unfettered Part 1]] | 4 | [[2017 Eros Unfettered]]
-[[Dilemmas and Delineations - How did we get here Part 3]] | 2 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

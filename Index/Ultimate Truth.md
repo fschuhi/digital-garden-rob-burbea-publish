@@ -5,7 +5,6 @@ talk | count | series
 :- | - |: -
 [[What is Insight]] | 11 | [[2007 New Years Retreat Insight Meditation]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 3 | [[2020 Vajra Music]]
-[[Logos in the Garden of Souls Part 1]] | 2 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 2]] | 2 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 1 | [[2020 Vajra Music]]
 

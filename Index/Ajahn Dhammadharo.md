@@ -8,5 +8,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 2#Clinging enables letting go\|Clinging enables letting go]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^12-1\|◀]]**[[0116 The Way of Non-Clinging Part 2#^12-2\|•]]**[[0116 The Way of Non-Clinging Part 2#^12-3\|▶]] | 1 | [[The Way of Non-Clinging Part 2]]
+[[The Way of Non-Clinging Part 2#Simile Climing the rungs of a ladder\|Simile: Climing the rungs of a ladder]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^14-1\|◀]]**[[0116 The Way of Non-Clinging Part 2#^14-2\|•]]**[[0116 The Way of Non-Clinging Part 2#^14-3\|▶]] | 1 | [[The Way of Non-Clinging Part 2]]
 

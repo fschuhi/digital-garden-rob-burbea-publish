@@ -10,8 +10,8 @@ talk | count | series
 [[Joy (talk)]] | 7 | [[2007 New Years Retreat Insight Meditation]]
 [[The Way of Non-Clinging Part 1]] | 5 | [[2017 Eros Unfettered]]
 [[The Practice of Compassion]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Dilemmas and Delineations - How did we get here Part 4]] | 4 | [[2017 Eros Unfettered]]
-[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | 2 | [[2017 Eros Unfettered]]
+[[The Way of Non-Clinging Part 2]] | 2 | [[2017 Eros Unfettered]]
+[[Love and Emptiness]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions

@@ -3,16 +3,12 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | 42 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Dilemmas and Delineations - How did we get here Part 2]] | 8 | [[2017 Eros Unfettered]]
 [[The Practice of Compassion]] | 8 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Logos in the Garden of Souls Part 3]] | 7 | [[2017 Eros Unfettered]]
 [[Expressions of Metta]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Eros Unfettered Part 1]] | 3 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 3 | [[2017 Eros Unfettered]]
-[[Eros Unfettered Part 2]] | 2 | [[2017 Eros Unfettered]]
+[[The Way of Non-Clinging Part 2]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

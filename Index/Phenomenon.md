@@ -3,10 +3,8 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Dilemmas and Delineations - How did we get here Part 3]] | 5 | [[2017 Eros Unfettered]]
 [[What is Insight]] | 5 | [[2007 New Years Retreat Insight Meditation]]
 [[Love and Emptiness]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Eros Unfettered Part 3]] | 1 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 2]] | 1 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 1]] | 1 | [[2017 Eros Unfettered]]
 [[Guided meditation - Metta to phenomena]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
@@ -16,7 +14,7 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[What is Insight#Moving towards the Unfabracticated\|Moving towards the Unfabracticated]] &nbsp;&nbsp;[[1229 What is Insight#^10-5\|◀]]**[[1229 What is Insight#^11-1\|•]]**[[1229 What is Insight#^11-2\|▶]] | 3 | [[What is Insight]]
-[[The Way of Non-Clinging Part 2#There can be a complete unfabrication\|There can be a complete unfabrication]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^5-2\|◀]]**[[0116 The Way of Non-Clinging Part 2#^5-3\|•]]**[[0116 The Way of Non-Clinging Part 2#^5-4\|▶]] | 1 | [[The Way of Non-Clinging Part 2]]
+[[The Way of Non-Clinging Part 2#There can be a complete unfabrication\|There can be a complete unfabrication]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^6-1\|◀]]**[[0116 The Way of Non-Clinging Part 2#^6-2\|•]]**[[0116 The Way of Non-Clinging Part 2#^6-3\|▶]] | 1 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 1#Impermance brings less solidification\|Impermance brings less solidification]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^12-2\|◀]]**[[0115 The Way of Non-Clinging Part 1#^12-3\|•]]**[[0115 The Way of Non-Clinging Part 1#^12-4\|▶]] | 1 | [[The Way of Non-Clinging Part 1]]
 [[What is Insight#Satipatthana Sutta\|Satipatthana Sutta]] &nbsp;&nbsp;[[1229 What is Insight#^11-2\|◀]]**[[1229 What is Insight#^11-3\|•]]**[[1229 What is Insight#^11-4\|▶]] | 1 | [[What is Insight]]
 [[What is Insight#Kaccayana and Dependent Origination\|Kaccayana and Dependent Origination]] &nbsp;&nbsp;[[1229 What is Insight#^12-1\|◀]]**[[1229 What is Insight#^12-2\|•]]**[[1229 What is Insight#^12-3\|▶]] | 1 | [[What is Insight]]

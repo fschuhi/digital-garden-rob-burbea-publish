@@ -14,9 +14,9 @@ talk | count | series
 [[Equanimity in Compassion]] | 12 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 12 | [[2006 New Year's Retreat]]
 [[Joy (talk)]] | 7 | [[2007 New Years Retreat Insight Meditation]]
-[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | 3 | [[2017 Eros Unfettered]]
-[[Dilemmas and Delineations - How did we get here Part 3]] | 3 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Way of Non-Clinging Part 3]] | 1 | [[2017 Eros Unfettered]]
+[[Samadhi in Metta Practice]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -24,7 +24,7 @@ description | count | talk
 [[Equanimity in Compassion#Find ways of working with impermanence which brings a sense of freedom\|Find ways of working with impermanence which brings a sense of freedom]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^9-3\|◀]]**[[0208 Equanimity in Compassion#^9-4\|•]]**[[0208 Equanimity in Compassion#^10-1\|▶]] | 8 | [[Equanimity in Compassion]]
 [[The Way of Non-Clinging Part 1#6 Paying attention to impermanence\|6. Paying attention to impermanence]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^12-1\|◀]]**[[0115 The Way of Non-Clinging Part 1#^12-2\|•]]**[[0115 The Way of Non-Clinging Part 1#^12-3\|▶]] | 7 | [[The Way of Non-Clinging Part 1]]
 [[From Insight to Love#Something is impermanent therefore automatically unsatisfactory\|Something is impermanent, therefore automatically unsatisfactory]] &nbsp;&nbsp;[[0127 From Insight to Love#^12-7\|◀]]**[[0127 From Insight to Love#^12-8\|•]]**[[0127 From Insight to Love#^13-1\|▶]] | 7 | [[From Insight to Love]]
-[[The Way of Non-Clinging Part 2#It's the resulting letting go of clinging unfabricates not contemplating rapid impermance\|It's the resulting letting go of clinging unfabricates, not contemplating rapid impermance]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^6-4\|◀]]**[[0116 The Way of Non-Clinging Part 2#^6-5\|•]]**[[0116 The Way of Non-Clinging Part 2#^7-1\|▶]] | 6 | [[The Way of Non-Clinging Part 2]]
+[[The Way of Non-Clinging Part 2#It's the resulting letting go of clinging that unfabricates not contemplating rapid impermance\|It's the resulting letting go of clinging that unfabricates, not contemplating rapid impermance]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^7-3\|◀]]**[[0116 The Way of Non-Clinging Part 2#^7-4\|•]]**[[0116 The Way of Non-Clinging Part 2#^8-1\|▶]] | 6 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 1#Impermance brings less solidification\|Impermance brings less solidification]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^12-2\|◀]]**[[0115 The Way of Non-Clinging Part 1#^12-3\|•]]**[[0115 The Way of Non-Clinging Part 1#^12-4\|▶]] | 6 | [[The Way of Non-Clinging Part 1]]
 [[What is Insight#Using impermance as a lense\|Using impermance as a lense]] &nbsp;&nbsp;[[1229 What is Insight#^8-1\|◀]]**[[1229 What is Insight#^8-2\|•]]**[[1229 What is Insight#^8-3\|▶]] | 6 | [[What is Insight]]
 [[What is Insight#Commentaries point towards a "dark night of the soul" but I don't think that's how insight works\|Commentaries point towards a "dark night of the soul", but I don't think that's how insight works]] &nbsp;&nbsp;[[1229 What is Insight#^8-5\|◀]]**[[1229 What is Insight#^8-6\|•]]**[[1229 What is Insight#^9-1\|▶]] | 5 | [[What is Insight]]

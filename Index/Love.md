@@ -4,15 +4,15 @@
 talk | count | series
 :- | - |: -
 [[Love and Emptiness]] | 62 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Eros Unfettered Part 2]] | 56 | [[2017 Eros Unfettered]]
 [[From Insight to Love]] | 46 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Expressions of Metta]] | 45 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Expressions of Metta]] | 44 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 30 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Dilemmas and Delineations - How did we get here Part 4]] | 22 | [[2017 Eros Unfettered]]
-[[Eros Unfettered Part 1]] | 21 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 14 | [[2020 Vajra Music]]
-[[The Way of Non-Clinging Part 3]] | 14 | [[2017 Eros Unfettered]]
-[[Dilemmas and Delineations - How did we get here Part 3]] | 13 | [[2017 Eros Unfettered]]
+[[The Way of Non-Clinging Part 3]] | 12 | [[2017 Eros Unfettered]]
+[[Dilemmas and Delineations - How did we get here Part 1]] | 10 | [[2017 Eros Unfettered]]
+[[Equanimity in Compassion]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Guided meditation - Metta to phenomena]] | 9 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[What is Insight]] | 8 | [[2007 New Years Retreat Insight Meditation]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

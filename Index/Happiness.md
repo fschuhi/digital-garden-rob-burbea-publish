@@ -10,9 +10,9 @@ talk | count | series
 [[Samadhi in Metta Practice]] | 9 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 8 | [[2007 New Years Retreat Insight Meditation]]
 [[From Insight to Love]] | 7 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Eros Unfettered Part 1]] | 4 | [[2017 Eros Unfettered]]
-[[Dilemmas and Delineations - How did we get here Part 5]] | 4 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 3]] | 3 | [[2017 Eros Unfettered]]
+[[Guided meditation - Metta to phenomena]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Love and Emptiness]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

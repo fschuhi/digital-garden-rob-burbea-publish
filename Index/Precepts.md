@@ -10,4 +10,5 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Sila and Soul" "The Image of Ethics" 🟢\|"Sila and Soul", "The Image of Ethics" 🟢]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-2\|◀]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-3\|•]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-4\|▶]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Dilemmas and Delineations - How did we get here Part 1#All this is not really adequately addressed in the Dharma at present\|All this is not really adequately addressed in the Dharma at present]] &nbsp;&nbsp;[[0118 Dilemmas and Delineations - How did we get here Part 1#^10-1\|◀]]**[[0118 Dilemmas and Delineations - How did we get here Part 1#^10-2\|•]]**[[0118 Dilemmas and Delineations - How did we get here Part 1#^10-3\|▶]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
 

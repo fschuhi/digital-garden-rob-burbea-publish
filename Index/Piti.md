@@ -4,7 +4,6 @@
 talk | count | series
 :- | - |: -
 [[Samadhi in Metta Practice]] | 18 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Dilemmas and Delineations - How did we get here Part 2]] | 1 | [[2017 Eros Unfettered]]
 [[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 [[Equanimity in Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 

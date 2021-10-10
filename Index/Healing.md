@@ -8,7 +8,6 @@ talk | count | series
 [[What is Insight]] | 2 | [[2007 New Years Retreat Insight Meditation]]
 [[Expressions of Metta]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
-[[Eros Unfettered Part 1]] | 1 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]

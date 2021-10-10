@@ -5,7 +5,6 @@ talk | count | series
 :- | - |: -
 [[The Way of Non-Clinging Part 2]] | 3 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Logos in the Garden of Souls Part 1]] | 2 | [[2017 Eros Unfettered]]
 [[The Practice of Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 [[From Insight to Love]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
@@ -13,8 +12,8 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 2#conceiving subject object time\|conceiving subject, object, time]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^2-1\|◀]]**[[0116 The Way of Non-Clinging Part 2#^2-2\|•]]**[[0116 The Way of Non-Clinging Part 2#^2-3\|▶]] | 2 | [[The Way of Non-Clinging Part 2]]
-[[The Way of Non-Clinging Part 2#An even deeper level of fading\|An even deeper level of fading]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^4-4\|◀]]**[[0116 The Way of Non-Clinging Part 2#^4-5\|•]]**[[0116 The Way of Non-Clinging Part 2#^5-1\|▶]] | 1 | [[The Way of Non-Clinging Part 2]]
+[[The Way of Non-Clinging Part 2#The tripod of subject object time\|The tripod of subject, object, time]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^2-2\|◀]]**[[0116 The Way of Non-Clinging Part 2#^2-3\|•]]**[[0116 The Way of Non-Clinging Part 2#^2-4\|▶]] | 2 | [[The Way of Non-Clinging Part 2]]
+[[The Way of Non-Clinging Part 2#Emptiness practice results in an even deeper level of fading\|Emptiness practice results in an even deeper level of fading]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^5-2\|◀]]**[[0116 The Way of Non-Clinging Part 2#^5-3\|•]]**[[0116 The Way of Non-Clinging Part 2#^5-4\|▶]] | 1 | [[The Way of Non-Clinging Part 2]]
 [[What is Insight#"Insights arise" often from trusting mindfulness\|"Insights arise", often from trusting mindfulness]] &nbsp;&nbsp;[[1229 What is Insight#^5-2\|◀]]**[[1229 What is Insight#^5-3\|•]]**[[1229 What is Insight#^5-4\|▶]] | 1 | [[What is Insight]]
 [[Love and Emptiness#The practice is not about being in the present moment but rather feeding what's beautiful and investigation\|The practice is not about being in the present moment, but rather feeding what's beautiful and investigation]] &nbsp;&nbsp;[[0204 Love and Emptiness#^4-4\|◀]]**[[0204 Love and Emptiness#^4-5\|•]]**[[0204 Love and Emptiness#^5-1\|▶]] | 1 | [[Love and Emptiness]]
 [[Love and Emptiness#"Kindfulness" is a skilful means for ease in the moment\|..."Kindfulness" is a skilful means for ease in the moment]] &nbsp;&nbsp;[[0204 Love and Emptiness#^6-1\|◀]]**[[0204 Love and Emptiness#^6-2\|•]]**[[0204 Love and Emptiness#^6-3\|▶]] | 1 | [[Love and Emptiness]]

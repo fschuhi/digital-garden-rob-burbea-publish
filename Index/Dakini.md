@@ -3,9 +3,7 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Eros Unfettered Part 1]] | 3 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 2 | [[2020 Vajra Music]]
-[[Logos in the Garden of Souls Part 3]] | 2 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

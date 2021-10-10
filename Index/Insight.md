@@ -5,14 +5,14 @@ talk | count | series
 :- | - |: -
 [[What is Insight]] | 84 | [[2007 New Years Retreat Insight Meditation]]
 [[The Practice of Compassion]] | 34 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Dilemmas and Delineations - How did we get here Part 5]] | 33 | [[2017 Eros Unfettered]]
 [[From Insight to Love]] | 32 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 2]] | 25 | [[2017 Eros Unfettered]]
-[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | 17 | [[2017 Eros Unfettered]]
-[[Dilemmas and Delineations - How did we get here Part 3]] | 17 | [[2017 Eros Unfettered]]
-[[Dilemmas and Delineations - How did we get here Part 1]] | 16 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 16 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 1]] | 15 | [[2017 Eros Unfettered]]
 [[Equanimity in Compassion]] | 15 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Samadhi in Metta Practice]] | 14 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Equanimity (talk)]] | 14 | [[2006 New Year's Retreat]]
+[[The Way of Non-Clinging Part 3]] | 13 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -27,8 +27,8 @@ description | count | talk
 [[Samadhi in Metta Practice#Samadhi is the soil where insights grow\|Samadhi is the soil where insights grow]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^3-2\|◀]]**[[0122 Samadhi in Metta Practice#^3-3\|•]]**[[0122 Samadhi in Metta Practice#^3-4\|▶]] | 5 | [[Samadhi in Metta Practice]]
 [[Equanimity (talk)#The experience actually is not the important thing What's important though this is the understanding\|The experience actually is not the important thing. What's important though this is the understanding.]] &nbsp;&nbsp;[[1228 Equanimity (talk)#^12-3\|◀]]**[[1228 Equanimity (talk)#^12-4\|•]]**[[1228 Equanimity (talk)#^12-5\|▶]] | 5 | [[Equanimity (talk)]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Solution reconnect with the angels\|Solution: reconnect with the angels]] &nbsp;&nbsp;[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^1-3\|◀]]**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^1-4\|•]]**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-1\|▶]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
-[[The Way of Non-Clinging Part 3#It's important to explore the whole range of clinging to understand emptiness\|It's important to explore the whole range of clinging, to understand emptiness]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^9-3\|◀]]**[[0117 The Way of Non-Clinging Part 3#^9-4\|•]]**[[0117 The Way of Non-Clinging Part 3#^9-5\|▶]] | 4 | [[The Way of Non-Clinging Part 3]]
-[[The Way of Non-Clinging Part 2#The links of dependent origination are not real either\|The links of dependent origination are not real either]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^10-5\|◀]]**[[0116 The Way of Non-Clinging Part 2#^11-1\|•]]**[[0116 The Way of Non-Clinging Part 2#^11-2\|▶]] | 4 | [[The Way of Non-Clinging Part 2]]
+[[The Way of Non-Clinging Part 3#It's important to explore the whole range of clinging to understand emptiness\|It's important to explore the whole range of clinging, to understand emptiness]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^11-1\|◀]]**[[0117 The Way of Non-Clinging Part 3#^11-2\|•]]**[[0117 The Way of Non-Clinging Part 3#^11-3\|▶]] | 4 | [[The Way of Non-Clinging Part 3]]
+[[The Way of Non-Clinging Part 2#The links of dependent origination are not real either\|The links of dependent origination are not real either]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^12-3\|◀]]**[[0116 The Way of Non-Clinging Part 2#^12-4\|•]]**[[0116 The Way of Non-Clinging Part 2#^13-1\|▶]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[What is Insight#This talk is about putting things in place\|This talk is about putting things in place]] &nbsp;&nbsp;[[1229 What is Insight#^1-1\|◀]]**[[1229 What is Insight#^1-2\|•]]**[[1229 What is Insight#^1-3\|▶]] | 4 | [[What is Insight]]
 [[What is Insight#Personal insight into one's own habits of body speech and mind\|Personal insight into one's own habits of body, speech and mind]] &nbsp;&nbsp;[[1229 What is Insight#^2-2\|◀]]**[[1229 What is Insight#^2-3\|•]]**[[1229 What is Insight#^2-4\|▶]] | 4 | [[What is Insight]]
 [[What is Insight#Are the personal stories we tell ourselves helpful or unhelpful\|Are the personal stories we tell ourselves helpful or unhelpful?]] &nbsp;&nbsp;[[1229 What is Insight#^3-1\|◀]]**[[1229 What is Insight#^3-2\|•]]**[[1229 What is Insight#^3-3\|▶]] | 4 | [[What is Insight]]

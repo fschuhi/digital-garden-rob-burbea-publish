@@ -3,16 +3,16 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Logos in the Garden of Souls Part 1]] | 46 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 2]] | 32 | [[2017 Eros Unfettered]]
-[[Dilemmas and Delineations - How did we get here Part 3]] | 29 | [[2017 Eros Unfettered]]
 [[What is Insight]] | 29 | [[2007 New Years Retreat Insight Meditation]]
-[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | 26 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 22 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 1]] | 21 | [[2017 Eros Unfettered]]
-[[Dilemmas and Delineations - How did we get here Part 2]] | 18 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 14 | [[2020 Vajra Music]]
 [[Guided meditation - Metta to phenomena]] | 12 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Equanimity (talk)]] | 12 | [[2006 New Year's Retreat]]
+[[From Insight to Love]] | 9 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 1]] | 8 | [[2017 Eros Unfettered]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 7 | [[2020 Vajra Music]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -20,8 +20,8 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#In this case "wow" can lead to long-term change - - but how about beautiful soulmaking or metta retreats\|In this case "wow" can lead to long-term change - - but how about beautiful soulmaking or metta retreats?]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^16-3\|◀]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^16-4\|•]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^17-1\|▶]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[What is Insight#The more entanglement with experience the more prominent it is\|The more entanglement with experience, the more prominent it is]] &nbsp;&nbsp;[[1229 What is Insight#^11-3\|◀]]**[[1229 What is Insight#^11-4\|•]]**[[1229 What is Insight#^11-5\|▶]] | 5 | [[What is Insight]]
 [[Guided meditation - Metta to phenomena#Bathing that in loving kindness over and over\|Bathing that in loving kindness, over and over]] &nbsp;&nbsp;[[0204 Guided meditation - Metta to phenomena#^1-2\|◀]]**[[0204 Guided meditation - Metta to phenomena#^1-3\|•]]**[[0204 Guided meditation - Metta to phenomena#^1-4\|▶]] | 5 | [[Guided meditation - Metta to phenomena]]
-[[The Way of Non-Clinging Part 2#Experience is dependent on the way of looking\|Experience is dependent on the way of looking]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^2-3\|◀]]**[[0116 The Way of Non-Clinging Part 2#^2-4\|•]]**[[0116 The Way of Non-Clinging Part 2#^2-5\|▶]] | 4 | [[The Way of Non-Clinging Part 2]]
-[[The Way of Non-Clinging Part 2#Impact comes from practicing and conceiving it\|Impact comes from practicing and conceiving it]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^6-5\|◀]]**[[0116 The Way of Non-Clinging Part 2#^7-1\|•]]**[[0116 The Way of Non-Clinging Part 2#^7-2\|▶]] | 4 | [[The Way of Non-Clinging Part 2]]
+[[The Way of Non-Clinging Part 2#Experience is dependent on the way of looking\|Experience is dependent on the way of looking]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^2-4\|◀]]**[[0116 The Way of Non-Clinging Part 2#^3-1\|•]]**[[0116 The Way of Non-Clinging Part 2#^3-2\|▶]] | 4 | [[The Way of Non-Clinging Part 2]]
+[[The Way of Non-Clinging Part 2#This needs practicing and right view\|This needs practicing and right view]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^7-4\|◀]]**[[0116 The Way of Non-Clinging Part 2#^8-1\|•]]**[[0116 The Way of Non-Clinging Part 2#^8-2\|▶]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 1#"Don't try to repeat experiences"\|"Don't try to repeat experiences"]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^8-2\|◀]]**[[0115 The Way of Non-Clinging Part 1#^8-3\|•]]**[[0115 The Way of Non-Clinging Part 1#^8-4\|▶]] | 4 | [[The Way of Non-Clinging Part 1]]
 [[The Way of Non-Clinging Part 1#Can there be more\|Can there be more?]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^13-3\|◀]]**[[0115 The Way of Non-Clinging Part 1#^13-4\|•]]**[[0115 The Way of Non-Clinging Part 1#^14-1\|▶]] | 4 | [[The Way of Non-Clinging Part 1]]
 [[What is Insight#Just take the way of seeing as a lens and use deepen consolidate it\|Just take the way of seeing as a lens and use, deepen, consolidate it]] &nbsp;&nbsp;[[1229 What is Insight#^9-2\|◀]]**[[1229 What is Insight#^9-3\|•]]**[[1229 What is Insight#^9-4\|▶]] | 4 | [[What is Insight]]

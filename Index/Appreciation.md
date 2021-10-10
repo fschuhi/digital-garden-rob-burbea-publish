@@ -6,8 +6,6 @@ talk | count | series
 [[Joy (talk)]] | 4 | [[2007 New Years Retreat Insight Meditation]]
 [[Expressions of Metta]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Eros Unfettered Part 3]] | 1 | [[2017 Eros Unfettered]]
-[[Eros Unfettered Part 2]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

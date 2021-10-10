@@ -3,9 +3,7 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | 4 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 1]] | 3 | [[2017 Eros Unfettered]]
-[[Logos in the Garden of Souls Part 1]] | 2 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 1 | [[2020 Vajra Music]]
 
 ### Paragraphs with 4+ mentions

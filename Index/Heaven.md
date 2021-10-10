@@ -3,7 +3,6 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Logos in the Garden of Souls Part 1]] | 1 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions

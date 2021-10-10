@@ -4,11 +4,8 @@
 talk | count | series
 :- | - |: -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 26 | [[2020 Vajra Music]]
-[[Dilemmas and Delineations - How did we get here Part 5]] | 5 | [[2017 Eros Unfettered]]
 [[What is Insight]] | 2 | [[2007 New Years Retreat Insight Meditation]]
 [[From Insight to Love]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Logos in the Garden of Souls Part 1]] | 1 | [[2017 Eros Unfettered]]
-[[Eros Unfettered Part 2]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

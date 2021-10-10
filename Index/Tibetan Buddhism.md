@@ -5,7 +5,6 @@ talk | count | series
 :- | - |: -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 2 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 1 | [[2020 Vajra Music]]
-[[Dilemmas and Delineations - How did we get here Part 3]] | 1 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 

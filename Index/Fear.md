@@ -8,9 +8,9 @@ talk | count | series
 [[Love and Emptiness]] | 12 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 11 | [[2020 Vajra Music]]
 [[Samadhi in Metta Practice]] | 9 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Logos in the Garden of Souls Part 3]] | 4 | [[2017 Eros Unfettered]]
 [[Expressions of Metta]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 3 | [[2006 New Year's Retreat]]
+[[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
 [[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 [[Guided meditation - Metta to phenomena]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 

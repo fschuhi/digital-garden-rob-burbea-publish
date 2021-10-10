@@ -3,16 +3,16 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Eros Unfettered Part 1]] | 136 | [[2017 Eros Unfettered]]
-[[Eros Unfettered Part 2]] | 81 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 62 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 62 | [[2020 Vajra Music]]
-[[Dilemmas and Delineations - How did we get here Part 3]] | 55 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 43 | [[2020 Vajra Music]]
-[[Eros Unfettered Part 3]] | 39 | [[2017 Eros Unfettered]]
-[[Logos in the Garden of Souls Part 3]] | 36 | [[2017 Eros Unfettered]]
-[[Eros Unfettered Part 4]] | 26 | [[2017 Eros Unfettered]]
-[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | 20 | [[2017 Eros Unfettered]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 13 | [[2020 Vajra Music]]
+[[Dilemmas and Delineations - How did we get here Part 1]] | 7 | [[2017 Eros Unfettered]]
+[[The Way of Non-Clinging Part 3]] | 6 | [[2017 Eros Unfettered]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] | 4 | [[2020 Vajra Music]]
+[[From Insight to Love]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Guided meditation - Metta to phenomena]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Love and Emptiness]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -31,5 +31,5 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Faith telos duty\|Faith, telos, duty]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^12-2\|◀]]**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^12-3\|•]]**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^12-4\|▶]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The soulmaking poise has a range is elastic with soft edges\|The soulmaking poise has a range, is elastic with soft edges]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^16-1\|◀]]**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^16-2\|•]]**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^16-3\|▶]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#So be careful that topics might be not central but still are significant\|So be careful that topics might be not central but still are significant]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^6-2\|◀]]**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^6-3\|•]]**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^6-4\|▶]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
-[[The Way of Non-Clinging Part 3#The problem is when fantasy is regarded as a problem\|The problem is when fantasy is regarded as a problem]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^3-1\|◀]]**[[0117 The Way of Non-Clinging Part 3#^3-2\|•]]**[[0117 The Way of Non-Clinging Part 3#^3-3\|▶]] | 4 | [[The Way of Non-Clinging Part 3]]
+[[The Way of Non-Clinging Part 3#The problem is when fantasy is regarded as a problem\|The problem is when fantasy is regarded as a problem]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^3-3\|◀]]**[[0117 The Way of Non-Clinging Part 3#^3-4\|•]]**[[0117 The Way of Non-Clinging Part 3#^4-1\|▶]] | 4 | [[The Way of Non-Clinging Part 3]]
 

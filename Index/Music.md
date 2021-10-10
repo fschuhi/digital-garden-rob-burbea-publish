@@ -6,15 +6,15 @@
 talk | count | series
 :- | - |: -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 21 | [[2020 Vajra Music]]
-[[Logos in the Garden of Souls Part 3]] | 16 | [[2017 Eros Unfettered]]
-[[Eros Unfettered Part 4]] | 10 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 4 | [[2020 Vajra Music]]
 [[From Insight to Love]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 3 | [[2020 Vajra Music]]
 [[The Way of Non-Clinging Part 3]] | 2 | [[2017 Eros Unfettered]]
 [[Joy (talk)]] | 2 | [[2007 New Years Retreat Insight Meditation]]
 [[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] | 1 | [[2020 Vajra Music]]
 [[Equanimity in Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Expressions of Metta]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

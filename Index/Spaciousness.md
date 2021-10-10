@@ -8,7 +8,6 @@ talk | count | series
 [[From Insight to Love]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Dilemmas and Delineations - How did we get here Part 5]] | 1 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 2]] | 1 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 1]] | 1 | [[2017 Eros Unfettered]]
 [[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]

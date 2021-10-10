@@ -65,14 +65,10 @@ talk | count | series
 :- | - |: -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 53 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 11 | [[2020 Vajra Music]]
-[[Eros Unfettered Part 3]] | 3 | [[2017 Eros Unfettered]]
 [[The Practice of Compassion]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Eros Unfettered Part 2]] | 2 | [[2017 Eros Unfettered]]
 [[Joy (talk)]] | 2 | [[2007 New Years Retreat Insight Meditation]]
 [[Samadhi in Metta Practice]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Dilemmas and Delineations - How did we get here Part 5]] | 1 | [[2017 Eros Unfettered]]
-[[Dilemmas and Delineations - How did we get here Part 3]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

@@ -12,7 +12,7 @@ talk | count | series
 [[Equanimity in Compassion]] | 20 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Joy (talk)]] | 18 | [[2007 New Years Retreat Insight Meditation]]
 [[Equanimity (talk)]] | 17 | [[2006 New Year's Retreat]]
-[[Logos in the Garden of Souls Part 3]] | 12 | [[2017 Eros Unfettered]]
+[[What is Insight]] | 10 | [[2007 New Years Retreat Insight Meditation]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

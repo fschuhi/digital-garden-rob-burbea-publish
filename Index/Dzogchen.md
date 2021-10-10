@@ -4,7 +4,6 @@
 talk | count | series
 :- | - |: -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 2 | [[2020 Vajra Music]]
-[[Logos in the Garden of Souls Part 1]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

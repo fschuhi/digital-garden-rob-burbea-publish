@@ -4,7 +4,6 @@
 talk | count | series
 :- | - |: -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 1 | [[2020 Vajra Music]]
-[[Eros Unfettered Part 5 - Otherness and the Art of Disappearing]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
