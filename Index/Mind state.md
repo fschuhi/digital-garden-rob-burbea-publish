@@ -3,6 +3,7 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
+[[Dilemmas and Delineations - How did we get here Part 2]] | 6 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
@@ -12,6 +13,8 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
+[[Dilemmas and Delineations - How did we get here Part 2#How do we recognize eros\|How do we recognize eros?]] | 4 | [[Dilemmas and Delineations - How did we get here Part 2]]
+[[Dilemmas and Delineations - How did we get here Part 2#We need to develop the sensitivity to the texture of mind states and the space of mind\|We need to develop the sensitivity to the texture of mind states and the space of mind]] | 2 | [[Dilemmas and Delineations - How did we get here Part 2]]
 [[Equanimity in Compassion#Equanimity is steadiness in the face of all conditions\|Equanimity is steadiness in the face of all conditions]] | 2 | [[Equanimity in Compassion]]
 [[Love and Emptiness#Past present and future are empty\|Past, present and future are empty]] | 2 | [[Love and Emptiness]]
 [[Joy (talk)#We begin to lose the infatuation with believing that things are a certain way\|We begin to lose the infatuation with believing that things are a certain way]] | 1 | [[Joy (talk)]]

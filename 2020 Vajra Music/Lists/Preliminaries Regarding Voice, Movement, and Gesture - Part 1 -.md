@@ -70,7 +70,7 @@ obsidianUIMode: preview
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Five excercises|Five excercises.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#There are a lot of variations|There are a lot of variations.]]
 #### Excercise 1
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Excercise 1 can be done with the physical  or with the energy body|Excercise 1 can be done with the physical  or with the energy body.]]
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Excercise 1 can be done with the physical or with the energy body|Excercise 1 can be done with the physical  or with the energy body.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Excercise 1 can be done in 4 postures|Excercise 1 can be done in 4 postures.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Excercise 1 has 5 parts|Excercise 1 has 5 parts.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 11 fill the room with the energy body|🟡 Excercise 1.1: fill the room with the energy body.]]

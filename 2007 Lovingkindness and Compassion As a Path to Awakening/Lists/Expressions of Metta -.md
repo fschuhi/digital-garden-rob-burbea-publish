@@ -50,7 +50,7 @@ obsidianUIMode: preview
 - [[Expressions of Metta#Dropping _what I want_ brings into the being a kind of stillness|Dropping _what I want_ brings into the being a kind of stillness.]]
 - [[Expressions of Metta#Flotsam and jetsam can just settle|Flotsam and jetsam can just settle.]]
 - [[Expressions of Metta#Guilt and remorse|Guilt and remorse.]]
-- [[Expressions of Metta#Mystical sense  of silence|Mystical sense  of silence.]]
+- [[Expressions of Metta#Mystical sense of silence|Mystical sense  of silence.]]
 - [[Expressions of Metta#"Keeping quiet" Pablo Neruda|"Keeping quiet" (Pablo Neruda)]]
 - [[Expressions of Metta#The silence begins to stand out embrace everything|The silence begins to stand out, embrace everything.]]
 - [[Expressions of Metta#Love as I kind of holding|Love as I kind of holding.]]

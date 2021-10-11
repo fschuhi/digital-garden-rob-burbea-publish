@@ -2,8 +2,14 @@
 ##### Talks
 - new retreat [[2007 New Years Retreat Insight Meditation]]
 - retreat [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-- added [[What is Insight]], with feedback from Shannon
-- added [[Joy (talk)]]
+	- [[What is Insight]], with feedback from Shannon
+	- [[Joy (talk)]]
+- retreat [[2017 Eros Unfettered]]
+	- [[The Way of Non-Clinging Part 1]]
+	- [[The Way of Non-Clinging Part 2]]
+	- [[The Way of Non-Clinging Part 3]]
+	- [[Dilemmas and Delineations - How did we get here Part 1]]
+	- [[Dilemmas and Delineations - How did we get here Part 2]]
 
 ##### Features
 - top X referring talks for index entries, see e.g. [[Energy Body]], with different X for some talks
@@ -15,5 +21,6 @@
 	- [[How to navigate the Digital Garden]]
 	- [[How to browse the Digital Garden]]
 	- [[How to browse a retreat]]
+	- [[How to work with the top mentions in paragraphs]]
 
 

@@ -5,7 +5,7 @@ obsidianUIMode: preview
 - [[Dilemmas and Delineations - How did we get here Part 1#We will gradually unfold the semantic web of "eros"|We will gradually unfold the semantic web of "eros".]]
 - [[Dilemmas and Delineations - How did we get here Part 1#Why delineate|Why delineate?]]
 - [[Dilemmas and Delineations - How did we get here Part 1#Teaching is always contextual|Teaching is always contextual.]]
-- [[Dilemmas and Delineations - How did we get here Part 1#Our context is Buddhist  insight meditation|Our context is Buddhist / insight meditation.]]
+- [[Dilemmas and Delineations - How did we get here Part 1#Our context is Buddhist insight meditation|Our context is Buddhist / insight meditation.]]
 - [[Dilemmas and Delineations - How did we get here Part 1#International meeting of Insight Meditation teachers Gaia House 2005|International meeting of Insight Meditation teachers, Gaia House, 2005.]]
 - [[Dilemmas and Delineations - How did we get here Part 1#Eros was the biggest breakout group|Eros was the biggest breakout group.]]
 - [[Dilemmas and Delineations - How did we get here Part 1#There was no common definition of Eros|There was no common definition of Eros.]]

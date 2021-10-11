@@ -5,6 +5,7 @@ talk | count | series
 :- | - |: -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 14 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 8 | [[2020 Vajra Music]]
+[[Dilemmas and Delineations - How did we get here Part 2]] | 3 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 2 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 1 | [[2020 Vajra Music]]
 

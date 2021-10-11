@@ -17,7 +17,7 @@ obsidianUIMode: preview
 - [[Equanimity in Compassion#The outflow of compassion from us to others touches us and we feel healed|The outflow of compassion from us to others touches us, and we feel healed.]]
 - [[Equanimity in Compassion#There can be a lot of grief in the compassion practice about the immensity and universality of suffering|There can be a lot of grief in the compassion practice about the immensity and universality of suffering.]]
 - [[Equanimity in Compassion#It's part of our humanity to be touched|It's part of our humanity to be touched.]]
-- [[Equanimity in Compassion#Equanimity means  buoyancy not to sink underneath the weight of the suffering|Equanimity means  buoyancy, not to sink underneath the weight of the suffering.]]
+- [[Equanimity in Compassion#Equanimity means buoyancy not to sink underneath the weight of the suffering|Equanimity means  buoyancy, not to sink underneath the weight of the suffering.]]
 #### Samadhi
 - [[Equanimity in Compassion#Don't underestimate the power of samadhi in the deepening of equanimity|Don't underestimate the power of samadhi in the deepening of equanimity.]]
 - [[Equanimity in Compassion#Story last year's retreatant who didn't want to do samadhi pointing to the busyness of life|Story: last year's retreatant who didn't want to do samadhi, pointing to the busyness of life.]]

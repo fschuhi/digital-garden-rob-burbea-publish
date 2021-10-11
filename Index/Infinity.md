@@ -5,6 +5,7 @@ talk | count | series
 :- | - |: -
 [[Equanimity (talk)]] | 5 | [[2006 New Year's Retreat]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 2 | [[2020 Vajra Music]]
+[[Dilemmas and Delineations - How did we get here Part 2]] | 2 | [[2017 Eros Unfettered]]
 [[The Practice of Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 1 | [[2020 Vajra Music]]
 [[Expressions of Metta]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
@@ -14,6 +15,7 @@ description | count | talk
 :- | : - | :-
 [[Equanimity (talk)#This moment is in the context of vast time and the vast unknown of death\|This moment is in the context of vast time and the vast unknown of death]] | 3 | [[Equanimity (talk)]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Words like 'angel' 'soul' 'image' imply unfathomability\|Words like 'angel', 'soul', 'image' imply unfathomability]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
+[[Dilemmas and Delineations - How did we get here Part 2#Eros goes together with Pothos\|Eros goes together with Pothos]] | 2 | [[Dilemmas and Delineations - How did we get here Part 2]]
 [[Equanimity (talk)#"We come to the infinite well of life with a thimble and so we go away thirsty"\|"We come to the infinite well of life with a thimble and so we go away thirsty"]] | 2 | [[Equanimity (talk)]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Inexhausibilities of those needs\|Inexhausibilities of those needs]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[The Practice of Compassion#Fear only compounds the suffering\|Fear only compounds the suffering]] | 1 | [[The Practice of Compassion]]

@@ -16,6 +16,7 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 31 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 28 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 14 | [[2020 Vajra Music]]
+[[Dilemmas and Delineations - How did we get here Part 2]] | 14 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] | 4 | [[2020 Vajra Music]]
 [[The Way of Non-Clinging Part 2]] | 3 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 1]] | 2 | [[2017 Eros Unfettered]]
@@ -30,6 +31,7 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's not important to recognise the situation from the outside it's more important to resonate in the heart and the soul\|It's not important to recognise the situation from the outside, it's more important to resonate in the heart and the soul]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#The blessed one is not responding but is sensitive with the energy body\|The blessed one is not responding but is sensitive with the energy body]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Summary of the excercises\|Summary of the excercises]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Dilemmas and Delineations - How did we get here Part 2#The "bliss" of soulmaking"\|The "bliss" of soulmaking"]] | 5 | [[Dilemmas and Delineations - How did we get here Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Include sensing with soul the whole relational field\|Include sensing with soul the whole relational field]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Energy body excercises open towards relating to it as imaginal image\|Energy body excercises open towards relating to it as imaginal image]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Interview situation opening up to a whole new sense of self "wow"\|Interview situation: opening up to a whole new sense of self, "wow"]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
@@ -38,6 +40,7 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#let the energy body project to fill the space\|let the energy body project to fill the space]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 21 Feel where the sound is coming from against energy body background\|🟡 Excercise 2.1: Feel where the sound is coming from, against energy body background]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 23 mix sound and energy body\|🟡 Excercise 2.3: mix sound and energy body]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Dilemmas and Delineations - How did we get here Part 2#Arousal of interest and resonances in the energy body\|Arousal of interest and resonances in the energy body]] | 4 | [[Dilemmas and Delineations - How did we get here Part 2]]
 
 ### Quotes
 ##### Vajra Music - Preliminaries - Part 1 [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1|(Transcript)]] 🟢 ^some-block-pointer

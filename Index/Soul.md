@@ -11,6 +11,7 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 1]] | 9 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] | 6 | [[2020 Vajra Music]]
 [[Perfection and Christ's Blessing]] | 4 | [[2020 Vajra Music]]
+[[Dilemmas and Delineations - How did we get here Part 2]] | 4 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -40,9 +41,10 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Those words have soft and elastic edges they will stretch\|Those words have soft and elastic edges, they will stretch]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Soul is more than any meaning\|Soul is more than any meaning]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Energy body excercises open towards relating to it as imaginal image\|Energy body excercises open towards relating to it as imaginal image]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#2 Ordinary usages of movementgesturevoice can be sensed with soul\|(2) Ordinary usages of movement/gesture/voice can be sensed with soul]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#2 Ordinary usages of movement gesture voice can be sensed with soul\|(2) Ordinary usages of movement/gesture/voice can be sensed with soul]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#This affects the whole psyche heart relation to others\|This affects the whole psyche, heart, relation to others]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#The soul needs the circuits to be connected\|The soul needs the circuits to be connected]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Sometimes angels reconnect the circuits and sometimes we excercise to open the circuits\|Sometimes angels reconnect the circuits, and sometimes we excercise to open the circuits]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Some of you will be Soulmaking musicians\|Some of you will be Soulmaking musicians]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Dilemmas and Delineations - How did we get here Part 2#The "delight" of soulmaking\|The "delight" of soulmaking]] | 4 | [[Dilemmas and Delineations - How did we get here Part 2]]
 

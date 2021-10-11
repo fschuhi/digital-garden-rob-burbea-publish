@@ -39,7 +39,7 @@ obsidianUIMode: preview
 - [[The Way of Non-Clinging Part 1#How do I notice craving|How do I notice craving?]]
 - [[The Way of Non-Clinging Part 1#Huge range of what contitutes craving|Huge range of what contitutes craving.]]
 - [[The Way of Non-Clinging Part 1#How to tell that craving is active in the body|How to tell that craving is active in the body.]]
-- [[The Way of Non-Clinging Part 1#Bodily tensioncontraction|Bodily tension/contraction.]]
+- [[The Way of Non-Clinging Part 1#Bodily tension contraction|Bodily tension/contraction.]]
 - [[The Way of Non-Clinging Part 1#Techniques of "just let go of everything" 1 notice craving and let go of it|==Techniques of "just let go of everything"==, 1. notice craving and let go of it.]]
 - [[The Way of Non-Clinging Part 1#2 Skillful reflection|2. Skillful reflection.]]
 - [[The Way of Non-Clinging Part 1#Different kinds of reflection|Different kinds of reflection.]]

@@ -43,7 +43,7 @@ obsidianUIMode: preview
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#When one constitutent of the larger constellation ignitates then it's possible that the whole then ignites|When one constitutent of the larger constellation ignitates, then it's possible that the whole then ignites.]]
 #### Variation on Excercise 4
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Rather than actual person dyad partner is intrapsychic image|Rather than actual person, dyad partner is intrapsychic image.]]
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Movegesturevocalize physically concretized or just in the energy body|Move/gesture/vocalize physically concretized, or just in the energy body.]]
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Move gesture vocalize physically concretized or just in the energy body|Move/gesture/vocalize physically concretized, or just in the energy body.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Why do it with an imaginal dyad partner|Why do it with an imaginal dyad partner?]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Less chance of self-consciousness arising if we do it with an imaginal dyad partner Reason 1|Less chance of self-consciousness arising if we do it with an imaginal dyad partner (Reason 1)]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Also the practice can become more subtle Reason 2|Also, the practice can become more subtle (Reason 2)]]

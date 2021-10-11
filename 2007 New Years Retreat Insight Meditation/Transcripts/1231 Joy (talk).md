@@ -5,7 +5,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-[[Joy (talk) (new)]]
+[[Joy (talk)]]
 
 ---
 <br/>

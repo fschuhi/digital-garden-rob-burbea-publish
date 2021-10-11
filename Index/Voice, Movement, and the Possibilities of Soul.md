@@ -17,7 +17,7 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Witness is just noticing albeit by bringing the whole energy body into sensual relationship 🟢\|Witness is just noticing (albeit by bringing the whole energy body into sensual relationship) 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Voice Movement and the Possibilities of Soul"  but how many have picked it up 🟢\|"Voice, Movement, and the Possibilities of Soul" ... but how many have picked it up? 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Doing the excercises can feel alien or comical or  go against what's associated with spirituality 🟢\|Doing the excercises can feel alien or comical, or  go against what's associated with spirituality 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Voice Movement and the Possibilities of Soul" but how many have picked it up 🟢\|"Voice, Movement, and the Possibilities of Soul" ... but how many have picked it up? 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Doing the excercises can feel alien or comical or go against what's associated with spirituality 🟢\|Doing the excercises can feel alien or comical, or  go against what's associated with spirituality 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Earlier talks 🟢\|Earlier talks 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 

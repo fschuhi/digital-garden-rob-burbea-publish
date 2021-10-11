@@ -8,10 +8,10 @@ talk | count | series
 [[The Practice of Compassion]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 5 | [[2007 New Years Retreat Insight Meditation]]
 [[Love and Emptiness]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 2]] | 2 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 2 | [[2017 Eros Unfettered]]
 [[Joy (talk)]] | 2 | [[2007 New Years Retreat Insight Meditation]]
 [[From Insight to Love]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Expressions of Metta]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 1 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions

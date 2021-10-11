@@ -7,6 +7,7 @@ talk | count | series
 [[The Way of Non-Clinging Part 3]] | 60 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 1]] | 19 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 17 | [[2020 Vajra Music]]
+[[Dilemmas and Delineations - How did we get here Part 2]] | 10 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 4 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 2 | [[2020 Vajra Music]]
 [[Joy (talk)]] | 2 | [[2007 New Years Retreat Insight Meditation]]

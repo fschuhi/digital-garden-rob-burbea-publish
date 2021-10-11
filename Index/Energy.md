@@ -12,7 +12,7 @@ talk | count | series
 [[From Insight to Love]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 4 | [[2020 Vajra Music]]
-[[Equanimity in Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 2]] | 4 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

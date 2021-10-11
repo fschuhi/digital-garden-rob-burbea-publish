@@ -11,5 +11,5 @@ description | count | talk
 :- | : - | :-
 [[The Way of Non-Clinging Part 3#The "Mode of mind" is supposed revert to a more mindful stance\|The "Mode of mind" is supposed revert to a more mindful stance]] | 3 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 3#Discrepancy-based processing mindfulness-based cognitive therapy\|Discrepancy-based processing (mindfulness-based cognitive therapy)]] | 1 | [[The Way of Non-Clinging Part 3]]
-[[The Way of Non-Clinging Part 1#Bodily tensioncontraction\|Bodily tension/contraction]] | 1 | [[The Way of Non-Clinging Part 1]]
+[[The Way of Non-Clinging Part 1#Bodily tension contraction\|Bodily tension/contraction]] | 1 | [[The Way of Non-Clinging Part 1]]
 

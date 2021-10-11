@@ -70,7 +70,7 @@ obsidianUIMode: preview
 - [[The Practice of Compassion#Oneness is a poetic mystical insight|Oneness is a poetic mystical insight.]]
 - [[The Practice of Compassion#Non-separation as corrolary to the mind having perceptions|Non-separation as corrolary to the mind having perceptions.]]
 - [[The Practice of Compassion#This is not just a cute intellectual idea but can come into the practice on a very real level|This is not just a cute intellectual idea, but can come into the practice on a very real level.]]
-- [[The Practice of Compassion#Emptiness is fullness mind and world interpenetrating beyond  interconnectedness|Emptiness is fullness, mind and world interpenetrating, beyond  interconnectedness.]]
+- [[The Practice of Compassion#Emptiness is fullness mind and world interpenetrating beyond interconnectedness|Emptiness is fullness, mind and world interpenetrating, beyond  interconnectedness.]]
 - [[The Practice of Compassion#It's a long-term practice to reflect this way|It's a long-term practice to reflect this way.]]
 ### Q&A
 #### Q1: more difficulty with balance and near enemies when giving compassion to self

@@ -6,6 +6,7 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 1]] | 12 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 1]] | 9 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 3]] | 5 | [[2017 Eros Unfettered]]
+[[Dilemmas and Delineations - How did we get here Part 2]] | 3 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 2]] | 3 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions

@@ -12,5 +12,5 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5#Micro-movements hold posture check for resonance in energy body and for image\|Micro-movements, hold posture, check for resonance in energy body and for image]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Voice Movement and the Possibilities of Soul"  but how many have picked it up 🟢\|"Voice, Movement, and the Possibilities of Soul" ... but how many have picked it up? 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Voice Movement and the Possibilities of Soul" but how many have picked it up 🟢\|"Voice, Movement, and the Possibilities of Soul" ... but how many have picked it up? 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 

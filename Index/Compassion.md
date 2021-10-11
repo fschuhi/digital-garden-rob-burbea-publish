@@ -32,7 +32,7 @@ description | count | talk
 [[The Practice of Compassion#Rob We are not completely in control of what will happen but acting out of compassion is still the best way to live\|Rob: We are not completely in control of what will happen, but acting out of compassion is still the best way to live]] | 5 | [[The Practice of Compassion]]
 [[Joy (talk)#Metta and compassion bring happiness\|Metta and compassion bring happiness]] | 4 | [[Joy (talk)]]
 [[Equanimity in Compassion#Equanimity makes the compassion steady in the face of suffering\|Equanimity makes the compassion steady in the face of suffering]] | 4 | [[Equanimity in Compassion]]
-[[Equanimity in Compassion#Equanimity means  buoyancy not to sink underneath the weight of the suffering\|Equanimity means  buoyancy, not to sink underneath the weight of the suffering]] | 4 | [[Equanimity in Compassion]]
+[[Equanimity in Compassion#Equanimity means buoyancy not to sink underneath the weight of the suffering\|Equanimity means  buoyancy, not to sink underneath the weight of the suffering]] | 4 | [[Equanimity in Compassion]]
 [[Equanimity in Compassion#How much is the self _doing_ the compassion practice\|How much is the self _doing_ the compassion practice]] | 4 | [[Equanimity in Compassion]]
 [[Equanimity in Compassion#Still loving-kindness and compassion is the best way to live even if actions or results seem to fall short\|Still, loving-kindness and compassion is the best way to live, even if actions or results seem to fall short]] | 4 | [[Equanimity in Compassion]]
 [[Love and Emptiness#Recap guided meditation - Metta to phenomena\|Recap guided meditation - Metta to phenomena]] | 4 | [[Love and Emptiness]]

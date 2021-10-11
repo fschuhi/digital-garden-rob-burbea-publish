@@ -5,6 +5,7 @@ talk | count | series
 :- | - |: -
 [[The Way of Non-Clinging Part 3]] | 11 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 4 | [[2017 Eros Unfettered]]
+[[Dilemmas and Delineations - How did we get here Part 2]] | 1 | [[2017 Eros Unfettered]]
 [[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 [[Love and Emptiness]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 

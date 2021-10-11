@@ -20,3 +20,4 @@ under construction<br/>
 ✔️ [[The Way of Non-Clinging Part 3]]
 
 ✔️ [[Dilemmas and Delineations - How did we get here Part 1]]
+✔️ [[Dilemmas and Delineations - How did we get here Part 2]]

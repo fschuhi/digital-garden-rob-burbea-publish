@@ -27,6 +27,7 @@ description | count | talk
 [[Samadhi in Metta Practice#Samadhi is the soil where insights grow\|Samadhi is the soil where insights grow]] | 5 | [[Samadhi in Metta Practice]]
 [[Equanimity (talk)#The experience actually is not the important thing What's important though this is the understanding\|The experience actually is not the important thing. What's important though this is the understanding.]] | 5 | [[Equanimity (talk)]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Solution reconnect with the angels\|Solution: reconnect with the angels]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
+[[Dilemmas and Delineations - How did we get here Part 2#The conundrum of the hermeneutic circle using the example of understanding mindfulness as part of the Dharma\|The conundrum of the hermeneutic circle, using the example of understanding mindfulness as part of the Dharma]] | 4 | [[Dilemmas and Delineations - How did we get here Part 2]]
 [[The Way of Non-Clinging Part 3#It's important to explore the whole range of clinging to understand emptiness\|It's important to explore the whole range of clinging, to understand emptiness]] | 4 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 2#The links of dependent origination are not real either\|The links of dependent origination are not real either]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[What is Insight#This talk is about putting things in place\|This talk is about putting things in place]] | 4 | [[What is Insight]]

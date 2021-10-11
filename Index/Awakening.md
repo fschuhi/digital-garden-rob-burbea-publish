@@ -11,8 +11,8 @@ talk | count | series
 [[The Way of Non-Clinging Part 3]] | 5 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 2]] | 5 | [[2017 Eros Unfettered]]
 [[From Insight to Love]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 2]] | 3 | [[2017 Eros Unfettered]]
 [[Samadhi in Metta Practice]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[What is Insight]] | 2 | [[2007 New Years Retreat Insight Meditation]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

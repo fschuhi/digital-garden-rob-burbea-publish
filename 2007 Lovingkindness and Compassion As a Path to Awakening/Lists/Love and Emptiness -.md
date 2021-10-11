@@ -46,7 +46,7 @@ obsidianUIMode: preview
 - [[Love and Emptiness#Past present and future are empty|Past, present and future are empty.]]
 - [[Love and Emptiness#"Compassion without any object of reference" in the traditions|"Compassion without any object of reference" in the traditions.]]
 - [[Love and Emptiness#Do we close down when we feel something is beyond us|(Do we close down when we feel something is beyond us?)]]
-- [[Love and Emptiness#Chanda  noble aspiration|Chanda = noble aspiration.]]
+- [[Love and Emptiness#Chanda noble aspiration|Chanda = noble aspiration.]]
 - [[Love and Emptiness#When there's no clinging and grasping wee feel the suffering go out of experience|When there's no clinging and grasping, wee feel the suffering go out of experience.]]
 - [[Love and Emptiness#Grasping makes the way the world appears|Grasping makes the way the world appears.]]
 - [[Love and Emptiness#The appearance of something depends on the grasping|The appearance of something depends on the grasping.]]
