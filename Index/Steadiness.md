@@ -17,7 +17,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Samadhi in Metta Practice#Importance of steadiness\|Importance of steadiness]] &nbsp;&nbsp;[[0122 Samadhi in Metta Practice#^3-5\|◀]]**[[0122 Samadhi in Metta Practice#^3-6\|•]]**[[0122 Samadhi in Metta Practice#^4-1\|▶]] | 7 | [[Samadhi in Metta Practice]]
-[[The Way of Non-Clinging Part 2#The calmer I get the even more subtle levels of craving I can pick up\|The calmer I get, the even more subtle levels of craving I can pick up]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^1-3\|◀]]**[[0116 The Way of Non-Clinging Part 2#^1-4\|•]]**[[0116 The Way of Non-Clinging Part 2#^1-5\|▶]] | 5 | [[The Way of Non-Clinging Part 2]]
-[[Equanimity in Compassion#Rob two ways to see samatha collectedness vs calming the agitation of the being\|Rob: two ways to see samatha: collectedness vs calming the agitation of the being]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^13-4\|◀]]**[[0208 Equanimity in Compassion#^13-5\|•]]**[[0208 Equanimity in Compassion#^13-6\|▶]] | 4 | [[Equanimity in Compassion]]
+[[Samadhi in Metta Practice#Importance of steadiness\|Importance of steadiness]] | 7 | [[Samadhi in Metta Practice]]
+[[The Way of Non-Clinging Part 2#The calmer I get the even more subtle levels of craving I can pick up\|The calmer I get, the even more subtle levels of craving I can pick up]] | 5 | [[The Way of Non-Clinging Part 2]]
+[[Equanimity in Compassion#Rob two ways to see samatha collectedness vs calming the agitation of the being\|Rob: two ways to see samatha: collectedness vs calming the agitation of the being]] | 4 | [[Equanimity in Compassion]]
 

@@ -17,7 +17,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 1#Fetters and arahantship\|Fetters and arahantship]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^2-3\|◀]]**[[0115 The Way of Non-Clinging Part 1#^2-4\|•]]**[[0115 The Way of Non-Clinging Part 1#^3-1\|▶]] | 5 | [[The Way of Non-Clinging Part 1]]
-[[The Way of Non-Clinging Part 3#Is there something missing in the way we categorize our desires and what we seek from them\|Is there something missing in the way we categorize our desires and what we seek from them?]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^5-4\|◀]]**[[0117 The Way of Non-Clinging Part 3#^6-1\|•]]**[[0117 The Way of Non-Clinging Part 3#^6-2\|▶]] | 4 | [[The Way of Non-Clinging Part 3]]
-[[Joy (talk)#Piti is the physical aspect of spiritual joy not based on sense pleasure\|Piti is the physical aspect of spiritual joy, not based on sense pleasure]] &nbsp;&nbsp;[[1231 Joy (talk)#^10-2\|◀]]**[[1231 Joy (talk)#^10-3\|•]]**[[1231 Joy (talk)#^10-4\|▶]] | 4 | [[Joy (talk)]]
+[[The Way of Non-Clinging Part 1#Fetters and arahantship\|Fetters and arahantship]] | 5 | [[The Way of Non-Clinging Part 1]]
+[[The Way of Non-Clinging Part 3#Is there something missing in the way we categorize our desires and what we seek from them\|Is there something missing in the way we categorize our desires and what we seek from them?]] | 4 | [[The Way of Non-Clinging Part 3]]
+[[Joy (talk)#Piti is the physical aspect of spiritual joy not based on sense pleasure\|Piti is the physical aspect of spiritual joy, not based on sense pleasure]] | 4 | [[Joy (talk)]]
 

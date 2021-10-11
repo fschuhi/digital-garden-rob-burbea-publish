@@ -11,5 +11,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 3#Sometimes our fantasies about the Dharma are inadquate eg what it says about romantic love\|Sometimes our fantasies about the Dharma are inadquate, e.g. what it says about romantic love]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^3-4\|◀]]**[[0117 The Way of Non-Clinging Part 3#^4-1\|•]]**[[0117 The Way of Non-Clinging Part 3#^4-2\|▶]] | 4 | [[The Way of Non-Clinging Part 3]]
+[[The Way of Non-Clinging Part 3#Sometimes our fantasies about the Dharma are inadquate eg what it says about romantic love\|Sometimes our fantasies about the Dharma are inadquate, e.g. what it says about romantic love]] | 4 | [[The Way of Non-Clinging Part 3]]
 

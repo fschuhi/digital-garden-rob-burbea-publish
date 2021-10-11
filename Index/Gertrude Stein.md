@@ -8,5 +8,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Practice of Compassion#Gertrude Stein "What's the question"\|Gertrude Stein: "What's the question?"]] &nbsp;&nbsp;[[0201 The Practice of Compassion#^2-5\|◀]]**[[0201 The Practice of Compassion#^3-1\|•]]**[[0201 The Practice of Compassion#^3-2\|▶]] | 1 | [[The Practice of Compassion]]
+[[The Practice of Compassion#Gertrude Stein "What's the question"\|Gertrude Stein: "What's the question?"]] | 1 | [[The Practice of Compassion]]
 

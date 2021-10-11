@@ -13,6 +13,6 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Liberation of sustained desire is needed to a goal\|(Liberation of) sustained desire is needed to a goal]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^7-3\|◀]]**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^8-1\|•]]**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^8-2\|▶]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
-[[The Way of Non-Clinging Part 2#The jhanas as deep states of unfabricating\|The jhanas as deep states of unfabricating]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^12-2\|◀]]**[[0116 The Way of Non-Clinging Part 2#^12-3\|•]]**[[0116 The Way of Non-Clinging Part 2#^12-4\|▶]] | 4 | [[The Way of Non-Clinging Part 2]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Liberation of sustained desire is needed to a goal\|(Liberation of) sustained desire is needed to a goal]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[The Way of Non-Clinging Part 2#The jhanas as deep states of unfabricating\|The jhanas as deep states of unfabricating]] | 4 | [[The Way of Non-Clinging Part 2]]
 

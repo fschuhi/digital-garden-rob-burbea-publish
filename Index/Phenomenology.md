@@ -10,5 +10,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#You can reach out horizontally socially but also more plurally\|You can reach out horizontally (socially) but also more plurally]] &nbsp;&nbsp;[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-2\|◀]]**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-3\|•]]**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^3-4\|▶]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#You can reach out horizontally socially but also more plurally\|You can reach out horizontally (socially) but also more plurally]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 

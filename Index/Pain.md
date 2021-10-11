@@ -17,5 +17,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Equanimity (talk)#Pain and pleasure are dependent on my reaction to it - I am making things with my reaction\|Pain and pleasure are dependent on my reaction to it - I am making things with my reaction]] &nbsp;&nbsp;[[1228 Equanimity (talk)#^10-4\|◀]]**[[1228 Equanimity (talk)#^11-1\|•]]**[[1228 Equanimity (talk)#^11-2\|▶]] | 13 | [[Equanimity (talk)]]
+[[Equanimity (talk)#Pain and pleasure are dependent on my reaction to it - I am making things with my reaction\|Pain and pleasure are dependent on my reaction to it - I am making things with my reaction]] | 13 | [[Equanimity (talk)]]
 

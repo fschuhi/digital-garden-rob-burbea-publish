@@ -17,6 +17,6 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 1#Relationship to Dependend Origination 2 of the 12 links\|Relationship to Dependend Origination (2 of the 12 links)]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^3-2\|◀]]**[[0115 The Way of Non-Clinging Part 1#^3-3\|•]]**[[0115 The Way of Non-Clinging Part 1#^3-4\|▶]] | 6 | [[The Way of Non-Clinging Part 1]]
-[[The Way of Non-Clinging Part 2#The links of dependent origination are not real either\|The links of dependent origination are not real either]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^12-3\|◀]]**[[0116 The Way of Non-Clinging Part 2#^12-4\|•]]**[[0116 The Way of Non-Clinging Part 2#^13-1\|▶]] | 5 | [[The Way of Non-Clinging Part 2]]
+[[The Way of Non-Clinging Part 1#Relationship to Dependend Origination 2 of the 12 links\|Relationship to Dependend Origination (2 of the 12 links)]] | 6 | [[The Way of Non-Clinging Part 1]]
+[[The Way of Non-Clinging Part 2#The links of dependent origination are not real either\|The links of dependent origination are not real either]] | 5 | [[The Way of Non-Clinging Part 2]]
 

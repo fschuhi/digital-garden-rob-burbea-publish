@@ -31,8 +31,8 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 2#Even the pleasant vedana become neutral and even those neutral sensations disappear\|Even the pleasant vedana become neutral, and even those neutral sensations disappear]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^4-2\|◀]]**[[0116 The Way of Non-Clinging Part 2#^4-3\|•]]**[[0116 The Way of Non-Clinging Part 2#^4-4\|▶]] | 6 | [[The Way of Non-Clinging Part 2]]
-[[From Insight to Love#The "three characteristics"\|The "three characteristics"]] &nbsp;&nbsp;[[0127 From Insight to Love#^5-5\|◀]]**[[0127 From Insight to Love#^5-6\|•]]**[[0127 From Insight to Love#^6-1\|▶]] | 5 | [[From Insight to Love]]
-[[The Way of Non-Clinging Part 2#"Self is an illusion" leads to anatta practice\|"Self is an illusion" leads to anatta practice]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^3-3\|◀]]**[[0116 The Way of Non-Clinging Part 2#^3-4\|•]]**[[0116 The Way of Non-Clinging Part 2#^4-1\|▶]] | 4 | [[The Way of Non-Clinging Part 2]]
-[[From Insight to Love#Yes it might be but we are interested in freedom rather than a certain badge\|Yes, it might be, but we are interested in freedom, rather than a certain badge]] &nbsp;&nbsp;[[0127 From Insight to Love#^13-4\|◀]]**[[0127 From Insight to Love#^13-5\|•]]**[[0127 From Insight to Love#^13-6\|▶]] | 4 | [[From Insight to Love]]
+[[The Way of Non-Clinging Part 2#Even the pleasant vedana become neutral and even those neutral sensations disappear\|Even the pleasant vedana become neutral, and even those neutral sensations disappear]] | 6 | [[The Way of Non-Clinging Part 2]]
+[[From Insight to Love#The "three characteristics"\|The "three characteristics"]] | 5 | [[From Insight to Love]]
+[[The Way of Non-Clinging Part 2#"Self is an illusion" leads to anatta practice\|"Self is an illusion" leads to anatta practice]] | 4 | [[The Way of Non-Clinging Part 2]]
+[[From Insight to Love#Yes it might be but we are interested in freedom rather than a certain badge\|Yes, it might be, but we are interested in freedom, rather than a certain badge]] | 4 | [[From Insight to Love]]
 

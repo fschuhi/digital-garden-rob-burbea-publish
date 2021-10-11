@@ -8,5 +8,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Different types of beasts\|Different types of beasts]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-2\|◀]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-3\|•]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-4\|▶]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Different types of beasts\|Different types of beasts]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 

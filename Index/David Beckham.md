@@ -8,5 +8,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Equanimity in Compassion#Eight worldly conditions\|Eight worldly conditions]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^9-1\|◀]]**[[0208 Equanimity in Compassion#^9-2\|•]]**[[0208 Equanimity in Compassion#^9-3\|▶]] | 1 | [[Equanimity in Compassion]]
+[[Equanimity in Compassion#Eight worldly conditions\|Eight worldly conditions]] | 1 | [[Equanimity in Compassion]]
 

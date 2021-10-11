@@ -8,5 +8,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#I'm always in a rush! 😀\|I'm always in a rush! 😀]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^2-2\|◀]]**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^2-3\|•]]**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^3-1\|▶]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#I'm always in a rush! 😀\|I'm always in a rush! 😀]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 

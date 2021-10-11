@@ -15,6 +15,6 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Earlier talks 🟢\|Earlier talks 🟢]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^1-4\|◀]]**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^1-5\|•]]**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^2-1\|▶]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Instructions then were difficult to absorb 🟢\|Instructions then were difficult to absorb 🟢]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^1-5\|◀]]**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^2-1\|•]]**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^2-2\|▶]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Earlier talks 🟢\|Earlier talks 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Instructions then were difficult to absorb 🟢\|Instructions then were difficult to absorb 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 

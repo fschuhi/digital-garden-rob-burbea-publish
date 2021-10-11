@@ -17,7 +17,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[From Insight to Love#Fear involves unpleasant body sensations and a constriction of the mind\|Fear involves unpleasant body sensations and a constriction of the mind]] &nbsp;&nbsp;[[0127 From Insight to Love#^2-5\|◀]]**[[0127 From Insight to Love#^3-1\|•]]**[[0127 From Insight to Love#^3-2\|▶]] | 5 | [[From Insight to Love]]
-[[The Way of Non-Clinging Part 1#"Is she going to call"\|"Is she going to call?"]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^5-3\|◀]]**[[0115 The Way of Non-Clinging Part 1#^5-4\|•]]**[[0115 The Way of Non-Clinging Part 1#^5-5\|▶]] | 4 | [[The Way of Non-Clinging Part 1]]
-[[Equanimity in Compassion#The true nature of all things is immeasurable\|The true nature of all things is immeasurable]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^12-4\|◀]]**[[0208 Equanimity in Compassion#^12-5\|•]]**[[0208 Equanimity in Compassion#^13-1\|▶]] | 4 | [[Equanimity in Compassion]]
+[[From Insight to Love#Fear involves unpleasant body sensations and a constriction of the mind\|Fear involves unpleasant body sensations and a constriction of the mind]] | 5 | [[From Insight to Love]]
+[[The Way of Non-Clinging Part 1#"Is she going to call"\|"Is she going to call?"]] | 4 | [[The Way of Non-Clinging Part 1]]
+[[Equanimity in Compassion#The true nature of all things is immeasurable\|The true nature of all things is immeasurable]] | 4 | [[Equanimity in Compassion]]
 

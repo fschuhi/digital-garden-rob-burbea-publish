@@ -16,6 +16,6 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 2#Cling to an insight to be able to let go at a deeper level\|Cling to an insight to be able to let go at a deeper level]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^13-3\|◀]]**[[0116 The Way of Non-Clinging Part 2#^14-1\|•]]**[[0116 The Way of Non-Clinging Part 2#^14-2\|▶]] | 7 | [[The Way of Non-Clinging Part 2]]
-[[Equanimity in Compassion#Paradoxically we become even more devoted with seeing the emptiness of everything\|Paradoxically, we become even more devoted with seeing the emptiness of everything]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^8-4\|◀]]**[[0208 Equanimity in Compassion#^8-5\|•]]**[[0208 Equanimity in Compassion#^8-6\|▶]] | 4 | [[Equanimity in Compassion]]
+[[The Way of Non-Clinging Part 2#Cling to an insight to be able to let go at a deeper level\|Cling to an insight to be able to let go at a deeper level]] | 7 | [[The Way of Non-Clinging Part 2]]
+[[Equanimity in Compassion#Paradoxically we become even more devoted with seeing the emptiness of everything\|Paradoxically, we become even more devoted with seeing the emptiness of everything]] | 4 | [[Equanimity in Compassion]]
 

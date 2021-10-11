@@ -8,5 +8,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Joy (talk)#Yes don't cling\|Yes, don't cling]] &nbsp;&nbsp;[[1231 Joy (talk)#^5-4\|◀]]**[[1231 Joy (talk)#^5-5\|•]]**[[1231 Joy (talk)#^5-6\|▶]] | 1 | [[Joy (talk)]]
+[[Joy (talk)#Yes don't cling\|Yes, don't cling]] | 1 | [[Joy (talk)]]
 

@@ -13,7 +13,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 1#Can there be more\|Can there be more?]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^13-3\|◀]]**[[0115 The Way of Non-Clinging Part 1#^13-4\|•]]**[[0115 The Way of Non-Clinging Part 1#^14-1\|▶]] | 5 | [[The Way of Non-Clinging Part 1]]
-[[The Way of Non-Clinging Part 2#It's the resulting letting go of clinging that unfabricates not contemplating rapid impermance\|It's the resulting letting go of clinging that unfabricates, not contemplating rapid impermance]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^7-3\|◀]]**[[0116 The Way of Non-Clinging Part 2#^7-4\|•]]**[[0116 The Way of Non-Clinging Part 2#^8-1\|▶]] | 4 | [[The Way of Non-Clinging Part 2]]
-[[The Way of Non-Clinging Part 2#The jhanas as deep states of unfabricating\|The jhanas as deep states of unfabricating]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^12-2\|◀]]**[[0116 The Way of Non-Clinging Part 2#^12-3\|•]]**[[0116 The Way of Non-Clinging Part 2#^12-4\|▶]] | 4 | [[The Way of Non-Clinging Part 2]]
+[[The Way of Non-Clinging Part 1#Can there be more\|Can there be more?]] | 5 | [[The Way of Non-Clinging Part 1]]
+[[The Way of Non-Clinging Part 2#It's the resulting letting go of clinging that unfabricates not contemplating rapid impermance\|It's the resulting letting go of clinging that unfabricates, not contemplating rapid impermance]] | 4 | [[The Way of Non-Clinging Part 2]]
+[[The Way of Non-Clinging Part 2#The jhanas as deep states of unfabricating\|The jhanas as deep states of unfabricating]] | 4 | [[The Way of Non-Clinging Part 2]]
 

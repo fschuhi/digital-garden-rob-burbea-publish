@@ -8,5 +8,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 3#There are some who cannot wait\|There are some who cannot wait]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^10-5\|◀]]**[[0117 The Way of Non-Clinging Part 3#^11-1\|•]]**[[0117 The Way of Non-Clinging Part 3#^11-2\|▶]] | 1 | [[The Way of Non-Clinging Part 3]]
+[[The Way of Non-Clinging Part 3#There are some who cannot wait\|There are some who cannot wait]] | 1 | [[The Way of Non-Clinging Part 3]]
 

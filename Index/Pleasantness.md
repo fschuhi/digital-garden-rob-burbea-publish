@@ -17,5 +17,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[From Insight to Love#What is it that leads to well-being\|What is it that leads to well-being?]] &nbsp;&nbsp;[[0127 From Insight to Love#^4-6\|◀]]**[[0127 From Insight to Love#^4-7\|•]]**[[0127 From Insight to Love#^5-1\|▶]] | 4 | [[From Insight to Love]]
+[[From Insight to Love#What is it that leads to well-being\|What is it that leads to well-being?]] | 4 | [[From Insight to Love]]
 

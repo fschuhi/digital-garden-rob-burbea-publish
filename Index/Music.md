@@ -19,7 +19,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Inexhausibilities of those needs\|Inexhausibilities of those needs]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^10-1\|◀]]**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^10-2\|•]]**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^10-3\|▶]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#"Elitist" means to have the desire to play at the highest deepest freest levels\|"Elitist" means to have the desire to play at the highest, deepest, freest levels]] &nbsp;&nbsp;[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^12-3\|◀]]**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^12-4\|•]]**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^13-1\|▶]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
-[[From Insight to Love#The more metta the less soil fear has to establish itself as a habit\|The more metta, the less soil fear has to establish itself as a habit]] &nbsp;&nbsp;[[0127 From Insight to Love#^16-1\|◀]]**[[0127 From Insight to Love#^16-2\|•]]**[[0127 From Insight to Love#^16-3\|▶]] | 4 | [[From Insight to Love]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Inexhausibilities of those needs\|Inexhausibilities of those needs]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#"Elitist" means to have the desire to play at the highest deepest freest levels\|"Elitist" means to have the desire to play at the highest, deepest, freest levels]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[From Insight to Love#The more metta the less soil fear has to establish itself as a habit\|The more metta, the less soil fear has to establish itself as a habit]] | 4 | [[From Insight to Love]]
 

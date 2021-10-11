@@ -8,5 +8,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 51 _Via Dolorosa_\|🟡 Excercise 5.1: _Via Dolorosa_]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^11-5\|◀]]**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^12-1\|•]]**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^12-2\|▶]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 51 _Via Dolorosa_\|🟡 Excercise 5.1: _Via Dolorosa_]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 

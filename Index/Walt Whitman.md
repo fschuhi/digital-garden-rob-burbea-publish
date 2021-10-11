@@ -8,5 +8,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Practice of Compassion#Oneness is a poetic mystical insight\|Oneness is a poetic mystical insight]] &nbsp;&nbsp;[[0201 The Practice of Compassion#^12-6\|◀]]**[[0201 The Practice of Compassion#^12-7\|•]]**[[0201 The Practice of Compassion#^12-8\|▶]] | 1 | [[The Practice of Compassion]]
+[[The Practice of Compassion#Oneness is a poetic mystical insight\|Oneness is a poetic mystical insight]] | 1 | [[The Practice of Compassion]]
 

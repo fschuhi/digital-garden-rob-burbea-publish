@@ -11,13 +11,13 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 2#Even the pleasant vedana become neutral and even those neutral sensations disappear\|Even the pleasant vedana become neutral, and even those neutral sensations disappear]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^4-2\|◀]]**[[0116 The Way of Non-Clinging Part 2#^4-3\|•]]**[[0116 The Way of Non-Clinging Part 2#^4-4\|▶]] | 6 | [[The Way of Non-Clinging Part 2]]
-[[The Way of Non-Clinging Part 3#Some do not have a deep calling to explore desire more fully\|Some do not have a deep calling to explore desire more fully]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^10-3\|◀]]**[[0117 The Way of Non-Clinging Part 3#^10-4\|•]]**[[0117 The Way of Non-Clinging Part 3#^10-5\|▶]] | 3 | [[The Way of Non-Clinging Part 3]]
-[[The Way of Non-Clinging Part 1#Clinging doesn't happen if we stay with the craving vedana\|Clinging doesn't happen if we stay with the craving (vedana)]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^11-3\|◀]]**[[0115 The Way of Non-Clinging Part 1#^11-4\|•]]**[[0115 The Way of Non-Clinging Part 1#^11-5\|▶]] | 3 | [[The Way of Non-Clinging Part 1]]
-[[The Way of Non-Clinging Part 1#Technique focus on vedana\|Technique: focus on vedana]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^11-1\|◀]]**[[0115 The Way of Non-Clinging Part 1#^11-2\|•]]**[[0115 The Way of Non-Clinging Part 1#^11-3\|▶]] | 2 | [[The Way of Non-Clinging Part 1]]
-[[The Way of Non-Clinging Part 2#"Just let go of everything" might still assume the reality of what to let go of\|"Just let go of everything" might still assume the reality of what to let go of]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^9-2\|◀]]**[[0116 The Way of Non-Clinging Part 2#^9-3\|•]]**[[0116 The Way of Non-Clinging Part 2#^9-4\|▶]] | 1 | [[The Way of Non-Clinging Part 2]]
-[[The Way of Non-Clinging Part 1#4 Role of vedana\|4. Role of vedana]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^10-5\|◀]]**[[0115 The Way of Non-Clinging Part 1#^11-1\|•]]**[[0115 The Way of Non-Clinging Part 1#^11-2\|▶]] | 1 | [[The Way of Non-Clinging Part 1]]
-[[The Way of Non-Clinging Part 1#Impulsive energetic movement\|Impulsive, energetic movement]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^11-2\|◀]]**[[0115 The Way of Non-Clinging Part 1#^11-3\|•]]**[[0115 The Way of Non-Clinging Part 1#^11-4\|▶]] | 1 | [[The Way of Non-Clinging Part 1]]
-[[The Way of Non-Clinging Part 1#I'm not selling this very well\|I'm not selling this very well]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^12-3\|◀]]**[[0115 The Way of Non-Clinging Part 1#^12-4\|•]]**[[0115 The Way of Non-Clinging Part 1#^13-1\|▶]] | 1 | [[The Way of Non-Clinging Part 1]]
-[[Joy (talk)#Sadness and joy are dependent on the way we look\|Sadness and joy are dependent on the way we look]] &nbsp;&nbsp;[[1231 Joy (talk)#^4-5\|◀]]**[[1231 Joy (talk)#^5-1\|•]]**[[1231 Joy (talk)#^5-2\|▶]] | 1 | [[Joy (talk)]]
+[[The Way of Non-Clinging Part 2#Even the pleasant vedana become neutral and even those neutral sensations disappear\|Even the pleasant vedana become neutral, and even those neutral sensations disappear]] | 6 | [[The Way of Non-Clinging Part 2]]
+[[The Way of Non-Clinging Part 3#Some do not have a deep calling to explore desire more fully\|Some do not have a deep calling to explore desire more fully]] | 3 | [[The Way of Non-Clinging Part 3]]
+[[The Way of Non-Clinging Part 1#Clinging doesn't happen if we stay with the craving vedana\|Clinging doesn't happen if we stay with the craving (vedana)]] | 3 | [[The Way of Non-Clinging Part 1]]
+[[The Way of Non-Clinging Part 1#Technique focus on vedana\|Technique: focus on vedana]] | 2 | [[The Way of Non-Clinging Part 1]]
+[[The Way of Non-Clinging Part 2#"Just let go of everything" might still assume the reality of what to let go of\|"Just let go of everything" might still assume the reality of what to let go of]] | 1 | [[The Way of Non-Clinging Part 2]]
+[[The Way of Non-Clinging Part 1#4 Role of vedana\|4. Role of vedana]] | 1 | [[The Way of Non-Clinging Part 1]]
+[[The Way of Non-Clinging Part 1#Impulsive energetic movement\|Impulsive, energetic movement]] | 1 | [[The Way of Non-Clinging Part 1]]
+[[The Way of Non-Clinging Part 1#I'm not selling this very well\|I'm not selling this very well]] | 1 | [[The Way of Non-Clinging Part 1]]
+[[Joy (talk)#Sadness and joy are dependent on the way we look\|Sadness and joy are dependent on the way we look]] | 1 | [[Joy (talk)]]
 

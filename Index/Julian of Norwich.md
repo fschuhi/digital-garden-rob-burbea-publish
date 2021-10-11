@@ -8,5 +8,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Practice of Compassion#"Love is without beginning"\|"Love is without beginning"]] &nbsp;&nbsp;[[0201 The Practice of Compassion#^9-1\|◀]]**[[0201 The Practice of Compassion#^9-2\|•]]**[[0201 The Practice of Compassion#^9-3\|▶]] | 1 | [[The Practice of Compassion]]
+[[The Practice of Compassion#"Love is without beginning"\|"Love is without beginning"]] | 1 | [[The Practice of Compassion]]
 

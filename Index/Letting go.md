@@ -17,12 +17,12 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 2#Cling to something more wholesome Twelve Steps\|Cling to something more wholesome (Twelve Steps)]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^13-2\|◀]]**[[0116 The Way of Non-Clinging Part 2#^13-3\|•]]**[[0116 The Way of Non-Clinging Part 2#^14-1\|▶]] | 5 | [[The Way of Non-Clinging Part 2]]
-[[The Way of Non-Clinging Part 1#Techniques of "just let go of everything" 1 notice craving and let go of it\|==Techniques of "just let go of everything"==, 1. notice craving and let go of it]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^9-2\|◀]]**[[0115 The Way of Non-Clinging Part 1#^9-3\|•]]**[[0115 The Way of Non-Clinging Part 1#^9-4\|▶]] | 5 | [[The Way of Non-Clinging Part 1]]
-[[Equanimity in Compassion#Rob spaciousness and progressivly letting go\|Rob: spaciousness and progressivly letting go]] &nbsp;&nbsp;[[0208 Equanimity in Compassion#^13-6\|◀]]**[[0208 Equanimity in Compassion#^13-7\|•]]**[[0208 Equanimity in Compassion#^13-8\|▶]] | 5 | [[Equanimity in Compassion]]
-[[The Way of Non-Clinging Part 3#It's not only about having a basket of different practices\|It's not only about having a basket of different practices]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^6-2\|◀]]**[[0117 The Way of Non-Clinging Part 3#^6-3\|•]]**[[0117 The Way of Non-Clinging Part 3#^6-4\|▶]] | 4 | [[The Way of Non-Clinging Part 3]]
-[[The Way of Non-Clinging Part 2#It's the resulting letting go of clinging that unfabricates not contemplating rapid impermance\|It's the resulting letting go of clinging that unfabricates, not contemplating rapid impermance]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^7-3\|◀]]**[[0116 The Way of Non-Clinging Part 2#^7-4\|•]]**[[0116 The Way of Non-Clinging Part 2#^8-1\|▶]] | 4 | [[The Way of Non-Clinging Part 2]]
-[[The Way of Non-Clinging Part 2#"Just let go of everything" might still assume the reality of what to let go of\|"Just let go of everything" might still assume the reality of what to let go of]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^9-2\|◀]]**[[0116 The Way of Non-Clinging Part 2#^9-3\|•]]**[[0116 The Way of Non-Clinging Part 2#^9-4\|▶]] | 4 | [[The Way of Non-Clinging Part 2]]
-[[Joy (talk)#"Skilful attachment"\|"Skilful attachment"]] &nbsp;&nbsp;[[1231 Joy (talk)#^6-3\|◀]]**[[1231 Joy (talk)#^6-4\|•]]**[[1231 Joy (talk)#^6-5\|▶]] | 4 | [[Joy (talk)]]
-[[What is Insight#Seeing things as not-self\|Seeing things as not-self]] &nbsp;&nbsp;[[1229 What is Insight#^9-3\|◀]]**[[1229 What is Insight#^9-4\|•]]**[[1229 What is Insight#^9-5\|▶]] | 4 | [[What is Insight]]
+[[The Way of Non-Clinging Part 2#Cling to something more wholesome Twelve Steps\|Cling to something more wholesome (Twelve Steps)]] | 5 | [[The Way of Non-Clinging Part 2]]
+[[The Way of Non-Clinging Part 1#Techniques of "just let go of everything" 1 notice craving and let go of it\|==Techniques of "just let go of everything"==, 1. notice craving and let go of it]] | 5 | [[The Way of Non-Clinging Part 1]]
+[[Equanimity in Compassion#Rob spaciousness and progressivly letting go\|Rob: spaciousness and progressivly letting go]] | 5 | [[Equanimity in Compassion]]
+[[The Way of Non-Clinging Part 3#It's not only about having a basket of different practices\|It's not only about having a basket of different practices]] | 4 | [[The Way of Non-Clinging Part 3]]
+[[The Way of Non-Clinging Part 2#It's the resulting letting go of clinging that unfabricates not contemplating rapid impermance\|It's the resulting letting go of clinging that unfabricates, not contemplating rapid impermance]] | 4 | [[The Way of Non-Clinging Part 2]]
+[[The Way of Non-Clinging Part 2#"Just let go of everything" might still assume the reality of what to let go of\|"Just let go of everything" might still assume the reality of what to let go of]] | 4 | [[The Way of Non-Clinging Part 2]]
+[[Joy (talk)#"Skilful attachment"\|"Skilful attachment"]] | 4 | [[Joy (talk)]]
+[[What is Insight#Seeing things as not-self\|Seeing things as not-self]] | 4 | [[What is Insight]]
 

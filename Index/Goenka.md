@@ -9,7 +9,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Goenka retreat as high-discipline prison\|Goenka retreat as high-discipline prison]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^16-1\|◀]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^16-2\|•]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^16-3\|▶]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#This can break the momentum of unhelpful patterns\|This can break the momentum of unhelpful patterns]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^16-2\|◀]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^16-3\|•]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^16-4\|▶]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
-[[The Way of Non-Clinging Part 2#Does Mahasi-style meditation on impermance disclose reality\|Does Mahasi-style meditation on impermance disclose reality?]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^7-1\|◀]]**[[0116 The Way of Non-Clinging Part 2#^7-2\|•]]**[[0116 The Way of Non-Clinging Part 2#^7-3\|▶]] | 1 | [[The Way of Non-Clinging Part 2]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Goenka retreat as high-discipline prison\|Goenka retreat as high-discipline prison]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#This can break the momentum of unhelpful patterns\|This can break the momentum of unhelpful patterns]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[The Way of Non-Clinging Part 2#Does Mahasi-style meditation on impermance disclose reality\|Does Mahasi-style meditation on impermance disclose reality?]] | 1 | [[The Way of Non-Clinging Part 2]]
 

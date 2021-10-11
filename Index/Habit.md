@@ -17,10 +17,10 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 1#Sankhara\|Sankhara]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^3-5\|◀]]**[[0115 The Way of Non-Clinging Part 1#^4-1\|•]]**[[0115 The Way of Non-Clinging Part 1#^4-2\|▶]] | 6 | [[The Way of Non-Clinging Part 1]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#What out for rigid reasserting habits\|What out for rigid, reasserting habits]] &nbsp;&nbsp;[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^20-2\|◀]]**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^20-3\|•]]**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^20-4\|▶]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
-[[From Insight to Love#Much of our life is just grooves\|Much of our life is just grooves]] &nbsp;&nbsp;[[0127 From Insight to Love#^16-2\|◀]]**[[0127 From Insight to Love#^16-3\|•]]**[[0127 From Insight to Love#^16-4\|▶]] | 5 | [[From Insight to Love]]
-[[Joy (talk)#Oftentimes the mind inclines to the other way fault-finding\|Oftentimes, the mind inclines to the other way: fault-finding]] &nbsp;&nbsp;[[1231 Joy (talk)#^8-2\|◀]]**[[1231 Joy (talk)#^8-3\|•]]**[[1231 Joy (talk)#^8-4\|▶]] | 4 | [[Joy (talk)]]
-[[What is Insight#Personal insight into one's own habits of body speech and mind\|Personal insight into one's own habits of body, speech and mind]] &nbsp;&nbsp;[[1229 What is Insight#^2-2\|◀]]**[[1229 What is Insight#^2-3\|•]]**[[1229 What is Insight#^2-4\|▶]] | 4 | [[What is Insight]]
-[[Expressions of Metta#It can be a habit to not give love to ourselves\|It can be a habit to not give love to ourselves]] &nbsp;&nbsp;[[0125 Expressions of Metta#^1-4\|◀]]**[[0125 Expressions of Metta#^2-1\|•]]**[[0125 Expressions of Metta#^2-2\|▶]] | 4 | [[Expressions of Metta]]
+[[The Way of Non-Clinging Part 1#Sankhara\|Sankhara]] | 6 | [[The Way of Non-Clinging Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#What out for rigid reasserting habits\|What out for rigid, reasserting habits]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[From Insight to Love#Much of our life is just grooves\|Much of our life is just grooves]] | 5 | [[From Insight to Love]]
+[[Joy (talk)#Oftentimes the mind inclines to the other way fault-finding\|Oftentimes, the mind inclines to the other way: fault-finding]] | 4 | [[Joy (talk)]]
+[[What is Insight#Personal insight into one's own habits of body speech and mind\|Personal insight into one's own habits of body, speech and mind]] | 4 | [[What is Insight]]
+[[Expressions of Metta#It can be a habit to not give love to ourselves\|It can be a habit to not give love to ourselves]] | 4 | [[Expressions of Metta]]
 

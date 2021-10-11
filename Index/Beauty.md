@@ -17,6 +17,6 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 3#Wrapped up in the movement of eros is beauty\|Wrapped up in the movement of eros is beauty]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^9-2\|◀]]**[[0117 The Way of Non-Clinging Part 3#^9-3\|•]]**[[0117 The Way of Non-Clinging Part 3#^9-4\|▶]] | 4 | [[The Way of Non-Clinging Part 3]]
-[[Equanimity (talk)#There is nothing really to be equanimous about\|There is nothing really to be equanimous about]] &nbsp;&nbsp;[[1228 Equanimity (talk)#^12-1\|◀]]**[[1228 Equanimity (talk)#^12-2\|•]]**[[1228 Equanimity (talk)#^12-3\|▶]] | 4 | [[Equanimity (talk)]]
+[[The Way of Non-Clinging Part 3#Wrapped up in the movement of eros is beauty\|Wrapped up in the movement of eros is beauty]] | 4 | [[The Way of Non-Clinging Part 3]]
+[[Equanimity (talk)#There is nothing really to be equanimous about\|There is nothing really to be equanimous about]] | 4 | [[Equanimity (talk)]]
 

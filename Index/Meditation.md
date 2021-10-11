@@ -17,5 +17,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Dilemmas and Delineations - How did we get here Part 1#Feet heart head hips\|Feet, heart, head, hips]] &nbsp;&nbsp;[[0118 Dilemmas and Delineations - How did we get here Part 1#^8-3\|◀]]**[[0118 Dilemmas and Delineations - How did we get here Part 1#^9-1\|•]]**[[0118 Dilemmas and Delineations - How did we get here Part 1#^9-2\|▶]] | 6 | [[Dilemmas and Delineations - How did we get here Part 1]]
+[[Dilemmas and Delineations - How did we get here Part 1#Feet heart head hips\|Feet, heart, head, hips]] | 6 | [[Dilemmas and Delineations - How did we get here Part 1]]
 

@@ -12,5 +12,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#we want the whole range of images to be available 🟢\|we want the whole range of images to be available 🟢]] &nbsp;&nbsp;[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^17-4\|◀]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^17-5\|•]]**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^18-1\|▶]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#we want the whole range of images to be available 🟢\|we want the whole range of images to be available 🟢]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 

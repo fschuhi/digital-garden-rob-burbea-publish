@@ -17,5 +17,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#But the notion of the aggregates and the notion of soul are divergent directions when making sense of a person\|But: the notion of the aggregates and the notion of soul are divergent directions when making sense of a person]] &nbsp;&nbsp;[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^9-1\|◀]]**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^9-2\|•]]**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^9-3\|▶]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#But the notion of the aggregates and the notion of soul are divergent directions when making sense of a person\|But: the notion of the aggregates and the notion of soul are divergent directions when making sense of a person]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 

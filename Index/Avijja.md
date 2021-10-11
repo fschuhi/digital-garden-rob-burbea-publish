@@ -12,5 +12,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 3#"All of it is delusion" really\|"All of it is delusion", really?]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^2-1\|◀]]**[[0117 The Way of Non-Clinging Part 3#^2-2\|•]]**[[0117 The Way of Non-Clinging Part 3#^2-3\|▶]] | 5 | [[The Way of Non-Clinging Part 3]]
+[[The Way of Non-Clinging Part 3#"All of it is delusion" really\|"All of it is delusion", really?]] | 5 | [[The Way of Non-Clinging Part 3]]
 

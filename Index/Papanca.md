@@ -14,7 +14,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 1#Papanca <> fabrication\|Papanca <=> fabrication]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^10-3\|◀]]**[[0115 The Way of Non-Clinging Part 1#^10-4\|•]]**[[0115 The Way of Non-Clinging Part 1#^10-5\|▶]] | 5 | [[The Way of Non-Clinging Part 1]]
-[[The Way of Non-Clinging Part 3#There are some who cannot wait\|There are some who cannot wait]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^10-5\|◀]]**[[0117 The Way of Non-Clinging Part 3#^11-1\|•]]**[[0117 The Way of Non-Clinging Part 3#^11-2\|▶]] | 4 | [[The Way of Non-Clinging Part 3]]
-[[The Way of Non-Clinging Part 2#Everybody knows what papanca is\|Everybody knows what papanca is]] &nbsp;&nbsp;[[0116 The Way of Non-Clinging Part 2#^6-2\|◀]]**[[0116 The Way of Non-Clinging Part 2#^6-3\|•]]**[[0116 The Way of Non-Clinging Part 2#^6-4\|▶]] | 4 | [[The Way of Non-Clinging Part 2]]
+[[The Way of Non-Clinging Part 1#Papanca <> fabrication\|Papanca <=> fabrication]] | 5 | [[The Way of Non-Clinging Part 1]]
+[[The Way of Non-Clinging Part 3#There are some who cannot wait\|There are some who cannot wait]] | 4 | [[The Way of Non-Clinging Part 3]]
+[[The Way of Non-Clinging Part 2#Everybody knows what papanca is\|Everybody knows what papanca is]] | 4 | [[The Way of Non-Clinging Part 2]]
 

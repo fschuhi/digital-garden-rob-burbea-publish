@@ -8,5 +8,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Love and Emptiness#With insight meditation there is the assumption that mindfulness is neutral\|With insight meditation there is the assumption that mindfulness is neutral]] &nbsp;&nbsp;[[0204 Love and Emptiness#^5-1\|◀]]**[[0204 Love and Emptiness#^5-2\|•]]**[[0204 Love and Emptiness#^5-3\|▶]] | 1 | [[Love and Emptiness]]
+[[Love and Emptiness#With insight meditation there is the assumption that mindfulness is neutral\|With insight meditation there is the assumption that mindfulness is neutral]] | 1 | [[Love and Emptiness]]
 

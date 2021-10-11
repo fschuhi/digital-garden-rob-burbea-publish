@@ -11,5 +11,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Dilemmas and Delineations - How did we get here Part 1#The soul wants disentangling but also something else\|The soul wants disentangling, but also something else]] &nbsp;&nbsp;[[0118 Dilemmas and Delineations - How did we get here Part 1#^14-1\|◀]]**[[0118 Dilemmas and Delineations - How did we get here Part 1#^14-2\|•]]**[[0118 Dilemmas and Delineations - How did we get here Part 1#^14-3\|▶]] | 4 | [[Dilemmas and Delineations - How did we get here Part 1]]
+[[Dilemmas and Delineations - How did we get here Part 1#The soul wants disentangling but also something else\|The soul wants disentangling, but also something else]] | 4 | [[Dilemmas and Delineations - How did we get here Part 1]]
 

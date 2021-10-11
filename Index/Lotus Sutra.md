@@ -8,5 +8,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Love and Emptiness#"Seeing all things with compassion"\|"Seeing all things with compassion"]] &nbsp;&nbsp;[[0204 Love and Emptiness#^3-1\|◀]]**[[0204 Love and Emptiness#^3-2\|•]]**[[0204 Love and Emptiness#^3-3\|▶]] | 1 | [[Love and Emptiness]]
+[[Love and Emptiness#"Seeing all things with compassion"\|"Seeing all things with compassion"]] | 1 | [[Love and Emptiness]]
 

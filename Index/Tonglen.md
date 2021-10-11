@@ -8,5 +8,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Practice of Compassion#Different practices for compassion\|Different practices for compassion]] &nbsp;&nbsp;[[0201 The Practice of Compassion#^3-2\|◀]]**[[0201 The Practice of Compassion#^3-3\|•]]**[[0201 The Practice of Compassion#^3-4\|▶]] | 1 | [[The Practice of Compassion]]
+[[The Practice of Compassion#Different practices for compassion\|Different practices for compassion]] | 1 | [[The Practice of Compassion]]
 

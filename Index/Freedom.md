@@ -17,7 +17,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 1#Can there be more\|Can there be more?]] &nbsp;&nbsp;[[0115 The Way of Non-Clinging Part 1#^13-3\|◀]]**[[0115 The Way of Non-Clinging Part 1#^13-4\|•]]**[[0115 The Way of Non-Clinging Part 1#^14-1\|▶]] | 4 | [[The Way of Non-Clinging Part 1]]
-[[Love and Emptiness#The indicator for emptiness is love and freedom\|The indicator for emptiness is love and freedom]] &nbsp;&nbsp;[[0204 Love and Emptiness#^10-3\|◀]]**[[0204 Love and Emptiness#^10-4\|•]]**[[0204 Love and Emptiness#^10-5\|▶]] | 4 | [[Love and Emptiness]]
-[[From Insight to Love#Yes it might be but we are interested in freedom rather than a certain badge\|Yes, it might be, but we are interested in freedom, rather than a certain badge]] &nbsp;&nbsp;[[0127 From Insight to Love#^13-4\|◀]]**[[0127 From Insight to Love#^13-5\|•]]**[[0127 From Insight to Love#^13-6\|▶]] | 4 | [[From Insight to Love]]
+[[The Way of Non-Clinging Part 1#Can there be more\|Can there be more?]] | 4 | [[The Way of Non-Clinging Part 1]]
+[[Love and Emptiness#The indicator for emptiness is love and freedom\|The indicator for emptiness is love and freedom]] | 4 | [[Love and Emptiness]]
+[[From Insight to Love#Yes it might be but we are interested in freedom rather than a certain badge\|Yes, it might be, but we are interested in freedom, rather than a certain badge]] | 4 | [[From Insight to Love]]
 

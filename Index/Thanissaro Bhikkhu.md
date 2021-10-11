@@ -9,6 +9,6 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Love and Emptiness#Rob Maybe only Buddhas can see emptiness and not bump into things\|Rob: Maybe only Buddhas can see emptiness and not bump into things]] &nbsp;&nbsp;[[0204 Love and Emptiness#^15-8\|◀]]**[[0204 Love and Emptiness#^15-9\|•]]**[[0204 Love and Emptiness#^16-1\|▶]] | 1 | [[Love and Emptiness]]
-[[Equanimity (talk)#This moment is in the context of vast time and the vast unknown of death\|This moment is in the context of vast time and the vast unknown of death]] &nbsp;&nbsp;[[1228 Equanimity (talk)#^5-1\|◀]]**[[1228 Equanimity (talk)#^5-2\|•]]**[[1228 Equanimity (talk)#^5-3\|▶]] | 1 | [[Equanimity (talk)]]
+[[Love and Emptiness#Rob Maybe only Buddhas can see emptiness and not bump into things\|Rob: Maybe only Buddhas can see emptiness and not bump into things]] | 1 | [[Love and Emptiness]]
+[[Equanimity (talk)#This moment is in the context of vast time and the vast unknown of death\|This moment is in the context of vast time and the vast unknown of death]] | 1 | [[Equanimity (talk)]]
 

@@ -13,5 +13,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 3#3 distinctions divisions directions for "clinging"\|3 distinctions, divisions, directions (for "clinging")]] &nbsp;&nbsp;[[0117 The Way of Non-Clinging Part 3#^4-2\|◀]]**[[0117 The Way of Non-Clinging Part 3#^4-3\|•]]**[[0117 The Way of Non-Clinging Part 3#^4-4\|▶]] | 6 | [[The Way of Non-Clinging Part 3]]
+[[The Way of Non-Clinging Part 3#3 distinctions divisions directions for "clinging"\|3 distinctions, divisions, directions (for "clinging")]] | 6 | [[The Way of Non-Clinging Part 3]]
 

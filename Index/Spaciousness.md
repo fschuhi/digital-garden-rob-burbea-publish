@@ -15,5 +15,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Equanimity (talk)#Spaciousness and equanimity go together\|Spaciousness and equanimity go together]] &nbsp;&nbsp;[[1228 Equanimity (talk)#^2-2\|◀]]**[[1228 Equanimity (talk)#^2-3\|•]]**[[1228 Equanimity (talk)#^2-4\|▶]] | 5 | [[Equanimity (talk)]]
+[[Equanimity (talk)#Spaciousness and equanimity go together\|Spaciousness and equanimity go together]] | 5 | [[Equanimity (talk)]]
 

@@ -8,6 +8,6 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Love and Emptiness#Quote from the Akṣayamati Sūtra\|Quote from the Akṣayamati Sūtra]] &nbsp;&nbsp;[[0204 Love and Emptiness#^3-2\|◀]]**[[0204 Love and Emptiness#^3-3\|•]]**[[0204 Love and Emptiness#^3-4\|▶]] | 2 | [[Love and Emptiness]]
-[[Love and Emptiness#"Compassion without any object of reference" in the traditions\|"Compassion without any object of reference" in the traditions]] &nbsp;&nbsp;[[0204 Love and Emptiness#^9-1\|◀]]**[[0204 Love and Emptiness#^9-2\|•]]**[[0204 Love and Emptiness#^9-3\|▶]] | 1 | [[Love and Emptiness]]
+[[Love and Emptiness#Quote from the Akṣayamati Sūtra\|Quote from the Akṣayamati Sūtra]] | 2 | [[Love and Emptiness]]
+[[Love and Emptiness#"Compassion without any object of reference" in the traditions\|"Compassion without any object of reference" in the traditions]] | 1 | [[Love and Emptiness]]
 
