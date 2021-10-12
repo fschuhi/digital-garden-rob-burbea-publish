@@ -21,7 +21,7 @@ description | count | talk
 [[The Practice of Compassion#Giving compassion to mind moments\|Giving compassion to mind moments]] | 7 | [[The Practice of Compassion]]
 [[Samadhi in Metta Practice#There can be some fear in there\|There can be some fear in there]] | 6 | [[Samadhi in Metta Practice]]
 [[The Place of Samadhi in Metta Practice#"Steadiness" "collectedness" "unification" of the body and the mind\|"Steadiness", "collectedness", "unification" of the body and the mind]] | 5 | [[The Place of Samadhi in Metta Practice]]
-[[The Place of Samadhi in Metta Practice#Samadhi gets into the being on some very sellular level\|Samadhi gets into the being on some very sellular level]] | 5 | [[The Place of Samadhi in Metta Practice]]
+[[The Place of Samadhi in Metta Practice#Samadhi gets into the being on some very cellular level\|Samadhi gets into the being on some very cellular level]] | 5 | [[The Place of Samadhi in Metta Practice]]
 [[The Place of Samadhi in Metta Practice#Story metta all the day\|Story: metta all the day]] | 5 | [[The Place of Samadhi in Metta Practice]]
 [[Love and Emptiness#The mind is conditions - there's nothing wrong with reconditioning it\|The mind is conditions - there's nothing wrong with reconditioning it]] | 5 | [[Love and Emptiness]]
 [[Samadhi in Metta Practice#Better "collectedness" even better "unification"\|Better: "collectedness", even better: "unification"]] | 5 | [[Samadhi in Metta Practice]]

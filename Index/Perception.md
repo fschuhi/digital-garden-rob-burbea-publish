@@ -19,6 +19,7 @@ description | count | talk
 :- | : - | :-
 [[From Insight to Love#All I see are moments of perception that are both part of the world and part of me\|All I see are moments of perception that are both part of the world and part of me]] | 11 | [[From Insight to Love]]
 [[The Way of Non-Clinging Part 1#Can there be more\|Can there be more?]] | 8 | [[The Way of Non-Clinging Part 1]]
+[[Exploring the World of Loving Kindness#Perceptions are changing\|Perceptions are changing]] | 6 | [[Exploring the World of Loving Kindness]]
 [[The Practice of Compassion#Non-separation as corrolary to the mind having perceptions\|Non-separation as corrolary to the mind having perceptions]] | 6 | [[The Practice of Compassion]]
 [[The Way of Non-Clinging Part 2#If I really let go of everything self world time do not appear\|If I really let go of everything, self, world, time do not appear]] | 5 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#Only Buddhas can contemplate emptiness and appearance at the same time\|Only Buddhas can contemplate emptiness and appearance at the same time]] | 5 | [[The Way of Non-Clinging Part 2]]

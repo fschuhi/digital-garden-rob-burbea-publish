@@ -47,6 +47,7 @@ description | count | talk
 [[The Way of Non-Clinging Part 1#A lot of English and Pali words for clinging desire greed etc \|A lot of English and Pali words for clinging, desire, greed, etc.]] | 4 | [[The Way of Non-Clinging Part 1]]
 [[The Way of Non-Clinging Part 1#Clinging is more obsessive craving\|Clinging is more obsessive craving]] | 4 | [[The Way of Non-Clinging Part 1]]
 [[The Way of Non-Clinging Part 1#Different kinds of reflection\|Different kinds of reflection]] | 4 | [[The Way of Non-Clinging Part 1]]
+[[Exploring the World of Loving Kindness#Outside that clinging and building of self everyone fades to grey\|Outside that clinging and building of self, everyone fades to grey]] | 4 | [[Exploring the World of Loving Kindness]]
 [[Love and Emptiness#When there's no clinging and grasping wee feel the suffering go out of experience\|When there's no clinging and grasping, wee feel the suffering go out of experience]] | 4 | [[Love and Emptiness]]
 [[Expressions of Metta#The more self-sense there is the more others are viewed as irrelevant\|The more self-sense there is, the more others are viewed as irrelevant]] | 4 | [[Expressions of Metta]]
 

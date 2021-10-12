@@ -12,6 +12,7 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Mantras also don't necessarily have particular meaning either\|Mantras also don't necessarily have particular meaning either]] | 3 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Exploring the World of Loving Kindness#It's not always that metta feels it's coming from the self\|It's not always that metta feels it's coming from the self]] | 2 | [[Exploring the World of Loving Kindness]]
 [[The Practice of Compassion#Different practices for compassion\|Different practices for compassion]] | 2 | [[The Practice of Compassion]]
 [[Expressions of Metta#Love being unveiled somehow it's there all the time\|Love being unveiled, somehow it's there all the time]] | 2 | [[Expressions of Metta]]
 [[The Practice of Compassion#"Love is without beginning"\|"Love is without beginning"]] | 1 | [[The Practice of Compassion]]

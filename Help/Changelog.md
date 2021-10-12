@@ -6,6 +6,7 @@
 	- [[Joy (talk)]]
 - added retreat [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 	- [[The Place of Samadhi in Metta Practice]]
+	- [[Exploring the World of Loving Kindness]]
 - retreat [[2017 Eros Unfettered]]
 	- [[The Way of Non-Clinging Part 1]]
 	- [[The Way of Non-Clinging Part 2]]

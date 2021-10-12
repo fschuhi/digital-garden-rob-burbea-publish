@@ -19,6 +19,7 @@ description | count | talk
 :- | : - | :-
 [[The Way of Non-Clinging Part 1#Sankhara\|Sankhara]] | 6 | [[The Way of Non-Clinging Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#What out for rigid reasserting habits\|What out for rigid, reasserting habits]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Exploring the World of Loving Kindness#Metta weakens the unhelpful habits of not relating to our self\|Metta weakens the unhelpful habits of (not) relating to our self]] | 5 | [[Exploring the World of Loving Kindness]]
 [[From Insight to Love#Much of our life is just grooves\|Much of our life is just grooves]] | 5 | [[From Insight to Love]]
 [[Joy (talk)#Oftentimes the mind inclines to the other way fault-finding\|Oftentimes, the mind inclines to the other way: fault-finding]] | 4 | [[Joy (talk)]]
 [[What is Insight#Personal insight into one's own habits of body speech and mind\|Personal insight into one's own habits of body, speech and mind]] | 4 | [[What is Insight]]

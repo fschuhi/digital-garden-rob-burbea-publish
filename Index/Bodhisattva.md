@@ -15,6 +15,7 @@ description | count | talk
 [[Expressions of Metta#Love being unveiled somehow it's there all the time\|Love being unveiled, somehow it's there all the time]] | 2 | [[Expressions of Metta]]
 [[The Way of Non-Clinging Part 3#Fantasy of the Buddhist path\|Fantasy of the Buddhist path]] | 1 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 3#"This is what a bodhisattva does"\|"This is what a bodhisattva does"]] | 1 | [[The Way of Non-Clinging Part 3]]
+[[Exploring the World of Loving Kindness#It's not always that metta feels it's coming from the self\|It's not always that metta feels it's coming from the self]] | 1 | [[Exploring the World of Loving Kindness]]
 [[The Practice of Compassion#Different practices for compassion\|Different practices for compassion]] | 1 | [[The Practice of Compassion]]
 [[Expressions of Metta#Perceptions are changing and opening\|Perceptions are changing and opening]] | 1 | [[Expressions of Metta]]
 

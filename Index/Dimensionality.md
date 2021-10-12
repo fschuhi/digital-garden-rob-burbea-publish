@@ -21,10 +21,10 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#There is a level of the sounds of my voice that transcends meaning\|There is a level of (the sounds of) my voice that transcends meaning]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[The Way of Non-Clinging Part 3#Wrapped up in the movement of eros is beauty\|Wrapped up in the movement of eros is beauty]] | 2 | [[The Way of Non-Clinging Part 3]]
 [[Dilemmas and Delineations - How did we get here Part 2#Eros is a wanting to penetrate the erotic object more\|Eros is a wanting to penetrate the erotic object more]] | 1 | [[Dilemmas and Delineations - How did we get here Part 2]]
-[[Dilemmas and Delineations - How did we get here Part 2#Eros involves a tension of the attraction towards otherness\|Eros involves a tension of the attraction towards otherness]] | 1 | [[Dilemmas and Delineations - How did we get here Part 2]]
 [[Dilemmas and Delineations - How did we get here Part 1#Eros is connected to divinity cosmopoesis soulmaking to be covered later\|Eros is connected to divinity, cosmopoesis, soulmaking (to be covered later)]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[Dilemmas and Delineations - How did we get here Part 1#Eros involves energy embodiment the imaginal and logos\|Eros involves energy, embodiment, the imaginal, and logos]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[Dilemmas and Delineations - How did we get here Part 1#The soul wants disentangling but also something else\|The soul wants disentangling, but also something else]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
+[[Exploring the World of Loving Kindness#This talk is about the dimensions we uncover when practicing metta\|This talk is about the dimensions we uncover when practicing metta]] | 1 | [[Exploring the World of Loving Kindness]]
 [[Love and Emptiness#Yogi "awareness without an object"\|Yogi: "awareness without an object"?]] | 1 | [[Love and Emptiness]]
 [[Expressions of Metta#Metta is a constallation of feelings\|Metta is a constallation of feelings]] | 1 | [[Expressions of Metta]]
 

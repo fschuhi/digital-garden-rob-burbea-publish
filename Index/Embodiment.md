@@ -38,6 +38,7 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Closed circuit might lead to black-and-white thinking\|Closed circuit might lead to black-and-white thinking]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 2 1 Feel where the sound is coming from against energy body background\|🟡 Excercise 2.1: Feel where the sound is coming from, against energy body background]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 2 2 experiment with different centres of emanation\|🟡 Excercise 2.2: experiment with different centres of emanation]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Exploring the World of Loving Kindness#My particular uniqueness is a result of an infinite web of conditions\|My particular uniqueness is a result of an infinite web of conditions]] | 4 | [[Exploring the World of Loving Kindness]]
 [[What is Insight#Personal and universal truths help us to respond well to conventional reality\|Personal and universal truths help us to respond well to conventional reality]] | 4 | [[What is Insight]]
 [[Expressions of Metta#Expressing gentleness and care with the body\|Expressing gentleness and care with the body]] | 4 | [[Expressions of Metta]]
 

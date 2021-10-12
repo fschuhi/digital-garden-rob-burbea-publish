@@ -13,4 +13,4 @@ _This series of talks and guided meditations explores the development of the pra
 
 ### Talks
 ✔️ [[The Place of Samadhi in Metta Practice]]
-🛠️ [[Exploring the World of Loving Kindness]]
+✔️ [[Exploring the World of Loving Kindness]]

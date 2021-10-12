@@ -17,10 +17,10 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Place of Samadhi in Metta Practice#0853[Usually we keep the mind on one object but one could also have a very open kind of vipassa practice\|08:53[Usually we keep the mind on one object, but one could also have a very open kind of vipassa practice]] | 8 | [[The Place of Samadhi in Metta Practice]]
+[[The Place of Samadhi in Metta Practice#Usually we keep the mind on one object but one could also have a very open kind of vipassa practice\|Usually we keep the mind on one object, but one could also have a very open kind of vipassa practice]] | 8 | [[The Place of Samadhi in Metta Practice]]
 [[The Place of Samadhi in Metta Practice#Love comes from doing samadhi practice\|Love comes from doing samadhi practice]] | 8 | [[The Place of Samadhi in Metta Practice]]
 [[Samadhi in Metta Practice#Better "collectedness" even better "unification"\|Better: "collectedness", even better: "unification"]] | 8 | [[Samadhi in Metta Practice]]
-[[The Place of Samadhi in Metta Practice#Samadhi gets into the being on some very sellular level\|Samadhi gets into the being on some very sellular level]] | 6 | [[The Place of Samadhi in Metta Practice]]
+[[The Place of Samadhi in Metta Practice#Samadhi gets into the being on some very cellular level\|Samadhi gets into the being on some very cellular level]] | 6 | [[The Place of Samadhi in Metta Practice]]
 [[The Place of Samadhi in Metta Practice#What is our relationship with samadhi "concentration"\|What is our relationship with samadhi ("concentration")?]] | 5 | [[The Place of Samadhi in Metta Practice]]
 [[The Place of Samadhi in Metta Practice#"Concentration" doesn't give enough breadth to the meaning\|"Concentration" doesn't give enough breadth to the meaning]] | 5 | [[The Place of Samadhi in Metta Practice]]
 [[The Place of Samadhi in Metta Practice#"Steadiness" "collectedness" "unification" of the body and the mind\|"Steadiness", "collectedness", "unification" of the body and the mind]] | 5 | [[The Place of Samadhi in Metta Practice]]

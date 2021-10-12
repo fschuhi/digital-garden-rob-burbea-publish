@@ -11,5 +11,6 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Sila and Soul" "The Image of Ethics" 🟢\|"Sila and Soul", "The Image of Ethics" 🟢]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Exploring the World of Loving Kindness#Of all the five precepts it's the hardest one\|Of all the five precepts, it's the hardest one]] | 2 | [[Exploring the World of Loving Kindness]]
 [[Dilemmas and Delineations - How did we get here Part 1#All this is not really adequately addressed in the Dharma at present\|All this is not really adequately addressed in the Dharma at present]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
 

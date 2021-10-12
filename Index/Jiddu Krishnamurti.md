@@ -10,4 +10,5 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Equanimity (talk)#"We come to the infinite well of life with a thimble and so we go away thirsty"\|"We come to the infinite well of life with a thimble and so we go away thirsty"]] | 2 | [[Equanimity (talk)]]
+[[Exploring the World of Loving Kindness#Friendship means to have the aspiration to keep seeing each other\|Friendship means to have the aspiration to keep seeing each other]] | 1 | [[Exploring the World of Loving Kindness]]
 

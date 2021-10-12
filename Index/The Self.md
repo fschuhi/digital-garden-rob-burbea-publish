@@ -20,6 +20,7 @@ description | count | talk
 [[Equanimity in Compassion#As the self-sense gets quite equanimity becomes the natural state\|As the self-sense gets quite, equanimity becomes the natural state]] | 7 | [[Equanimity in Compassion]]
 [[Equanimity (talk)#How does wonder get squashed\|How does wonder get squashed]] | 7 | [[Equanimity (talk)]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Opening up counteracts the contraction that's inherent in self-consciousness\|Opening up counteracts the contraction that's inherent in self-consciousness]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Exploring the World of Loving Kindness#Guild vs remorse\|Guild vs remorse]] | 5 | [[Exploring the World of Loving Kindness]]
 [[From Insight to Love#With more open space with metta the actual sense of self quietens\|With more open space with metta, the actual sense of self quietens]] | 5 | [[From Insight to Love]]
 [[The Way of Non-Clinging Part 2#Sense of self is fabricated with and by the craving\|Sense of self is fabricated with and by the craving]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[The Place of Samadhi in Metta Practice#We might also fear to losing one's self\|We might also fear to losing one's self]] | 4 | [[The Place of Samadhi in Metta Practice]]

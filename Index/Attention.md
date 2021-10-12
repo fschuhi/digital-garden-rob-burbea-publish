@@ -19,5 +19,6 @@ description | count | talk
 :- | : - | :-
 [[The Way of Non-Clinging Part 2#Even attention is a form of clinging\|Even attention is a form of clinging]] | 8 | [[The Way of Non-Clinging Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Opening up counteracts the contraction that's inherent in self-consciousness\|Opening up counteracts the contraction that's inherent in self-consciousness]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Exploring the World of Loving Kindness#Metta flowing through the eyes\|Metta flowing through the eyes]] | 6 | [[Exploring the World of Loving Kindness]]
 [[Love and Emptiness#Rob attention is kind of like prongs\|Rob: attention is kind of like prongs]] | 5 | [[Love and Emptiness]]
 

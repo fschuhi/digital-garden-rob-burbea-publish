@@ -16,6 +16,7 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Expressions of Metta#A sense of merging begins to question our taken-for-granted perception of separation\|A sense of merging begins to question our taken-for-granted perception of separation]] | 5 | [[Expressions of Metta]]
+[[Exploring the World of Loving Kindness#Sensing oneness and non-separateness is a beautiful opening\|Sensing oneness and non-separateness is a beautiful opening]] | 4 | [[Exploring the World of Loving Kindness]]
 [[Love and Emptiness#Even oneness is not how things really are it's also dependend on conditions\|Even oneness is not how things really are, it's also dependend on conditions]] | 4 | [[Love and Emptiness]]
 [[From Insight to Love#Metta practice can lead to the dissolving of the boundaries between self and other\|Metta practice can lead to the dissolving of the boundaries between self and other]] | 4 | [[From Insight to Love]]
 

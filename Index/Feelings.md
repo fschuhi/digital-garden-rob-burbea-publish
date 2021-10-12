@@ -14,7 +14,11 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Expressions of Metta#Metta is a constallation of feelings\|Metta is a constallation of feelings]] | 2 | [[Expressions of Metta]]
-[[Dilemmas and Delineations - How did we get here Part 2#Recap of how to recognize eros\|Recap of how to recognize eros]] | 1 | [[Dilemmas and Delineations - How did we get here Part 2]]
+[[Exploring the World of Loving Kindness#It's more a constellation of feelings\|It's more a constellation of feelings]] | 1 | [[Exploring the World of Loving Kindness]]
+[[Exploring the World of Loving Kindness#We need to discriminate between metta and compassion\|We need to discriminate between metta and compassion]] | 1 | [[Exploring the World of Loving Kindness]]
+[[Exploring the World of Loving Kindness#Categories of people we direct metta to are not inherently fixed\|Categories of people we direct metta to are not inherently fixed]] | 1 | [[Exploring the World of Loving Kindness]]
+[[Exploring the World of Loving Kindness#How am I in this relationship\|How am I in this relationship?]] | 1 | [[Exploring the World of Loving Kindness]]
+[[Exploring the World of Loving Kindness#Is it possible to express anger skilfully\|Is it possible to express anger skilfully?]] | 1 | [[Exploring the World of Loving Kindness]]
 [[The Place of Samadhi in Metta Practice#Positive feelings will come up so see if they can be enjoyed and brought back into the metta practice\|Positive feelings will come up, so see if they can be enjoyed and brought back into the metta practice]] | 1 | [[The Place of Samadhi in Metta Practice]]
 [[What is Insight#Personal and universal truths help us to respond well to conventional reality\|Personal and universal truths help us to respond well to conventional reality]] | 1 | [[What is Insight]]
 [[What is Insight#Do we give equal attention to the conventional and the ultimate\|Do we give equal attention to the conventional and the ultimate?]] | 1 | [[What is Insight]]

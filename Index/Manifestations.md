@@ -14,4 +14,5 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#There are consequences to neglecting\|There are consequences to neglecting]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Sometimes we don't let certain expressions of movement gesture voice into the body\|Sometimes we don't let certain expressions of movement/gesture/voice into the body]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[The Way of Non-Clinging Part 1#Huge range of what contitutes craving\|Huge range of what contitutes craving]] | 1 | [[The Way of Non-Clinging Part 1]]
+[[Exploring the World of Loving Kindness#The squeaky clean metta machine\|The squeaky clean metta machine]] | 1 | [[Exploring the World of Loving Kindness]]
 

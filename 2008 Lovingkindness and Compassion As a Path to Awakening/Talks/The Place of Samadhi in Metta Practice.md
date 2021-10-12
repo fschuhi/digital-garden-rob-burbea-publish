@@ -81,8 +81,10 @@ Transcript PDF: [[2008_0129 The Place of Samadhi in Metta Practice.pdf]]
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11955/20080129-Rob_Burbea-GAIA-the_place_of_samadhi_in_metta_practice-11955.mp3#t=07:22" type="audio/mpeg">???</audio>
 
 ---
-##### 08:53[Usually we keep the mind on one object, but one could also have a very open kind of vipassa practice
+##### Usually we keep the mind on one object, but one could also have a very open kind of vipassa practice
 <span class="counts">**<a data-href="0129 The Place of Samadhi in Metta Practice#^2-6" href="0129+The+Place+of+Samadhi+in+Metta+Practice#^2-6" class="internal-link" target="_blank" rel="noopener">2-6</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (8) · <a data-href="Mind" href="Mind" class="internal-link" target="_blank" rel="noopener">Mind</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> · <a data-href="Brahmaviharas" href="Brahmaviharas" class="internal-link" target="_blank" rel="noopener">Brahmaviharas</a> · <a data-href="Breath" href="Breath" class="internal-link" target="_blank" rel="noopener">Breath</a>_</span>
+
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11955/20080129-Rob_Burbea-GAIA-the_place_of_samadhi_in_metta_practice-11955.mp3#t=08:53" type="audio/mpeg">???</audio>
 
 ---
 ##### Samadhi is state of non-entanglement.
@@ -121,7 +123,7 @@ Transcript PDF: [[2008_0129 The Place of Samadhi in Metta Practice.pdf]]
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11955/20080129-Rob_Burbea-GAIA-the_place_of_samadhi_in_metta_practice-11955.mp3#t=14:16" type="audio/mpeg">???</audio>
 
 ---
-##### Samadhi gets into the being on some very sellular level
+##### Samadhi gets into the being on some very cellular level
 <span class="counts">**<a data-href="0129 The Place of Samadhi in Metta Practice#^4-2" href="0129+The+Place+of+Samadhi+in+Metta+Practice#^4-2" class="internal-link" target="_blank" rel="noopener">4-2</a>**: _<a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (6) · <a data-href="Mind" href="Mind" class="internal-link" target="_blank" rel="noopener">Mind</a> (5) · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> (5) · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11955/20080129-Rob_Burbea-GAIA-the_place_of_samadhi_in_metta_practice-11955.mp3#t=15:03" type="audio/mpeg">???</audio>

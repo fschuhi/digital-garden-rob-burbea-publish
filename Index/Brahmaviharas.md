@@ -19,7 +19,7 @@ description | count | talk
 [[Equanimity in Compassion#Equanimity is the fourth of the brahmaviharas\|Equanimity is the fourth of the brahmaviharas]] | 2 | [[Equanimity in Compassion]]
 [[Dilemmas and Delineations - How did we get here Part 1#Desire is one of the Four Bases\|Desire is one of the Four Bases]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[Dilemmas and Delineations - How did we get here Part 1#The soul wants disentangling but also something else\|The soul wants disentangling, but also something else]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
-[[The Place of Samadhi in Metta Practice#0853[Usually we keep the mind on one object but one could also have a very open kind of vipassa practice\|08:53[Usually we keep the mind on one object, but one could also have a very open kind of vipassa practice]] | 1 | [[The Place of Samadhi in Metta Practice]]
+[[The Place of Samadhi in Metta Practice#Usually we keep the mind on one object but one could also have a very open kind of vipassa practice\|Usually we keep the mind on one object, but one could also have a very open kind of vipassa practice]] | 1 | [[The Place of Samadhi in Metta Practice]]
 [[Equanimity in Compassion#Politics show that there are limits in how much we can help\|Politics show that there are limits in how much we can help]] | 1 | [[Equanimity in Compassion]]
 [[Equanimity in Compassion#Equanimity is not indifference\|Equanimity is not indifference]] | 1 | [[Equanimity in Compassion]]
 [[Samadhi in Metta Practice#Dwelling in a lovely space\|Dwelling in a lovely space]] | 1 | [[Samadhi in Metta Practice]]

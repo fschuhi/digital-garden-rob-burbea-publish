@@ -16,6 +16,7 @@ description | count | talk
 [[Perfection and Christ's Blessing#Jesus's blessing is on everything\|Jesus's blessing is on everything]] | 2 | [[Perfection and Christ's Blessing]]
 [[The Practice of Compassion#"Love is without beginning"\|"Love is without beginning"]] | 2 | [[The Practice of Compassion]]
 [[Perfection and Christ's Blessing#Theodicy\|Theodicy]] | 1 | [[Perfection and Christ's Blessing]]
+[[Exploring the World of Loving Kindness#It's not always that metta feels it's coming from the self\|It's not always that metta feels it's coming from the self]] | 1 | [[Exploring the World of Loving Kindness]]
 [[Equanimity in Compassion#Eight worldly conditions\|Eight worldly conditions]] | 1 | [[Equanimity in Compassion]]
 [[The Practice of Compassion#Different practices for compassion\|Different practices for compassion]] | 1 | [[The Practice of Compassion]]
 [[The Practice of Compassion#We breathe the same air molecules as everyone before us\|We breathe the same air molecules as everyone before us]] | 1 | [[The Practice of Compassion]]

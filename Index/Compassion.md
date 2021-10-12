@@ -30,6 +30,7 @@ description | count | talk
 [[The Practice of Compassion#When there's metta and compassion for oneself the ego can take its rightful place in the scheme of things\|When there's metta and compassion for oneself, the ego can take its rightful place in the scheme of things]] | 5 | [[The Practice of Compassion]]
 [[The Practice of Compassion#Cultivating a climate of compassion\|Cultivating a climate of compassion]] | 5 | [[The Practice of Compassion]]
 [[The Practice of Compassion#Rob We are not completely in control of what will happen but acting out of compassion is still the best way to live\|Rob: We are not completely in control of what will happen, but acting out of compassion is still the best way to live]] | 5 | [[The Practice of Compassion]]
+[[Exploring the World of Loving Kindness#We need to discriminate between metta and compassion\|We need to discriminate between metta and compassion]] | 4 | [[Exploring the World of Loving Kindness]]
 [[Joy (talk)#Metta and compassion bring happiness\|Metta and compassion bring happiness]] | 4 | [[Joy (talk)]]
 [[Equanimity in Compassion#Equanimity makes the compassion steady in the face of suffering\|Equanimity makes the compassion steady in the face of suffering]] | 4 | [[Equanimity in Compassion]]
 [[Equanimity in Compassion#Equanimity means buoyancy not to sink underneath the weight of the suffering\|Equanimity means  buoyancy, not to sink underneath the weight of the suffering]] | 4 | [[Equanimity in Compassion]]
