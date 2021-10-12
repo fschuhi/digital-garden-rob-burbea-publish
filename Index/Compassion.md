@@ -37,7 +37,7 @@ description | count | talk
 [[Equanimity in Compassion#Still loving-kindness and compassion is the best way to live even if actions or results seem to fall short\|Still, loving-kindness and compassion is the best way to live, even if actions or results seem to fall short]] | 4 | [[Equanimity in Compassion]]
 [[Love and Emptiness#Recap guided meditation - Metta to phenomena\|Recap guided meditation - Metta to phenomena]] | 4 | [[Love and Emptiness]]
 [[Love and Emptiness#Rob Compassion practice tunes into suffering and the outgoing healing can feel like metta\|Rob: Compassion practice tunes into suffering, and the outgoing healing can feel like metta]] | 4 | [[Love and Emptiness]]
-[[The Practice of Compassion#Compassion involves different qualities eg empathy\|Compassion involves different qualities, e.g. empathy]] | 4 | [[The Practice of Compassion]]
+[[The Practice of Compassion#Compassion involves different qualities e g empathy\|Compassion involves different qualities, e.g. empathy]] | 4 | [[The Practice of Compassion]]
 [[The Practice of Compassion#Different practices for compassion\|Different practices for compassion]] | 4 | [[The Practice of Compassion]]
 [[The Practice of Compassion#When there's insight into suffering compassion comes automatically\|When there's insight into suffering, compassion comes automatically]] | 4 | [[The Practice of Compassion]]
 [[The Practice of Compassion#4 near enemies fear anger pity grief\|4 near enemies: fear, anger, pity, grief]] | 4 | [[The Practice of Compassion]]

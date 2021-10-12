@@ -88,11 +88,11 @@ So traditionally there are these phrases for [[equanimity]]. And it's trying to 
 ###### 7-4
 Just to say, of course there's [[Dukkha|suffering]] in the world that comes - it's nothing to do with the person; it's just descended on them from the environment or political situation or whatever. And then there are other levels of suffering, other kinds of suffering, that are really what humans bring on themselves through [[ignorance]]. And this is what the [[Buddha]]'s really interested in as well. So these phrases - I'll actually just read them: ^7-4
 ###### 7-5
-"All beings are the owners of their actions. Their [[happiness]] and their unhappiness depends on their actions, not on my wishes for them.[[Equanimity in Compassion#"All beings are the owners of their actions" shortened|"]] ^7-5
+"All beings are the owners of their actions. Their [[happiness]] and their unhappiness depends on their actions, not on my wishes for them.[[Equanimity in Compassion#"All beings are the owners of their actions " shortened|"]] ^7-5
 ###### 7-6
-"All beings are the owners of their actions and inherit the results of their actions. Their future is born from such actions, companion to such actions, and the results of their actions will be their home.[[Equanimity in Compassion#"All beings inherit the results of their actions" shortened|"]] ^7-6
+"All beings are the owners of their actions and inherit the results of their actions. Their future is born from such actions, companion to such actions, and the results of their actions will be their home.[[Equanimity in Compassion#"All beings inherit the results of their actions " shortened|"]] ^7-6
 ###### 8-1
-Third one, "All actions with intention, be they skilful or harmful, of such acts they will be the heirs.[[Equanimity in Compassion#"All actions with intention be they skilful or harmful of such acts they will be the heirs"|"]] ^8-1
+Third one, "All actions with intention, be they skilful or harmful, of such acts they will be the heirs.[[Equanimity in Compassion#"All actions with intention be they skilful or harmful of such acts they will be the heirs "|"]] ^8-1
 ###### 8-2
 So to me, even just reading it, it's quite sobering, you know, to a heart - when there's [[compassion]], it's quite sobering actually realizing the limits. And so the [[equanimity]] practice in this very formal way is just bringing that recollection to [[mind]], bringing that recollection to mind to balance the compassion, if it's not already balanced[[Equanimity in Compassion#This formal equanimity practice brings in the recollection to balance the compassion|.]] ^8-2
 ###### 8-3

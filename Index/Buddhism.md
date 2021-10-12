@@ -13,7 +13,7 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Buddha touching the earth is calling it to bear witness\|Buddha touching the earth is calling it to bear witness]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 52 _The Bhumisparsa Mudra_\|🟡 Excercise 5.2: _The Bhumisparsa Mudra_]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 5 2 _The Bhumisparsa Mudra_\|🟡 Excercise 5.2: _The Bhumisparsa Mudra_]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#"Well do you really relate to the word 'aggregate'"\|"Well, do you really relate to the word 'aggregate'"]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#We are trained in certain words\|We are trained in certain words]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Sila and Soul" "The Image of Ethics" 🟢\|"Sila and Soul", "The Image of Ethics" 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]

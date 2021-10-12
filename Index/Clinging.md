@@ -44,7 +44,7 @@ description | count | talk
 [[The Way of Non-Clinging Part 2#There can be a complete unfabrication\|There can be a complete unfabrication]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#Playing with walking a tightrope of keeping appearances around but knowing them as empty\|Playing with walking a tightrope of keeping appearances around but knowing them as empty]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#Much more is possible than "just let go of everything"\|Much more is possible than "just let go of everything"]] | 4 | [[The Way of Non-Clinging Part 2]]
-[[The Way of Non-Clinging Part 1#A lot of English and Pali words for clinging desire greed etc\|A lot of English and Pali words for clinging, desire, greed, etc.]] | 4 | [[The Way of Non-Clinging Part 1]]
+[[The Way of Non-Clinging Part 1#A lot of English and Pali words for clinging desire greed etc \|A lot of English and Pali words for clinging, desire, greed, etc.]] | 4 | [[The Way of Non-Clinging Part 1]]
 [[The Way of Non-Clinging Part 1#Clinging is more obsessive craving\|Clinging is more obsessive craving]] | 4 | [[The Way of Non-Clinging Part 1]]
 [[The Way of Non-Clinging Part 1#Different kinds of reflection\|Different kinds of reflection]] | 4 | [[The Way of Non-Clinging Part 1]]
 [[Love and Emptiness#When there's no clinging and grasping wee feel the suffering go out of experience\|When there's no clinging and grasping, wee feel the suffering go out of experience]] | 4 | [[Love and Emptiness]]

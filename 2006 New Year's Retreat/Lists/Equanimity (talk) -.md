@@ -50,6 +50,6 @@ obsidianUIMode: preview
 - [[Equanimity (talk)#Then things begin to fade|Then things begin to fade.]]
 - [[Equanimity (talk)#There is nothing really to be equanimous about|There is nothing really to be equanimous about.]]
 - [[Equanimity (talk)#The dying down of the push and the pull brings long-term nourishment for the being and it has love in it|The dying down of the push and the pull brings long-term nourishment for the being, and it has love in it.]]
-- [[Equanimity (talk)#The experience actually is not the important thing What's important though this is the understanding|The experience actually is not the important thing. What's important though this is the understanding.]]
+- [[Equanimity (talk)#The experience actually is not the important thing What's important though this is the understanding |The experience actually is not the important thing. What's important though this is the understanding.]]
 - [[Equanimity (talk)#The only way a thing really is is immeasurable|The only way a thing really is is immeasurable.]]
 - [[Equanimity (talk)#This is very possible for all of us|This is very possible for all of us.]]

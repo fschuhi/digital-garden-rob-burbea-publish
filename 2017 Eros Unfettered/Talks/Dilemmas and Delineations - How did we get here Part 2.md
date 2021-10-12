@@ -1,5 +1,5 @@
 ---
-ParagraphsListPage: false
+ParagraphsListPage: true
 Series: 2017 Eros Unfettered
 obsidianUIMode: preview
 ---
@@ -14,13 +14,15 @@ Transcript PDF: [[2017_0119 Dilemmas and Delineations - How did we get here Part
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3" type="audio/mpeg">???</audio>
 
 ## Index
-<span class="counts">_[[Eros]] (92) · [[Soulmaking]] (20) · [[Experience]] (18) · [[Energy Body]] (14) · [[Conceptual Framework]] (10) · [[Desire]] (10) · [[Dharma]] (9) · [[Imaginal]] (9) · [[Divinity]] (8) · [[Juiciness]] (8) · [[Oneness]] (8) · [[Retreat]] (7) · [[Insight]] (6) · [[Mind]] (6) · [[Mind state]] (6) · [[Sexuality]] (6) · [[Buddha]] (4) · [[Energy]] (4) · [[Mindfulness]] (4) · [[Soul]] (4) · [[Awakening]] (3) · [[Craving]] (3) · [[Delineations]] (3) · [[Image]] (3) · [[Jhanas]] (3) · [[Psyche]] (3) · [[Soulmaking Dynamic]] (3) · [[Awareness]] (2) · [[Beauty]] (2) · [[Dimensionality]] (2) · [[Embodiment]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Love]] (2) · [[Passion]] (2) · [[Phenomenology]] (2) · [[Pleasantness]] (2) · [[Samadhi]] (2) · [[The Self]] (2) · [[Alchemy]] · [[Clinging]] · [[Consciousness]] · [[Death]] · [[Emptiness]] · [[Feelings]] · [[Happiness]] · [[Hermeneutics#Overview]] · [[Hindrances]] · [[Metta]] · [[Papanca]] · [[Piti]] · [[Relationships]] · [[Romantic love]] · [[Tantra]] · [[Unfabricated]]_</span>
+<span class="counts">_<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (92) · <a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking</a> (20) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> (18) · <a data-href="Energy Body" href="Energy+Body" class="internal-link" target="_blank" rel="noopener">Energy Body</a> (14) · <a data-href="Conceptual Framework" href="Conceptual+Framework" class="internal-link" target="_blank" rel="noopener">Conceptual Framework</a> (10) · <a data-href="Desire" href="Desire" class="internal-link" target="_blank" rel="noopener">Desire</a> (10) · <a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a> (9) · <a data-href="Imaginal" href="Imaginal" class="internal-link" target="_blank" rel="noopener">Imaginal</a> (9) · <a data-href="Divinity" href="Divinity" class="internal-link" target="_blank" rel="noopener">Divinity</a> (8) · <a data-href="Juiciness" href="Juiciness" class="internal-link" target="_blank" rel="noopener">Juiciness</a> (8) · <a data-href="Oneness" href="Oneness" class="internal-link" target="_blank" rel="noopener">Oneness</a> (8) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> (7) · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> (6) · <a data-href="Mind" href="Mind" class="internal-link" target="_blank" rel="noopener">Mind</a> (6) · <a data-href="Mind state" href="Mind+state" class="internal-link" target="_blank" rel="noopener">Mind state</a> (6) · <a data-href="Sexuality" href="Sexuality" class="internal-link" target="_blank" rel="noopener">Sexuality</a> (6) · <a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> (4) · <a data-href="Energy" href="Energy" class="internal-link" target="_blank" rel="noopener">Energy</a> (4) · <a data-href="Mindfulness" href="Mindfulness" class="internal-link" target="_blank" rel="noopener">Mindfulness</a> (4) · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (4) · <a data-href="Awakening" href="Awakening" class="internal-link" target="_blank" rel="noopener">Awakening</a> (3) · <a data-href="Craving" href="Craving" class="internal-link" target="_blank" rel="noopener">Craving</a> (3) · <a data-href="Delineations" href="Delineations" class="internal-link" target="_blank" rel="noopener">Delineations</a> (3) · <a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a> (3) · <a data-href="Jhanas" href="Jhanas" class="internal-link" target="_blank" rel="noopener">Jhanas</a> (3) · <a data-href="Psyche" href="Psyche" class="internal-link" target="_blank" rel="noopener">Psyche</a> (3) · <a data-href="Soulmaking Dynamic" href="Soulmaking+Dynamic" class="internal-link" target="_blank" rel="noopener">Soulmaking Dynamic</a> (3) · <a data-href="Awareness" href="Awareness" class="internal-link" target="_blank" rel="noopener">Awareness</a> (2) · <a data-href="Beauty" href="Beauty" class="internal-link" target="_blank" rel="noopener">Beauty</a> (2) · <a data-href="Dimensionality" href="Dimensionality" class="internal-link" target="_blank" rel="noopener">Dimensionality</a> (2) · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> (2) · <a data-href="History" href="History" class="internal-link" target="_blank" rel="noopener">History</a> (2) · <a data-href="Infinity" href="Infinity" class="internal-link" target="_blank" rel="noopener">Infinity</a> (2) · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> (2) · <a data-href="Passion" href="Passion" class="internal-link" target="_blank" rel="noopener">Passion</a> (2) · <a data-href="Phenomenology" href="Phenomenology" class="internal-link" target="_blank" rel="noopener">Phenomenology</a> (2) · <a data-href="Pleasantness" href="Pleasantness" class="internal-link" target="_blank" rel="noopener">Pleasantness</a> (2) · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (2) · <a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">The Self</a> (2) · <a data-href="Alchemy" href="Alchemy" class="internal-link" target="_blank" rel="noopener">Alchemy</a> · <a data-href="Clinging" href="Clinging" class="internal-link" target="_blank" rel="noopener">Clinging</a> · <a data-href="Consciousness" href="Consciousness" class="internal-link" target="_blank" rel="noopener">Consciousness</a> · <a data-href="Death" href="Death" class="internal-link" target="_blank" rel="noopener">Death</a> · <a data-href="Emptiness" href="Emptiness" class="internal-link" target="_blank" rel="noopener">Emptiness</a> · <a data-href="Feelings" href="Feelings" class="internal-link" target="_blank" rel="noopener">Feelings</a> · <a data-href="Happiness" href="Happiness" class="internal-link" target="_blank" rel="noopener">Happiness</a> · <a data-href="Hermeneutics#Overview" href="Hermeneutics#Overview" class="internal-link" target="_blank" rel="noopener">Hermeneutics &gt; Overview</a> · <a data-href="Hindrances" href="Hindrances" class="internal-link" target="_blank" rel="noopener">Hindrances</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Papanca" href="Papanca" class="internal-link" target="_blank" rel="noopener">Papanca</a> · <a data-href="Piti" href="Piti" class="internal-link" target="_blank" rel="noopener">Piti</a> · <a data-href="Relationships" href="Relationships" class="internal-link" target="_blank" rel="noopener">Relationships</a> · <a data-href="Romantic love" href="Romantic+love" class="internal-link" target="_blank" rel="noopener">Romantic love</a> · <a data-href="Tantra" href="Tantra" class="internal-link" target="_blank" rel="noopener">Tantra</a> · <a data-href="Unfabricated" href="Unfabricated" class="internal-link" target="_blank" rel="noopener">Unfabricated</a>_</span>
 <br/>
 
 ## Paragraphs
+[[Dilemmas and Delineations - How did we get here Part 2 -|plain list]]
 
+---
 ##### Recap: Why eros, why this delineation?
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^1-1|1-1]]**: _[[Eros]] (6) · [[Dharma]] (2) · [[Awakening]] (3) · [[Imaginal]] (2) · [[Soulmaking]] · [[Divinity]] (5) · [[Consciousness]] · [[Oneness]] · [[Unfabricated]] · [[Retreat]] (2)_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^1-1" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^1-1" class="internal-link" target="_blank" rel="noopener">1-1</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (6) · <a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a> (2) · <a data-href="Awakening" href="Awakening" class="internal-link" target="_blank" rel="noopener">Awakening</a> (3) · <a data-href="Imaginal" href="Imaginal" class="internal-link" target="_blank" rel="noopener">Imaginal</a> (2) · <a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking</a> · <a data-href="Divinity" href="Divinity" class="internal-link" target="_blank" rel="noopener">Divinity</a> (5) · <a data-href="Consciousness" href="Consciousness" class="internal-link" target="_blank" rel="noopener">Consciousness</a> · <a data-href="Oneness" href="Oneness" class="internal-link" target="_blank" rel="noopener">Oneness</a> · <a data-href="Unfabricated" href="Unfabricated" class="internal-link" target="_blank" rel="noopener">Unfabricated</a> · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=00:00" type="audio/mpeg">???</audio>
 
@@ -30,19 +32,19 @@ eros involves and leads to soulmaking, and widening of the senses of sacredness 
 
 ---
 ##### Sexuality and eros are not just defilements
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^1-2|1-2]]**: _[[Sexuality]] (3) · [[Divinity]] · [[Eros]] · [[Romantic love]] · [[Metta]]_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^1-2" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^1-2" class="internal-link" target="_blank" rel="noopener">1-2</a>**: _<a data-href="Sexuality" href="Sexuality" class="internal-link" target="_blank" rel="noopener">Sexuality</a> (3) · <a data-href="Divinity" href="Divinity" class="internal-link" target="_blank" rel="noopener">Divinity</a> · <a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> · <a data-href="Romantic love" href="Romantic+love" class="internal-link" target="_blank" rel="noopener">Romantic love</a> · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=01:45" type="audio/mpeg">???</audio>
 
 ---
 ##### Different ways of defining eros unfold in different directions
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^1-3|1-3]]**: _[[Eros]] (4) · [[Delineations]]_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^1-3" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^1-3" class="internal-link" target="_blank" rel="noopener">1-3</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (4) · <a data-href="Delineations" href="Delineations" class="internal-link" target="_blank" rel="noopener">Delineations</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=02:30" type="audio/mpeg">???</audio>
 
 ---
 ##### This delineation of eros is based on a phenomenological approach
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^1-4|1-4]]**: _[[Eros]] (2) · [[Conceptual Framework]] (3) · [[Retreat]] · [[Phenomenology]] (2) · [[Experience]] (3) · [[Insight]] · [[Emptiness]] · [[Imaginal]] · [[Soulmaking]]_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^1-4" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^1-4" class="internal-link" target="_blank" rel="noopener">1-4</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (2) · <a data-href="Conceptual Framework" href="Conceptual+Framework" class="internal-link" target="_blank" rel="noopener">Conceptual Framework</a> (3) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Phenomenology" href="Phenomenology" class="internal-link" target="_blank" rel="noopener">Phenomenology</a> (2) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> (3) · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> · <a data-href="Emptiness" href="Emptiness" class="internal-link" target="_blank" rel="noopener">Emptiness</a> · <a data-href="Imaginal" href="Imaginal" class="internal-link" target="_blank" rel="noopener">Imaginal</a> · <a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=04:05" type="audio/mpeg">???</audio>
 
@@ -52,7 +54,7 @@ Phenomenological observation is always informed by a conceptual framework. But t
 
 ---
 ##### Hermeneutical circle
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^1-5|1-5]]**: _[[Delineations]] · [[Hermeneutics#Overview]] · [[Buddha]] · [[Tantra]] · [[Eros]]_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^1-5" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^1-5" class="internal-link" target="_blank" rel="noopener">1-5</a>**: _<a data-href="Delineations" href="Delineations" class="internal-link" target="_blank" rel="noopener">Delineations</a> · <a data-href="Hermeneutics#Overview" href="Hermeneutics#Overview" class="internal-link" target="_blank" rel="noopener">Hermeneutics &gt; Overview</a> · <a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> · <a data-href="Tantra" href="Tantra" class="internal-link" target="_blank" rel="noopener">Tantra</a> · <a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=05:37" type="audio/mpeg">???</audio>
 
@@ -62,13 +64,13 @@ So this word that I want to interpret in the text, the word is part of a much la
 
 ---
 ##### The conundrum of the hermeneutic circle, using the example of understanding mindfulness as part of the Dharma
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^2-1|2-1]]**: _[[Eros]] (2) · [[Insight]] (4) · [[Passion]] · [[Conceptual Framework]] · [[Imaginal]] · [[Soulmaking]] · [[Mindfulness]] (4) · [[Buddha]] (2) · [[Dharma]] (4)_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^2-1" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^2-1" class="internal-link" target="_blank" rel="noopener">2-1</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (2) · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a> (4) · <a data-href="Passion" href="Passion" class="internal-link" target="_blank" rel="noopener">Passion</a> · <a data-href="Conceptual Framework" href="Conceptual+Framework" class="internal-link" target="_blank" rel="noopener">Conceptual Framework</a> · <a data-href="Imaginal" href="Imaginal" class="internal-link" target="_blank" rel="noopener">Imaginal</a> · <a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking</a> · <a data-href="Mindfulness" href="Mindfulness" class="internal-link" target="_blank" rel="noopener">Mindfulness</a> (4) · <a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> (2) · <a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a> (4)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=07:09" type="audio/mpeg">???</audio>
 
 ---
 ##### Eros is tied in with other notions, concepts, and experiences
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^2-2|2-2]]**: _[[Dharma]] · [[Eros]] (4) · [[Retreat]] · [[Insight]]_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^2-2" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^2-2" class="internal-link" target="_blank" rel="noopener">2-2</a>**: _<a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a> · <a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (4) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Insight" href="Insight" class="internal-link" target="_blank" rel="noopener">Insight</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=08:49" type="audio/mpeg">???</audio>
 
@@ -78,7 +80,7 @@ because of this contextualization and relationship, and the place that something
 
 ---
 ##### Eros, like the (demi-)god, is not fully capturable in concept
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^2-3|2-3]]**: _[[Eros]] (3) · [[Divinity]] (2) · [[Conceptual Framework]] (4)_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^2-3" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^2-3" class="internal-link" target="_blank" rel="noopener">2-3</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (3) · <a data-href="Divinity" href="Divinity" class="internal-link" target="_blank" rel="noopener">Divinity</a> (2) · <a data-href="Conceptual Framework" href="Conceptual+Framework" class="internal-link" target="_blank" rel="noopener">Conceptual Framework</a> (4)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=10:11" type="audio/mpeg">???</audio>
 
@@ -88,7 +90,7 @@ because of this contextualization and relationship, and the place that something
 
 ---
 ##### Eros is a kind of desire for more contact
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^3-1|3-1]]**: _[[Mind]] (2) · [[Eros]] (2) · [[Desire]] (2)_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^3-1" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^3-1" class="internal-link" target="_blank" rel="noopener">3-1</a>**: _<a data-href="Mind" href="Mind" class="internal-link" target="_blank" rel="noopener">Mind</a> (2) · <a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (2) · <a data-href="Desire" href="Desire" class="internal-link" target="_blank" rel="noopener">Desire</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=12:12" type="audio/mpeg">???</audio>
 
@@ -98,13 +100,13 @@ because of this contextualization and relationship, and the place that something
 
 ---
 ##### Eros is a wanting to penetrate the erotic object more
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^3-2|3-2]]**: _[[Eros]] (2) · [[Dimensionality]] · [[Psyche]] · [[Experience]] (2)_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^3-2" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^3-2" class="internal-link" target="_blank" rel="noopener">3-2</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (2) · <a data-href="Dimensionality" href="Dimensionality" class="internal-link" target="_blank" rel="noopener">Dimensionality</a> · <a data-href="Psyche" href="Psyche" class="internal-link" target="_blank" rel="noopener">Psyche</a> · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=13:16" type="audio/mpeg">???</audio>
 
 ---
 ##### Eros goes together with Pothos
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^3-3|3-3]]**: _[[Eros]] (5) · [[Experience]] (3) · [[Infinity]] (2) · [[Desire]] (2)_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^3-3" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^3-3" class="internal-link" target="_blank" rel="noopener">3-3</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (5) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> (3) · <a data-href="Infinity" href="Infinity" class="internal-link" target="_blank" rel="noopener">Infinity</a> (2) · <a data-href="Desire" href="Desire" class="internal-link" target="_blank" rel="noopener">Desire</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=14:55" type="audio/mpeg">???</audio>
 
@@ -118,19 +120,19 @@ Eros always goes along with - I think he's another god called Pothos. Pothos is 
 
 ---
 ##### The definition may sound a bit dull, but it allows for richness and multidirectionality
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^4-1|4-1]]**: _[[Beauty]] (2) · [[Eros]] (2)_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^4-1" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^4-1" class="internal-link" target="_blank" rel="noopener">4-1</a>**: _<a data-href="Beauty" href="Beauty" class="internal-link" target="_blank" rel="noopener">Beauty</a> (2) · <a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=16:52" type="audio/mpeg">???</audio>
 
 ---
 ##### Eros is not limited to sexuality (see above), nor does it equal life force
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^4-2|4-2]]**: _[[Eros]] (6) · [[Sexuality]] (2) · [[Energy]] (2) · [[Buddha]] · [[Craving]] · [[Clinging]] · [[Death]] · [[Love]]_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^4-2" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^4-2" class="internal-link" target="_blank" rel="noopener">4-2</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (6) · <a data-href="Sexuality" href="Sexuality" class="internal-link" target="_blank" rel="noopener">Sexuality</a> (2) · <a data-href="Energy" href="Energy" class="internal-link" target="_blank" rel="noopener">Energy</a> (2) · <a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> · <a data-href="Craving" href="Craving" class="internal-link" target="_blank" rel="noopener">Craving</a> · <a data-href="Clinging" href="Clinging" class="internal-link" target="_blank" rel="noopener">Clinging</a> · <a data-href="Death" href="Death" class="internal-link" target="_blank" rel="noopener">Death</a> · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=18:05" type="audio/mpeg">???</audio>
 
 ---
 ##### Eros is a concept both a bigger and a smaller than others
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^4-3|4-3]]**: _[[Eros]] (9) · [[Sexuality]] · [[Desire]] (3) · [[Craving]] (2) · [[Hindrances]]_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^4-3" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^4-3" class="internal-link" target="_blank" rel="noopener">4-3</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (9) · <a data-href="Sexuality" href="Sexuality" class="internal-link" target="_blank" rel="noopener">Sexuality</a> · <a data-href="Desire" href="Desire" class="internal-link" target="_blank" rel="noopener">Desire</a> (3) · <a data-href="Craving" href="Craving" class="internal-link" target="_blank" rel="noopener">Craving</a> (2) · <a data-href="Hindrances" href="Hindrances" class="internal-link" target="_blank" rel="noopener">Hindrances</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=10:38" type="audio/mpeg">???</audio>
 
@@ -140,13 +142,13 @@ I would say eros is a part or an element of life force, or, better, a certain di
 
 ---
 ##### Eros is also defined here as movement towards oneness
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^4-4|4-4]]**: _[[Eros]] · [[Samadhi]] (2) · [[Oneness]]_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^4-4" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^4-4" class="internal-link" target="_blank" rel="noopener">4-4</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (2) · <a data-href="Oneness" href="Oneness" class="internal-link" target="_blank" rel="noopener">Oneness</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=20:29" type="audio/mpeg">???</audio>
 
 ---
 ##### Eros does not move towards dissolution, i.e. it will either resurrect a twoness after unification, or discover more otherness
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^4-5|4-5]]**: _[[Eros]] (2) · [[Desire]] · [[Experience]] · [[Oneness]] (3) · [[The Self]]_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^4-5" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^4-5" class="internal-link" target="_blank" rel="noopener">4-5</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (2) · <a data-href="Desire" href="Desire" class="internal-link" target="_blank" rel="noopener">Desire</a> · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Oneness" href="Oneness" class="internal-link" target="_blank" rel="noopener">Oneness</a> (3) · <a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">The Self</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=21:59" type="audio/mpeg">???</audio>
 
@@ -156,13 +158,13 @@ It will resist somehow that collapse to oneness. It will preserve the twoness, t
 
 ---
 ##### How do we recognize eros?
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^5-1|5-1]]**: _[[Eros]] (2) · [[Experience]] · [[Relationships]] · [[Mind state]] (4) · [[Awareness]] · [[Embodiment]] (2) · [[Mind]]_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^5-1" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^5-1" class="internal-link" target="_blank" rel="noopener">5-1</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (2) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Relationships" href="Relationships" class="internal-link" target="_blank" rel="noopener">Relationships</a> · <a data-href="Mind state" href="Mind+state" class="internal-link" target="_blank" rel="noopener">Mind state</a> (4) · <a data-href="Awareness" href="Awareness" class="internal-link" target="_blank" rel="noopener">Awareness</a> · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> (2) · <a data-href="Mind" href="Mind" class="internal-link" target="_blank" rel="noopener">Mind</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=24:05" type="audio/mpeg">???</audio>
 
 ---
 ##### We need to develop the sensitivity to the texture of mind states and the space of mind
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^5-2|5-2]]**: _[[Dharma]] · [[Awareness]] · [[Mind state]] (2) · [[Passion]] · [[Eros]] · [[Energy Body]] (2) · [[Mind]] (3)_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^5-2" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^5-2" class="internal-link" target="_blank" rel="noopener">5-2</a>**: _<a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a> · <a data-href="Awareness" href="Awareness" class="internal-link" target="_blank" rel="noopener">Awareness</a> · <a data-href="Mind state" href="Mind+state" class="internal-link" target="_blank" rel="noopener">Mind state</a> (2) · <a data-href="Passion" href="Passion" class="internal-link" target="_blank" rel="noopener">Passion</a> · <a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> · <a data-href="Energy Body" href="Energy+Body" class="internal-link" target="_blank" rel="noopener">Energy Body</a> (2) · <a data-href="Mind" href="Mind" class="internal-link" target="_blank" rel="noopener">Mind</a> (3)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=25:14" type="audio/mpeg">???</audio>
 
@@ -172,13 +174,13 @@ as practitioners, we need to develop our sensitivity and the subtlety of our awa
 
 ---
 ##### Like everything, eros is happening on a spectrum
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^5-3|5-3]]**: _[[Eros]] (2) · [[Dharma]]_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^5-3" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^5-3" class="internal-link" target="_blank" rel="noopener">5-3</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (2) · <a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=26:44" type="audio/mpeg">???</audio>
 
 ---
 ##### Eros involves a tension of the attraction towards otherness
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^6-1|6-1]]**: _[[Eros]] (6) · [[Oneness]] (2) · [[Desire]] (2) · [[Dimensionality]]_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^6-1" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^6-1" class="internal-link" target="_blank" rel="noopener">6-1</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (6) · <a data-href="Oneness" href="Oneness" class="internal-link" target="_blank" rel="noopener">Oneness</a> (2) · <a data-href="Desire" href="Desire" class="internal-link" target="_blank" rel="noopener">Desire</a> (2) · <a data-href="Dimensionality" href="Dimensionality" class="internal-link" target="_blank" rel="noopener">Dimensionality</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=27:47" type="audio/mpeg">???</audio>
 
@@ -188,13 +190,13 @@ There's an element in eros, if you like, that preserves the otherness, and there
 
 ---
 ##### The semantic network of juiciness and libido
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^6-2|6-2]]**: _[[Oneness]] · [[Eros]] (4) · [[Juiciness]] · [[History]] (2) · [[Love]]_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^6-2" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^6-2" class="internal-link" target="_blank" rel="noopener">6-2</a>**: _<a data-href="Oneness" href="Oneness" class="internal-link" target="_blank" rel="noopener">Oneness</a> · <a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (4) · <a data-href="Juiciness" href="Juiciness" class="internal-link" target="_blank" rel="noopener">Juiciness</a> · <a data-href="History" href="History" class="internal-link" target="_blank" rel="noopener">History</a> (2) · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=29:44" type="audio/mpeg">???</audio>
 
 ---
 ##### "Dont' proceed until all things have been made liquid"
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^6-3|6-3]]**: _[[Alchemy]] · [[Eros]] (5) · [[Energy]] (2) · [[Psyche]] · [[Juiciness]] (3) · [[Experience]] (2) · [[Imaginal]] (3) · [[Soulmaking]] (4)_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^6-3" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^6-3" class="internal-link" target="_blank" rel="noopener">6-3</a>**: _<a data-href="Alchemy" href="Alchemy" class="internal-link" target="_blank" rel="noopener">Alchemy</a> · <a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (5) · <a data-href="Energy" href="Energy" class="internal-link" target="_blank" rel="noopener">Energy</a> (2) · <a data-href="Psyche" href="Psyche" class="internal-link" target="_blank" rel="noopener">Psyche</a> · <a data-href="Juiciness" href="Juiciness" class="internal-link" target="_blank" rel="noopener">Juiciness</a> (3) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> (2) · <a data-href="Imaginal" href="Imaginal" class="internal-link" target="_blank" rel="noopener">Imaginal</a> (3) · <a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking</a> (4)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=31:31" type="audio/mpeg">???</audio>
 
@@ -204,13 +206,13 @@ Eros always invokes, is involved with or involves, and stimulates the imaginal a
 
 ---
 ##### We are attracted to the dynamic complex of image, idea, and eros itself
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^6-4|6-4]]**: _[[Juiciness]] · [[Imaginal]] · [[Image]] (3) · [[Eros]] (5) · [[Retreat]] · [[Soulmaking]] · [[Papanca]] · [[Psyche]] · [[Conceptual Framework]]_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^6-4" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^6-4" class="internal-link" target="_blank" rel="noopener">6-4</a>**: _<a data-href="Juiciness" href="Juiciness" class="internal-link" target="_blank" rel="noopener">Juiciness</a> · <a data-href="Imaginal" href="Imaginal" class="internal-link" target="_blank" rel="noopener">Imaginal</a> · <a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a> (3) · <a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (5) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking</a> · <a data-href="Papanca" href="Papanca" class="internal-link" target="_blank" rel="noopener">Papanca</a> · <a data-href="Psyche" href="Psyche" class="internal-link" target="_blank" rel="noopener">Psyche</a> · <a data-href="Conceptual Framework" href="Conceptual+Framework" class="internal-link" target="_blank" rel="noopener">Conceptual Framework</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=32:57" type="audio/mpeg">???</audio>
 
 ---
 ##### Arousal of interest and resonances in the energy body
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^7-1|7-1]]**: _[[Eros]] (3) · [[Juiciness]] · [[Experience]] · [[Energy Body]] (4) · [[Retreat]] · [[Imaginal]]_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^7-1" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^7-1" class="internal-link" target="_blank" rel="noopener">7-1</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (3) · <a data-href="Juiciness" href="Juiciness" class="internal-link" target="_blank" rel="noopener">Juiciness</a> · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Energy Body" href="Energy+Body" class="internal-link" target="_blank" rel="noopener">Energy Body</a> (4) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Imaginal" href="Imaginal" class="internal-link" target="_blank" rel="noopener">Imaginal</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=34:24" type="audio/mpeg">???</audio>
 
@@ -220,19 +222,19 @@ There's an arousal of interest. We're really interested in this beloved. Somethi
 
 ---
 ##### Eros directed at eros (autoeroticim)
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^7-2|7-2]]**: _[[Soulmaking Dynamic]] (2) · [[Eros]] (3)_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^7-2" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^7-2" class="internal-link" target="_blank" rel="noopener">7-2</a>**: _<a data-href="Soulmaking Dynamic" href="Soulmaking+Dynamic" class="internal-link" target="_blank" rel="noopener">Soulmaking Dynamic</a> (2) · <a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (3)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=36:08" type="audio/mpeg">???</audio>
 
 ---
 ##### The "delight" of soulmaking
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^7-3|7-3]]**: _[[Eros]] (2) · [[Experience]] · [[Soulmaking]] (7) · [[Soul]] (4) · [[Soulmaking Dynamic]] · [[Juiciness]]_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^7-3" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^7-3" class="internal-link" target="_blank" rel="noopener">7-3</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (2) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking</a> (7) · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (4) · <a data-href="Soulmaking Dynamic" href="Soulmaking+Dynamic" class="internal-link" target="_blank" rel="noopener">Soulmaking Dynamic</a> · <a data-href="Juiciness" href="Juiciness" class="internal-link" target="_blank" rel="noopener">Juiciness</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=36:54" type="audio/mpeg">???</audio>
 
 ---
 ##### The "bliss" of soulmaking"
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^7-4|7-4]]**: _[[Eros]] (4) · [[Experience]] · [[Energy Body]] (5) · [[Pleasantness]] · [[Piti]] · [[Happiness]] · [[The Self]] · [[Jhanas]] (3) · [[Soulmaking]] (5)_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^7-4" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^7-4" class="internal-link" target="_blank" rel="noopener">7-4</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (4) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Energy Body" href="Energy+Body" class="internal-link" target="_blank" rel="noopener">Energy Body</a> (5) · <a data-href="Pleasantness" href="Pleasantness" class="internal-link" target="_blank" rel="noopener">Pleasantness</a> · <a data-href="Piti" href="Piti" class="internal-link" target="_blank" rel="noopener">Piti</a> · <a data-href="Happiness" href="Happiness" class="internal-link" target="_blank" rel="noopener">Happiness</a> · <a data-href="The Self" href="The+Self" class="internal-link" target="_blank" rel="noopener">The Self</a> · <a data-href="Jhanas" href="Jhanas" class="internal-link" target="_blank" rel="noopener">Jhanas</a> (3) · <a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking</a> (5)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=38:37" type="audio/mpeg">???</audio>
 
@@ -242,13 +244,13 @@ There's an arousal of interest. We're really interested in this beloved. Somethi
 
 ---
 ##### Recap of how to recognize eros
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^8-1|8-1]]**: _[[Eros]] (3) · [[Juiciness]] · [[Experience]] (3) · [[Energy Body]] (3) · [[Pleasantness]] · [[Feelings]] · [[Retreat]]_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^8-1" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^8-1" class="internal-link" target="_blank" rel="noopener">8-1</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (3) · <a data-href="Juiciness" href="Juiciness" class="internal-link" target="_blank" rel="noopener">Juiciness</a> · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> (3) · <a data-href="Energy Body" href="Energy+Body" class="internal-link" target="_blank" rel="noopener">Energy Body</a> (3) · <a data-href="Pleasantness" href="Pleasantness" class="internal-link" target="_blank" rel="noopener">Pleasantness</a> · <a data-href="Feelings" href="Feelings" class="internal-link" target="_blank" rel="noopener">Feelings</a> · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=40:26" type="audio/mpeg">???</audio>
 
 ---
 ##### Now let's draw in some of these ideas and involve them in each other
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^8-2|8-2]]**: _[[Delineations]] · [[Conceptual Framework]]_</span>
+<span class="counts">**<a data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^8-2" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^8-2" class="internal-link" target="_blank" rel="noopener">8-2</a>**: _<a data-href="Delineations" href="Delineations" class="internal-link" target="_blank" rel="noopener">Delineations</a> · <a data-href="Conceptual Framework" href="Conceptual+Framework" class="internal-link" target="_blank" rel="noopener">Conceptual Framework</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=41:44" type="audio/mpeg">???</audio>
 

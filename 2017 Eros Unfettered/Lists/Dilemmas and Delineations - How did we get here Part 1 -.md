@@ -15,7 +15,7 @@ obsidianUIMode: preview
 - [[Dilemmas and Delineations - How did we get here Part 1#Yet another one meant "juiciness" - - there was no consensus|Yet another one meant "juiciness" - - there was no consensus.]]
 - [[Dilemmas and Delineations - How did we get here Part 1#We need to know what we are talking about thus this talk|We need to know what we are talking about, thus this talk.]]
 - [[Dilemmas and Delineations - How did we get here Part 1#Desire is one of the Four Bases|Desire is one of the Four Bases.]]
-- [[Dilemmas and Delineations - How did we get here Part 1#The Buddha often uses "striving" etc|The Buddha often uses "striving" etc.]]
+- [[Dilemmas and Delineations - How did we get here Part 1#The Buddha often uses "striving" etc |The Buddha often uses "striving" etc.]]
 - [[Dilemmas and Delineations - How did we get here Part 1#Other talks|Other talks.]]
 - [[Dilemmas and Delineations - How did we get here Part 1#Passion for the Path|Passion for the Path.]]
 - [[Dilemmas and Delineations - How did we get here Part 1#The contemplative painfully longs for awakening|The contemplative painfully longs for awakening.]]

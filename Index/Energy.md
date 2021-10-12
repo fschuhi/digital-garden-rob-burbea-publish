@@ -19,5 +19,5 @@ description | count | talk
 :- | : - | :-
 [[Samadhi in Metta Practice#1 Piti is a kind of energy\|1. Piti is a kind of energy]] | 5 | [[Samadhi in Metta Practice]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#We are often held back or holding in of our energy\|We are often held back or holding in of our energy]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
-[[Joy (talk)#Mindfulness ie the its energy brings joy\|Mindfulness (i.e. the its energy) brings joy]] | 4 | [[Joy (talk)]]
+[[Joy (talk)#Mindfulness i e the its energy brings joy\|Mindfulness (i.e. the its energy) brings joy]] | 4 | [[Joy (talk)]]
 

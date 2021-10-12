@@ -18,10 +18,10 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#All the Tathāgatas\|All the Tathāgatas]] | 10 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
-[[Joy (talk)#The presence of joy can relativize a lot of other things in our life\|The presence of joy can relativize a lot of other things in our life.]] | 6 | [[Joy (talk)]]
+[[Joy (talk)#The presence of joy can relativize a lot of other things in our life \|The presence of joy can relativize a lot of other things in our life.]] | 6 | [[Joy (talk)]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟢sarvatathāgatakāyavākcittaguhyahṛdayavajra\|🟢sarvatathāgatakāyavākcittaguhyahṛdayavajra]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Dilemmas and Delineations - How did we get here Part 1#Another equates Eros with life\|Another equates Eros with life]] | 5 | [[Dilemmas and Delineations - How did we get here Part 1]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 52 _The Bhumisparsa Mudra_\|🟡 Excercise 5.2: _The Bhumisparsa Mudra_]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 5 2 _The Bhumisparsa Mudra_\|🟡 Excercise 5.2: _The Bhumisparsa Mudra_]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[The Way of Non-Clinging Part 2#The problem in Mahayana of even a Buddha needing to fabricate appearances\|The problem in Mahayana of even a Buddha needing to fabricate appearances]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#Only Buddhas can contemplate emptiness and appearance at the same time\|Only Buddhas can contemplate emptiness and appearance at the same time]] | 4 | [[The Way of Non-Clinging Part 2]]
 

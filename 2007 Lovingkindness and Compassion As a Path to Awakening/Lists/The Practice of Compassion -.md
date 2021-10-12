@@ -4,7 +4,7 @@ obsidianUIMode: preview
 ## Paragraphs in [[The Practice of Compassion]]
 - [[The Practice of Compassion#Compassion is the natural response of the heart to suffering in absense preoccupation with self|Compassion is the natural response of the heart to suffering, in absense preoccupation with self.]]
 - [[The Practice of Compassion#When metta meets suffering it transformsinto compassion|When metta meets suffering, it transformsinto compassion.]]
-- [[The Practice of Compassion#Compassion involves different qualities eg empathy|Compassion involves different qualities, e.g. empathy.]]
+- [[The Practice of Compassion#Compassion involves different qualities e g empathy|Compassion involves different qualities, e.g. empathy.]]
 - [[The Practice of Compassion#Compassion involves healing equanimity wisdom kindness acceptance humour listening holding opening joy|Compassion involves healing, equanimity, wisdom, kindness, acceptance, humour, listening, holding, opening, joy.]]
 - [[The Practice of Compassion#Compassion is more than a feeeling|Compassion is more than a feeeling.]]
 - [[The Practice of Compassion#Many people are wary that they might be taking on more suffering through compassion|Many people are wary that they might be taking on more suffering through compassion.]]
@@ -89,7 +89,7 @@ obsidianUIMode: preview
 - [[The Practice of Compassion#Yogi The biggest hindrance is the sense of self|Yogi: The biggest hindrance is the sense of self.]]
 - [[The Practice of Compassion#Rob No self can sound abstract but with practice it become more workable and more real in a moment of action|Rob: No self can sound abstract, but with practice it become more workable and more real in a moment of action.]]
 - [[The Practice of Compassion#Like with the SUV story "Ill-will is not ok"|Like with the SUV story: "Ill-will is not ok".]]
-- [[The Practice of Compassion#Yogi But SUVs are still there|Yogi: But SUVs are still there...]]
+- [[The Practice of Compassion#Yogi But SUVs are still there |Yogi: But SUVs are still there...]]
 - [[The Practice of Compassion#Rob We are not completely in control of what will happen but acting out of compassion is still the best way to live|Rob: We are not completely in control of what will happen, but acting out of compassion is still the best way to live.]]
 #### Q3: using mettā to connect with compassion vs straight in
 - [[The Practice of Compassion#Yogi I feel I need to connect with mettā before being able to be in the compassion space|Yogi: I feel I need to connect with mettā before being able to be in the compassion space.]]

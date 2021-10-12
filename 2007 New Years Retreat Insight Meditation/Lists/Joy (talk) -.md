@@ -25,7 +25,7 @@ obsidianUIMode: preview
 - [[Joy (talk)#Allow for a broad range of meanings of "joy"|Allow for a broad range of meanings of "joy".]]
 - [[Joy (talk)#Example "Ode to Joy"|Example: "Ode to Joy".]]
 - [[Joy (talk)#What would it be to experience half an hour of joy every day|What would it be to experience half an hour of joy every day?]]
-- [[Joy (talk)#The presence of joy can relativize a lot of other things in our life|The presence of joy can relativize a lot of other things in our life.]]
+- [[Joy (talk)#The presence of joy can relativize a lot of other things in our life |The presence of joy can relativize a lot of other things in our life.]]
 - [[Joy (talk)#Hearing about the range of joy can bring up for us an awareness of the absence of joy in our life|Hearing about the range of joy can bring up for us an awareness of the absence of joy in our life.]]
 #### Joy is dependent on the way we look
 - [[Joy (talk)#Sadness and joy are dependent on the way we look|Sadness and joy are dependent on the way we look.]]
@@ -59,7 +59,7 @@ obsidianUIMode: preview
 - [[Joy (talk)#In the practice both is important working with the difficult and inclining the mind to the beautiful|In the practice both is important: working with the difficult and inclining the mind to the beautiful.]]
 #### Brahmaviharas and mindfulness
 - [[Joy (talk)#Metta and compassion bring happiness|Metta and compassion bring happiness.]]
-- [[Joy (talk)#Mindfulness ie the its energy brings joy|Mindfulness (i.e. the its energy) brings joy.]]
+- [[Joy (talk)#Mindfulness i e the its energy brings joy|Mindfulness (i.e. the its energy) brings joy.]]
 #### Piti
 - [[Joy (talk)#Attention to joy itself feeds joy|Attention to joy itself feeds joy.]]
 - [[Joy (talk)#Experiment how joy can feel like|Experiment how joy can feel like.]]

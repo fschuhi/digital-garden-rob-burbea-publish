@@ -10,5 +10,5 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Dilemmas and Delineations - How did we get here Part 1#Another equates Eros with life\|Another equates Eros with life]] | 6 | [[Dilemmas and Delineations - How did we get here Part 1]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 52 _The Bhumisparsa Mudra_\|🟡 Excercise 5.2: _The Bhumisparsa Mudra_]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 5 2 _The Bhumisparsa Mudra_\|🟡 Excercise 5.2: _The Bhumisparsa Mudra_]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 

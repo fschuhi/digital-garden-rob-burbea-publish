@@ -49,9 +49,9 @@ obsidianUIMode: preview
 #### Phrases for equanimity
 - [[Equanimity in Compassion#Phrases make the limits of our responsibility clearer to us and to another|Phrases make the limits of our responsibility clearer to us and to another.]]
 - [[Equanimity in Compassion#This is to distinguish the suffering coming down from outside vs what humans bring on themselves through ignorance|This is to distinguish the suffering coming down from outside vs what humans bring on themselves through ignorance.]]
-- [[Equanimity in Compassion#"All beings are the owners of their actions" shortened|"All beings are the owners of their actions." (shortened)]]
-- [[Equanimity in Compassion#"All beings inherit the results of their actions" shortened|"All beings inherit the results of their actions." (shortened)]]
-- [[Equanimity in Compassion#"All actions with intention be they skilful or harmful of such acts they will be the heirs"|"All actions with intention, be they skilful or harmful, of such acts they will be the heirs.".]]
+- [[Equanimity in Compassion#"All beings are the owners of their actions " shortened|"All beings are the owners of their actions." (shortened)]]
+- [[Equanimity in Compassion#"All beings inherit the results of their actions " shortened|"All beings inherit the results of their actions." (shortened)]]
+- [[Equanimity in Compassion#"All actions with intention be they skilful or harmful of such acts they will be the heirs "|"All actions with intention, be they skilful or harmful, of such acts they will be the heirs.".]]
 - [[Equanimity in Compassion#This formal equanimity practice brings in the recollection to balance the compassion|This formal equanimity practice brings in the recollection to balance the compassion.]]
 - [[Equanimity in Compassion#Still loving-kindness and compassion is the best way to live even if actions or results seem to fall short|Still, loving-kindness and compassion is the best way to live, even if actions or results seem to fall short.]]
 #### Emptiness

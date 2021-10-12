@@ -27,7 +27,7 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Witness is just noticing albeit by bringing the whole energy body into sensual relationship 🟢\|Witness is just noticing (albeit by bringing the whole energy body into sensual relationship) 🟢]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 11 fill the room with the energy body\|🟡 Excercise 1.1: fill the room with the energy body]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 1 1 fill the room with the energy body\|🟡 Excercise 1.1: fill the room with the energy body]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's not important to recognise the situation from the outside it's more important to resonate in the heart and the soul\|It's not important to recognise the situation from the outside, it's more important to resonate in the heart and the soul]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#The blessed one is not responding but is sensitive with the energy body\|The blessed one is not responding but is sensitive with the energy body]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Summary of the excercises\|Summary of the excercises]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
@@ -38,8 +38,8 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#It's about sensitivity\|It's about sensitivity]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#The kinaesthetic sense of energy fills the whole space\|The kinaesthetic sense of energy fills the whole space]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#let the energy body project to fill the space\|let the energy body project to fill the space]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 21 Feel where the sound is coming from against energy body background\|🟡 Excercise 2.1: Feel where the sound is coming from, against energy body background]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 23 mix sound and energy body\|🟡 Excercise 2.3: mix sound and energy body]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 2 1 Feel where the sound is coming from against energy body background\|🟡 Excercise 2.1: Feel where the sound is coming from, against energy body background]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 2 3 mix sound and energy body\|🟡 Excercise 2.3: mix sound and energy body]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Dilemmas and Delineations - How did we get here Part 2#Arousal of interest and resonances in the energy body\|Arousal of interest and resonances in the energy body]] | 4 | [[Dilemmas and Delineations - How did we get here Part 2]]
 
 ### Quotes

@@ -9,7 +9,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Practice of Compassion#Compassion involves different qualities eg empathy\|Compassion involves different qualities, e.g. empathy]] | 3 | [[The Practice of Compassion]]
+[[The Practice of Compassion#Compassion involves different qualities e g empathy\|Compassion involves different qualities, e.g. empathy]] | 3 | [[The Practice of Compassion]]
 [[Equanimity in Compassion#1 Opening the heart to resonate with the suffering we see empathy\|(1) Opening the heart to resonate with the suffering we see (empathy)]] | 1 | [[Equanimity in Compassion]]
 [[The Practice of Compassion#If there's too much sadness we feel we will get tired and feel burdened\|If there's too much sadness we feel, we will get tired and feel burdened]] | 1 | [[The Practice of Compassion]]
 

@@ -30,7 +30,7 @@ description | count | talk
 [[Expressions of Metta#Metta being unconditioned and boundless can seem a bit unreal "metta machine"\|Metta being unconditioned and boundless can seem a bit unreal ("metta machine")]] | 6 | [[Expressions of Metta]]
 [[Expressions of Metta#Experiment with letting the phrases go\|Experiment with letting the phrases go]] | 6 | [[Expressions of Metta]]
 [[Samadhi in Metta Practice#We are giving metta to ourselves but we are also receiving metta\|We are giving metta to ourselves, but we are also receiving metta]] | 6 | [[Samadhi in Metta Practice]]
-[[The Way of Non-Clinging Part 3#Sometimes our fantasies about the Dharma are inadquate eg what it says about romantic love\|Sometimes our fantasies about the Dharma are inadquate, e.g. what it says about romantic love]] | 5 | [[The Way of Non-Clinging Part 3]]
+[[The Way of Non-Clinging Part 3#Sometimes our fantasies about the Dharma are inadquate e g what it says about romantic love\|Sometimes our fantasies about the Dharma are inadquate, e.g. what it says about romantic love]] | 5 | [[The Way of Non-Clinging Part 3]]
 [[Joy (talk)#Sometimes in the West joy does not receive the same attention as other brahmaviharas\|Sometimes in the West, joy does not receive the same attention as other brahmaviharas]] | 5 | [[Joy (talk)]]
 [[Guided meditation - Metta to phenomena#Bathing that in loving kindness over and over\|Bathing that in loving kindness, over and over]] | 5 | [[Guided meditation - Metta to phenomena]]
 [[Guided meditation - Metta to phenomena#Whatever there is in consciousness in the moment touching it with tenderness\|Whatever there is in consciousness in the moment, touching it with tenderness]] | 5 | [[Guided meditation - Metta to phenomena]]

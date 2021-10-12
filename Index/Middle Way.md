@@ -11,7 +11,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Dilemmas and Delineations - How did we get here Part 1#The Buddha often uses "striving" etc\|The Buddha often uses "striving" etc.]] | 4 | [[Dilemmas and Delineations - How did we get here Part 1]]
+[[Dilemmas and Delineations - How did we get here Part 1#The Buddha often uses "striving" etc \|The Buddha often uses "striving" etc.]] | 4 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Words like 'angel' 'soul' 'image' imply unfathomability\|Words like 'angel', 'soul', 'image' imply unfathomability]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Second extreme spend hours and years on them before doing something else\|Second extreme: spend hours and years on them before doing something else]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Love and Emptiness#The Middle Way points to neither existence nor non-existence nor some kind of compromise\|The Middle Way points to neither existence, nor non-existence, nor some kind of compromise]] | 1 | [[Love and Emptiness]]

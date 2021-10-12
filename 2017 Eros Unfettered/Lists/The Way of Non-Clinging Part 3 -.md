@@ -14,7 +14,7 @@ obsidianUIMode: preview
 - [[The Way of Non-Clinging Part 3#Fantasy of the Buddhist path|Fantasy of the Buddhist path.]]
 - [[The Way of Non-Clinging Part 3#"This is what a bodhisattva does"|"This is what a bodhisattva does".]]
 - [[The Way of Non-Clinging Part 3#The problem is when fantasy is regarded as a problem|The problem is when fantasy is regarded as a problem.]]
-- [[The Way of Non-Clinging Part 3#Sometimes our fantasies about the Dharma are inadquate eg what it says about romantic love|Sometimes our fantasies about the Dharma are inadquate, e.g. what it says about romantic love.]]
+- [[The Way of Non-Clinging Part 3#Sometimes our fantasies about the Dharma are inadquate e g what it says about romantic love|Sometimes our fantasies about the Dharma are inadquate, e.g. what it says about romantic love.]]
 - [[The Way of Non-Clinging Part 3#When I stretch a limited conceptual framework over things I care deeply about the whole structure will snap|When I stretch a limited conceptual framework over things I care deeply about, the whole structure will snap.]]
 - [[The Way of Non-Clinging Part 3#3 distinctions divisions directions for "clinging"|3 distinctions, divisions, directions (for "clinging")]]
 - [[The Way of Non-Clinging Part 3#1 desire for sense pleasures mindfulness|1. desire for sense pleasures (mindfulness)]]

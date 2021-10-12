@@ -15,11 +15,11 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Perfection and Christ's Blessing#Theodicy\|Theodicy]] | 2 | [[Perfection and Christ's Blessing]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 51 _Via Dolorosa_\|🟡 Excercise 5.1: _Via Dolorosa_]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 5 1 _Via Dolorosa_\|🟡 Excercise 5.1: _Via Dolorosa_]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#What she was doing was dangerous and therefore took courage\|What she was doing was dangerous and therefore took courage]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Looking deep inside myself I encounter nothing\|Looking deep inside myself, I encounter nothing]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Doesn't have to be christ can be martyrs in the Coliseum\|Doesn't have to be christ, can be martyrs in the Coliseum]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 53 _The Hospitality to the Angels_ 🟢\|🟡 Excercise 5.3: _The Hospitality to the Angels_ 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 5 3 _The Hospitality to the Angels_ 🟢\|🟡 Excercise 5.3: _The Hospitality to the Angels_ 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's about the moments prior to the scene in the Rublev's image\|It's about the moments prior to the scene in the Rublev's image]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The soulmaking poise has a range is elastic with soft edges\|The soulmaking poise has a range, is elastic with soft edges]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[The Practice of Compassion#"Love is without beginning"\|"Love is without beginning"]] | 1 | [[The Practice of Compassion]]

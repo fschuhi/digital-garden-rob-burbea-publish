@@ -12,6 +12,6 @@ description | count | talk
 :- | : - | :-
 [[Expressions of Metta#Category "friend"\|Category "friend"]] | 2 | [[Expressions of Metta]]
 [[Dilemmas and Delineations - How did we get here Part 1#The contemplative painfully longs for awakening\|The contemplative painfully longs for awakening]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
-[[Love and Emptiness#"By not holding to fixed views" - the liberation comes through how ways of seeing are fabricated\|..."By not holding to fixed views" - the liberation comes through how ways of seeing are fabricated]] | 1 | [[Love and Emptiness]]
+[[Love and Emptiness# "By not holding to fixed views" - the liberation comes through how ways of seeing are fabricated\|..."By not holding to fixed views" - the liberation comes through how ways of seeing are fabricated]] | 1 | [[Love and Emptiness]]
 [[Expressions of Metta#Metta being unconditioned and boundless can seem a bit unreal "metta machine"\|Metta being unconditioned and boundless can seem a bit unreal ("metta machine")]] | 1 | [[Expressions of Metta]]
 

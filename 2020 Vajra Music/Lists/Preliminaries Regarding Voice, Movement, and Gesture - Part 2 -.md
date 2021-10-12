@@ -51,11 +51,11 @@ obsidianUIMode: preview
 #### 🟡 Excercise 3.4: _The Immovable Protector_
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Human Angel Mythic Figure What are they protecting|Human? Angel? Mythic Figure? What are they protecting?]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Modalities|Modalities.]]
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#🟡 Excercise 35 _The Serpent_|🟡 Excercise 3.5: _The Serpent_.]]
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#🟡 Excercise 3 5 _The Serpent_|🟡 Excercise 3.5: _The Serpent_.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Summary of some modalities|Summary of some modalities.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Excercise 3 ends|Excercise 3 ends.]]
 ### Again: Why?
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Ability to gather momentum eg for Thunderclap is quite rare|Ability to gather momentum (e.g. for Thunderclap) is quite rare.]]
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Ability to gather momentum e g for Thunderclap is quite rare|Ability to gather momentum (e.g. for Thunderclap) is quite rare.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Circuits aren't connected and it limits what arises imaginally|Circuits aren't connected, and it limits what arises imaginally.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#This affects the whole psyche heart relation to others|This affects the whole psyche, heart, relation to others.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#It also affects the decision to practice these kind of excercises|It also affects the decision to practice these kind of excercises.]]
@@ -100,6 +100,6 @@ obsidianUIMode: preview
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#2 temporalities|2 temporalities.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#The image needs to be refracted into duty - - are the circuits working|The image needs to be refracted into duty - - are the circuits working?]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Sometimes something is so cut that we don't even feel the soul's want|Sometimes something is so cut that we don't even feel the soul's want.]]
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Blocks are normal The angels come and they help|Blocks are normal. The angels come, and they help.]]
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Blocks are normal The angels come and they help |Blocks are normal. The angels come, and they help.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Diamond Approach "impeccability"|Diamond Approach: "impeccability".]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Sometimes angels reconnect the circuits and sometimes we excercise to open the circuits|Sometimes angels reconnect the circuits, and sometimes we excercise to open the circuits.]]
