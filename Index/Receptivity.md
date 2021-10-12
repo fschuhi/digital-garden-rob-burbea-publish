@@ -4,6 +4,7 @@
 talk | count | series
 :- | - |: -
 [[Samadhi in Metta Practice]] | 7 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Place of Samadhi in Metta Practice]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 3 | [[2006 New Year's Retreat]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 2 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 2 | [[2020 Vajra Music]]

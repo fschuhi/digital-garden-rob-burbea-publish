@@ -47,7 +47,6 @@ talk | count | series
 
 <br/>
 
-
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-

@@ -5,6 +5,7 @@ talk | count | series
 :- | - |: -
 [[The Way of Non-Clinging Part 3]] | 11 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 1]] | 10 | [[2017 Eros Unfettered]]
+[[The Place of Samadhi in Metta Practice]] | 7 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Joy (talk)]] | 7 | [[2007 New Years Retreat Insight Meditation]]
 [[Samadhi in Metta Practice]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 3 | [[2017 Eros Unfettered]]
@@ -12,7 +13,6 @@ talk | count | series
 [[Equanimity in Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Equanimity (talk)]] | 1 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

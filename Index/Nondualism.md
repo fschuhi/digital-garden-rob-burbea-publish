@@ -4,6 +4,7 @@
 talk | count | series
 :- | - |: -
 [[Samadhi in Metta Practice]] | 7 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Place of Samadhi in Metta Practice]] | 6 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 3 | [[2020 Vajra Music]]
@@ -16,5 +17,6 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
+[[The Place of Samadhi in Metta Practice#A deep understanding of non-duality is that actually there's no "way things are"\|A deep understanding of non-duality is that actually there's no "way things are"]] | 6 | [[The Place of Samadhi in Metta Practice]]
 [[Samadhi in Metta Practice#The question of effort is connected with a sense of duality which is connected with a sense of love\|The question of effort is connected with a sense of duality, which is connected with a sense of love]] | 6 | [[Samadhi in Metta Practice]]
 

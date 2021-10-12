@@ -12,7 +12,7 @@ talk | count | series
 [[The Way of Non-Clinging Part 3]] | 2 | [[2017 Eros Unfettered]]
 [[Joy (talk)]] | 2 | [[2007 New Years Retreat Insight Meditation]]
 [[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] | 1 | [[2020 Vajra Music]]
+[[Exploring the World of Loving Kindness]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 

@@ -4,6 +4,8 @@
 - retreat [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 	- [[What is Insight]], with feedback from Shannon
 	- [[Joy (talk)]]
+- added retreat [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+	- [[The Place of Samadhi in Metta Practice]]
 - retreat [[2017 Eros Unfettered]]
 	- [[The Way of Non-Clinging Part 1]]
 	- [[The Way of Non-Clinging Part 2]]

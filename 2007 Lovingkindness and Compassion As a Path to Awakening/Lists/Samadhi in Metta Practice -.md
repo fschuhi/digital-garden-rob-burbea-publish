@@ -54,7 +54,7 @@ obsidianUIMode: preview
 - [[Samadhi in Metta Practice#The question of effort is connected with a sense of duality which is connected with a sense of love|The question of effort is connected with a sense of duality, which is connected with a sense of love.]]
 - [[Samadhi in Metta Practice#Samadhi as goal-oriented practice|Samadhi as goal-oriented practice.]]
 - [[Samadhi in Metta Practice#Samadhi doesn't lead to a sense of attachment|Samadhi doesn't lead to a sense of attachment.]]
-#### Thinking
+### Thinking
 - [[Samadhi in Metta Practice#Dwelling in a lovely space|Dwelling in a lovely space.]]
 - [[Samadhi in Metta Practice#Metta phrases are more helpful than a lot of the other thoughts we have during the day|Metta phrases are more helpful than a lot of the other thoughts we have during the day.]]
 - [[Samadhi in Metta Practice#Samadhi is an acquired taste|Samadhi is an acquired taste.]]

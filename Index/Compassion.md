@@ -8,11 +8,11 @@ talk | count | series
 [[Love and Emptiness]] | 59 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 13 | [[2020 Vajra Music]]
 [[From Insight to Love]] | 13 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Place of Samadhi in Metta Practice]] | 10 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Guided meditation - Metta to phenomena]] | 9 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Exploring the World of Loving Kindness]] | 7 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Joy (talk)]] | 6 | [[2007 New Years Retreat Insight Meditation]]
 [[Expressions of Metta]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Equanimity (talk)]] | 5 | [[2006 New Year's Retreat]]
-[[Samadhi in Metta Practice]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

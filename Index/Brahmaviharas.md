@@ -3,6 +3,7 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
+[[The Place of Samadhi in Metta Practice]] | 4 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Joy (talk)]] | 4 | [[2007 New Years Retreat Insight Meditation]]
 [[Equanimity in Compassion]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 2 | [[2017 Eros Unfettered]]
@@ -12,12 +13,13 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
+[[The Place of Samadhi in Metta Practice#Our mind is often dwelling in unhelpful places\|Our mind is often dwelling in unhelpful places]] | 3 | [[The Place of Samadhi in Metta Practice]]
 [[Joy (talk)#Sometimes in the West joy does not receive the same attention as other brahmaviharas\|Sometimes in the West, joy does not receive the same attention as other brahmaviharas]] | 2 | [[Joy (talk)]]
 [[Joy (talk)#Metta and compassion bring happiness\|Metta and compassion bring happiness]] | 2 | [[Joy (talk)]]
 [[Equanimity in Compassion#Equanimity is the fourth of the brahmaviharas\|Equanimity is the fourth of the brahmaviharas]] | 2 | [[Equanimity in Compassion]]
 [[Dilemmas and Delineations - How did we get here Part 1#Desire is one of the Four Bases\|Desire is one of the Four Bases]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[Dilemmas and Delineations - How did we get here Part 1#The soul wants disentangling but also something else\|The soul wants disentangling, but also something else]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
-[[The Way of Non-Clinging Part 3#Neither simplicity nor more Buddhist concepts is the answer\|Neither simplicity nor more Buddhist concepts is the answer]] | 1 | [[The Way of Non-Clinging Part 3]]
+[[The Place of Samadhi in Metta Practice#0853[Usually we keep the mind on one object but one could also have a very open kind of vipassa practice\|08:53[Usually we keep the mind on one object, but one could also have a very open kind of vipassa practice]] | 1 | [[The Place of Samadhi in Metta Practice]]
 [[Equanimity in Compassion#Politics show that there are limits in how much we can help\|Politics show that there are limits in how much we can help]] | 1 | [[Equanimity in Compassion]]
 [[Equanimity in Compassion#Equanimity is not indifference\|Equanimity is not indifference]] | 1 | [[Equanimity in Compassion]]
 [[Samadhi in Metta Practice#Dwelling in a lovely space\|Dwelling in a lovely space]] | 1 | [[Samadhi in Metta Practice]]

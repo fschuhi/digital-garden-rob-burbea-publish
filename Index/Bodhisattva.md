@@ -6,6 +6,7 @@ talk | count | series
 [[The Practice of Compassion]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 3]] | 2 | [[2017 Eros Unfettered]]
+[[Exploring the World of Loving Kindness]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

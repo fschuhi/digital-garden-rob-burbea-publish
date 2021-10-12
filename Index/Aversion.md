@@ -9,8 +9,8 @@ talk | count | series
 [[Samadhi in Metta Practice]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Joy (talk)]] | 7 | [[2007 New Years Retreat Insight Meditation]]
 [[The Way of Non-Clinging Part 1]] | 5 | [[2017 Eros Unfettered]]
+[[The Place of Samadhi in Metta Practice]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[The Way of Non-Clinging Part 2]] | 2 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
 

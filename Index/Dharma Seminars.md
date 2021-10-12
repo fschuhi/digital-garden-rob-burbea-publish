@@ -4,7 +4,6 @@ https://docs.google.com/document/d/1i4x0Nx5rGrfDuqJV6z5U8h28xAw4UCwlaVqukOZaBNM/
 
 ### Rob Burbea Dharma seminar dates and zoom recordings
 
-
 #### 12.9.19 Ontology and conceptions of reality in dharma practice
 
 Video: [https://drive.google.com/file/d/1ghgV508vOSabUinBrh8Gx1JVQSmzkYNt/view?usp=sharing](https://drive.google.com/file/d/1ghgV508vOSabUinBrh8Gx1JVQSmzkYNt/view?usp=sharing)
@@ -68,11 +67,9 @@ Part 1 Video:
 
 [https://drive.google.com/open?id=1i9gUcAAeaWwfvLQQbwELMYX4rg3or9Uu](https://drive.google.com/open?id=1i9gUcAAeaWwfvLQQbwELMYX4rg3or9Uu)
 
-
 Part 1 Audio:
 
 [https://drive.google.com/file/d/18v4NY-ZHodQ4q9JdsPdN1t7rI-7p4w-W/view?usp=sharing](https://drive.google.com/file/d/18v4NY-ZHodQ4q9JdsPdN1t7rI-7p4w-W/view?usp=sharing)
-
 
 Part 2 Video:
 

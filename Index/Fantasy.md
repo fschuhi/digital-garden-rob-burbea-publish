@@ -6,6 +6,7 @@ talk | count | series
 [[The Way of Non-Clinging Part 3]] | 30 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 17 | [[2020 Vajra Music]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 4 | [[2017 Eros Unfettered]]
+[[The Place of Samadhi in Metta Practice]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 1 | [[2020 Vajra Music]]
 [[What is Insight]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 

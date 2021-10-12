@@ -23,25 +23,6 @@ talk | count | series
 [[Equanimity in Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
 
-### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Witness is just noticing albeit by bringing the whole energy body into sensual relationship 🟢\|Witness is just noticing (albeit by bringing the whole energy body into sensual relationship) 🟢]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 1 1 fill the room with the energy body\|🟡 Excercise 1.1: fill the room with the energy body]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's not important to recognise the situation from the outside it's more important to resonate in the heart and the soul\|It's not important to recognise the situation from the outside, it's more important to resonate in the heart and the soul]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#The blessed one is not responding but is sensitive with the energy body\|The blessed one is not responding but is sensitive with the energy body]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Summary of the excercises\|Summary of the excercises]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
-[[Dilemmas and Delineations - How did we get here Part 2#The "bliss" of soulmaking"\|The "bliss" of soulmaking"]] | 5 | [[Dilemmas and Delineations - How did we get here Part 2]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Include sensing with soul the whole relational field\|Include sensing with soul the whole relational field]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Energy body excercises open towards relating to it as imaginal image\|Energy body excercises open towards relating to it as imaginal image]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Interview situation opening up to a whole new sense of self "wow"\|Interview situation: opening up to a whole new sense of self, "wow"]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#It's about sensitivity\|It's about sensitivity]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#The kinaesthetic sense of energy fills the whole space\|The kinaesthetic sense of energy fills the whole space]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#let the energy body project to fill the space\|let the energy body project to fill the space]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 2 1 Feel where the sound is coming from against energy body background\|🟡 Excercise 2.1: Feel where the sound is coming from, against energy body background]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 2 3 mix sound and energy body\|🟡 Excercise 2.3: mix sound and energy body]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
-[[Dilemmas and Delineations - How did we get here Part 2#Arousal of interest and resonances in the energy body\|Arousal of interest and resonances in the energy body]] | 4 | [[Dilemmas and Delineations - How did we get here Part 2]]
-
 ### Quotes
 ##### Vajra Music - Preliminaries - Part 1 [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1|(Transcript)]] 🟢 ^some-block-pointer
 <span class="counts">[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#2-3|2-3]] (2) · [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#15-5|15-5]] (3) · [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#16-1|16-1]] (3) · **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#16-4|16-4]]** (6) · **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#16-5|16-5]]** (4) · [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#16-6|16-6]] (2) · [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#17-1|17-1]] (4) · **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#17-5|17-5]]** (4) · [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#18-3|18-3]] (2) · [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#18-5|18-5]] (4) · **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#18-6|18-6]]** (3) · [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#19-1|19-1]] (2) · [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#19-2|19-2]] (4) · **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#19-3|19-3]]** (2) · [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#19-4|19-4]] · [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#20-1|20-1]] (5)</span>
@@ -132,3 +113,23 @@ A good way to train the [[energy body]] is to continue to focus in the foregroun
 - Breath Energy (TB)
 - Shiné, all-around awareness
 - (Griffero 2017) Felt-bodily resonances.pdf
+
+### Paragraphs with 4+ mentions
+description | count | talk
+:- | : - | :-
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Witness is just noticing albeit by bringing the whole energy body into sensual relationship 🟢\|Witness is just noticing (albeit by bringing the whole energy body into sensual relationship) 🟢]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 1 1 fill the room with the energy body\|🟡 Excercise 1.1: fill the room with the energy body]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's not important to recognise the situation from the outside it's more important to resonate in the heart and the soul\|It's not important to recognise the situation from the outside, it's more important to resonate in the heart and the soul]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#The blessed one is not responding but is sensitive with the energy body\|The blessed one is not responding but is sensitive with the energy body]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Summary of the excercises\|Summary of the excercises]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Dilemmas and Delineations - How did we get here Part 2#The "bliss" of soulmaking"\|The "bliss" of soulmaking"]] | 5 | [[Dilemmas and Delineations - How did we get here Part 2]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Include sensing with soul the whole relational field\|Include sensing with soul the whole relational field]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Energy body excercises open towards relating to it as imaginal image\|Energy body excercises open towards relating to it as imaginal image]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Interview situation opening up to a whole new sense of self "wow"\|Interview situation: opening up to a whole new sense of self, "wow"]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#It's about sensitivity\|It's about sensitivity]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#The kinaesthetic sense of energy fills the whole space\|The kinaesthetic sense of energy fills the whole space]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#let the energy body project to fill the space\|let the energy body project to fill the space]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 2 1 Feel where the sound is coming from against energy body background\|🟡 Excercise 2.1: Feel where the sound is coming from, against energy body background]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 2 3 mix sound and energy body\|🟡 Excercise 2.3: mix sound and energy body]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Dilemmas and Delineations - How did we get here Part 2#Arousal of interest and resonances in the energy body\|Arousal of interest and resonances in the energy body]] | 4 | [[Dilemmas and Delineations - How did we get here Part 2]]
+

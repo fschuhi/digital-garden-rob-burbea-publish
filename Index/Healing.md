@@ -4,6 +4,7 @@
 talk | count | series
 :- | - |: -
 [[The Practice of Compassion]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Place of Samadhi in Metta Practice]] | 4 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 2 | [[2007 New Years Retreat Insight Meditation]]
 [[Expressions of Metta]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
@@ -15,4 +16,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
+[[The Place of Samadhi in Metta Practice#Samadhi brings with it a tremendous of well being\|Samadhi brings with it a tremendous of well being]] | 4 | [[The Place of Samadhi in Metta Practice]]
 

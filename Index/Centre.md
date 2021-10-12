@@ -24,7 +24,6 @@ related practice: [[0301 Preliminaries Regarding Voice, Movement, and Gesture - 
 		- the angel is self and other, both and neither
 		- [[Divinity|Theophany]] = face of the divine [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^2-1|+]] [[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^4-3|+]]
 
-
 ### added 14.09.21 13:10:30
 
 ##### 2007 Lovingkindness and Compassion As a Path to Awakening: Samadhi in Metta Practice [[0122 Samadhi in Metta Practice|(Transcript)]]

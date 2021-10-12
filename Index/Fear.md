@@ -5,13 +5,13 @@ talk | count | series
 :- | - |: -
 [[From Insight to Love]] | 119 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 14 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Place of Samadhi in Metta Practice]] | 13 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 12 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 11 | [[2020 Vajra Music]]
 [[Samadhi in Metta Practice]] | 9 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Exploring the World of Loving Kindness]] | 6 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 3 | [[2006 New Year's Retreat]]
-[[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
-[[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 [[Guided meditation - Metta to phenomena]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
@@ -19,6 +19,7 @@ description | count | talk
 :- | : - | :-
 [[From Insight to Love#Practice total acceptance of the physical sensations of fear\|Practice: total acceptance of the physical sensations of fear]] | 15 | [[From Insight to Love]]
 [[From Insight to Love#Don't push away fear but incline the awareness a bit towards loveliness\|Don't push away fear, but incline the awareness a bit towards loveliness]] | 12 | [[From Insight to Love]]
+[[The Place of Samadhi in Metta Practice#Fear can come up\|Fear can come up]] | 10 | [[The Place of Samadhi in Metta Practice]]
 [[From Insight to Love#The aversion to fear is part of the fear itself\|The aversion to fear is part of the fear itself]] | 9 | [[From Insight to Love]]
 [[Love and Emptiness#Fear is not existing independently but also dependend on the reaction to it\|Fear is not existing independently, but also dependend on the reaction to it]] | 7 | [[Love and Emptiness]]
 [[The Practice of Compassion#Fear only compounds the suffering\|Fear only compounds the suffering]] | 7 | [[The Practice of Compassion]]

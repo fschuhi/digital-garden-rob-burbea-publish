@@ -10,9 +10,9 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 6 | [[2020 Vajra Music]]
 [[The Way of Non-Clinging Part 3]] | 5 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 2]] | 5 | [[2017 Eros Unfettered]]
+[[The Place of Samadhi in Metta Practice]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Dilemmas and Delineations - How did we get here Part 2]] | 3 | [[2017 Eros Unfettered]]
-[[Samadhi in Metta Practice]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -21,4 +21,5 @@ description | count | talk
 [[The Way of Non-Clinging Part 1#Fetters and arahantship\|Fetters and arahantship]] | 6 | [[The Way of Non-Clinging Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 5 2 _The Bhumisparsa Mudra_\|🟡 Excercise 5.2: _The Bhumisparsa Mudra_]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[The Way of Non-Clinging Part 1#"Don't try to repeat experiences"\|"Don't try to repeat experiences"]] | 4 | [[The Way of Non-Clinging Part 1]]
+[[The Place of Samadhi in Metta Practice#Three major fruits from this retreat\|Three major fruits from this retreat]] | 4 | [[The Place of Samadhi in Metta Practice]]
 

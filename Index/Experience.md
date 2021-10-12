@@ -11,8 +11,8 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 14 | [[2020 Vajra Music]]
 [[Guided meditation - Metta to phenomena]] | 12 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 12 | [[2006 New Year's Retreat]]
+[[The Place of Samadhi in Metta Practice]] | 10 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 9 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Dilemmas and Delineations - How did we get here Part 1]] | 8 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

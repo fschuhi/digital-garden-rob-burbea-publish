@@ -27,24 +27,26 @@ For any feedback or suggestions relating to this Digital Garden, please email fr
 \
 	
 ## Retreats and series of talks
-✔️ completed (for now)
-🛠️ Work in Progress
-⏸️ on hold
-
-- ✔️ [[2006 New Year's Retreat]]
-	- _You'll find some **info boxes on that page**, explaining the basics of how a retreat or series of talks is set up in this Digital Garden._
-	- _See other info boxes in the the summary [[Equanimity (talk)]]_
+- ⏸️ [[2006 New Year's Retreat]]
+	- One talk added (for the [[Metta book project]], one transcript waiting.
 - ✔️ [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-	- _This is a pretty complete collection of the talks of that retreat._
-	- _It continues to be work in progress, with more comments, links and additional information to come._
+	- _Collection of Rob's talks for that retreat, the talks a bit structured into sections and subsections._
 - ✔️ [[2007 New Years Retreat Insight Meditation]]
 	- _short retreat, for the [[Metta book project]]_
+-  🛠️ [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+	- _Currently aiming for two talks, as support for the [[Metta book project]]_
 - ✔️ [[2020 Vajra Music]] 
 	- _The talks of that series contain have charts at the top of the summary pages. The charts show visually how the parts of the talk hang together._
 	- _We've also experimented a bit with marking paragraphs with_ 🟡 _(= is an excercise) and_ 🟢 _(= has a link to another talk)._
 	- _The series also contains [[Vajra Music Excercises (Pádraig)]], one of Pádraig's practice guides, see explanation on that page._
-- ⏸️ [[2017 Eros Unfettered]] 
+- 🛠️ [[2017 Eros Unfettered]] 
 	- _We initially started the Digital Garden with this beloved series, but agreed then on working towards a Metta book first. Therefore the work on Eros Unfettered series of talks have been put on hold for now._
+
+<span style="color:darkgray">
+	 ✔️completed (for now)<br/>
+	🛠️ Work in Progress<br/ >
+	⏸️ on hold<br/ >
+</span>
 
 <div class="admonition important"><div class="title">A request</div><div class="content">
 When distributing links to this digital garden to others, please be considerate and keep in mind that this project is very much work in progress. What you see here is only a very small part of the teachings of Rob Burbea!<br/>

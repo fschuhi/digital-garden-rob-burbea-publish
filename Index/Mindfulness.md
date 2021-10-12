@@ -12,7 +12,7 @@ talk | count | series
 [[Samadhi in Metta Practice]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 5 | [[2006 New Year's Retreat]]
 [[Dilemmas and Delineations - How did we get here Part 2]] | 4 | [[2017 Eros Unfettered]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 3 | [[2020 Vajra Music]]
+[[The Place of Samadhi in Metta Practice]] | 4 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

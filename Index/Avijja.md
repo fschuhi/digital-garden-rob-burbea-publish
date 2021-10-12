@@ -8,6 +8,7 @@ talk | count | series
 [[The Way of Non-Clinging Part 1]] | 7 | [[2017 Eros Unfettered]]
 [[What is Insight]] | 3 | [[2007 New Years Retreat Insight Meditation]]
 [[The Practice of Compassion]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Exploring the World of Loving Kindness]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

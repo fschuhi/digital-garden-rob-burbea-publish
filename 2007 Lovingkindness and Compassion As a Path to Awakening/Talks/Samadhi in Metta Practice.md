@@ -299,7 +299,7 @@ TODO: x points to y
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12294/20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=38:16" type="audio/mpeg">???</audio>
 
 ---
-#### Thinking
+### Thinking
 ##### Dwelling in a lovely space
 <span class="counts">**<a data-href="0122 Samadhi in Metta Practice#^8-3" href="0122+Samadhi+in+Metta+Practice#^8-3" class="internal-link" target="_blank" rel="noopener">8-3</a>**: _<a data-href="Buddha" href="Buddha" class="internal-link" target="_blank" rel="noopener">Buddha</a> · <a data-href="Love" href="Love" class="internal-link" target="_blank" rel="noopener">Love</a> (2) · <a data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">Compassion</a> (2) · <a data-href="Metta" href="Metta" class="internal-link" target="_blank" rel="noopener">Metta</a> · <a data-href="Brahmaviharas" href="Brahmaviharas" class="internal-link" target="_blank" rel="noopener">Brahmaviharas</a> · <a data-href="Personhood" href="Personhood" class="internal-link" target="_blank" rel="noopener">Personhood</a> · <a data-href="Samadhi" href="Samadhi" class="internal-link" target="_blank" rel="noopener">Samadhi</a> (3) · <a data-href="Mind" href="Mind" class="internal-link" target="_blank" rel="noopener">Mind</a> (4) · <a data-href="Steadiness" href="Steadiness" class="internal-link" target="_blank" rel="noopener">Steadiness</a> · <a data-href="Pleasantness" href="Pleasantness" class="internal-link" target="_blank" rel="noopener">Pleasantness</a>_</span>
 

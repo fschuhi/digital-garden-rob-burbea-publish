@@ -20,19 +20,8 @@ talk | count | series
 [[Love and Emptiness]] | 7 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 1 | [[2020 Vajra Music]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
+[[The Place of Samadhi in Metta Practice]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-
-### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | :-
-[[Equanimity (talk)#The near enemy is indifference and lack of juicyness in life\|The near enemy is indifference and lack of juicyness in life]] | 9 | [[Equanimity (talk)]]
-[[Love and Emptiness#Things make less impression on consciousness when there's a lot of equanimity\|Things make less impression on consciousness when there's a lot of equanimity]] | 6 | [[Love and Emptiness]]
-[[Equanimity in Compassion#Equanimity is not indifference\|Equanimity is not indifference]] | 5 | [[Equanimity in Compassion]]
-[[Joy (talk)#Joy moves naturally towards equanimity\|Joy moves naturally towards equanimity]] | 4 | [[Joy (talk)]]
-[[Equanimity in Compassion#As the self-sense gets quite equanimity becomes the natural state\|As the self-sense gets quite, equanimity becomes the natural state]] | 4 | [[Equanimity in Compassion]]
-[[Equanimity in Compassion#2 Equanimity deepens by letting go of grasping and craving\|(2) Equanimity deepens by letting go of grasping and craving]] | 4 | [[Equanimity in Compassion]]
-[[Equanimity in Compassion#Rob spaciousness and progressivly letting go\|Rob: spaciousness and progressivly letting go]] | 4 | [[Equanimity in Compassion]]
-[[Equanimity (talk)#There is nothing really to be equanimous about\|There is nothing really to be equanimous about]] | 4 | [[Equanimity (talk)]]
 
 ### Quotes
 ##### 2006 New Year's Retreat: Equanimity [[1228 Equanimity (talk)|(Transcript)]]
@@ -92,4 +81,16 @@ description | count | talk
 
 ##### 2007 New Years Retreat Insight Meditation: Joy (talk) [[2007 New Years Retreat Insight Meditation/Transcripts/1231 Joy (talk)|(Transcript)]]
 _occurrences: [[2007 New Years Retreat Insight Meditation/Transcripts/1231 Joy (talk)#1-4|1-4]] (3) · [[2007 New Years Retreat Insight Meditation/Transcripts/1231 Joy (talk)#3-2|3-2]] (4) · [[2007 New Years Retreat Insight Meditation/Transcripts/1231 Joy (talk)#8-2|8-2]]_
+
+### Paragraphs with 4+ mentions
+description | count | talk
+:- | : - | :-
+[[Equanimity (talk)#The near enemy is indifference and lack of juicyness in life\|The near enemy is indifference and lack of juicyness in life]] | 9 | [[Equanimity (talk)]]
+[[Love and Emptiness#Things make less impression on consciousness when there's a lot of equanimity\|Things make less impression on consciousness when there's a lot of equanimity]] | 6 | [[Love and Emptiness]]
+[[Equanimity in Compassion#Equanimity is not indifference\|Equanimity is not indifference]] | 5 | [[Equanimity in Compassion]]
+[[Joy (talk)#Joy moves naturally towards equanimity\|Joy moves naturally towards equanimity]] | 4 | [[Joy (talk)]]
+[[Equanimity in Compassion#As the self-sense gets quite equanimity becomes the natural state\|As the self-sense gets quite, equanimity becomes the natural state]] | 4 | [[Equanimity in Compassion]]
+[[Equanimity in Compassion#2 Equanimity deepens by letting go of grasping and craving\|(2) Equanimity deepens by letting go of grasping and craving]] | 4 | [[Equanimity in Compassion]]
+[[Equanimity in Compassion#Rob spaciousness and progressivly letting go\|Rob: spaciousness and progressivly letting go]] | 4 | [[Equanimity in Compassion]]
+[[Equanimity (talk)#There is nothing really to be equanimous about\|There is nothing really to be equanimous about]] | 4 | [[Equanimity (talk)]]
 

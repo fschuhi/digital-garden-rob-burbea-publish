@@ -4,6 +4,7 @@
 talk | count | series
 :- | - |: -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 26 | [[2020 Vajra Music]]
+[[Exploring the World of Loving Kindness]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 2 | [[2007 New Years Retreat Insight Meditation]]
 [[From Insight to Love]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 

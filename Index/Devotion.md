@@ -10,6 +10,7 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 2 | [[2020 Vajra Music]]
 [[Perfection and Christ's Blessing]] | 1 | [[2020 Vajra Music]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
+[[Exploring the World of Loving Kindness]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 [[What is Insight]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 

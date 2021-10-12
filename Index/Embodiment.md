@@ -6,17 +6,18 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 95 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 60 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 30 | [[2020 Vajra Music]]
+[[The Place of Samadhi in Metta Practice]] | 28 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 27 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Exploring the World of Loving Kindness]] | 15 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 13 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 1]] | 10 | [[2017 Eros Unfettered]]
 [[What is Insight]] | 10 | [[2007 New Years Retreat Insight Meditation]]
 [[The Practice of Compassion]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Joy (talk)]] | 7 | [[2007 New Years Retreat Insight Meditation]]
-[[Expressions of Metta]] | 7 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
+[[The Place of Samadhi in Metta Practice#As samadhi deepens the body becomes really really central\|As samadhi deepens, the body becomes really, really central]] | 9 | [[The Place of Samadhi in Metta Practice]]
 [[Samadhi in Metta Practice#Emotion is reflected as a contraction in the body\|Emotion is reflected as a contraction in the body]] | 9 | [[Samadhi in Metta Practice]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Open up so that we too are dwelling there\|Open up so that we, too, are dwelling there]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Be moved by these angels\|Be moved by these angels]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
@@ -24,6 +25,7 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Sometimes we don't let certain expressions of movement gesture voice into the body\|Sometimes we don't let certain expressions of movement/gesture/voice into the body]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#When does an image need to be concretized in movement gesture voice\|When does an image need to be concretized in movement, gesture, voice?]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Dilemmas and Delineations - How did we get here Part 1#Eros involves energy embodiment the imaginal and logos\|Eros involves energy, embodiment, the imaginal, and logos]] | 5 | [[Dilemmas and Delineations - How did we get here Part 1]]
+[[The Place of Samadhi in Metta Practice#ad 2 tightness\|ad 2. tightness]] | 5 | [[The Place of Samadhi in Metta Practice]]
 [[Joy (talk)#Attention to joy itself feeds joy\|Attention to joy itself feeds joy]] | 5 | [[Joy (talk)]]
 [[Samadhi in Metta Practice#Better "collectedness" even better "unification"\|Better: "collectedness", even better: "unification"]] | 5 | [[Samadhi in Metta Practice]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#There's a body in there\|There's a body in there]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]

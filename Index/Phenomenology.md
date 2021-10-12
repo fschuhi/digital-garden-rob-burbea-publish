@@ -1,7 +1,5 @@
 #IndexEntry #Philosophy
 
-
-
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
