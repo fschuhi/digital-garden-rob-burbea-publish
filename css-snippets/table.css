@@ -6,6 +6,10 @@
 }
 */
 
+.markdown-preview-view td {
+    vertical-align: top;
+}
+
 .markdown-preview-view table {
     font-size: 13px;
     line-height: 1.2em;

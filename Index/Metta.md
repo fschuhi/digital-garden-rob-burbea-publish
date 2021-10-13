@@ -6,7 +6,7 @@ talk | count | series
 [[Love and Emptiness]] | 79 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 70 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 64 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[The Place of Samadhi in Metta Practice]] | 61 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Place of Samadhi in Metta Practice]] | 60 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Exploring the World of Loving Kindness]] | 57 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 43 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 29 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]

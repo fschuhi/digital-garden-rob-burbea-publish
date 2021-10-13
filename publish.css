@@ -263,6 +263,14 @@ body {
   color: var(--text-faint) !important;
 }
 
+.blockid {
+  font-family: var(--font-family-preview);
+  font-weight: 500;
+  font-size: 9px !important;
+  /* font-weight: bold;*/
+  font-style: normal;;
+  color: var(--text-faint) !important;
+}
 
 /****************************************/
 /* hr.css
@@ -276,6 +284,18 @@ body {
     margin-top: 2px;
     margin-bottom: -7px;
     margin-left: -6px;
+}
+
+.markdown-preview-view hr.dashed-red {
+  border-top: 1px dashed red;
+  margin: 0;
+  padding: 0;
+}
+
+.markdown-preview-view hr.cell {
+  border-top: 1px dotted #f0f0f0;
+  margin: 3px;
+  padding: 2;
 }
 
 
@@ -339,6 +359,10 @@ body {
 /****************************************/
 /* table.css
 /****************************************/
+
+.markdown-preview-view td {
+    vertical-align: top;
+}
 
 .markdown-preview-view table {
     font-size: 12px;

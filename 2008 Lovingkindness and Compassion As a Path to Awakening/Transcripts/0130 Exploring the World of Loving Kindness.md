@@ -71,7 +71,7 @@ Personality, everything that I've read, all the [[relationships]] I've had, all 
 ###### 5-3
 So the kind of realistic messiness of what _[[Metta|mettā]]_ means and looks like in our lives, in terms of our personalities and in terms of how we are with others, how we _are_ in our friendships, how we _are_ in our [[relationships]] - all of them. This is really a question for us as practitioners: are we really willing, _fully_ willing, to work with that messiness in our lives, to work with that complexity, to work with our humanity in the context of our friendships, of our relationships? And sometimes we think we are, but if we take a real honest look, the truth is - well, there's a lot of places that we just, "Hmph," actually can't really be bothered to go there. Are we willing to work with the fullness of our life, and have, in that sense, a very full practice[[Exploring the World of Loving Kindness#Are we honestly fully willing to work with that messiness in our lives|?]] ^5-3
 ###### 5-4
-[[[Kahlil Gibran]]: "The Prophet"} There's a very beautiful passage from Kahlil Gibran in _The Prophet_. I'm sure some of you know this. And he's talking about friendship. And he says: ^5-4
+There's a very beautiful passage from [[Kahlil Gibran]] in _The Prophet_. I'm sure some of you know this. And he's talking about friendship. And he says: ^5-4
 ###### 5-5
 >And a youth said, Speak to us of Friendship.</br>And he answered, saying:<br/>Your friend is your needs answered.<br/>He is your field which you sow with [[love]] and reap with thanksgiving.<br/>And he is your board and your fireside.<br/>For you come to him with your hunger, and you seek him for peace. ^5-5
 ###### 5-6

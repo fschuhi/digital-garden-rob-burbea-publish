@@ -17,6 +17,7 @@
 ##### Features
 - top X referring talks for index entries, see e.g. [[Energy Body]], with different X for some talks
 - paragraphs with a minimum of Y mentions, with different Y's
+- [[Synopsis 1]] shows two talks from different years, side by side
 
 ##### Help
 - [[Introduction]] and [[How to browse the Digital Garden]]
