@@ -4,8 +4,8 @@ obsidianUIMode: preview
 
 ## Synopsis
 
-left:	[[0129 The Place of Samadhi in Metta Practice]] (==[[2008 Lovingkindness and Compassion As a Path to Awakening|2008]]==)
-right:	[[0122 Samadhi in Metta Practice]] ([[2007 Lovingkindness and Compassion As a Path to Awakening|2007]])
+left: [[0129 The Place of Samadhi in Metta Practice]] (==[[2008 Lovingkindness and Compassion As a Path to Awakening|2008]]==)
+right: [[0122 Samadhi in Metta Practice]] ([[2007 Lovingkindness and Compassion As a Path to Awakening|2007]])
 
 ==[[0129 The Place of Samadhi in Metta Practice\|2008]]== | [[0122 Samadhi in Metta Practice\|2007]]
 - | -
