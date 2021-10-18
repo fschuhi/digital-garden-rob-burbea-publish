@@ -7,6 +7,7 @@
 - added retreat [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 	- [[The Place of Samadhi in Metta Practice]]
 	- [[Exploring the World of Loving Kindness]]
+	- [[Using Insight to Deepen Love and Compassion]]
 - retreat [[2017 Eros Unfettered]]
 	- [[The Way of Non-Clinging Part 1]]
 	- [[The Way of Non-Clinging Part 2]]
@@ -17,11 +18,13 @@
 	- [[Questioning Awakening]]
 - retreat [[2019 Practising the Jhanas]]
 	- [[Orienting to This Jhana Retreat]]
+	- [[Counting Within the Breath - Guided Meditation]]
 
 ##### Features
 - top X referring talks for index entries, see e.g. [[Energy Body]], with different X for some talks
 - paragraphs with a minimum of Y mentions, with different Y's
 - synopses showing two talks from different years, side by side (like [[Synopsis 1]] and [[Synopsis 2]])
+- links and formatting in admonitions (quotes, notes, warnings, etc.), i.e. easier to read and more helpful for navigation
 
 ##### Help
 - [[Introduction]] and [[How to browse the Digital Garden]]

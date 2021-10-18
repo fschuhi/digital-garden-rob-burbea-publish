@@ -19,9 +19,9 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 2]] | 14 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] | 4 | [[2020 Vajra Music]]
 [[The Way of Non-Clinging Part 2]] | 3 | [[2017 Eros Unfettered]]
+[[Counting Within the Breath - Guided Meditation]] | 2 | [[2019 Practising the Jhanas]]
 [[The Way of Non-Clinging Part 1]] | 2 | [[2017 Eros Unfettered]]
 [[Equanimity in Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
 
 ### Quotes
 ##### Vajra Music - Preliminaries - Part 1 [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1|(Transcript)]] 🟢 ^some-block-pointer

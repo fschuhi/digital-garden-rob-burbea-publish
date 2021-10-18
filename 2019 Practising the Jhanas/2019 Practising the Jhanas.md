@@ -16,6 +16,6 @@ under construction<br/>
 
 ### Talks
 🛠️ [[Orienting to This Jhana Retreat]]
-🛠️ Counting Within the Breath (Guided Meditation)
+✔️ [[Counting Within the Breath - Guided Meditation]]
 🛠️ The Energy Body and the Whole-body breath (Instructions and Guided Meditation)
 🛠️ An Introduction to the Jhanas

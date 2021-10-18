@@ -10,6 +10,7 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 24 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 8 | [[2020 Vajra Music]]
 [[Orienting to This Jhana Retreat]] | 6 | [[2019 Practising the Jhanas]]
+[[Counting Within the Breath - Guided Meditation]] | 2 | [[2019 Practising the Jhanas]]
 
 ### Quotes
 #### [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1|Vajra Music: Preliminaries - Part 1 (Transcript)]]

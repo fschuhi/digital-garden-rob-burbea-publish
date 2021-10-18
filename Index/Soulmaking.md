@@ -11,6 +11,7 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 1]] | 13 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 3]] | 6 | [[2017 Eros Unfettered]]
 [[Orienting to This Jhana Retreat]] | 4 | [[2019 Practising the Jhanas]]
+[[Counting Within the Breath - Guided Meditation]] | 2 | [[2019 Practising the Jhanas]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

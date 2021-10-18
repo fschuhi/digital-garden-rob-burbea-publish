@@ -5,6 +5,7 @@ talk | count | series
 :- | - |: -
 [[Orienting to This Jhana Retreat]] | 75 | [[2019 Practising the Jhanas]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 11 | [[2020 Vajra Music]]
+[[Counting Within the Breath - Guided Meditation]] | 8 | [[2019 Practising the Jhanas]]
 [[The Way of Non-Clinging Part 2]] | 4 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 2]] | 3 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 2 | [[2017 Eros Unfettered]]

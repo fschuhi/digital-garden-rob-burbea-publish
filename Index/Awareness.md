@@ -5,6 +5,7 @@ talk | count | series
 :- | - |: -
 [[Using Insight to Deepen Love and Compassion]] | 18 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 15 | [[2020 Vajra Music]]
+[[Counting Within the Breath - Guided Meditation]] | 14 | [[2019 Practising the Jhanas]]
 [[From Insight to Love]] | 14 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 2]] | 12 | [[2017 Eros Unfettered]]
 [[Questioning Awakening]] | 12 | [[2014 November Solitary - Questioning Awakening]]
@@ -12,12 +13,12 @@ talk | count | series
 [[Samadhi in Metta Practice]] | 8 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Place of Samadhi in Metta Practice]] | 7 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[The Practice of Compassion]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#The kinaesthetic sense of energy fills the whole space\|The kinaesthetic sense of energy fills the whole space]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Counting Within the Breath - Guided Meditation#Slow down to retain whole-body awareness\|Slow down, to retain whole-body awareness]] | 5 | [[Counting Within the Breath - Guided Meditation]]
 [[The Place of Samadhi in Metta Practice#ad 2 tightness\|ad 2. tightness]] | 5 | [[The Place of Samadhi in Metta Practice]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 2 4 hear the space filled with sound\|🟡 Excercise 2.4: hear the space filled with sound]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[The Way of Non-Clinging Part 2#States of mind and experiences are just ways of looking\|States of mind and experiences are just ways of looking]] | 4 | [[The Way of Non-Clinging Part 2]]

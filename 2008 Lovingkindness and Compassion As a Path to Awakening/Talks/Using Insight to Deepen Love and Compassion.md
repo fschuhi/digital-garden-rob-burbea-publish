@@ -5,7 +5,7 @@ obsidianUIMode: preview
 ---
 #Talk
 
-[[prev|prev 🡄]] | [[2008 Lovingkindness and Compassion As a Path to Awakening|🡅]] | [[next|🡆 next]]
+[[Exploring the World of Loving Kindness|Exploring the World of Loving Kindness 🡄]] | [[2008 Lovingkindness and Compassion As a Path to Awakening|🡅]] | 
 
 Series: [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 Transcript: [[0202 Using Insight to Deepen Love and Compassion]]

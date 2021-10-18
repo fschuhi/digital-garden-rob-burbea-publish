@@ -10,8 +10,8 @@ talk | count | series
 [[What is Insight]] | 5 | [[2007 New Years Retreat Insight Meditation]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 4 | [[2017 Eros Unfettered]]
 [[Expressions of Metta]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Counting Within the Breath - Guided Meditation]] | 3 | [[2019 Practising the Jhanas]]
 [[Equanimity in Compassion]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[The Way of Non-Clinging Part 2]] | 2 | [[2017 Eros Unfettered]]
 [[Using Insight to Deepen Love and Compassion]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
