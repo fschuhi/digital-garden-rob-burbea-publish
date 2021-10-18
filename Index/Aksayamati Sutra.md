@@ -3,11 +3,11 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Love and Emptiness]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+<a data-href="Love and Emptiness" href="Love+and+Emptiness" class="internal-link" target="_blank" rel="noopener">Love and Emptiness</a> | 3 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Love and Emptiness#Quote from the Akṣayamati Sūtra\|Quote from the Akṣayamati Sūtra]] | 2 | [[Love and Emptiness]]
-[[Love and Emptiness#"Compassion without any object of reference" in the traditions\|"Compassion without any object of reference" in the traditions]] | 1 | [[Love and Emptiness]]
+<a aria-label-position="top" aria-label="Love and Emptiness" data-href="Love and Emptiness#Quote from the Akṣayamati Sūtra\" href="Love+and+Emptiness#Quote+from+the+Ak%E1%B9%A3ayamati+S%C5%ABtra%5C" class="internal-link" target="_blank" rel="noopener">Quote from the Akṣayamati Sūtra</a> | 2 | <a data-href="Love and Emptiness" href="Love+and+Emptiness" class="internal-link" target="_blank" rel="noopener">Love and Emptiness</a>
+<a aria-label-position="top" aria-label="Love and Emptiness" data-href="Love and Emptiness#"Compassion without any object of reference" in the traditions\" href="Love+and+Emptiness#%22Compassion+without+any+object+of+reference%22+in+the+traditions%5C" class="internal-link" target="_blank" rel="noopener">&quot;Compassion without any object of reference&quot; in the traditions</a> | 1 | <a data-href="Love and Emptiness" href="Love+and+Emptiness" class="internal-link" target="_blank" rel="noopener">Love and Emptiness</a>
 

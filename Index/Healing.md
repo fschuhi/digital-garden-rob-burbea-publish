@@ -3,19 +3,19 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[The Practice of Compassion]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[The Place of Samadhi in Metta Practice]] | 4 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[Equanimity in Compassion]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Orienting to This Jhana Retreat]] | 2 | [[2019 Practising the Jhanas]]
-[[What is Insight]] | 2 | [[2007 New Years Retreat Insight Meditation]]
-[[Expressions of Metta]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
-[[Love and Emptiness]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[From Insight to Love]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Samadhi in Metta Practice]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+<a data-href="The Practice of Compassion" href="The+Practice+of+Compassion" class="internal-link" target="_blank" rel="noopener">The Practice of Compassion</a> | 10 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="The Place of Samadhi in Metta Practice" href="The+Place+of+Samadhi+in+Metta+Practice" class="internal-link" target="_blank" rel="noopener">The Place of Samadhi in Metta Practice</a> | 4 | <a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" href="2008+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2008 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Equanimity in Compassion" href="Equanimity+in+Compassion" class="internal-link" target="_blank" rel="noopener">Equanimity in Compassion</a> | 4 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Orienting to This Jhana Retreat" href="Orienting+to+This+Jhana+Retreat" class="internal-link" target="_blank" rel="noopener">Orienting to This Jhana Retreat</a> | 2 | <a data-href="2019 Practising the Jhanas" href="2019+Practising+the+Jhanas" class="internal-link" target="_blank" rel="noopener">2019 Practising the Jhanas</a>
+<a data-href="What is Insight" href="What+is+Insight" class="internal-link" target="_blank" rel="noopener">What is Insight</a> | 2 | <a data-href="2007 New Years Retreat Insight Meditation" href="2007+New+Years+Retreat+Insight+Meditation" class="internal-link" target="_blank" rel="noopener">2007 New Years Retreat Insight Meditation</a>
+<a data-href="Expressions of Metta" href="Expressions+of+Metta" class="internal-link" target="_blank" rel="noopener">Expressions of Metta</a> | 2 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Equanimity (talk)" href="Equanimity+%28talk%29" class="internal-link" target="_blank" rel="noopener">Equanimity (talk)</a> | 2 | <a data-href="2006 New Year's Retreat" href="2006+New+Year%27s+Retreat" class="internal-link" target="_blank" rel="noopener">2006 New Year&#x27;s Retreat</a>
+<a data-href="Love and Emptiness" href="Love+and+Emptiness" class="internal-link" target="_blank" rel="noopener">Love and Emptiness</a> | 1 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="From Insight to Love" href="From+Insight+to+Love" class="internal-link" target="_blank" rel="noopener">From Insight to Love</a> | 1 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Samadhi in Metta Practice" href="Samadhi+in+Metta+Practice" class="internal-link" target="_blank" rel="noopener">Samadhi in Metta Practice</a> | 1 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Place of Samadhi in Metta Practice#Samadhi brings with it a tremendous of well being\|Samadhi brings with it a tremendous of well being]] | 4 | [[The Place of Samadhi in Metta Practice]]
+<a aria-label-position="top" aria-label="The Place of Samadhi in Metta Practice" data-href="The Place of Samadhi in Metta Practice#Samadhi brings with it a tremendous of well being\" href="The+Place+of+Samadhi+in+Metta+Practice#Samadhi+brings+with+it+a+tremendous+of+well+being%5C" class="internal-link" target="_blank" rel="noopener">Samadhi brings with it a tremendous of well being</a> | 4 | <a data-href="The Place of Samadhi in Metta Practice" href="The+Place+of+Samadhi+in+Metta+Practice" class="internal-link" target="_blank" rel="noopener">The Place of Samadhi in Metta Practice</a>
 

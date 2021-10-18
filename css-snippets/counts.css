@@ -10,3 +10,7 @@
 .counts .internal-link {
     text-decoration: none;
 }
+
+.counts .internal-link:hover {
+  color: var(--text-accent) !important;
+}

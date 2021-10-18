@@ -3,10 +3,10 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Questioning Awakening]] | 2 | [[2014 November Solitary - Questioning Awakening]]
+<a data-href="Questioning Awakening" href="Questioning+Awakening" class="internal-link" target="_blank" rel="noopener">Questioning Awakening</a> | 2 | <a data-href="2014 November Solitary - Questioning Awakening" href="2014+November+Solitary+-+Questioning+Awakening" class="internal-link" target="_blank" rel="noopener">2014 November Solitary - Questioning Awakening</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Questioning Awakening#"About Time" elevates also personal relationship above caring about all humans or nature\|"About Time" elevates also personal relationship above caring about all humans, or nature]] | 2 | [[Questioning Awakening]]
+<a aria-label-position="top" aria-label="Questioning Awakening" data-href="Questioning Awakening#"About Time" elevates also personal relationship above caring about all humans or nature\" href="Questioning+Awakening#%22About+Time%22+elevates+also+personal+relationship+above+caring+about+all+humans+or+nature%5C" class="internal-link" target="_blank" rel="noopener">&quot;About Time&quot; elevates also personal relationship above caring about all humans, or nature</a> | 2 | <a data-href="Questioning Awakening" href="Questioning+Awakening" class="internal-link" target="_blank" rel="noopener">Questioning Awakening</a>
 

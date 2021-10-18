@@ -161,6 +161,10 @@ audio::-webkit-media-controls-panel {
     text-decoration: none;
 }
 
+.counts .internal-link:hover {
+  color: var(--text-accent) !important;
+}
+
 
 /****************************************/
 /* font-family.css
@@ -330,11 +334,20 @@ body {
 /****************************************/
 
 .markdown-preview-view .internal-link {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 .markdown-preview-view .internal-link:hover {
-  text-decoration: underline;
+/*  font-weight: bold;*/
+  text-decoration: underline !important;
+}
+
+.transcript .internal-link {
+  color: var(--text-normal) !important;
+}
+
+.transcript .internal-link:hover {
+  color: var(--text-accent) !important;
 }
 
 

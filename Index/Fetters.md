@@ -3,12 +3,12 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[The Way of Non-Clinging Part 1]] | 8 | [[2017 Eros Unfettered]]
+<a data-href="The Way of Non-Clinging Part 1" href="The+Way+of+Non-Clinging+Part+1" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 1</a> | 8 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 1#Fetters\|Fetters]] | 4 | [[The Way of Non-Clinging Part 1]]
-[[The Way of Non-Clinging Part 1#Clinging supports suffering\|Clinging supports suffering]] | 2 | [[The Way of Non-Clinging Part 1]]
-[[The Way of Non-Clinging Part 1#Fetters and arahantship\|Fetters and arahantship]] | 2 | [[The Way of Non-Clinging Part 1]]
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 1" data-href="The Way of Non-Clinging Part 1#Fetters\" href="The+Way+of+Non-Clinging+Part+1#Fetters%5C" class="internal-link" target="_blank" rel="noopener">Fetters</a> | 4 | <a data-href="The Way of Non-Clinging Part 1" href="The+Way+of+Non-Clinging+Part+1" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 1</a>
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 1" data-href="The Way of Non-Clinging Part 1#Clinging supports suffering\" href="The+Way+of+Non-Clinging+Part+1#Clinging+supports+suffering%5C" class="internal-link" target="_blank" rel="noopener">Clinging supports suffering</a> | 2 | <a data-href="The Way of Non-Clinging Part 1" href="The+Way+of+Non-Clinging+Part+1" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 1</a>
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 1" data-href="The Way of Non-Clinging Part 1#Fetters and arahantship\" href="The+Way+of+Non-Clinging+Part+1#Fetters+and+arahantship%5C" class="internal-link" target="_blank" rel="noopener">Fetters and arahantship</a> | 2 | <a data-href="The Way of Non-Clinging Part 1" href="The+Way+of+Non-Clinging+Part+1" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 1</a>
 

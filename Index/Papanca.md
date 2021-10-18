@@ -3,20 +3,20 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[The Way of Non-Clinging Part 1]] | 10 | [[2017 Eros Unfettered]]
-[[The Way of Non-Clinging Part 2]] | 8 | [[2017 Eros Unfettered]]
-[[What is Insight]] | 5 | [[2007 New Years Retreat Insight Meditation]]
-[[The Way of Non-Clinging Part 3]] | 4 | [[2017 Eros Unfettered]]
-[[Dilemmas and Delineations - How did we get here Part 1]] | 2 | [[2017 Eros Unfettered]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 1 | [[2020 Vajra Music]]
-[[Dilemmas and Delineations - How did we get here Part 2]] | 1 | [[2017 Eros Unfettered]]
-[[Questioning Awakening]] | 1 | [[2014 November Solitary - Questioning Awakening]]
-[[From Insight to Love]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+<a data-href="The Way of Non-Clinging Part 1" href="The+Way+of+Non-Clinging+Part+1" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 1</a> | 10 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="The Way of Non-Clinging Part 2" href="The+Way+of+Non-Clinging+Part+2" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 2</a> | 8 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="What is Insight" href="What+is+Insight" class="internal-link" target="_blank" rel="noopener">What is Insight</a> | 5 | <a data-href="2007 New Years Retreat Insight Meditation" href="2007+New+Years+Retreat+Insight+Meditation" class="internal-link" target="_blank" rel="noopener">2007 New Years Retreat Insight Meditation</a>
+<a data-href="The Way of Non-Clinging Part 3" href="The+Way+of+Non-Clinging+Part+3" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 3</a> | 4 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="Dilemmas and Delineations - How did we get here Part 1" href="Dilemmas+and+Delineations+-+How+did+we+get+here+Part+1" class="internal-link" target="_blank" rel="noopener">Dilemmas and Delineations - How did we get here Part 1</a> | 2 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> | 1 | <a data-href="2020 Vajra Music" href="2020+Vajra+Music" class="internal-link" target="_blank" rel="noopener">2020 Vajra Music</a>
+<a data-href="Dilemmas and Delineations - How did we get here Part 2" href="Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2" class="internal-link" target="_blank" rel="noopener">Dilemmas and Delineations - How did we get here Part 2</a> | 1 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="Questioning Awakening" href="Questioning+Awakening" class="internal-link" target="_blank" rel="noopener">Questioning Awakening</a> | 1 | <a data-href="2014 November Solitary - Questioning Awakening" href="2014+November+Solitary+-+Questioning+Awakening" class="internal-link" target="_blank" rel="noopener">2014 November Solitary - Questioning Awakening</a>
+<a data-href="From Insight to Love" href="From+Insight+to+Love" class="internal-link" target="_blank" rel="noopener">From Insight to Love</a> | 1 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 1#Papanca <> fabrication\|Papanca <=> fabrication]] | 5 | [[The Way of Non-Clinging Part 1]]
-[[The Way of Non-Clinging Part 3#There are some who cannot wait\|There are some who cannot wait]] | 4 | [[The Way of Non-Clinging Part 3]]
-[[The Way of Non-Clinging Part 2#Everybody knows what papanca is\|Everybody knows what papanca is]] | 4 | [[The Way of Non-Clinging Part 2]]
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 1" data-href="The Way of Non-Clinging Part 1#Papanca <> fabrication\" href="The+Way+of+Non-Clinging+Part+1#Papanca+%3C%3E+fabrication%5C" class="internal-link" target="_blank" rel="noopener">Papanca &lt;=&gt; fabrication</a> | 5 | <a data-href="The Way of Non-Clinging Part 1" href="The+Way+of+Non-Clinging+Part+1" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 1</a>
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 3" data-href="The Way of Non-Clinging Part 3#There are some who cannot wait\" href="The+Way+of+Non-Clinging+Part+3#There+are+some+who+cannot+wait%5C" class="internal-link" target="_blank" rel="noopener">There are some who cannot wait</a> | 4 | <a data-href="The Way of Non-Clinging Part 3" href="The+Way+of+Non-Clinging+Part+3" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 3</a>
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 2" data-href="The Way of Non-Clinging Part 2#Everybody knows what papanca is\" href="The+Way+of+Non-Clinging+Part+2#Everybody+knows+what+papanca+is%5C" class="internal-link" target="_blank" rel="noopener">Everybody knows what papanca is</a> | 4 | <a data-href="The Way of Non-Clinging Part 2" href="The+Way+of+Non-Clinging+Part+2" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 2</a>
 

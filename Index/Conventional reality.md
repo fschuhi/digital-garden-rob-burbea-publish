@@ -3,13 +3,13 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[What is Insight]] | 6 | [[2007 New Years Retreat Insight Meditation]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 2 | [[2020 Vajra Music]]
+<a data-href="What is Insight" href="What+is+Insight" class="internal-link" target="_blank" rel="noopener">What is Insight</a> | 6 | <a data-href="2007 New Years Retreat Insight Meditation" href="2007+New+Years+Retreat+Insight+Meditation" class="internal-link" target="_blank" rel="noopener">2007 New Years Retreat Insight Meditation</a>
+<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 1</a> | 2 | <a data-href="2020 Vajra Music" href="2020+Vajra+Music" class="internal-link" target="_blank" rel="noopener">2020 Vajra Music</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[What is Insight#Do we give equal attention to the conventional and the ultimate\|Do we give equal attention to the conventional and the ultimate?]] | 4 | [[What is Insight]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Structural listening\|==Structural listening==]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
-[[What is Insight#Personal and universal truths help us to respond well to conventional reality\|Personal and universal truths help us to respond well to conventional reality]] | 2 | [[What is Insight]]
+<a aria-label-position="top" aria-label="What is Insight" data-href="What is Insight#Do we give equal attention to the conventional and the ultimate\" href="What+is+Insight#Do+we+give+equal+attention+to+the+conventional+and+the+ultimate%5C" class="internal-link" target="_blank" rel="noopener">Do we give equal attention to the conventional and the ultimate?</a> | 4 | <a data-href="What is Insight" href="What+is+Insight" class="internal-link" target="_blank" rel="noopener">What is Insight</a>
+<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 1" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Structural listening\" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1#Structural+listening%5C" class="internal-link" target="_blank" rel="noopener">==Structural listening==</a> | 2 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 1</a>
+<a aria-label-position="top" aria-label="What is Insight" data-href="What is Insight#Personal and universal truths help us to respond well to conventional reality\" href="What+is+Insight#Personal+and+universal+truths+help+us+to+respond+well+to+conventional+reality%5C" class="internal-link" target="_blank" rel="noopener">Personal and universal truths help us to respond well to conventional reality</a> | 2 | <a data-href="What is Insight" href="What+is+Insight" class="internal-link" target="_blank" rel="noopener">What is Insight</a>
 

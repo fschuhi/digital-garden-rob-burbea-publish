@@ -3,14 +3,14 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Equanimity in Compassion]] | 8 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[From Insight to Love]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+<a data-href="Equanimity in Compassion" href="Equanimity+in+Compassion" class="internal-link" target="_blank" rel="noopener">Equanimity in Compassion</a> | 8 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="From Insight to Love" href="From+Insight+to+Love" class="internal-link" target="_blank" rel="noopener">From Insight to Love</a> | 2 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Equanimity in Compassion#How will my life be if I don't cultivate what is beautiful\|How will my life be if I don't cultivate what is beautiful?]] | 5 | [[Equanimity in Compassion]]
-[[Equanimity in Compassion#When future thinking is skilful and when it's not\|When future thinking is skilful and when it's not]] | 3 | [[Equanimity in Compassion]]
-[[From Insight to Love#Fear of how to take care of the future\|Fear of how to take care of the future]] | 1 | [[From Insight to Love]]
-[[From Insight to Love#Genuinlly there is nothing to fear\|Genuinlly, there is nothing to fear]] | 1 | [[From Insight to Love]]
+<a aria-label-position="top" aria-label="Equanimity in Compassion" data-href="Equanimity in Compassion#How will my life be if I don't cultivate what is beautiful\" href="Equanimity+in+Compassion#How+will+my+life+be+if+I+don%27t+cultivate+what+is+beautiful%5C" class="internal-link" target="_blank" rel="noopener">How will my life be if I don&#x27;t cultivate what is beautiful?</a> | 5 | <a data-href="Equanimity in Compassion" href="Equanimity+in+Compassion" class="internal-link" target="_blank" rel="noopener">Equanimity in Compassion</a>
+<a aria-label-position="top" aria-label="Equanimity in Compassion" data-href="Equanimity in Compassion#When future thinking is skilful and when it's not\" href="Equanimity+in+Compassion#When+future+thinking+is+skilful+and+when+it%27s+not%5C" class="internal-link" target="_blank" rel="noopener">When future thinking is skilful and when it&#x27;s not</a> | 3 | <a data-href="Equanimity in Compassion" href="Equanimity+in+Compassion" class="internal-link" target="_blank" rel="noopener">Equanimity in Compassion</a>
+<a aria-label-position="top" aria-label="From Insight to Love" data-href="From Insight to Love#Fear of how to take care of the future\" href="From+Insight+to+Love#Fear+of+how+to+take+care+of+the+future%5C" class="internal-link" target="_blank" rel="noopener">Fear of how to take care of the future</a> | 1 | <a data-href="From Insight to Love" href="From+Insight+to+Love" class="internal-link" target="_blank" rel="noopener">From Insight to Love</a>
+<a aria-label-position="top" aria-label="From Insight to Love" data-href="From Insight to Love#Genuinlly there is nothing to fear\" href="From+Insight+to+Love#Genuinlly+there+is+nothing+to+fear%5C" class="internal-link" target="_blank" rel="noopener">Genuinlly, there is nothing to fear</a> | 1 | <a data-href="From Insight to Love" href="From+Insight+to+Love" class="internal-link" target="_blank" rel="noopener">From Insight to Love</a>
 

@@ -3,20 +3,20 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Orienting to This Jhana Retreat]] | 10 | [[2019 Practising the Jhanas]]
-[[The Way of Non-Clinging Part 3]] | 8 | [[2017 Eros Unfettered]]
-[[Joy (talk)]] | 8 | [[2007 New Years Retreat Insight Meditation]]
-[[Dilemmas and Delineations - How did we get here Part 1]] | 7 | [[2017 Eros Unfettered]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 5 | [[2020 Vajra Music]]
-[[The Way of Non-Clinging Part 2]] | 5 | [[2017 Eros Unfettered]]
-[[The Place of Samadhi in Metta Practice]] | 4 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[What is Insight]] | 4 | [[2007 New Years Retreat Insight Meditation]]
-[[Equanimity in Compassion]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Equanimity (talk)]] | 4 | [[2006 New Year's Retreat]]
+<a data-href="Orienting to This Jhana Retreat" href="Orienting+to+This+Jhana+Retreat" class="internal-link" target="_blank" rel="noopener">Orienting to This Jhana Retreat</a> | 10 | <a data-href="2019 Practising the Jhanas" href="2019+Practising+the+Jhanas" class="internal-link" target="_blank" rel="noopener">2019 Practising the Jhanas</a>
+<a data-href="Dilemmas and Delineations - How did we get here Part 3" href="Dilemmas+and+Delineations+-+How+did+we+get+here+Part+3" class="internal-link" target="_blank" rel="noopener">Dilemmas and Delineations - How did we get here Part 3</a> | 8 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="The Way of Non-Clinging Part 3" href="The+Way+of+Non-Clinging+Part+3" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 3</a> | 8 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="Joy (talk)" href="Joy+%28talk%29" class="internal-link" target="_blank" rel="noopener">Joy (talk)</a> | 8 | <a data-href="2007 New Years Retreat Insight Meditation" href="2007+New+Years+Retreat+Insight+Meditation" class="internal-link" target="_blank" rel="noopener">2007 New Years Retreat Insight Meditation</a>
+<a data-href="Dilemmas and Delineations - How did we get here Part 1" href="Dilemmas+and+Delineations+-+How+did+we+get+here+Part+1" class="internal-link" target="_blank" rel="noopener">Dilemmas and Delineations - How did we get here Part 1</a> | 7 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 1</a> | 5 | <a data-href="2020 Vajra Music" href="2020+Vajra+Music" class="internal-link" target="_blank" rel="noopener">2020 Vajra Music</a>
+<a data-href="The Way of Non-Clinging Part 2" href="The+Way+of+Non-Clinging+Part+2" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 2</a> | 5 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="What is Insight" href="What+is+Insight" class="internal-link" target="_blank" rel="noopener">What is Insight</a> | 4 | <a data-href="2007 New Years Retreat Insight Meditation" href="2007+New+Years+Retreat+Insight+Meditation" class="internal-link" target="_blank" rel="noopener">2007 New Years Retreat Insight Meditation</a>
+<a data-href="Equanimity in Compassion" href="Equanimity+in+Compassion" class="internal-link" target="_blank" rel="noopener">Equanimity in Compassion</a> | 4 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Equanimity (talk)" href="Equanimity+%28talk%29" class="internal-link" target="_blank" rel="noopener">Equanimity (talk)</a> | 4 | <a data-href="2006 New Year's Retreat" href="2006+New+Year%27s+Retreat" class="internal-link" target="_blank" rel="noopener">2006 New Year&#x27;s Retreat</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 3#Wrapped up in the movement of eros is beauty\|Wrapped up in the movement of eros is beauty]] | 4 | [[The Way of Non-Clinging Part 3]]
-[[Equanimity (talk)#There is nothing really to be equanimous about\|There is nothing really to be equanimous about]] | 4 | [[Equanimity (talk)]]
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 3" data-href="The Way of Non-Clinging Part 3#Wrapped up in the movement of eros is beauty\" href="The+Way+of+Non-Clinging+Part+3#Wrapped+up+in+the+movement+of+eros+is+beauty%5C" class="internal-link" target="_blank" rel="noopener">Wrapped up in the movement of eros is beauty</a> | 4 | <a data-href="The Way of Non-Clinging Part 3" href="The+Way+of+Non-Clinging+Part+3" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 3</a>
+<a aria-label-position="top" aria-label="Equanimity (talk)" data-href="Equanimity (talk)#There is nothing really to be equanimous about\" href="Equanimity+%28talk%29#There+is+nothing+really+to+be+equanimous+about%5C" class="internal-link" target="_blank" rel="noopener">There is nothing really to be equanimous about</a> | 4 | <a data-href="Equanimity (talk)" href="Equanimity+%28talk%29" class="internal-link" target="_blank" rel="noopener">Equanimity (talk)</a>
 

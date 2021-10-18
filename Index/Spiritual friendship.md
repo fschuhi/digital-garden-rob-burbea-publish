@@ -3,10 +3,10 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[The Way of Non-Clinging Part 3]] | 4 | [[2017 Eros Unfettered]]
+<a data-href="The Way of Non-Clinging Part 3" href="The+Way+of+Non-Clinging+Part+3" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 3</a> | 4 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 3#Sometimes our fantasies about the Dharma are inadquate e g what it says about romantic love\|Sometimes our fantasies about the Dharma are inadquate, e.g. what it says about romantic love]] | 4 | [[The Way of Non-Clinging Part 3]]
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 3" data-href="The Way of Non-Clinging Part 3#Sometimes our fantasies about the Dharma are inadquate e g what it says about romantic love\" href="The+Way+of+Non-Clinging+Part+3#Sometimes+our+fantasies+about+the+Dharma+are+inadquate+e+g+what+it+says+about+romantic+love%5C" class="internal-link" target="_blank" rel="noopener">Sometimes our fantasies about the Dharma are inadquate, e.g. what it says about romantic love</a> | 4 | <a data-href="The Way of Non-Clinging Part 3" href="The+Way+of+Non-Clinging+Part+3" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 3</a>
 

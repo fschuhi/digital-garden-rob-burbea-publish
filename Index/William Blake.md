@@ -3,10 +3,10 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
+<a data-href="Joy (talk)" href="Joy+%28talk%29" class="internal-link" target="_blank" rel="noopener">Joy (talk)</a> | 1 | <a data-href="2007 New Years Retreat Insight Meditation" href="2007+New+Years+Retreat+Insight+Meditation" class="internal-link" target="_blank" rel="noopener">2007 New Years Retreat Insight Meditation</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Joy (talk)#Yes don't cling\|Yes, don't cling]] | 1 | [[Joy (talk)]]
+<a aria-label-position="top" aria-label="Joy (talk)" data-href="Joy (talk)#Yes don't cling\" href="Joy+%28talk%29#Yes+don%27t+cling%5C" class="internal-link" target="_blank" rel="noopener">Yes, don&#x27;t cling</a> | 1 | <a data-href="Joy (talk)" href="Joy+%28talk%29" class="internal-link" target="_blank" rel="noopener">Joy (talk)</a>
 

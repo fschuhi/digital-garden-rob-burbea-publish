@@ -3,19 +3,19 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Equanimity in Compassion]] | 12 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Equanimity (talk)]] | 5 | [[2006 New Year's Retreat]]
-[[The Place of Samadhi in Metta Practice]] | 4 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[From Insight to Love]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Orienting to This Jhana Retreat]] | 3 | [[2019 Practising the Jhanas]]
-[[The Practice of Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Expressions of Metta]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[The Way of Non-Clinging Part 2]] | 1 | [[2017 Eros Unfettered]]
-[[The Way of Non-Clinging Part 1]] | 1 | [[2017 Eros Unfettered]]
-[[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
+<a data-href="Equanimity in Compassion" href="Equanimity+in+Compassion" class="internal-link" target="_blank" rel="noopener">Equanimity in Compassion</a> | 12 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Equanimity (talk)" href="Equanimity+%28talk%29" class="internal-link" target="_blank" rel="noopener">Equanimity (talk)</a> | 5 | <a data-href="2006 New Year's Retreat" href="2006+New+Year%27s+Retreat" class="internal-link" target="_blank" rel="noopener">2006 New Year&#x27;s Retreat</a>
+<a data-href="The Place of Samadhi in Metta Practice" href="The+Place+of+Samadhi+in+Metta+Practice" class="internal-link" target="_blank" rel="noopener">The Place of Samadhi in Metta Practice</a> | 4 | <a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" href="2008+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2008 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="From Insight to Love" href="From+Insight+to+Love" class="internal-link" target="_blank" rel="noopener">From Insight to Love</a> | 4 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Orienting to This Jhana Retreat" href="Orienting+to+This+Jhana+Retreat" class="internal-link" target="_blank" rel="noopener">Orienting to This Jhana Retreat</a> | 3 | <a data-href="2019 Practising the Jhanas" href="2019+Practising+the+Jhanas" class="internal-link" target="_blank" rel="noopener">2019 Practising the Jhanas</a>
+<a data-href="The Practice of Compassion" href="The+Practice+of+Compassion" class="internal-link" target="_blank" rel="noopener">The Practice of Compassion</a> | 2 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Expressions of Metta" href="Expressions+of+Metta" class="internal-link" target="_blank" rel="noopener">Expressions of Metta</a> | 2 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="The Way of Non-Clinging Part 2" href="The+Way+of+Non-Clinging+Part+2" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 2</a> | 1 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="The Way of Non-Clinging Part 1" href="The+Way+of+Non-Clinging+Part+1" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 1</a> | 1 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="Joy (talk)" href="Joy+%28talk%29" class="internal-link" target="_blank" rel="noopener">Joy (talk)</a> | 1 | <a data-href="2007 New Years Retreat Insight Meditation" href="2007+New+Years+Retreat+Insight+Meditation" class="internal-link" target="_blank" rel="noopener">2007 New Years Retreat Insight Meditation</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Equanimity (talk)#Spaciousness and equanimity go together\|Spaciousness and equanimity go together]] | 5 | [[Equanimity (talk)]]
+<a aria-label-position="top" aria-label="Equanimity (talk)" data-href="Equanimity (talk)#Spaciousness and equanimity go together\" href="Equanimity+%28talk%29#Spaciousness+and+equanimity+go+together%5C" class="internal-link" target="_blank" rel="noopener">Spaciousness and equanimity go together</a> | 5 | <a data-href="Equanimity (talk)" href="Equanimity+%28talk%29" class="internal-link" target="_blank" rel="noopener">Equanimity (talk)</a>
 

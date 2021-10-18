@@ -3,18 +3,19 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[The Way of Non-Clinging Part 2]] | 16 | [[2017 Eros Unfettered]]
-[[The Way of Non-Clinging Part 1]] | 13 | [[2017 Eros Unfettered]]
-[[The Practice of Compassion]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Equanimity in Compassion]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[From Insight to Love]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[The Way of Non-Clinging Part 3]] | 1 | [[2017 Eros Unfettered]]
-[[What is Insight]] | 1 | [[2007 New Years Retreat Insight Meditation]]
+<a data-href="The Way of Non-Clinging Part 2" href="The+Way+of+Non-Clinging+Part+2" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 2</a> | 16 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="The Way of Non-Clinging Part 1" href="The+Way+of+Non-Clinging+Part+1" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 1</a> | 13 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="The Practice of Compassion" href="The+Practice+of+Compassion" class="internal-link" target="_blank" rel="noopener">The Practice of Compassion</a> | 10 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Dilemmas and Delineations - How did we get here Part 3" href="Dilemmas+and+Delineations+-+How+did+we+get+here+Part+3" class="internal-link" target="_blank" rel="noopener">Dilemmas and Delineations - How did we get here Part 3</a> | 5 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="Equanimity in Compassion" href="Equanimity+in+Compassion" class="internal-link" target="_blank" rel="noopener">Equanimity in Compassion</a> | 3 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="From Insight to Love" href="From+Insight+to+Love" class="internal-link" target="_blank" rel="noopener">From Insight to Love</a> | 3 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="The Way of Non-Clinging Part 3" href="The+Way+of+Non-Clinging+Part+3" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 3</a> | 1 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="What is Insight" href="What+is+Insight" class="internal-link" target="_blank" rel="noopener">What is Insight</a> | 1 | <a data-href="2007 New Years Retreat Insight Meditation" href="2007+New+Years+Retreat+Insight+Meditation" class="internal-link" target="_blank" rel="noopener">2007 New Years Retreat Insight Meditation</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 2#Avijja as belief in an independent reality is a form of clinging\|Avijja (as belief in an independent reality) is a form of clinging]] | 5 | [[The Way of Non-Clinging Part 2]]
-[[The Way of Non-Clinging Part 1# Smoking Avijja\|... ==Smoking==, Avijja]] | 4 | [[The Way of Non-Clinging Part 1]]
-[[The Practice of Compassion#Ignorance does not belong to anyone\|Ignorance does not belong to anyone]] | 4 | [[The Practice of Compassion]]
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 2" data-href="The Way of Non-Clinging Part 2#Avijja as belief in an independent reality is a form of clinging\" href="The+Way+of+Non-Clinging+Part+2#Avijja+as+belief+in+an+independent+reality+is+a+form+of+clinging%5C" class="internal-link" target="_blank" rel="noopener">Avijja (as belief in an independent reality) is a form of clinging</a> | 5 | <a data-href="The Way of Non-Clinging Part 2" href="The+Way+of+Non-Clinging+Part+2" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 2</a>
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 1" data-href="The Way of Non-Clinging Part 1# Smoking Avijja\" href="The+Way+of+Non-Clinging+Part+1#+Smoking+Avijja%5C" class="internal-link" target="_blank" rel="noopener">... ==Smoking==, Avijja</a> | 4 | <a data-href="The Way of Non-Clinging Part 1" href="The+Way+of+Non-Clinging+Part+1" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 1</a>
+<a aria-label-position="top" aria-label="The Practice of Compassion" data-href="The Practice of Compassion#Ignorance does not belong to anyone\" href="The+Practice+of+Compassion#Ignorance+does+not+belong+to+anyone%5C" class="internal-link" target="_blank" rel="noopener">Ignorance does not belong to anyone</a> | 4 | <a data-href="The Practice of Compassion" href="The+Practice+of+Compassion" class="internal-link" target="_blank" rel="noopener">The Practice of Compassion</a>
 

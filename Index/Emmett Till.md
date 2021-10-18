@@ -3,11 +3,11 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 4 | [[2020 Vajra Music]]
+<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> | 4 | <a data-href="2020 Vajra Music" href="2020+Vajra+Music" class="internal-link" target="_blank" rel="noopener">2020 Vajra Music</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#She draws on an image Emmett Till\|She draws on an image (Emmett Till)]] | 3 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Body soul soul-sense voice\|Body, soul, soul-sense, voice]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4#She draws on an image Emmett Till\" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4#She+draws+on+an+image+Emmett+Till%5C" class="internal-link" target="_blank" rel="noopener">She draws on an image (Emmett Till)</a> | 3 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a>
+<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Body soul soul-sense voice\" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4#Body+soul+soul-sense+voice%5C" class="internal-link" target="_blank" rel="noopener">Body, soul, soul-sense, voice</a> | 1 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a>
 

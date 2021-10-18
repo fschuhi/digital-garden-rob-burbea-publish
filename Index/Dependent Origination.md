@@ -3,20 +3,20 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[The Way of Non-Clinging Part 2]] | 16 | [[2017 Eros Unfettered]]
-[[The Way of Non-Clinging Part 1]] | 11 | [[2017 Eros Unfettered]]
-[[The Practice of Compassion]] | 11 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[The Way of Non-Clinging Part 3]] | 7 | [[2017 Eros Unfettered]]
-[[Dilemmas and Delineations - How did we get here Part 1]] | 5 | [[2017 Eros Unfettered]]
-[[Equanimity in Compassion]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Love and Emptiness]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Expressions of Metta]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 3 | [[2020 Vajra Music]]
-[[What is Insight]] | 2 | [[2007 New Years Retreat Insight Meditation]]
+<a data-href="The Way of Non-Clinging Part 2" href="The+Way+of+Non-Clinging+Part+2" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 2</a> | 16 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="The Way of Non-Clinging Part 1" href="The+Way+of+Non-Clinging+Part+1" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 1</a> | 11 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="The Practice of Compassion" href="The+Practice+of+Compassion" class="internal-link" target="_blank" rel="noopener">The Practice of Compassion</a> | 11 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="The Way of Non-Clinging Part 3" href="The+Way+of+Non-Clinging+Part+3" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 3</a> | 7 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="Dilemmas and Delineations - How did we get here Part 1" href="Dilemmas+and+Delineations+-+How+did+we+get+here+Part+1" class="internal-link" target="_blank" rel="noopener">Dilemmas and Delineations - How did we get here Part 1</a> | 5 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="Equanimity in Compassion" href="Equanimity+in+Compassion" class="internal-link" target="_blank" rel="noopener">Equanimity in Compassion</a> | 5 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Love and Emptiness" href="Love+and+Emptiness" class="internal-link" target="_blank" rel="noopener">Love and Emptiness</a> | 5 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Dilemmas and Delineations - How did we get here Part 3" href="Dilemmas+and+Delineations+-+How+did+we+get+here+Part+3" class="internal-link" target="_blank" rel="noopener">Dilemmas and Delineations - How did we get here Part 3</a> | 4 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="Expressions of Metta" href="Expressions+of+Metta" class="internal-link" target="_blank" rel="noopener">Expressions of Metta</a> | 4 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 3" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+3" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 3</a> | 3 | <a data-href="2020 Vajra Music" href="2020+Vajra+Music" class="internal-link" target="_blank" rel="noopener">2020 Vajra Music</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 1#Relationship to Dependend Origination 2 of the 12 links\|Relationship to Dependend Origination (2 of the 12 links)]] | 6 | [[The Way of Non-Clinging Part 1]]
-[[The Way of Non-Clinging Part 2#The links of dependent origination are not real either\|The links of dependent origination are not real either]] | 5 | [[The Way of Non-Clinging Part 2]]
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 1" data-href="The Way of Non-Clinging Part 1#Relationship to Dependend Origination 2 of the 12 links\" href="The+Way+of+Non-Clinging+Part+1#Relationship+to+Dependend+Origination+2+of+the+12+links%5C" class="internal-link" target="_blank" rel="noopener">Relationship to Dependend Origination (2 of the 12 links)</a> | 6 | <a data-href="The Way of Non-Clinging Part 1" href="The+Way+of+Non-Clinging+Part+1" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 1</a>
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 2" data-href="The Way of Non-Clinging Part 2#The links of dependent origination are not real either\" href="The+Way+of+Non-Clinging+Part+2#The+links+of+dependent+origination+are+not+real+either%5C" class="internal-link" target="_blank" rel="noopener">The links of dependent origination are not real either</a> | 5 | <a data-href="The Way of Non-Clinging Part 2" href="The+Way+of+Non-Clinging+Part+2" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 2</a>
 

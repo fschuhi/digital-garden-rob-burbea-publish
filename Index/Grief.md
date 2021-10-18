@@ -3,16 +3,16 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[The Practice of Compassion]] | 14 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Orienting to This Jhana Retreat]] | 10 | [[2019 Practising the Jhanas]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 6 | [[2020 Vajra Music]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 4 | [[2020 Vajra Music]]
-[[Equanimity in Compassion]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 1 | [[2020 Vajra Music]]
+<a data-href="The Practice of Compassion" href="The+Practice+of+Compassion" class="internal-link" target="_blank" rel="noopener">The Practice of Compassion</a> | 14 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Orienting to This Jhana Retreat" href="Orienting+to+This+Jhana+Retreat" class="internal-link" target="_blank" rel="noopener">Orienting to This Jhana Retreat</a> | 10 | <a data-href="2019 Practising the Jhanas" href="2019+Practising+the+Jhanas" class="internal-link" target="_blank" rel="noopener">2019 Practising the Jhanas</a>
+<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 1</a> | 6 | <a data-href="2020 Vajra Music" href="2020+Vajra+Music" class="internal-link" target="_blank" rel="noopener">2020 Vajra Music</a>
+<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> | 4 | <a data-href="2020 Vajra Music" href="2020+Vajra+Music" class="internal-link" target="_blank" rel="noopener">2020 Vajra Music</a>
+<a data-href="Equanimity in Compassion" href="Equanimity+in+Compassion" class="internal-link" target="_blank" rel="noopener">Equanimity in Compassion</a> | 4 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> | 1 | <a data-href="2020 Vajra Music" href="2020+Vajra+Music" class="internal-link" target="_blank" rel="noopener">2020 Vajra Music</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Practice of Compassion#Grief is complicated because it may be necessary but can also be draining\|Grief is complicated, because it may be necessary but can also be draining]] | 10 | [[The Practice of Compassion]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Soul-grief from not practicing being fluid\|Soul-grief from not practicing being fluid]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+<a aria-label-position="top" aria-label="The Practice of Compassion" data-href="The Practice of Compassion#Grief is complicated because it may be necessary but can also be draining\" href="The+Practice+of+Compassion#Grief+is+complicated+because+it+may+be+necessary+but+can+also+be+draining%5C" class="internal-link" target="_blank" rel="noopener">Grief is complicated, because it may be necessary but can also be draining</a> | 10 | <a data-href="The Practice of Compassion" href="The+Practice+of+Compassion" class="internal-link" target="_blank" rel="noopener">The Practice of Compassion</a>
+<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 1" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Soul-grief from not practicing being fluid\" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1#Soul-grief+from+not+practicing+being+fluid%5C" class="internal-link" target="_blank" rel="noopener">Soul-grief from not practicing being fluid</a> | 4 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 1</a>
 

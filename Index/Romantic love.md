@@ -3,14 +3,14 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[The Way of Non-Clinging Part 3]] | 11 | [[2017 Eros Unfettered]]
-[[Dilemmas and Delineations - How did we get here Part 1]] | 4 | [[2017 Eros Unfettered]]
-[[Dilemmas and Delineations - How did we get here Part 2]] | 1 | [[2017 Eros Unfettered]]
-[[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
-[[Love and Emptiness]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+<a data-href="The Way of Non-Clinging Part 3" href="The+Way+of+Non-Clinging+Part+3" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 3</a> | 11 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="Dilemmas and Delineations - How did we get here Part 1" href="Dilemmas+and+Delineations+-+How+did+we+get+here+Part+1" class="internal-link" target="_blank" rel="noopener">Dilemmas and Delineations - How did we get here Part 1</a> | 4 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="Dilemmas and Delineations - How did we get here Part 2" href="Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2" class="internal-link" target="_blank" rel="noopener">Dilemmas and Delineations - How did we get here Part 2</a> | 1 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="Joy (talk)" href="Joy+%28talk%29" class="internal-link" target="_blank" rel="noopener">Joy (talk)</a> | 1 | <a data-href="2007 New Years Retreat Insight Meditation" href="2007+New+Years+Retreat+Insight+Meditation" class="internal-link" target="_blank" rel="noopener">2007 New Years Retreat Insight Meditation</a>
+<a data-href="Love and Emptiness" href="Love+and+Emptiness" class="internal-link" target="_blank" rel="noopener">Love and Emptiness</a> | 1 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 3#Sometimes our fantasies about the Dharma are inadquate e g what it says about romantic love\|Sometimes our fantasies about the Dharma are inadquate, e.g. what it says about romantic love]] | 4 | [[The Way of Non-Clinging Part 3]]
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 3" data-href="The Way of Non-Clinging Part 3#Sometimes our fantasies about the Dharma are inadquate e g what it says about romantic love\" href="The+Way+of+Non-Clinging+Part+3#Sometimes+our+fantasies+about+the+Dharma+are+inadquate+e+g+what+it+says+about+romantic+love%5C" class="internal-link" target="_blank" rel="noopener">Sometimes our fantasies about the Dharma are inadquate, e.g. what it says about romantic love</a> | 4 | <a data-href="The Way of Non-Clinging Part 3" href="The+Way+of+Non-Clinging+Part+3" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 3</a>
 

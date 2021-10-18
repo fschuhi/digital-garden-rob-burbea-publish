@@ -3,12 +3,12 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 2 | [[2020 Vajra Music]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 1 | [[2020 Vajra Music]]
+<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> | 2 | <a data-href="2020 Vajra Music" href="2020+Vajra+Music" class="internal-link" target="_blank" rel="noopener">2020 Vajra Music</a>
+<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> | 1 | <a data-href="2020 Vajra Music" href="2020+Vajra+Music" class="internal-link" target="_blank" rel="noopener">2020 Vajra Music</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Make your body buoyant\|Make your body buoyant]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#What out for rigid reasserting habits\|What out for rigid, reasserting habits]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Make your body buoyant\" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#Make+your+body+buoyant%5C" class="internal-link" target="_blank" rel="noopener">Make your body buoyant</a> | 2 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a>
+<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4#What out for rigid reasserting habits\" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4#What+out+for+rigid+reasserting+habits%5C" class="internal-link" target="_blank" rel="noopener">What out for rigid, reasserting habits</a> | 1 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a>
 

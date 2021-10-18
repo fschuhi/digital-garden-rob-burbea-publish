@@ -3,10 +3,10 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 2 | [[2020 Vajra Music]]
+<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 3" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+3" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 3</a> | 2 | <a data-href="2020 Vajra Music" href="2020+Vajra+Music" class="internal-link" target="_blank" rel="noopener">2020 Vajra Music</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Even Vajrayana with seeing the aggregates as holy misses the person\|Even Vajrayana (with seeing the aggregates as holy) misses the person]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
+<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 3" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Even Vajrayana with seeing the aggregates as holy misses the person\" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+3#Even+Vajrayana+with+seeing+the+aggregates+as+holy+misses+the+person%5C" class="internal-link" target="_blank" rel="noopener">Even Vajrayana (with seeing the aggregates as holy) misses the person</a> | 2 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 3" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+3" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 3</a>
 

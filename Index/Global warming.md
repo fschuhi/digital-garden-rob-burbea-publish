@@ -3,10 +3,10 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[The Way of Non-Clinging Part 3]] | 1 | [[2017 Eros Unfettered]]
+<a data-href="The Way of Non-Clinging Part 3" href="The+Way+of+Non-Clinging+Part+3" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 3</a> | 1 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 3#It's not only about having a basket of different practices\|It's not only about having a basket of different practices]] | 1 | [[The Way of Non-Clinging Part 3]]
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 3" data-href="The Way of Non-Clinging Part 3#It's not only about having a basket of different practices\" href="The+Way+of+Non-Clinging+Part+3#It%27s+not+only+about+having+a+basket+of+different+practices%5C" class="internal-link" target="_blank" rel="noopener">It&#x27;s not only about having a basket of different practices</a> | 1 | <a data-href="The Way of Non-Clinging Part 3" href="The+Way+of+Non-Clinging+Part+3" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 3</a>
 

@@ -9,11 +9,11 @@ part of [[Re-enchanting the Cosmos]]
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 2 | [[2020 Vajra Music]]
+<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 1</a> | 2 | <a data-href="2020 Vajra Music" href="2020+Vajra+Music" class="internal-link" target="_blank" rel="noopener">2020 Vajra Music</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Instructions then were difficult to absorb 🟢\|Instructions then were difficult to absorb 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Energy body as centre of emanating\|Energy body as centre of emanating]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 1" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Instructions then were difficult to absorb 🟢\" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1#Instructions+then+were+difficult+to+absorb+%F0%9F%9F%A2%5C" class="internal-link" target="_blank" rel="noopener">Instructions then were difficult to absorb 🟢</a> | 1 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 1</a>
+<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 1" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Energy body as centre of emanating\" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1#Energy+body+as+centre+of+emanating%5C" class="internal-link" target="_blank" rel="noopener">Energy body as centre of emanating</a> | 1 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+1" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 1</a>
 

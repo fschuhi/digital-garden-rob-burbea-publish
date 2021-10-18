@@ -25,6 +25,7 @@
 - paragraphs with a minimum of Y mentions, with different Y's
 - synopses showing two talks from different years, side by side (like [[Synopsis 1]] and [[Synopsis 2]])
 - links and formatting in admonitions (quotes, notes, warnings, etc.), i.e. easier to read and more helpful for navigation
+- now all occurrences of keywords in a transcript paragraph are navigatable, but they are "hidden" (shown only on hovering); first occurrence still marked visibly in blue
 
 ##### Help
 - [[Introduction]] and [[How to browse the Digital Garden]]

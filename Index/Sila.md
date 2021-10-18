@@ -3,15 +3,15 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 3 | [[2020 Vajra Music]]
-[[The Way of Non-Clinging Part 2]] | 2 | [[2017 Eros Unfettered]]
-[[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
+<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> | 3 | <a data-href="2020 Vajra Music" href="2020+Vajra+Music" class="internal-link" target="_blank" rel="noopener">2020 Vajra Music</a>
+<a data-href="The Way of Non-Clinging Part 2" href="The+Way+of+Non-Clinging+Part+2" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 2</a> | 2 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="Joy (talk)" href="Joy+%28talk%29" class="internal-link" target="_blank" rel="noopener">Joy (talk)</a> | 1 | <a data-href="2007 New Years Retreat Insight Meditation" href="2007+New+Years+Retreat+Insight+Meditation" class="internal-link" target="_blank" rel="noopener">2007 New Years Retreat Insight Meditation</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Sila and Soul" "The Image of Ethics" 🟢\|"Sila and Soul", "The Image of Ethics" 🟢]] | 3 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
-[[The Way of Non-Clinging Part 2#Cling to something more wholesome Twelve Steps\|Cling to something more wholesome (Twelve Steps)]] | 1 | [[The Way of Non-Clinging Part 2]]
-[[The Way of Non-Clinging Part 2#The process of non-clinging dvelops through clinging to something else\|The process of non-clinging dvelops through clinging to something else]] | 1 | [[The Way of Non-Clinging Part 2]]
-[[Joy (talk)#Attention to ethics\|Attention to ethics]] | 1 | [[Joy (talk)]]
+<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Sila and Soul" "The Image of Ethics" 🟢\" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#%22Sila+and+Soul%22+%22The+Image+of+Ethics%22+%F0%9F%9F%A2%5C" class="internal-link" target="_blank" rel="noopener">&quot;Sila and Soul&quot;, &quot;The Image of Ethics&quot; 🟢</a> | 3 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a>
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 2" data-href="The Way of Non-Clinging Part 2#Cling to something more wholesome Twelve Steps\" href="The+Way+of+Non-Clinging+Part+2#Cling+to+something+more+wholesome+Twelve+Steps%5C" class="internal-link" target="_blank" rel="noopener">Cling to something more wholesome (Twelve Steps)</a> | 1 | <a data-href="The Way of Non-Clinging Part 2" href="The+Way+of+Non-Clinging+Part+2" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 2</a>
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 2" data-href="The Way of Non-Clinging Part 2#The process of non-clinging dvelops through clinging to something else\" href="The+Way+of+Non-Clinging+Part+2#The+process+of+non-clinging+dvelops+through+clinging+to+something+else%5C" class="internal-link" target="_blank" rel="noopener">The process of non-clinging dvelops through clinging to something else</a> | 1 | <a data-href="The Way of Non-Clinging Part 2" href="The+Way+of+Non-Clinging+Part+2" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 2</a>
+<a aria-label-position="top" aria-label="Joy (talk)" data-href="Joy (talk)#Attention to ethics\" href="Joy+%28talk%29#Attention+to+ethics%5C" class="internal-link" target="_blank" rel="noopener">Attention to ethics</a> | 1 | <a data-href="Joy (talk)" href="Joy+%28talk%29" class="internal-link" target="_blank" rel="noopener">Joy (talk)</a>
 

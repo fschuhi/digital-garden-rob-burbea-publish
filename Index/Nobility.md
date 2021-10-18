@@ -3,14 +3,14 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Questioning Awakening]] | 2 | [[2014 November Solitary - Questioning Awakening]]
-[[The Practice of Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 1 | [[2020 Vajra Music]]
+<a data-href="Questioning Awakening" href="Questioning+Awakening" class="internal-link" target="_blank" rel="noopener">Questioning Awakening</a> | 2 | <a data-href="2014 November Solitary - Questioning Awakening" href="2014+November+Solitary+-+Questioning+Awakening" class="internal-link" target="_blank" rel="noopener">2014 November Solitary - Questioning Awakening</a>
+<a data-href="The Practice of Compassion" href="The+Practice+of+Compassion" class="internal-link" target="_blank" rel="noopener">The Practice of Compassion</a> | 2 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> | 1 | <a data-href="2020 Vajra Music" href="2020+Vajra+Music" class="internal-link" target="_blank" rel="noopener">2020 Vajra Music</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Questioning Awakening#There is mythos wrapped up in what is important for us as the path\|There is mythos wrapped up in what is important for us as the path]] | 2 | [[Questioning Awakening]]
-[[The Practice of Compassion#It's an ennobling quality\|It's an ennobling quality]] | 2 | [[The Practice of Compassion]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#What's happening in Excercises 5 does not have to transfer to movement or sound at all\|What's happening in Excercises 5 does not have to transfer to movement or sound at all]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+<a aria-label-position="top" aria-label="Questioning Awakening" data-href="Questioning Awakening#There is mythos wrapped up in what is important for us as the path\" href="Questioning+Awakening#There+is+mythos+wrapped+up+in+what+is+important+for+us+as+the+path%5C" class="internal-link" target="_blank" rel="noopener">There is mythos wrapped up in what is important for us as the path</a> | 2 | <a data-href="Questioning Awakening" href="Questioning+Awakening" class="internal-link" target="_blank" rel="noopener">Questioning Awakening</a>
+<a aria-label-position="top" aria-label="The Practice of Compassion" data-href="The Practice of Compassion#It's an ennobling quality\" href="The+Practice+of+Compassion#It%27s+an+ennobling+quality%5C" class="internal-link" target="_blank" rel="noopener">It&#x27;s an ennobling quality</a> | 2 | <a data-href="The Practice of Compassion" href="The+Practice+of+Compassion" class="internal-link" target="_blank" rel="noopener">The Practice of Compassion</a>
+<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4#What's happening in Excercises 5 does not have to transfer to movement or sound at all\" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4#What%27s+happening+in+Excercises+5+does+not+have+to+transfer+to+movement+or+sound+at+all%5C" class="internal-link" target="_blank" rel="noopener">What&#x27;s happening in Excercises 5 does not have to transfer to movement or sound at all</a> | 1 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a>
 

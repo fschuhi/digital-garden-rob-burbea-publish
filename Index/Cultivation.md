@@ -3,20 +3,20 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Equanimity (talk)]] | 18 | [[2006 New Year's Retreat]]
-[[Love and Emptiness]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Orienting to This Jhana Retreat]] | 9 | [[2019 Practising the Jhanas]]
-[[Joy (talk)]] | 9 | [[2007 New Years Retreat Insight Meditation]]
-[[The Practice of Compassion]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[From Insight to Love]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Using Insight to Deepen Love and Compassion]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[The Way of Non-Clinging Part 3]] | 4 | [[2017 Eros Unfettered]]
-[[The Place of Samadhi in Metta Practice]] | 4 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[Samadhi in Metta Practice]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+<a data-href="Equanimity (talk)" href="Equanimity+%28talk%29" class="internal-link" target="_blank" rel="noopener">Equanimity (talk)</a> | 18 | <a data-href="2006 New Year's Retreat" href="2006+New+Year%27s+Retreat" class="internal-link" target="_blank" rel="noopener">2006 New Year&#x27;s Retreat</a>
+<a data-href="Love and Emptiness" href="Love+and+Emptiness" class="internal-link" target="_blank" rel="noopener">Love and Emptiness</a> | 10 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Orienting to This Jhana Retreat" href="Orienting+to+This+Jhana+Retreat" class="internal-link" target="_blank" rel="noopener">Orienting to This Jhana Retreat</a> | 9 | <a data-href="2019 Practising the Jhanas" href="2019+Practising+the+Jhanas" class="internal-link" target="_blank" rel="noopener">2019 Practising the Jhanas</a>
+<a data-href="Joy (talk)" href="Joy+%28talk%29" class="internal-link" target="_blank" rel="noopener">Joy (talk)</a> | 9 | <a data-href="2007 New Years Retreat Insight Meditation" href="2007+New+Years+Retreat+Insight+Meditation" class="internal-link" target="_blank" rel="noopener">2007 New Years Retreat Insight Meditation</a>
+<a data-href="The Practice of Compassion" href="The+Practice+of+Compassion" class="internal-link" target="_blank" rel="noopener">The Practice of Compassion</a> | 6 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="From Insight to Love" href="From+Insight+to+Love" class="internal-link" target="_blank" rel="noopener">From Insight to Love</a> | 6 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Using Insight to Deepen Love and Compassion" href="Using+Insight+to+Deepen+Love+and+Compassion" class="internal-link" target="_blank" rel="noopener">Using Insight to Deepen Love and Compassion</a> | 5 | <a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" href="2008+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2008 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="The Way of Non-Clinging Part 3" href="The+Way+of+Non-Clinging+Part+3" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 3</a> | 4 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="The Place of Samadhi in Metta Practice" href="The+Place+of+Samadhi+in+Metta+Practice" class="internal-link" target="_blank" rel="noopener">The Place of Samadhi in Metta Practice</a> | 4 | <a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" href="2008+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2008 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Samadhi in Metta Practice" href="Samadhi+in+Metta+Practice" class="internal-link" target="_blank" rel="noopener">Samadhi in Metta Practice</a> | 3 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Love and Emptiness#In practice wholesome nourishment and investigation support each other\|In practice, wholesome nourishment and investigation support each other]] | 4 | [[Love and Emptiness]]
-[[Equanimity (talk)#So hold the process very lightly\|So hold the process very lightly]] | 4 | [[Equanimity (talk)]]
+<a aria-label-position="top" aria-label="Love and Emptiness" data-href="Love and Emptiness#In practice wholesome nourishment and investigation support each other\" href="Love+and+Emptiness#In+practice+wholesome+nourishment+and+investigation+support+each+other%5C" class="internal-link" target="_blank" rel="noopener">In practice, wholesome nourishment and investigation support each other</a> | 4 | <a data-href="Love and Emptiness" href="Love+and+Emptiness" class="internal-link" target="_blank" rel="noopener">Love and Emptiness</a>
+<a aria-label-position="top" aria-label="Equanimity (talk)" data-href="Equanimity (talk)#So hold the process very lightly\" href="Equanimity+%28talk%29#So+hold+the+process+very+lightly%5C" class="internal-link" target="_blank" rel="noopener">So hold the process very lightly</a> | 4 | <a data-href="Equanimity (talk)" href="Equanimity+%28talk%29" class="internal-link" target="_blank" rel="noopener">Equanimity (talk)</a>
 

@@ -3,19 +3,20 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[The Way of Non-Clinging Part 2]] | 15 | [[2017 Eros Unfettered]]
-[[The Way of Non-Clinging Part 1]] | 9 | [[2017 Eros Unfettered]]
-[[Love and Emptiness]] | 7 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Dilemmas and Delineations - How did we get here Part 1]] | 6 | [[2017 Eros Unfettered]]
-[[Questioning Awakening]] | 2 | [[2014 November Solitary - Questioning Awakening]]
-[[What is Insight]] | 2 | [[2007 New Years Retreat Insight Meditation]]
-[[Dilemmas and Delineations - How did we get here Part 2]] | 1 | [[2017 Eros Unfettered]]
-[[The Way of Non-Clinging Part 3]] | 1 | [[2017 Eros Unfettered]]
+<a data-href="The Way of Non-Clinging Part 2" href="The+Way+of+Non-Clinging+Part+2" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 2</a> | 15 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="The Way of Non-Clinging Part 1" href="The+Way+of+Non-Clinging+Part+1" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 1</a> | 9 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="Love and Emptiness" href="Love+and+Emptiness" class="internal-link" target="_blank" rel="noopener">Love and Emptiness</a> | 7 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Dilemmas and Delineations - How did we get here Part 1" href="Dilemmas+and+Delineations+-+How+did+we+get+here+Part+1" class="internal-link" target="_blank" rel="noopener">Dilemmas and Delineations - How did we get here Part 1</a> | 6 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="Dilemmas and Delineations - How did we get here Part 3" href="Dilemmas+and+Delineations+-+How+did+we+get+here+Part+3" class="internal-link" target="_blank" rel="noopener">Dilemmas and Delineations - How did we get here Part 3</a> | 3 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="Questioning Awakening" href="Questioning+Awakening" class="internal-link" target="_blank" rel="noopener">Questioning Awakening</a> | 2 | <a data-href="2014 November Solitary - Questioning Awakening" href="2014+November+Solitary+-+Questioning+Awakening" class="internal-link" target="_blank" rel="noopener">2014 November Solitary - Questioning Awakening</a>
+<a data-href="What is Insight" href="What+is+Insight" class="internal-link" target="_blank" rel="noopener">What is Insight</a> | 2 | <a data-href="2007 New Years Retreat Insight Meditation" href="2007+New+Years+Retreat+Insight+Meditation" class="internal-link" target="_blank" rel="noopener">2007 New Years Retreat Insight Meditation</a>
+<a data-href="Dilemmas and Delineations - How did we get here Part 2" href="Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2" class="internal-link" target="_blank" rel="noopener">Dilemmas and Delineations - How did we get here Part 2</a> | 1 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="The Way of Non-Clinging Part 3" href="The+Way+of+Non-Clinging+Part+3" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 3</a> | 1 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 1#Can there be more\|Can there be more?]] | 5 | [[The Way of Non-Clinging Part 1]]
-[[The Way of Non-Clinging Part 2#It's the resulting letting go of clinging that unfabricates not contemplating rapid impermance\|It's the resulting letting go of clinging that unfabricates, not contemplating rapid impermance]] | 4 | [[The Way of Non-Clinging Part 2]]
-[[The Way of Non-Clinging Part 2#The jhanas as deep states of unfabricating\|The jhanas as deep states of unfabricating]] | 4 | [[The Way of Non-Clinging Part 2]]
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 1" data-href="The Way of Non-Clinging Part 1#Can there be more\" href="The+Way+of+Non-Clinging+Part+1#Can+there+be+more%5C" class="internal-link" target="_blank" rel="noopener">Can there be more?</a> | 5 | <a data-href="The Way of Non-Clinging Part 1" href="The+Way+of+Non-Clinging+Part+1" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 1</a>
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 2" data-href="The Way of Non-Clinging Part 2#It's the resulting letting go of clinging that unfabricates not contemplating rapid impermance\" href="The+Way+of+Non-Clinging+Part+2#It%27s+the+resulting+letting+go+of+clinging+that+unfabricates+not+contemplating+rapid+impermance%5C" class="internal-link" target="_blank" rel="noopener">It&#x27;s the resulting letting go of clinging that unfabricates, not contemplating rapid impermance</a> | 4 | <a data-href="The Way of Non-Clinging Part 2" href="The+Way+of+Non-Clinging+Part+2" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 2</a>
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 2" data-href="The Way of Non-Clinging Part 2#The jhanas as deep states of unfabricating\" href="The+Way+of+Non-Clinging+Part+2#The+jhanas+as+deep+states+of+unfabricating%5C" class="internal-link" target="_blank" rel="noopener">The jhanas as deep states of unfabricating</a> | 4 | <a data-href="The Way of Non-Clinging Part 2" href="The+Way+of+Non-Clinging+Part+2" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 2</a>
 

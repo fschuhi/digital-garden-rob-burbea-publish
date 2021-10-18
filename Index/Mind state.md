@@ -3,17 +3,17 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Dilemmas and Delineations - How did we get here Part 2]] | 6 | [[2017 Eros Unfettered]]
-[[Love and Emptiness]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[The Place of Samadhi in Metta Practice]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[Equanimity in Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Using Insight to Deepen Love and Compassion]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
-[[Guided meditation - Metta to phenomena]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Samadhi in Metta Practice]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+<a data-href="Dilemmas and Delineations - How did we get here Part 2" href="Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2" class="internal-link" target="_blank" rel="noopener">Dilemmas and Delineations - How did we get here Part 2</a> | 6 | <a data-href="2017 Eros Unfettered" href="2017+Eros+Unfettered" class="internal-link" target="_blank" rel="noopener">2017 Eros Unfettered</a>
+<a data-href="Love and Emptiness" href="Love+and+Emptiness" class="internal-link" target="_blank" rel="noopener">Love and Emptiness</a> | 4 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="The Place of Samadhi in Metta Practice" href="The+Place+of+Samadhi+in+Metta+Practice" class="internal-link" target="_blank" rel="noopener">The Place of Samadhi in Metta Practice</a> | 2 | <a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" href="2008+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2008 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Equanimity in Compassion" href="Equanimity+in+Compassion" class="internal-link" target="_blank" rel="noopener">Equanimity in Compassion</a> | 2 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Using Insight to Deepen Love and Compassion" href="Using+Insight+to+Deepen+Love+and+Compassion" class="internal-link" target="_blank" rel="noopener">Using Insight to Deepen Love and Compassion</a> | 1 | <a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" href="2008+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2008 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Joy (talk)" href="Joy+%28talk%29" class="internal-link" target="_blank" rel="noopener">Joy (talk)</a> | 1 | <a data-href="2007 New Years Retreat Insight Meditation" href="2007+New+Years+Retreat+Insight+Meditation" class="internal-link" target="_blank" rel="noopener">2007 New Years Retreat Insight Meditation</a>
+<a data-href="Guided meditation - Metta to phenomena" href="Guided+meditation+-+Metta+to+phenomena" class="internal-link" target="_blank" rel="noopener">Guided meditation - Metta to phenomena</a> | 1 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="Samadhi in Metta Practice" href="Samadhi+in+Metta+Practice" class="internal-link" target="_blank" rel="noopener">Samadhi in Metta Practice</a> | 1 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" href="2007+Lovingkindness+and+Compassion+As+a+Path+to+Awakening" class="internal-link" target="_blank" rel="noopener">2007 Lovingkindness and Compassion As a Path to Awakening</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Dilemmas and Delineations - How did we get here Part 2#How do we recognize eros\|How do we recognize eros?]] | 4 | [[Dilemmas and Delineations - How did we get here Part 2]]
+<a aria-label-position="top" aria-label="Dilemmas and Delineations - How did we get here Part 2" data-href="Dilemmas and Delineations - How did we get here Part 2#How do we recognize eros\" href="Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#How+do+we+recognize+eros%5C" class="internal-link" target="_blank" rel="noopener">How do we recognize eros?</a> | 4 | <a data-href="Dilemmas and Delineations - How did we get here Part 2" href="Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2" class="internal-link" target="_blank" rel="noopener">Dilemmas and Delineations - How did we get here Part 2</a>
 

@@ -1,18 +1,18 @@
 #IndexEntry #Robology
 
-see [[Using Dharma Seed]]
+see <a data-href="Using Dharma Seed" href="Using+Dharma+Seed" class="internal-link" target="_blank" rel="noopener">Using Dharma Seed</a>
 
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] | 1 | [[2020 Vajra Music]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 1 | [[2020 Vajra Music]]
-[[Questioning Awakening]] | 1 | [[2014 November Solitary - Questioning Awakening]]
+<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 5" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+5" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 5</a> | 1 | <a data-href="2020 Vajra Music" href="2020+Vajra+Music" class="internal-link" target="_blank" rel="noopener">2020 Vajra Music</a>
+<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> | 1 | <a data-href="2020 Vajra Music" href="2020+Vajra+Music" class="internal-link" target="_blank" rel="noopener">2020 Vajra Music</a>
+<a data-href="Questioning Awakening" href="Questioning+Awakening" class="internal-link" target="_blank" rel="noopener">Questioning Awakening</a> | 1 | <a data-href="2014 November Solitary - Questioning Awakening" href="2014+November+Solitary+-+Questioning+Awakening" class="internal-link" target="_blank" rel="noopener">2014 November Solitary - Questioning Awakening</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 5#Micro-movements hold posture check for resonance in energy body and for image\|Micro-movements, hold posture, check for resonance in energy body and for image]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Voice Movement and the Possibilities of Soul" but how many have picked it up 🟢\|"Voice, Movement, and the Possibilities of Soul" ... but how many have picked it up? 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
-[[Questioning Awakening#All that's in the library and Dharma Seed\|All that's in the library and Dharma Seed]] | 1 | [[Questioning Awakening]]
+<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 5" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 5#Micro-movements hold posture check for resonance in energy body and for image\" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+5#Micro-movements+hold+posture+check+for+resonance+in+energy+body+and+for+image%5C" class="internal-link" target="_blank" rel="noopener">Micro-movements, hold posture, check for resonance in energy body and for image</a> | 1 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 5" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+5" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 5</a>
+<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Voice Movement and the Possibilities of Soul" but how many have picked it up 🟢\" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#%22Voice+Movement+and+the+Possibilities+of+Soul%22+but+how+many+have+picked+it+up+%F0%9F%9F%A2%5C" class="internal-link" target="_blank" rel="noopener">&quot;Voice, Movement, and the Possibilities of Soul&quot; ... but how many have picked it up? 🟢</a> | 1 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a>
+<a aria-label-position="top" aria-label="Questioning Awakening" data-href="Questioning Awakening#All that's in the library and Dharma Seed\" href="Questioning+Awakening#All+that%27s+in+the+library+and+Dharma+Seed%5C" class="internal-link" target="_blank" rel="noopener">All that&#x27;s in the library and Dharma Seed</a> | 1 | <a data-href="Questioning Awakening" href="Questioning+Awakening" class="internal-link" target="_blank" rel="noopener">Questioning Awakening</a>
 

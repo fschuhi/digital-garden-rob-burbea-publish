@@ -3,10 +3,10 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 1 | [[2020 Vajra Music]]
+<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> | 1 | <a data-href="2020 Vajra Music" href="2020+Vajra+Music" class="internal-link" target="_blank" rel="noopener">2020 Vajra Music</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Different types of beasts\|Different types of beasts]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Different types of beasts\" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#Different+types+of+beasts%5C" class="internal-link" target="_blank" rel="noopener">Different types of beasts</a> | 1 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2" class="internal-link" target="_blank" rel="noopener">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a>
 
