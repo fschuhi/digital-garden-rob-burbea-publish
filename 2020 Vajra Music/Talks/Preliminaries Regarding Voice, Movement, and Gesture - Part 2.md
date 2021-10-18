@@ -130,7 +130,7 @@ What does it mean for movement/gesture/voice to be ensouled?
 2. ordinary usages of movement/gesture/voice can be sensed with soul
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
-So _if_ it wants to express and communicate through and using those aspects of being, if soul wants that, it _can_. ... There's not something that bars those directions and domains from being ensouled, bars soul from flowing through and expressing and communicating in and through and with those aspects of our being.<br/>
+So <i>if</i> it wants to express and communicate through and using those aspects of being, if soul wants that, it <i>can</i>. ... There's not something that bars those directions and domains from being ensouled, bars soul from flowing through and expressing and communicating in and through and with those aspects of our being.<br/>
 </div></div>
 
 ---
@@ -152,7 +152,7 @@ A second thing that it means is that the movement, gesture, and voice of oneself
 <span class="counts">**<a data-href="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^5-4" href="0302+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#^5-4" class="internal-link" target="_blank" rel="noopener">5-4</a>**: _<a data-href="Music" href="Music" class="internal-link" target="_blank" rel="noopener">Music</a> · <a data-href="Pedagogy" href="Pedagogy" class="internal-link" target="_blank" rel="noopener">Pedagogy</a>_</span>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
-Yes, I wasn't taught it, because, as I said, there wasn't the [[pedagogy]] there at that time. But I could have just kept bashing away in this dogged way that one has if one really wants something. I didn't. I chose other things instead. So there's regret. There's some responsibility that falls on me.<br/>
+Yes, I wasn't taught it, because, as I said, there wasn't the <a data-href="pedagogy" href="pedagogy" class="internal-link" target="_blank" rel="noopener">pedagogy</a> there at that time. But I could have just kept bashing away in this dogged way that one has if one really wants something. I didn't. I chose other things instead. So there's regret. There's some responsibility that falls on me.<br/>
 </div></div>
 
 ---
@@ -160,7 +160,7 @@ Yes, I wasn't taught it, because, as I said, there wasn't the [[pedagogy]] there
 <span class="counts">**<a data-href="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^6-1" href="0302+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#^6-1" class="internal-link" target="_blank" rel="noopener">6-1</a>**: _<a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking</a> (2) · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (3)_</span>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
-In a way, I'm offering these particular teachings now, offering them so that there's the possibility that you can practise, and practise in a way that you don't end up regretting, that you don't end up regretting not supporting yourself fully, or allowing yourself or enabling yourself fully to move in the direction or be moved in the direction of what _you_ want with respect to <a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking Dharma</a>, and also what you want with respect to [[soul]] in life, the expression and the living of soul in life, _your_ soul in _your_ life. We must call that Soulmaking Dharma; it's not something separate.<br/>
+In a way, I'm offering these particular teachings now, offering them so that there's the possibility that you can practise, and practise in a way that you don't end up regretting, that you don't end up regretting not supporting yourself fully, or allowing yourself or enabling yourself fully to move in the direction or be moved in the direction of what <i>you</i> want with respect to <a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking Dharma</a>, and also what you want with respect to <a data-href="soul" href="soul" class="internal-link" target="_blank" rel="noopener">soul</a> in life, the expression and the living of soul in life, <i>your</i> soul in <i>your</i> life. We must call that Soulmaking Dharma; it's not something separate.<br/>
 </div></div>
 
 ---
@@ -384,7 +384,7 @@ Just an invitation to really ponder: is there something, a much larger trajector
 <span class="counts">**<a data-href="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^12-2" href="0302+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#^12-2" class="internal-link" target="_blank" rel="noopener">12-2</a>**: _<a data-href="Image" href="Image" class="internal-link" target="_blank" rel="noopener">Image</a> · <a data-href="Energy Body" href="Energy+Body" class="internal-link" target="_blank" rel="noopener">Energy Body</a> · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> · <a data-href="Manifestations" href="Manifestations" class="internal-link" target="_blank" rel="noopener">Manifestations</a> · <a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking</a> · <a data-href="Inertia" href="Inertia" class="internal-link" target="_blank" rel="noopener">Inertia</a>_</span>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
-There will be consequences to neglecting, not picking up, and just kind of giving in to one's [[inertia]] without really examining it and questioning it.<br/>
+There will be consequences to neglecting, not picking up, and just kind of giving in to one's <a data-href="inertia" href="inertia" class="internal-link" target="_blank" rel="noopener">inertia</a> without really examining it and questioning it.<br/>
 </div></div>
 
 ---
@@ -416,7 +416,7 @@ see [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^assessment-
 <span class="counts">**<a data-href="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^13-3" href="0302+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#^13-3" class="internal-link" target="_blank" rel="noopener">13-3</a>**: _<a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (2)_</span>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
-Putting that piece in, the assessment, the sort of exam piece, actually makes it more difficult, usually, and more challenging, and that's actually part of it, because that reflects, mimics, the actual situation that [[soul]] finds itself in in life. Soul is in life. That's what we need to work with.<br/>
+Putting that piece in, the assessment, the sort of exam piece, actually makes it more difficult, usually, and more challenging, and that's actually part of it, because that reflects, mimics, the actual situation that <a data-href="soul" href="soul" class="internal-link" target="_blank" rel="noopener">soul</a> finds itself in in life. Soul is in life. That's what we need to work with.<br/>
 </div></div>
 
 ---
@@ -498,7 +498,7 @@ Putting that piece in, the assessment, the sort of exam piece, actually makes it
 <span class="counts">**<a data-href="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^17-1" href="0302+Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#^17-1" class="internal-link" target="_blank" rel="noopener">17-1</a>**: _<a data-href="Sangha" href="Sangha" class="internal-link" target="_blank" rel="noopener">Sangha</a> · <a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking</a> (3) · <a data-href="Pedagogy" href="Pedagogy" class="internal-link" target="_blank" rel="noopener">Pedagogy</a> (2) · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Soul" href="Soul" class="internal-link" target="_blank" rel="noopener">Soul</a> (2)_</span>
 
 <div class="admonition quote"><div class="title">❝</div><div class="content">
-Beautiful as the [[experience]] of that week can be, or some of the experiences on that week can be, and touching, might it be that something more steady - courses, classes, groups, etc. - actually provide maybe not _more_ support, but a different kind of support, and a necessary kind of support for making a real, more long-term difference in terms of [[soul]] and soulmaking and what soul needs? That's something to think about.<br/>
+Beautiful as the <a data-href="experience" href="experience" class="internal-link" target="_blank" rel="noopener">experience</a> of that week can be, or some of the experiences on that week can be, and touching, might it be that something more steady - courses, classes, groups, etc. - actually provide maybe not <i>more</i> support, but a different kind of support, and a necessary kind of support for making a real, more long-term difference in terms of <a data-href="soul" href="soul" class="internal-link" target="_blank" rel="noopener">soul</a> and soulmaking and what soul needs? That's something to think about.<br/>
 </div></div>
 
 ---

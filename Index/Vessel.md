@@ -9,6 +9,7 @@ showTopReferringTalks: true
 talk | count | series
 :- | - |: -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 2 | [[2020 Vajra Music]]
+[[Orienting to This Jhana Retreat]] | 2 | [[2019 Practising the Jhanas]]
 
 ### Quotes
 #IndexEntry #Robology
@@ -52,4 +53,6 @@ description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Why "preliminaries" Because it expands soulmaking\|Why "preliminaries"? Because it expands soulmaking]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#If we like practicing soulmaking the soulmaking dynamic will expand\|If we like practicing soulmaking the soulmaking dynamic will expand]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Orienting to This Jhana Retreat#How we create this container together\|How we create this container together]] | 1 | [[Orienting to This Jhana Retreat]]
+[[Orienting to This Jhana Retreat#We all are participating in this\|We all are participating in this]] | 1 | [[Orienting to This Jhana Retreat]]
 

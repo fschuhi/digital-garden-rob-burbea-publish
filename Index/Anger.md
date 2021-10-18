@@ -4,7 +4,7 @@
 talk | count | series
 :- | - |: -
 [[Expressions of Metta]] | 51 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Exploring the World of Loving Kindness]] | 37 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[Exploring the World of Loving Kindness]] | 38 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 15 | [[2020 Vajra Music]]
 [[The Practice of Compassion]] | 11 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]

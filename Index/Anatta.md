@@ -16,6 +16,7 @@ dukkha = absence of freedom
 talk | count | series
 :- | - |: -
 [[From Insight to Love]] | 30 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Using Insight to Deepen Love and Compassion]] | 23 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 2]] | 20 | [[2017 Eros Unfettered]]
 [[What is Insight]] | 6 | [[2007 New Years Retreat Insight Meditation]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 5 | [[2020 Vajra Music]]
@@ -24,7 +25,6 @@ talk | count | series
 [[Exploring the World of Loving Kindness]] | 4 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Equanimity in Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ## some other stuff
 
@@ -32,6 +32,7 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[The Way of Non-Clinging Part 2#Even the pleasant vedana become neutral and even those neutral sensations disappear\|Even the pleasant vedana become neutral, and even those neutral sensations disappear]] | 6 | [[The Way of Non-Clinging Part 2]]
+[[Using Insight to Deepen Love and Compassion#3 Anatta not-self\|(3) Anatta, not-self]] | 5 | [[Using Insight to Deepen Love and Compassion]]
 [[From Insight to Love#The "three characteristics"\|The "three characteristics"]] | 5 | [[From Insight to Love]]
 [[The Way of Non-Clinging Part 2#"Self is an illusion" leads to anatta practice\|"Self is an illusion" leads to anatta practice]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[From Insight to Love#Yes it might be but we are interested in freedom rather than a certain badge\|Yes, it might be, but we are interested in freedom, rather than a certain badge]] | 4 | [[From Insight to Love]]

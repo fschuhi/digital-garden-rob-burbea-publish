@@ -5,6 +5,7 @@ talk | count | series
 :- | - |: -
 [[The Way of Non-Clinging Part 3]] | 7 | [[2017 Eros Unfettered]]
 [[From Insight to Love]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Orienting to This Jhana Retreat]] | 3 | [[2019 Practising the Jhanas]]
 [[The Way of Non-Clinging Part 2]] | 1 | [[2017 Eros Unfettered]]
 [[The Practice of Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
@@ -12,6 +13,7 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[The Way of Non-Clinging Part 3#We limit our experience through the ideas we are hanging on to\|We limit our experience through the ideas we are hanging on to]] | 5 | [[The Way of Non-Clinging Part 3]]
+[[Orienting to This Jhana Retreat#Don't try to use this retreat to fix tings but rather go with whatever practice is the easiest for the well-being to arise\|Don't try to use this retreat to fix tings, but rather go with whatever practice is the easiest for the well-being to arise]] | 3 | [[Orienting to This Jhana Retreat]]
 [[From Insight to Love#Fear involves unpleasant body sensations and a constriction of the mind\|Fear involves unpleasant body sensations and a constriction of the mind]] | 2 | [[From Insight to Love]]
 [[The Way of Non-Clinging Part 3#Who would even want to live without clinging\|Who would even want to live without clinging?]] | 1 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 3#Constraints on the kinds of desire or fantasies that are allowed\|Constraints on the kinds of desire or fantasies that are allowed]] | 1 | [[The Way of Non-Clinging Part 3]]

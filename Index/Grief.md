@@ -4,6 +4,7 @@
 talk | count | series
 :- | - |: -
 [[The Practice of Compassion]] | 14 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Orienting to This Jhana Retreat]] | 10 | [[2019 Practising the Jhanas]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 6 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 4 | [[2020 Vajra Music]]
 [[Equanimity in Compassion]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]

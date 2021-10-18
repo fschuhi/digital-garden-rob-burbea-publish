@@ -10,8 +10,8 @@ talk | count | series
 [[Equanimity in Compassion]] | 20 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 12 | [[2017 Eros Unfettered]]
 [[Equanimity (talk)]] | 11 | [[2006 New Year's Retreat]]
+[[Using Insight to Deepen Love and Compassion]] | 10 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 9 | [[2007 New Years Retreat Insight Meditation]]
-[[Dilemmas and Delineations - How did we get here Part 2]] | 3 | [[2017 Eros Unfettered]]
 [[From Insight to Love]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
@@ -28,6 +28,7 @@ description | count | talk
 [[Love and Emptiness#Rob attention is kind of like prongs\|Rob: attention is kind of like prongs]] | 6 | [[Love and Emptiness]]
 [[The Way of Non-Clinging Part 2#Experience of craving and clinging of something contracting\|Experience of craving and clinging, of something contracting]] | 5 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 1#Craving itself is dukkha\|Craving itself is dukkha]] | 5 | [[The Way of Non-Clinging Part 1]]
+[[Using Insight to Deepen Love and Compassion#When we let go we're actually taking away some of what is building an experience and it begins to fade\|When we let go, we're actually taking away some of what is building an experience, and it begins to fade]] | 5 | [[Using Insight to Deepen Love and Compassion]]
 [[Love and Emptiness#Rob deep metta has this quality of non-craving\|Rob: deep metta has this quality of non-craving]] | 5 | [[Love and Emptiness]]
 [[The Way of Non-Clinging Part 3#Each of the three are different doors directions avenues\|Each of the three are different doors, directions, avenues]] | 4 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 2#The calmer I get the even more subtle levels of craving I can pick up\|The calmer I get, the even more subtle levels of craving I can pick up]] | 4 | [[The Way of Non-Clinging Part 2]]

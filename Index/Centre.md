@@ -64,6 +64,7 @@ talk | count | series
 :- | - |: -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 53 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 11 | [[2020 Vajra Music]]
+[[Using Insight to Deepen Love and Compassion]] | 7 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Joy (talk)]] | 2 | [[2007 New Years Retreat Insight Meditation]]
@@ -78,6 +79,7 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Whats the logos of "centring"\|Whats the logos of "centring"?]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Centre also relates to the centre of a circumscribed area Aspect 2\|Centre also relates to the centre of a circumscribed area (Aspect 2)]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 2 1 Feel where the sound is coming from against energy body background\|🟡 Excercise 2.1: Feel where the sound is coming from, against energy body background]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Using Insight to Deepen Love and Compassion#f feel energetically the opening and closing of the heart centre\|f) feel energetically the opening and closing of the heart centre]] | 5 | [[Using Insight to Deepen Love and Compassion]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#"I've lost my centre" "I need to regain my centre"\|"I've lost my centre", "I need to regain my centre"]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#If we do not aim for Aspect 4 we might see the face of the divine Aspect 5\|If we do not aim for Aspect 4 we might see the face of the divine (Aspect 5)]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 2 2 experiment with different centres of emanation\|🟡 Excercise 2.2: experiment with different centres of emanation]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]

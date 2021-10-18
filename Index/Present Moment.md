@@ -6,6 +6,7 @@ talk | count | series
 [[The Way of Non-Clinging Part 2]] | 3 | [[2017 Eros Unfettered]]
 [[The Place of Samadhi in Metta Practice]] | 3 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Using Insight to Deepen Love and Compassion]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 [[From Insight to Love]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]

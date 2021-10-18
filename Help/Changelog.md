@@ -13,11 +13,15 @@
 	- [[The Way of Non-Clinging Part 3]]
 	- [[Dilemmas and Delineations - How did we get here Part 1]]
 	- [[Dilemmas and Delineations - How did we get here Part 2]]
+- retreat [[2014 November Solitary - Questioning Awakening]]
+	- [[Questioning Awakening]]
+- retreat [[2019 Practising the Jhanas]]
+	- [[Orienting to This Jhana Retreat]]
 
 ##### Features
 - top X referring talks for index entries, see e.g. [[Energy Body]], with different X for some talks
 - paragraphs with a minimum of Y mentions, with different Y's
-- [[Synopsis 1]] shows two talks from different years, side by side
+- synopses showing two talks from different years, side by side (like [[Synopsis 1]] and [[Synopsis 2]])
 
 ##### Help
 - [[Introduction]] and [[How to browse the Digital Garden]]

@@ -9,14 +9,14 @@ talk | count | series
 :- | - |: -
 [[From Insight to Love]] | 32 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 30 | [[2007 New Years Retreat Insight Meditation]]
+[[Using Insight to Deepen Love and Compassion]] | 26 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 1]] | 22 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 2]] | 20 | [[2017 Eros Unfettered]]
 [[Equanimity in Compassion]] | 12 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 12 | [[2006 New Year's Retreat]]
 [[Joy (talk)]] | 7 | [[2007 New Years Retreat Insight Meditation]]
+[[Questioning Awakening]] | 3 | [[2014 November Solitary - Questioning Awakening]]
 [[Love and Emptiness]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[The Place of Samadhi in Metta Practice]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[Samadhi in Metta Practice]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -27,7 +27,10 @@ description | count | talk
 [[The Way of Non-Clinging Part 2#It's the resulting letting go of clinging that unfabricates not contemplating rapid impermance\|It's the resulting letting go of clinging that unfabricates, not contemplating rapid impermance]] | 6 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 1#Impermance brings less solidification\|Impermance brings less solidification]] | 6 | [[The Way of Non-Clinging Part 1]]
 [[What is Insight#Using impermance as a lense\|Using impermance as a lense]] | 6 | [[What is Insight]]
+[[Using Insight to Deepen Love and Compassion#Anicca\|Anicca]] | 5 | [[Using Insight to Deepen Love and Compassion]]
 [[What is Insight#Commentaries point towards a "dark night of the soul" but I don't think that's how insight works\|Commentaries point towards a "dark night of the soul", but I don't think that's how insight works]] | 5 | [[What is Insight]]
+[[Using Insight to Deepen Love and Compassion#1 Anicca impermanence\|(1) Anicca, impermanence]] | 4 | [[Using Insight to Deepen Love and Compassion]]
+[[Using Insight to Deepen Love and Compassion#c moment-to-moment impermanence\|c) moment-to-moment impermanence]] | 4 | [[Using Insight to Deepen Love and Compassion]]
 [[What is Insight#"Take up the theme" seeing impermanence in visual forms emotions body sensations sounds\|"Take up the theme": seeing impermanence in visual forms, emotions, body sensations, sounds]] | 4 | [[What is Insight]]
 [[Equanimity in Compassion#1 Contemplating impermanence\|(1) Contemplating impermanence]] | 4 | [[Equanimity in Compassion]]
 [[From Insight to Love#The resulting letting go is not disconnection and it can lead to an understanding of anatta\|The resulting letting go is not disconnection, and it can lead to an understanding of anatta]] | 4 | [[From Insight to Love]]

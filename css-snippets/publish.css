@@ -63,6 +63,8 @@
     margin-left: 0;
     border: 1px;
     min-height: 0;
+    font-size: 11px;
+    line-height: 1.3em;
 }
 
 .quote {
@@ -396,3 +398,43 @@ body {
   border-bottom: 5px solid transparent;
 }
 
+
+/****************************************/
+/* tree-item.css
+/****************************************/
+
+.tree-item-inner {
+    font-size: 13px;
+    line-height: 1.3em;
+    padding: 1.5px;
+}
+
+.tree-item-self.is-clickable {
+    padding: 0;
+}
+
+.search-result-file-matches {
+    font-size: 13px;
+}
+
+.nav-file-title-content {
+    font-size: 13px;
+    padding: 0;
+}
+
+.nav-folder-title-content {
+    font-size: 13px;
+    padding: 0;
+}
+
+.pane-empty {
+    font-size: 13px;
+}
+
+.backlink-pane-empty {
+    font-size: 13px;
+}
+
+input {
+    font-size: 14px !important
+}

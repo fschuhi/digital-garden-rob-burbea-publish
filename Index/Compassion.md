@@ -6,13 +6,13 @@ talk | count | series
 [[The Practice of Compassion]] | 150 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 63 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 59 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Using Insight to Deepen Love and Compassion]] | 20 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 13 | [[2020 Vajra Music]]
 [[From Insight to Love]] | 13 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Place of Samadhi in Metta Practice]] | 10 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Guided meditation - Metta to phenomena]] | 9 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Exploring the World of Loving Kindness]] | 7 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Joy (talk)]] | 6 | [[2007 New Years Retreat Insight Meditation]]
-[[Expressions of Metta]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -30,6 +30,7 @@ description | count | talk
 [[The Practice of Compassion#When there's metta and compassion for oneself the ego can take its rightful place in the scheme of things\|When there's metta and compassion for oneself, the ego can take its rightful place in the scheme of things]] | 5 | [[The Practice of Compassion]]
 [[The Practice of Compassion#Cultivating a climate of compassion\|Cultivating a climate of compassion]] | 5 | [[The Practice of Compassion]]
 [[The Practice of Compassion#Rob We are not completely in control of what will happen but acting out of compassion is still the best way to live\|Rob: We are not completely in control of what will happen, but acting out of compassion is still the best way to live]] | 5 | [[The Practice of Compassion]]
+[[Using Insight to Deepen Love and Compassion#As we practice metta insight comes with that\|As we practice metta, insight comes with that]] | 4 | [[Using Insight to Deepen Love and Compassion]]
 [[Exploring the World of Loving Kindness#We need to discriminate between metta and compassion\|We need to discriminate between metta and compassion]] | 4 | [[Exploring the World of Loving Kindness]]
 [[Joy (talk)#Metta and compassion bring happiness\|Metta and compassion bring happiness]] | 4 | [[Joy (talk)]]
 [[Equanimity in Compassion#Equanimity makes the compassion steady in the face of suffering\|Equanimity makes the compassion steady in the face of suffering]] | 4 | [[Equanimity in Compassion]]

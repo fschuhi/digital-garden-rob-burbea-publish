@@ -3,6 +3,7 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
+[[Using Insight to Deepen Love and Compassion]] | 16 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Place of Samadhi in Metta Practice]] | 16 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 14 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 2]] | 13 | [[2017 Eros Unfettered]]
@@ -11,7 +12,6 @@ talk | count | series
 [[The Way of Non-Clinging Part 1]] | 6 | [[2017 Eros Unfettered]]
 [[Exploring the World of Loving Kindness]] | 6 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Expressions of Metta]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions

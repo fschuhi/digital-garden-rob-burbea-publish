@@ -16,6 +16,8 @@
     margin-left: 0;
     border: 1px;
     min-height: 0;
+    font-size: 11px;
+    line-height: 1.3em;
 }
 
 .quote {

@@ -17,36 +17,27 @@ You find a short bio of Rob [[Rob Burbea|here]].
 
 The [[Rob Burbea Transcription Project]] has transcribed the talks from the recordings on [[Using Dharma Seed|Dharma Seed]]. The transcript PDFs are translated to web pages in this Digital Garden and amended with keywords, crossreferences, summaries, quotes, notes and further information derived from the talks.
 
-The Garden has an [[Index]] for key terms and phrases.
+There is an [[Introduction]] to this Digital Garden and also **help pages** which show [[How to browse the Digital Garden|how to browse the Digital Garden]]. You might also want to check out the [[Index]] for key terms and phrases.
 
-There is an [[Introduction]] to this Digital Garden and also **help pages** which show [[How to browse the Digital Garden|how to browse the Digital Garden]].
-
-If you have been here before you might want to check out the [[Changelog]] for new content and features.
-
-For any feedback or suggestions relating to this Digital Garden, please email frank.schuhardt@gmail.com
+If you have been here before you might want to check out the [[Changelog]] for new content and features. For any feedback or suggestions relating to this Digital Garden, please email frank.schuhardt@gmail.com
 \
 	
 ## Retreats and series of talks
 - ⏸️ [[2006 New Year's Retreat]]
-	- One talk added (for the [[Metta book project]], one transcript waiting.
 - ✔️ [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-	- _Collection of Rob's talks for that retreat, the talks a bit structured into sections and subsections._
 - ✔️ [[2007 New Years Retreat Insight Meditation]]
-	- _short retreat, for the [[Metta book project]]_
--  🛠️ [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-	- _Currently aiming for two talks, as support for the [[Metta book project]]_
+- 🛠️ [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 - ✔️ [[2020 Vajra Music]] 
-	- _The talks of that series contain have charts at the top of the summary pages. The charts show visually how the parts of the talk hang together._
-	- _We've also experimented a bit with marking paragraphs with_ 🟡 _(= is an excercise) and_ 🟢 _(= has a link to another talk)._
-	- _The series also contains [[Vajra Music Excercises (Pádraig)]], one of Pádraig's practice guides, see explanation on that page._
+- 🛠️ [[2014 November Solitary - Questioning Awakening]]
 - 🛠️ [[2017 Eros Unfettered]] 
-	- _We initially started the Digital Garden with this beloved series, but agreed then on working towards a Metta book first. Therefore the work on Eros Unfettered series of talks have been put on hold for now._
+- 🛠️ [[2019 Practising the Jhanas]]
 
 <span style="color:darkgray">
 	 ✔️completed (for now)<br/>
 	🛠️ Work in Progress<br/ >
 	⏸️ on hold<br/ >
 </span>
+</br>
 
 <div class="admonition important"><div class="title">A request</div><div class="content">
 When distributing links to this digital garden to others, please be considerate and keep in mind that this project is very much work in progress. What you see here is only a very small part of the teachings of Rob Burbea!<br/>

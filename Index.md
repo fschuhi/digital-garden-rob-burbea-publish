@@ -87,7 +87,7 @@ Each index entry has a page in the "Index entries" folder. Use backlinks (shown 
 ---
 ^O
 ##### O
-<a data-href="Old Testament" href="Old+Testament" class="internal-link" target="_blank" rel="noopener">Old Testament</a> &nbsp;·&nbsp; <a data-href="Om mani padme hum" href="Om+mani+padme+hum" class="internal-link" target="_blank" rel="noopener">Om mani padme hum</a> &nbsp;·&nbsp; <a data-href="Oneness" href="Oneness" class="internal-link" target="_blank" rel="noopener">Oneness</a> &nbsp;·&nbsp; <a data-href="Ontology" href="Ontology" class="internal-link" target="_blank" rel="noopener">Ontology</a> &nbsp;·&nbsp; <a data-href="Orienting to This Jhana Retreat" href="Orienting+to+This+Jhana+Retreat" class="internal-link" target="_blank" rel="noopener">Orienting to This Jhana Retreat</a>
+<a data-href="Old Testament" href="Old+Testament" class="internal-link" target="_blank" rel="noopener">Old Testament</a> &nbsp;·&nbsp; <a data-href="Om mani padme hum" href="Om+mani+padme+hum" class="internal-link" target="_blank" rel="noopener">Om mani padme hum</a> &nbsp;·&nbsp; <a data-href="Oneness" href="Oneness" class="internal-link" target="_blank" rel="noopener">Oneness</a> &nbsp;·&nbsp; <a data-href="Ontology" href="Ontology" class="internal-link" target="_blank" rel="noopener">Ontology</a> &nbsp;·&nbsp; [[Orienting to This Jhana Retreat]]
 
 ---
 ^P

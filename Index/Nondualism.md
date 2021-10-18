@@ -11,7 +11,7 @@ talk | count | series
 [[Love and Emptiness]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 2 | [[2020 Vajra Music]]
-[[The Practice of Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Using Insight to Deepen Love and Compassion]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 1 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions

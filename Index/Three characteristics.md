@@ -3,6 +3,7 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
+[[Using Insight to Deepen Love and Compassion]] | 6 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 3 | [[2007 New Years Retreat Insight Meditation]]
 [[Joy (talk)]] | 2 | [[2007 New Years Retreat Insight Meditation]]
@@ -10,6 +11,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
+[[Using Insight to Deepen Love and Compassion#Three Characteristics\|Three Characteristics]] | 3 | [[Using Insight to Deepen Love and Compassion]]
 [[From Insight to Love#The "three characteristics"\|The "three characteristics"]] | 3 | [[From Insight to Love]]
 [[Joy (talk)#Joy is inversely related to selfing\|Joy is inversely related to selfing]] | 1 | [[Joy (talk)]]
 [[Joy (talk)#Letting go of our addiction to things and our dependency on things to give us happiness\|Letting go of our addiction to things and our dependency on things to give us happiness]] | 1 | [[Joy (talk)]]

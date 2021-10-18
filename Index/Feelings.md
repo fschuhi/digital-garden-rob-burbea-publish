@@ -4,6 +4,8 @@
 talk | count | series
 :- | - |: -
 [[Exploring the World of Loving Kindness]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[Questioning Awakening]] | 4 | [[2014 November Solitary - Questioning Awakening]]
+[[Using Insight to Deepen Love and Compassion]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 2 | [[2007 New Years Retreat Insight Meditation]]
 [[Expressions of Metta]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Dilemmas and Delineations - How did we get here Part 2]] | 1 | [[2017 Eros Unfettered]]

@@ -8,6 +8,7 @@ talk | count | series
 [[Perfection and Christ's Blessing]] | 5 | [[2020 Vajra Music]]
 [[Love and Emptiness]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 1 | [[2020 Vajra Music]]
+[[Orienting to This Jhana Retreat]] | 1 | [[2019 Practising the Jhanas]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

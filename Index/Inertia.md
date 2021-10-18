@@ -9,6 +9,7 @@ talk | count | series
 :- | - |: -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 24 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 8 | [[2020 Vajra Music]]
+[[Orienting to This Jhana Retreat]] | 6 | [[2019 Practising the Jhanas]]
 
 ### Quotes
 #### [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1|Vajra Music: Preliminaries - Part 1 (Transcript)]]
@@ -32,4 +33,5 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Where's the inertia\|Where's the inertia?]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Example the concept of "inertia"\|Example: the concept of "inertia"]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Seeing That Frees is often read too fast without doing the practices\|Seeing That Frees is often read too fast, without doing the practices]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Orienting to This Jhana Retreat#Watch out for inertia\|Watch out for inertia]] | 5 | [[Orienting to This Jhana Retreat]]
 

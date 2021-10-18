@@ -4,6 +4,7 @@
 talk | count | series
 :- | - |: -
 [[What is Insight]] | 5 | [[2007 New Years Retreat Insight Meditation]]
+[[Using Insight to Deepen Love and Compassion]] | 3 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 2]] | 1 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 1]] | 1 | [[2017 Eros Unfettered]]
@@ -14,8 +15,8 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[What is Insight#Moving towards the Unfabracticated\|Moving towards the Unfabracticated]] | 3 | [[What is Insight]]
-[[The Way of Non-Clinging Part 2#There can be a complete unfabrication\|There can be a complete unfabrication]] | 1 | [[The Way of Non-Clinging Part 2]]
-[[The Way of Non-Clinging Part 1#Impermance brings less solidification\|Impermance brings less solidification]] | 1 | [[The Way of Non-Clinging Part 1]]
+[[Using Insight to Deepen Love and Compassion#c moment-to-moment impermanence\|c) moment-to-moment impermanence]] | 2 | [[Using Insight to Deepen Love and Compassion]]
+[[Using Insight to Deepen Love and Compassion#Three Characteristics\|Three Characteristics]] | 1 | [[Using Insight to Deepen Love and Compassion]]
 [[What is Insight#Satipatthana Sutta\|Satipatthana Sutta]] | 1 | [[What is Insight]]
 [[What is Insight#Kaccayana and Dependent Origination\|Kaccayana and Dependent Origination]] | 1 | [[What is Insight]]
 [[Guided meditation - Metta to phenomena#Just noticing if anything in experience is standing out\|Just noticing if anything in experience is standing out]] | 1 | [[Guided meditation - Metta to phenomena]]

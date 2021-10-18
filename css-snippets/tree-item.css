@@ -1,5 +1,7 @@
 .tree-item-inner {
     font-size: 13px;
+    line-height: 1.3em;
+    padding: 1.5px;
 }
 
 .tree-item-self.is-clickable {

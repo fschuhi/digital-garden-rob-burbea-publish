@@ -5,6 +5,7 @@ talk | count | series
 :- | - |: -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 2 | [[2020 Vajra Music]]
 [[Exploring the World of Loving Kindness]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[Orienting to This Jhana Retreat]] | 1 | [[2019 Practising the Jhanas]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
@@ -12,5 +13,6 @@ description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Sila and Soul" "The Image of Ethics" 🟢\|"Sila and Soul", "The Image of Ethics" 🟢]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Exploring the World of Loving Kindness#Of all the five precepts it's the hardest one\|Of all the five precepts, it's the hardest one]] | 2 | [[Exploring the World of Loving Kindness]]
+[[Orienting to This Jhana Retreat#Making the Five Preceps part of our mandala here\|Making the Five Preceps part of our mandala here]] | 1 | [[Orienting to This Jhana Retreat]]
 [[Dilemmas and Delineations - How did we get here Part 1#All this is not really adequately addressed in the Dharma at present\|All this is not really adequately addressed in the Dharma at present]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
 

@@ -14,9 +14,11 @@ _This series of talks and guided meditations explores the development of the pra
 ### Talks
 ✔️ [[The Place of Samadhi in Metta Practice]] 
 ✔️ [[Exploring the World of Loving Kindness]]
+✔️ [[Using Insight to Deepen Love and Compassion]]
 <br/>
 
 ### Synopses
 synopsis | 2008 | [[2007 Lovingkindness and Compassion As a Path to Awakening\|2007]]
 - | - | -
 [[Synopsis 1]] | [[The Place of Samadhi in Metta Practice]] | [[Samadhi in Metta Practice]]
+[[Synopsis 2]] | [[Exploring the World of Loving Kindness]] | [[Expressions of Metta]]	

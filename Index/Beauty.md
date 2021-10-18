@@ -3,6 +3,7 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
+[[Orienting to This Jhana Retreat]] | 10 | [[2019 Practising the Jhanas]]
 [[The Way of Non-Clinging Part 3]] | 8 | [[2017 Eros Unfettered]]
 [[Joy (talk)]] | 8 | [[2007 New Years Retreat Insight Meditation]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 7 | [[2017 Eros Unfettered]]
@@ -12,7 +13,6 @@ talk | count | series
 [[What is Insight]] | 4 | [[2007 New Years Retreat Insight Meditation]]
 [[Equanimity in Compassion]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 4 | [[2006 New Year's Retreat]]
-[[Samadhi in Metta Practice]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

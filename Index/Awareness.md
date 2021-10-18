@@ -3,16 +3,16 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
+[[Using Insight to Deepen Love and Compassion]] | 18 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 15 | [[2020 Vajra Music]]
 [[From Insight to Love]] | 14 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 2]] | 12 | [[2017 Eros Unfettered]]
+[[Questioning Awakening]] | 12 | [[2014 November Solitary - Questioning Awakening]]
 [[Love and Emptiness]] | 11 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 8 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Place of Samadhi in Metta Practice]] | 7 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 5 | [[2020 Vajra Music]]
-[[Equanimity (talk)]] | 4 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

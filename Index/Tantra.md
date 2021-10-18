@@ -7,6 +7,7 @@ talk | count | series
 [[The Way of Non-Clinging Part 2]] | 2 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 1 | [[2020 Vajra Music]]
 [[Dilemmas and Delineations - How did we get here Part 2]] | 1 | [[2017 Eros Unfettered]]
+[[Questioning Awakening]] | 1 | [[2014 November Solitary - Questioning Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -16,4 +17,5 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Dwelling in the indestructible heart essence of the body speach and mind of all those who are gone to and come from the truth\|Dwelling in the indestructible heart essence of the body, speach and mind of all those who are gone to and come from the truth]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Dilemmas and Delineations - How did we get here Part 2#Hermeneutical circle\|Hermeneutical circle]] | 1 | [[Dilemmas and Delineations - How did we get here Part 2]]
 [[Dilemmas and Delineations - How did we get here Part 1#Parts of the context problems coming from wanting to live without clinging; imaginal practice\|Parts of the context: problems coming from wanting to live without clinging; imaginal practice]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
+[[Questioning Awakening#Different views and ideas unfold certain experiences\|Different views and ideas unfold certain experiences]] | 1 | [[Questioning Awakening]]
 

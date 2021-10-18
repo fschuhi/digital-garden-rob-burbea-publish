@@ -4,6 +4,7 @@
 talk | count | series
 :- | - |: -
 [[What is Insight]] | 84 | [[2007 New Years Retreat Insight Meditation]]
+[[Using Insight to Deepen Love and Compassion]] | 43 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 34 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 32 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 2]] | 25 | [[2017 Eros Unfettered]]
@@ -12,13 +13,15 @@ talk | count | series
 [[Equanimity in Compassion]] | 15 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 14 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 14 | [[2006 New Year's Retreat]]
-[[The Way of Non-Clinging Part 3]] | 13 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
 [[What is Insight#General definition of insight that which brings lessening of suffering\|General definition of insight: that which brings lessening of suffering]] | 12 | [[What is Insight]]
+[[Using Insight to Deepen Love and Compassion#Insight is any kind of understanding that releases clinging and thus suffering\|Insight is any kind of understanding that releases clinging and thus suffering]] | 10 | [[Using Insight to Deepen Love and Compassion]]
 [[The Practice of Compassion#When there's insight into suffering compassion comes automatically\|When there's insight into suffering, compassion comes automatically]] | 9 | [[The Practice of Compassion]]
+[[Questioning Awakening#Example narrow focus of Mahasi tradition\|Example: narrow focus of Mahasi tradition]] | 6 | [[Questioning Awakening]]
+[[Using Insight to Deepen Love and Compassion#As we practice metta insight comes with that\|As we practice metta, insight comes with that]] | 6 | [[Using Insight to Deepen Love and Compassion]]
 [[The Practice of Compassion#There's a difference between 'judgement' and 'discernment'\|There's a difference between 'judgement' and 'discernment']] | 6 | [[The Practice of Compassion]]
 [[From Insight to Love#Insight is that which releases clinging\|Insight is that which releases clinging]] | 6 | [[From Insight to Love]]
 [[What is Insight#"Insights arise" often from trusting mindfulness\|"Insights arise", often from trusting mindfulness]] | 5 | [[What is Insight]]

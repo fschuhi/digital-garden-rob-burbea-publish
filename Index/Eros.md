@@ -11,6 +11,7 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 2 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 2 | [[2020 Vajra Music]]
 [[The Way of Non-Clinging Part 1]] | 1 | [[2017 Eros Unfettered]]
+[[Questioning Awakening]] | 1 | [[2014 November Solitary - Questioning Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

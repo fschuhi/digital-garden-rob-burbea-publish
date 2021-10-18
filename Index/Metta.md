@@ -4,6 +4,7 @@
 talk | count | series
 :- | - |: -
 [[Love and Emptiness]] | 79 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Using Insight to Deepen Love and Compassion]] | 70 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 70 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 64 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Place of Samadhi in Metta Practice]] | 60 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
@@ -12,7 +13,6 @@ talk | count | series
 [[The Practice of Compassion]] | 29 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Guided meditation - Metta to phenomena]] | 26 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 22 | [[2006 New Year's Retreat]]
-[[Equanimity in Compassion]] | 15 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -24,6 +24,7 @@ description | count | talk
 [[From Insight to Love#Over time the groove of metta will be more established than the groove of measuring comparing juding\|Over time, the groove of metta will be more established than the groove of measuring, comparing, juding]] | 7 | [[From Insight to Love]]
 [[Equanimity (talk)#A heart of metta is a happy heart\|A heart of metta is a happy heart]] | 7 | [[Equanimity (talk)]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Also add metta in an adhoc fassion to counteract self-consciousness\|Also add metta in an adhoc fassion to counteract self-consciousness]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Using Insight to Deepen Love and Compassion#a Remembering death and the unpredicatibility of life\|a) Remembering death and the unpredicatibility of life]] | 6 | [[Using Insight to Deepen Love and Compassion]]
 [[Exploring the World of Loving Kindness#It's more a constellation of feelings\|It's more a constellation of feelings]] | 6 | [[Exploring the World of Loving Kindness]]
 [[Exploring the World of Loving Kindness#It's not always that metta feels it's coming from the self\|It's not always that metta feels it's coming from the self]] | 6 | [[Exploring the World of Loving Kindness]]
 [[The Place of Samadhi in Metta Practice#Story metta all the day\|Story: metta all the day]] | 6 | [[The Place of Samadhi in Metta Practice]]
@@ -35,6 +36,7 @@ description | count | talk
 [[Expressions of Metta#Experiment with letting the phrases go\|Experiment with letting the phrases go]] | 6 | [[Expressions of Metta]]
 [[Samadhi in Metta Practice#We are giving metta to ourselves but we are also receiving metta\|We are giving metta to ourselves, but we are also receiving metta]] | 6 | [[Samadhi in Metta Practice]]
 [[The Way of Non-Clinging Part 3#Sometimes our fantasies about the Dharma are inadquate e g what it says about romantic love\|Sometimes our fantasies about the Dharma are inadquate, e.g. what it says about romantic love]] | 5 | [[The Way of Non-Clinging Part 3]]
+[[Using Insight to Deepen Love and Compassion#e Just to realize suffering is part of life - we are all in the same boat\|e) Just to realize: suffering is part of life - we are all in the same boat]] | 5 | [[Using Insight to Deepen Love and Compassion]]
 [[The Place of Samadhi in Metta Practice#Samadhi gets into the being on some very cellular level\|Samadhi gets into the being on some very cellular level]] | 5 | [[The Place of Samadhi in Metta Practice]]
 [[The Place of Samadhi in Metta Practice#It's an energy that one can ride and navigate\|It's an energy that one can ride and navigate]] | 5 | [[The Place of Samadhi in Metta Practice]]
 [[Joy (talk)#Sometimes in the West joy does not receive the same attention as other brahmaviharas\|Sometimes in the West, joy does not receive the same attention as other brahmaviharas]] | 5 | [[Joy (talk)]]
@@ -45,6 +47,8 @@ description | count | talk
 [[The Practice of Compassion#Yogi I feel I need to connect with mettā before being able to be in the compassion space\|Yogi: I feel I need to connect with mettā before being able to be in the compassion space]] | 5 | [[The Practice of Compassion]]
 [[Samadhi in Metta Practice#Metta phrases are more helpful than a lot of the other thoughts we have during the day\|Metta phrases are more helpful than a lot of the other thoughts we have during the day]] | 5 | [[Samadhi in Metta Practice]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Set up the temenos in the beginning and include metta\|Set up the temenos in the beginning and include metta]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Using Insight to Deepen Love and Compassion#With metta you take away the energy from the pattern of self-judging\|With metta you take away the energy from the pattern of self-judging]] | 4 | [[Using Insight to Deepen Love and Compassion]]
+[[Using Insight to Deepen Love and Compassion#Drop in "not me not mine" very lightly wanting to feel the love\|Drop in "not me, not mine" very lightly, wanting to feel the love]] | 4 | [[Using Insight to Deepen Love and Compassion]]
 [[Exploring the World of Loving Kindness#Near enemy of metta is attached love\|Near enemy of metta is attached love]] | 4 | [[Exploring the World of Loving Kindness]]
 [[Exploring the World of Loving Kindness#The squeaky clean metta machine\|The squeaky clean metta machine]] | 4 | [[Exploring the World of Loving Kindness]]
 [[The Place of Samadhi in Metta Practice#No being taken for a ride not taking them personally\|No being taken for a ride, not taking them personally]] | 4 | [[The Place of Samadhi in Metta Practice]]

@@ -12,6 +12,7 @@ talk | count | series
 [[From Insight to Love]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 2 | [[2020 Vajra Music]]
+[[Using Insight to Deepen Love and Compassion]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
