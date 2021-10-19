@@ -8,5 +8,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-<a aria-label-position="top" aria-label="From Insight to Love" data-href="From Insight to Love#Baba Amte\" href="From+Insight+to+Love#Baba+Amte%5C" class="internal-link" target="_blank" rel="noopener">Baba Amte</a> | 1 | <a data-href="From Insight to Love" href="From+Insight+to+Love" class="internal-link" target="_blank" rel="noopener">From Insight to Love</a>
+<a aria-label-position="top" aria-label="From Insight to Love > Baba Amte" data-href="From Insight to Love#Baba Amte" href="From+Insight+to+Love#Baba+Amte" class="internal-link" target="_blank" rel="noopener">Baba Amte</a> | 1 | <a data-href="From Insight to Love" href="From+Insight+to+Love" class="internal-link" target="_blank" rel="noopener">From Insight to Love</a>
 

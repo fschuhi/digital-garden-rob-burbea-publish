@@ -12,5 +12,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-<a aria-label-position="top" aria-label="What is Insight" data-href="What is Insight#Personal and universal truths help us to respond well to conventional reality\" href="What+is+Insight#Personal+and+universal+truths+help+us+to+respond+well+to+conventional+reality%5C" class="internal-link" target="_blank" rel="noopener">Personal and universal truths help us to respond well to conventional reality</a> | 5 | <a data-href="What is Insight" href="What+is+Insight" class="internal-link" target="_blank" rel="noopener">What is Insight</a>
+<a aria-label-position="top" aria-label="What is Insight > Personal and universal truths help us to respond well to conventional reality" data-href="What is Insight#Personal and universal truths help us to respond well to conventional reality" href="What+is+Insight#Personal+and+universal+truths+help+us+to+respond+well+to+conventional+reality" class="internal-link" target="_blank" rel="noopener">Personal and universal truths help us to respond well to conventional reality</a> | 5 | <a data-href="What is Insight" href="What+is+Insight" class="internal-link" target="_blank" rel="noopener">What is Insight</a>
 

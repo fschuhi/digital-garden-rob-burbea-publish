@@ -145,6 +145,18 @@ audio::-webkit-media-controls-panel {
 }
 
 /****************************************/
+/* cm-header.css
+/****************************************/
+
+/* 19.10.21 was not included in publish.css */
+
+.cm-header-6 {
+    font-size: 10px;
+    color: #d0d0d0 !important;
+}
+
+
+/****************************************/
 /* counts.css
 /****************************************/
 
@@ -163,6 +175,21 @@ audio::-webkit-media-controls-panel {
 
 .counts .internal-link:hover {
   color: var(--text-accent) !important;
+}
+
+
+/****************************************/
+/* embed.css
+/****************************************/
+
+/* 19.10.21 was not included in publish.css */
+
+.markdown-preview-view .markdown-embed, .markdown-preview-view .file-embed {
+    border-top: 2px dotted var(--background-modifier-border);
+    border-bottom: 2px dotted var(--background-modifier-border);
+	border-left: 2px dotted var(--background-modifier-border);
+	border-right: 2px dotted var(--background-modifier-border);
+    padding: 4px 0;
 }
 
 
@@ -352,6 +379,19 @@ body {
 
 
 /****************************************/
+/* playerheight.css
+/****************************************/
+
+/* 19.10.21 was not included in publish.css */
+/* probably doesn't work anyways */
+
+div.external-video, div.local-media {
+    min-height: unset !important;
+    height: unset !important;
+}
+
+
+/****************************************/
 /* popover.css
 /****************************************/
 
@@ -365,9 +405,48 @@ body {
 .popover.hover-popover .markdown-embed  {
     height: 100%;
 }
-.popover.hover-popover.is-loaded .markdown-embed .markdown-embed-content     .markdown-preview-view{
+.popover.hover-popover.is-loaded .markdown-embed .markdown-embed-content .markdown-preview-view{
     /* 22.09.21 adjusted for h6 "header" for transcripts */
     padding: 8px 6px 10px 26px; 
+}
+
+/* Delay popover, https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/379 */
+
+@keyframes fadeIn {    
+    0%
+    { 
+        visibility: hidden; 
+    }
+    99%
+    { 
+        visibility: hidden;
+        opacity: 0;
+    }
+    100% 
+    {
+        visibility: visible;
+        opacity: 1; 
+    }
+}
+
+
+.popover{    
+    animation: fadeIn 0.8s;
+}
+
+
+/****************************************/
+/* suggestion-container.css
+/****************************************/
+
+/* 19.10.21 was not included in publish.css */
+
+.suggestion-container {
+    width: 1000px;     /* was 400 */
+    transform: scale(0.8); /* makes the content smaller */
+    max-height: 700px;    /* was 300 */
+    min-height: 100px;
+    overflow: overlay;
 }
 
 
@@ -397,7 +476,7 @@ body {
 /****************************************/
 
 .tooltip {
-  animation: pop-down 200ms forwards ease-in-out;
+  animation: pop-down 500ms forwards ease-in-out;
   box-shadow: 0 2px 8px var(--background-modifier-box-shadow);
   background-color: rgba(250, 250, 250, 0.8);
   color: darkgray;
@@ -450,4 +529,16 @@ body {
 
 input {
     font-size: 14px !important
+}
+
+/****************************************/
+/* view-header-title.css
+/****************************************/
+
+/* 19.10.21 was not included in publish.css */
+
+.workspace-leaf.mod-active .view-header-title {
+    color: #C0392B;
+    font-size: 18px;
+    font-weight: 800;
 }

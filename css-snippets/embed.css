@@ -1,7 +1,0 @@
-.markdown-preview-view .markdown-embed, .markdown-preview-view .file-embed {
-    border-top: 2px dotted var(--background-modifier-border);
-    border-bottom: 2px dotted var(--background-modifier-border);
-	border-left: 2px dotted var(--background-modifier-border);
-	border-right: 2px dotted var(--background-modifier-border);
-    padding: 4px 0;
-}
