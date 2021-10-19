@@ -174,7 +174,8 @@ audio::-webkit-media-controls-panel {
 }
 
 .counts .internal-link:hover {
-  color: var(--text-accent) !important;
+/* 19.10.21 no need to color the keyword blue, just underline it */
+/*    color: var(--text-accent) !important;*/
 }
 
 
@@ -374,7 +375,8 @@ body {
 }
 
 .transcript .internal-link:hover {
-  color: var(--text-accent) !important;
+/* 19.10.21 normal black (underlined) is smoother than changing colors */
+/*  color: var(--text-accent) !important;*/
 }
 
 
@@ -402,12 +404,22 @@ div.external-video, div.local-media {
     width: 600px;     /* was 400 */
     overflow: overlay;
 }
+/* 19.10.21 what's this? maybe responsible for hickups in official garden*/ 
+/*
 .popover.hover-popover .markdown-embed  {
     height: 100%;
 }
-.popover.hover-popover.is-loaded .markdown-embed .markdown-embed-content .markdown-preview-view{
+*/
+
+/* 19.10.21 also included .markdown-embed .markdown-embed-content  */
+/* 19.10.21 .markdown-preview-view must be last element */
+/* 19.10.21 was .popover.hover-popover.is-loaded */
+.popover.hover-popover .markdown-preview-view {
     /* 22.09.21 adjusted for h6 "header" for transcripts */
-    padding: 8px 6px 10px 26px; 
+/*    padding: 8px 6px 10px 26px;*/
+    /* 19.10.21 no h6 adjustment necessary anymore, we always link to blockid */
+	/* ... but in the transcript preview, we don't see any blockids, but that's ok */
+    padding: 8px 6px 10px 10px;
 }
 
 /* Delay popover, https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/379 */

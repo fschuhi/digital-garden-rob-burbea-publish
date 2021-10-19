@@ -8,5 +8,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 3 > Its not only about having a basket of different practices" data-href="The Way of Non-Clinging Part 3#Its not only about having a basket of different practices" href="The+Way+of+Non-Clinging+Part+3#It%27s+not+only+about+having+a+basket+of+different+practices" class="internal-link" target="_blank" rel="noopener">It&#x27;s not only about having a basket of different practices</a> | 1 | <a data-href="The Way of Non-Clinging Part 3" href="The+Way+of+Non-Clinging+Part+3" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 3</a>
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 3 > Its not only about having a basket of different practices" data-href="The Way of Non-Clinging Part 3#It's not only about having a basket of different practices" href="The+Way+of+Non-Clinging+Part+3#It%27s+not+only+about+having+a+basket+of+different+practices" class="internal-link" target="_blank" rel="noopener">It&#x27;s not only about having a basket of different practices</a> | 1 | <a data-href="The Way of Non-Clinging Part 3" href="The+Way+of+Non-Clinging+Part+3" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 3</a>
 
