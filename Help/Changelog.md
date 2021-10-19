@@ -14,6 +14,7 @@
 	- [[The Way of Non-Clinging Part 3]]
 	- [[Dilemmas and Delineations - How did we get here Part 1]]
 	- [[Dilemmas and Delineations - How did we get here Part 2]]
+	- [[Dilemmas and Delineations - How did we get here Part 3]]
 - retreat [[2014 November Solitary - Questioning Awakening]]
 	- [[Questioning Awakening]]
 - retreat [[2019 Practising the Jhanas]]

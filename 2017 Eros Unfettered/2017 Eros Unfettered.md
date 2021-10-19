@@ -21,4 +21,4 @@ _PLEASE NOTE: This series of talks is intended for experienced practitioners who
 
 ✔️ [[Dilemmas and Delineations - How did we get here Part 1]]
 ✔️ [[Dilemmas and Delineations - How did we get here Part 2]]
-🛠️ [[Dilemmas and Delineations - How did we get here Part 3]]
+✔️ [[Dilemmas and Delineations - How did we get here Part 3]]
