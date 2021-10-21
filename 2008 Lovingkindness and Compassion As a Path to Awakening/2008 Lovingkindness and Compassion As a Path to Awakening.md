@@ -15,6 +15,7 @@ _This series of talks and guided meditations explores the development of the pra
 ✔️ [[The Place of Samadhi in Metta Practice]] 
 ✔️ [[Exploring the World of Loving Kindness]]
 ✔️ [[Using Insight to Deepen Love and Compassion]]
+✔️ [[Compassion (talk)]]
 <br/>
 
 ### Synopses

@@ -22,3 +22,15 @@ _PLEASE NOTE: This series of talks is intended for experienced practitioners who
 ✔️ [[Dilemmas and Delineations - How did we get here Part 1]]
 ✔️ [[Dilemmas and Delineations - How did we get here Part 2]]
 ✔️ [[Dilemmas and Delineations - How did we get here Part 3]]
+✔️ [[Dilemmas and Delineations - How did we get here Part 4]]
+
+### Referenced talks from other retreats
+- Ecology of Love
+- Beauty of Desire
+- Passion, Desire, and the Path
+- A Wise Relationship to Practice
+- Talk Three: Wise Effort and Wise Attachment
+- In Praise of Restlessness
+- [[Questioning Awakening]]
+- The Gift and the Artifice of Self (Part 2)
+- A Sacred Universe: Insight, Theophany, Cosmopoesis
