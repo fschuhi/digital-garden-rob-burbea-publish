@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[The Way of Non-Clinging Part 3]]
+Paragraph descriptions in **[[The Way of Non-Clinging Part 3]]**:
 - [[The Way of Non-Clinging Part 3#Summary of part 1 and 2|Summary of part 1 and 2.]]
 - [[The Way of Non-Clinging Part 3#Life without clinging is impossible but there is also a second problem with the ideal of living without it|Life without clinging is impossible, but there is also a second problem with the ideal of living without it.]]
 - [[The Way of Non-Clinging Part 3#Who would even want to live without clinging|Who would even want to live without clinging?]]

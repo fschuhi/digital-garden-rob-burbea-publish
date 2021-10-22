@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[Joy (talk)]]
+Paragraph descriptions in **[[Joy (talk)]]**:
 ### Spiritual joy
 - [[Joy (talk)#What about joy|What about joy?]]
 - [[Joy (talk)#According to the Buddha it's a path of joy|According to the Buddha, it's a path of joy.]]

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[Using Insight to Deepen Love and Compassion]]
+Paragraph descriptions in **[[Using Insight to Deepen Love and Compassion]]**:
 - [[Using Insight to Deepen Love and Compassion#What helps what blocks loving-kindness|What helps, what blocks loving-kindness?]]
 - [[Using Insight to Deepen Love and Compassion#Faith in reconditioning mind and heart by just repeting the phrases; samadhi|Faith in reconditioning mind and heart by just repeting the phrases; samadhi.]]
 - [[Using Insight to Deepen Love and Compassion#Body sensitivity allows samadhi to go deeper|Body sensitivity allows samadhi to go deeper.]]
@@ -72,8 +72,10 @@ obsidianUIMode: preview
 - [[Using Insight to Deepen Love and Compassion#Take what's helpful and let the rest go|Take what's helpful, and let the rest go.]]
 ### Q&A
 #### Q1: taking or leaving the seven possibilities
+- [[Using Insight to Deepen Love and Compassion#Q1 taking or leaving the seven possibilities|Q1: taking or leaving the seven possibilities.]]
 - [[Using Insight to Deepen Love and Compassion#No one's going to do all seven possibilities for working with the three characteristics|No one's going to do all seven possibilities for working with the three characteristics.]]
 #### Q2: self and _anattā_ in _mettā_ practice; _mettā_ without object; forming the self to different degrees on the sliding scale of emptiness
+- [[Using Insight to Deepen Love and Compassion#Q2 self and _anattā_ in _mettā_ practice; _mettā_ without object; forming the self to different degrees on the sliding scale of emptiness|Q2: self and _anattā_ in _mettā_ practice; _mettā_ without object; forming the self to different degrees on the sliding scale of emptiness.]]
 - [[Using Insight to Deepen Love and Compassion#We can make things real by fixing them in a certain ways like dressing them up in different outfits|We can make things real by fixing them in a certain ways, like dressing them up in different outfits.]]
 - [[Using Insight to Deepen Love and Compassion#As you contemplate the emptiness of someone they begin to blur|As you contemplate the emptiness of someone, they begin to blur.]]
 - [[Using Insight to Deepen Love and Compassion#A sense of hear or being can still be there|A sense of hear or being can still be there.]]
@@ -81,27 +83,35 @@ obsidianUIMode: preview
 - [[Using Insight to Deepen Love and Compassion#2 You can play with how formed you make someone|(2) You can play with how formed you make someone.]]
 - [[Using Insight to Deepen Love and Compassion#It's not visual imagination because it's coming out of a contemplation of their emptiness|It's not visual imagination, because it's coming out of a contemplation of their emptiness.]]
 #### Q3: _mettā_ leads to fearlessness
+- [[Using Insight to Deepen Love and Compassion#Q3 _mettā_ leads to fearlessness|Q3: _mettā_ leads to fearlessness.]]
 - [[Using Insight to Deepen Love and Compassion#Originally the Buddha introduced metta an an antidote to fear|Originally, the Buddha introduced metta an an antidote to fear.]]
 #### Q4: availability of recordings
+- [[Using Insight to Deepen Love and Compassion#Q4 availability of recordings|Q4: availability of recordings.]]
 - [[Using Insight to Deepen Love and Compassion#I prefer to put a lot out and hopefully people pick different pieces|I prefer to put a lot out, and hopefully people pick different pieces.]]
 #### Q5: writing notes during talks
+- [[Using Insight to Deepen Love and Compassion#Q5 writing notes during talks|Q5: writing notes during talks.]]
 - [[Using Insight to Deepen Love and Compassion#If we transcribe the talk you can always just flip to that page|If we transcribe the talk, you can always just flip to that page.]]
 #### Q6: when to use insight practices; responsiveness
+- [[Using Insight to Deepen Love and Compassion#Q6 when to use insight practices; responsiveness|Q6: when to use insight practices; responsiveness.]]
 - [[Using Insight to Deepen Love and Compassion#It's usually better to wait until there's some degree of samadhi before doing insight practice|It's usually better to wait until there's some degree of samadhi before doing insight practice.]]
 - [[Using Insight to Deepen Love and Compassion#If it leads to more fragmentation leave it and come back to what's much simpler|If it leads to more fragmentation, leave it and come back to what's much simpler.]]
 #### Q7: incorporating _anattā_ into _mettā_ practice
+- [[Using Insight to Deepen Love and Compassion#Q7 incorporating _anattā_ into _mettā_ practice|Q7: incorporating _anattā_ into _mettā_ practice.]]
 - [[Using Insight to Deepen Love and Compassion#Drop in "not me not mine" very lightly wanting to feel the love|Drop in "not me, not mine" very lightly, wanting to feel the love.]]
 #### Q8: letting go of words; trusting in one's own practice; body sensitivity
+- [[Using Insight to Deepen Love and Compassion#Q8 letting go of words; trusting in one's own practice; body sensitivity|Q8: letting go of words; trusting in one's own practice; body sensitivity.]]
 - [[Using Insight to Deepen Love and Compassion#You don't have to keep trundling the phrases out|You don't have to keep trundling the phrases out.]]
 - [[Using Insight to Deepen Love and Compassion#You know what's good for you just go with that|You know what's good for you, just go with that.]]
 - [[Using Insight to Deepen Love and Compassion#Keep putting the awareness in other places than the head|Keep putting the awareness in other places than the head.]]
 #### Q9: interpreting and working with bodily experience in different ways
+- [[Using Insight to Deepen Love and Compassion#Q9 interpreting and working with bodily experience in different ways|Q9: interpreting and working with bodily experience in different ways.]]
 - [[Using Insight to Deepen Love and Compassion#Perceiving the body in a certain way can become self-fulfilling|Perceiving the body in a certain way can become self-fulfilling.]]
 - [[Using Insight to Deepen Love and Compassion#1 just be with those sensations|(1) just be with those sensations.]]
 - [[Using Insight to Deepen Love and Compassion#2 put attention elsewhere|(2) put attention elsewhere.]]
 - [[Using Insight to Deepen Love and Compassion#Keep open to both options|Keep open to both options.]]
 - [[Using Insight to Deepen Love and Compassion#It's the attention and the enjoyment which allows the awareness to rest|It's the attention and the enjoyment which allows the awareness to rest.]]
 #### Q10: concerns that insight might negate _mettā_; connecting with emotions and seeing emptiness as two wings of practice
+- [[Using Insight to Deepen Love and Compassion#Q10 concerns that insight might negate _mettā_; connecting with emotions and seeing emptiness as two wings of practice|Q10: concerns that insight might negate _mettā_; connecting with emotions and seeing emptiness as two wings of practice.]]
 - [[Using Insight to Deepen Love and Compassion#One wing of longterm practice is learning how to open to ourselves|One wing of longterm practice is learning how to open to ourselves.]]
 - [[Using Insight to Deepen Love and Compassion#A whole other wing is understanding emptiness - birds need two wings|A whole other wing is understanding emptiness - birds need two wings.]]
 - [[Using Insight to Deepen Love and Compassion#You may have periods in your life where you're encouraging one more than another|You may have periods in your life where you're encouraging one more than another.]]
@@ -109,13 +119,16 @@ obsidianUIMode: preview
 - [[Using Insight to Deepen Love and Compassion#1 respect the emotion and feel it|(1) respect the emotion and feel it.]]
 - [[Using Insight to Deepen Love and Compassion#2 shelve the emotion for later|(2) shelve the emotion for later.]]
 #### Q11: ability to move between different ways of seeing as the mark of mature practice
+- [[Using Insight to Deepen Love and Compassion#Q11 ability to move between different ways of seeing as the mark of mature practice|Q11: ability to move between different ways of seeing as the mark of mature practice.]]
 - [[Using Insight to Deepen Love and Compassion#Maturity in practice comes from being able to move between different ways of seeing|Maturity in practice comes from being able to move between different ways of seeing.]]
 #### Q12: seeing emptiness brings about letting go of grasping, fading of difficulty, and deepening of happiness
+- [[Using Insight to Deepen Love and Compassion#Q12 seeing emptiness brings about letting go of grasping fading of difficulty and deepening of happiness|Q12: seeing emptiness brings about letting go of grasping, fading of difficulty, and deepening of happiness.]]
 - [[Using Insight to Deepen Love and Compassion#We think there is a thing and then the relationship we have with it|We think there is a thing and then the relationship we have with it.]]
 - [[Using Insight to Deepen Love and Compassion#But the thing and our relationship are actually not separate|But the thing and our relationship are actually not separate.]]
 - [[Using Insight to Deepen Love and Compassion#Example subtle aversion in mindfulness|Example: subtle aversion in mindfulness.]]
 - [[Using Insight to Deepen Love and Compassion#When we let go we're actually taking away some of what is building an experience and it begins to fade|When we let go, we're actually taking away some of what is building an experience, and it begins to fade.]]
 #### Q13: independent existence
+- [[Using Insight to Deepen Love and Compassion#Q13 independent existence|Q13: independent existence.]]
 - [[Using Insight to Deepen Love and Compassion#Nothing exists outside of what one's bringing to that|Nothing exists outside of what one's bringing to that.]]
 - [[Using Insight to Deepen Love and Compassion#Yogi Is letting go completely "naked awareness"|Yogi: Is letting go completely "naked awareness"?]]
 - [[Using Insight to Deepen Love and Compassion#Rob The oucome of going into these questions is deep freedom and love|Rob: The oucome of going into these questions is deep freedom and love.]]
@@ -124,5 +137,6 @@ obsidianUIMode: preview
 - [[Using Insight to Deepen Love and Compassion#There is no moment of consciousness that is not shaping or creating or colouring or fabricating an experience|There is no moment of consciousness that is not shaping or creating or colouring or fabricating an experience.]]
 - [[Using Insight to Deepen Love and Compassion#The whole nature of perception begins to be unravelled|The whole nature of perception begins to be unravelled.]]
 #### Q14: relief as a mark of insight
+- [[Using Insight to Deepen Love and Compassion#Q14 relief as a mark of insight|Q14: relief as a mark of insight.]]
 - [[Using Insight to Deepen Love and Compassion#The feeling of relief is a mark of insight|The feeling of relief is a mark of insight.]]
 - [[Using Insight to Deepen Love and Compassion#In this retreat you cannot fail loving-kindness samadhi emptiness all moving towards awakening|In this retreat, you cannot fail: loving-kindness, samadhi, emptiness, all moving towards awakening.]]

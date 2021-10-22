@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[Dilemmas and Delineations - How did we get here Part 4]]
+Paragraph descriptions in **[[Dilemmas and Delineations - How did we get here Part 4]]**:
 - [[Dilemmas and Delineations - How did we get here Part 4#Nobody has a problem with a "Dharma" which mixes in established Western ideas from science or psychotherapy|Nobody has a problem with a "Dharma" which mixes in established Western ideas from science or psychotherapy.]]
 - [[Dilemmas and Delineations - How did we get here Part 4#Unpopular or especially foreign ideas are much conspicuous as an addition|Unpopular or especially foreign ideas are much conspicuous as an addition.]]
 - [[Dilemmas and Delineations - How did we get here Part 4#Operating without truth claims is difficult for people to wrap their head around|Operating without truth claims is difficult for people to wrap their head around.]]

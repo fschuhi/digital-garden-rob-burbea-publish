@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[Expressions of Metta]]
+Paragraph descriptions in **[[Expressions of Metta]]**:
 - [[Expressions of Metta#Metta is a constallation of feelings|Metta is a constallation of feelings.]]
 - [[Expressions of Metta#Metta can also be colored by compassion|Metta can also be colored by compassion.]]
 - [[Expressions of Metta#Categories are not fixed they are just a tool|Categories are not fixed, they are just a tool.]]

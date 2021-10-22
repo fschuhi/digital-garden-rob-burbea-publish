@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+Paragraph descriptions in **[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]**:
 ### Intro
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Third set of excercises but a few general things first|Third set of excercises, but a few general things first.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Daimon Refracted" 🟢|"Daimon, Refracted" 🟢.]]

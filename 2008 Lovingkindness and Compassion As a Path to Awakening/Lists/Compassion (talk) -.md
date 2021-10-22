@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[Compassion (talk)]]
+Paragraph descriptions in **[[Compassion (talk)]]**:
 - [[Compassion (talk)#What does the word "compassion" mean|What does the word "compassion" mean?]]
 - [[Compassion (talk)#Compassion is the heart's natural response to suffering|Compassion is the heart's natural response to suffering.]]
 - [[Compassion (talk)#It wants to alleviate the suffering|It wants to alleviate the suffering.]]

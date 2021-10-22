@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[The Practice of Compassion]]
+Paragraph descriptions in **[[The Practice of Compassion]]**:
 - [[The Practice of Compassion#Compassion is the natural response of the heart to suffering in absense preoccupation with self|Compassion is the natural response of the heart to suffering, in absense preoccupation with self.]]
 - [[The Practice of Compassion#When metta meets suffering it transformsinto compassion|When metta meets suffering, it transformsinto compassion.]]
 - [[The Practice of Compassion#Compassion involves different qualities e g empathy|Compassion involves different qualities, e.g. empathy.]]

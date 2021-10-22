@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
+Paragraph descriptions in **[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]**:
 ### Intro
 - [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#The first days will be quite dense with teachings|The first days will be quite dense with teachings.]]
 - [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#All roads lead to Newton Abbot|All roads lead to Newton Abbot.]]

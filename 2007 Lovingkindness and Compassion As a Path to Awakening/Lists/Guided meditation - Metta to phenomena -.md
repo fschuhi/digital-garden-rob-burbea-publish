@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[Guided meditation - Metta to phenomena]]
+Paragraph descriptions in **[[Guided meditation - Metta to phenomena]]**:
 - [[Guided meditation - Metta to phenomena#Just noticing if anything in experience is standing out|Just noticing if anything in experience is standing out.]]
 - [[Guided meditation - Metta to phenomena#Bathing that in loving kindness over and over|Bathing that in loving kindness, over and over.]]
 - [[Guided meditation - Metta to phenomena#Complete acceptence of whatever is in consciousness|Complete acceptence of whatever is in consciousness.]]

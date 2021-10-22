@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+Paragraph descriptions in **[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]**:
 ### Intro
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Time is short thus these talks|Time is short, thus these talks.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#"Études" Preliminaries"|"Études", Preliminaries".]]

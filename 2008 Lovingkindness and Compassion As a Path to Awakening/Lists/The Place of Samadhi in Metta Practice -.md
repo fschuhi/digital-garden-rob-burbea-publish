@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[The Place of Samadhi in Metta Practice]]
+Paragraph descriptions in **[[The Place of Samadhi in Metta Practice]]**:
 - [[The Place of Samadhi in Metta Practice#This talk is an orientation for the whole retreat|This talk is an orientation for the whole retreat.]]
 - [[The Place of Samadhi in Metta Practice#What is our relationship with samadhi "concentration"|What is our relationship with samadhi ("concentration")?]]
 - [[The Place of Samadhi in Metta Practice#Three major fruits from this retreat|Three major fruits from this retreat.]]

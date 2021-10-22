@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[Dilemmas and Delineations - How did we get here Part 3]]
+Paragraph descriptions in **[[Dilemmas and Delineations - How did we get here Part 3]]**:
 - [[Dilemmas and Delineations - How did we get here Part 3#A whole web of relationships and implied meanings around "eros"|A whole web of relationships and implied meanings around "eros".]]
 - [[Dilemmas and Delineations - How did we get here Part 3#It's quite a large body of work which would puzzle anyone just picking one talk|It's quite a large body of work, which would puzzle anyone just picking one talk.]]
 - [[Dilemmas and Delineations - How did we get here Part 3#What soul-styles can we approach this material with|What soul-styles can we approach this material with.]]

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[Orienting to This Jhana Retreat]]
+Paragraph descriptions in **[[Orienting to This Jhana Retreat]]**:
 - [[Orienting to This Jhana Retreat#Welcome and intro Sari and Kirsten not Robert|Welcome and intro Sari and Kirsten (not Robert)]]
 - [[Orienting to This Jhana Retreat#It's a really precious thing for me to be able to teach this retreat|It's a really precious thing for me to be able to teach this retreat.]]
 - [[Orienting to This Jhana Retreat#It's partly a miracle because of my health|It's partly a miracle because of my health.]]

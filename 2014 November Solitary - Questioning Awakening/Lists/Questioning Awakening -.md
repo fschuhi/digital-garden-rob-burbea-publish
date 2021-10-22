@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[Questioning Awakening]]
+Paragraph descriptions in **[[Questioning Awakening]]**:
 - [[Questioning Awakening#Most of the Dharma talks give advice explain what the Dharma is|Most of the Dharma talks give advice, explain what the Dharma is.]]
 - [[Questioning Awakening#All that's in the library and Dharma Seed|All that's in the library and Dharma Seed.]]
 - [[Questioning Awakening#This talk is about the assumptions underneath ho we're conceiving of the Dharma|This talk is about the assumptions underneath ho we're conceiving of the Dharma.]]

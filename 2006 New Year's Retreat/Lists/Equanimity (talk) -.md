@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[Equanimity (talk)]]
+Paragraph descriptions in **[[Equanimity (talk)]]**:
 ### Introducing equanimity
 - [[Equanimity (talk)#Equanimity is neither a typical nor a particularly sexy sounding word|Equanimity is neither a typical nor a particularly sexy sounding word.]]
 - [[Equanimity (talk)#Steadiness Penguin story|Steadiness (Penguin story)]]

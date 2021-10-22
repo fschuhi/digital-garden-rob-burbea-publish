@@ -21,7 +21,7 @@ Transcript PDF: [[2017_0119 Dilemmas and Delineations - How did we get here Part
 [[Dilemmas and Delineations - How did we get here Part 2 -|plain list]]
 
 ---
-##### Recap: Why eros, why this delineation?
+### Recap: Why eros, why this delineation?
 <span class="counts">**<a aria-label-position="top" aria-label="0119 Dilemmas and Delineations - How did we get here Part 2 > ^1-1" data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^1-1" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^1-1" class="internal-link" target="_blank" rel="noopener">1-1</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (6) · <a data-href="Dharma" href="Dharma" class="internal-link" target="_blank" rel="noopener">Dharma</a> (2) · <a data-href="Awakening" href="Awakening" class="internal-link" target="_blank" rel="noopener">Awakening</a> (3) · <a data-href="Imaginal" href="Imaginal" class="internal-link" target="_blank" rel="noopener">Imaginal</a> (2) · <a data-href="Soulmaking" href="Soulmaking" class="internal-link" target="_blank" rel="noopener">Soulmaking</a> · <a data-href="Divinity" href="Divinity" class="internal-link" target="_blank" rel="noopener">Divinity</a> (5) · <a data-href="Consciousness" href="Consciousness" class="internal-link" target="_blank" rel="noopener">Consciousness</a> · <a data-href="Oneness" href="Oneness" class="internal-link" target="_blank" rel="noopener">Oneness</a> · <a data-href="Unfabricated" href="Unfabricated" class="internal-link" target="_blank" rel="noopener">Unfabricated</a> · <a data-href="Retreat" href="Retreat" class="internal-link" target="_blank" rel="noopener">Retreat</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=00:00" type="audio/mpeg">???</audio>
@@ -37,6 +37,7 @@ eros involves and leads to soulmaking, and widening of the senses of sacredness 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=01:45" type="audio/mpeg">???</audio>
 
 ---
+### About definitions in general
 ##### Different ways of defining eros unfold in different directions
 <span class="counts">**<a aria-label-position="top" aria-label="0119 Dilemmas and Delineations - How did we get here Part 2 > ^1-3" data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^1-3" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^1-3" class="internal-link" target="_blank" rel="noopener">1-3</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (4) · <a data-href="Delineations" href="Delineations" class="internal-link" target="_blank" rel="noopener">Delineations</a>_</span>
 
@@ -89,6 +90,7 @@ because of this contextualization and relationship, and the place that something
 </div></div>
 
 ---
+### A first definition of eros
 ##### Eros is a kind of desire for more contact
 <span class="counts">**<a aria-label-position="top" aria-label="0119 Dilemmas and Delineations - How did we get here Part 2 > ^3-1" data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^3-1" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^3-1" class="internal-link" target="_blank" rel="noopener">3-1</a>**: _<a data-href="Mind" href="Mind" class="internal-link" target="_blank" rel="noopener">Mind</a> (2) · <a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (2) · <a data-href="Desire" href="Desire" class="internal-link" target="_blank" rel="noopener">Desire</a> (2)_</span>
 
@@ -157,7 +159,7 @@ It will resist somehow that collapse to oneness. It will preserve the twoness, t
 </div></div>
 
 ---
-##### How do we recognize eros?
+### How do we recognize eros?
 <span class="counts">**<a aria-label-position="top" aria-label="0119 Dilemmas and Delineations - How did we get here Part 2 > ^5-1" data-href="0119 Dilemmas and Delineations - How did we get here Part 2#^5-1" href="0119+Dilemmas+and+Delineations+-+How+did+we+get+here+Part+2#^5-1" class="internal-link" target="_blank" rel="noopener">5-1</a>**: _<a data-href="Eros" href="Eros" class="internal-link" target="_blank" rel="noopener">Eros</a> (2) · <a data-href="Experience" href="Experience" class="internal-link" target="_blank" rel="noopener">Experience</a> · <a data-href="Relationships" href="Relationships" class="internal-link" target="_blank" rel="noopener">Relationships</a> · <a data-href="Mind state" href="Mind+state" class="internal-link" target="_blank" rel="noopener">Mind state</a> (4) · <a data-href="Awareness" href="Awareness" class="internal-link" target="_blank" rel="noopener">Awareness</a> · <a data-href="Embodiment" href="Embodiment" class="internal-link" target="_blank" rel="noopener">Embodiment</a> (2) · <a data-href="Mind" href="Mind" class="internal-link" target="_blank" rel="noopener">Mind</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/40164/20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=24:05" type="audio/mpeg">???</audio>

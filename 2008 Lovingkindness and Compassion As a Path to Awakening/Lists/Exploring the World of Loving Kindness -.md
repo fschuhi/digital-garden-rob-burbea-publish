@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[Exploring the World of Loving Kindness]]
+Paragraph descriptions in **[[Exploring the World of Loving Kindness]]**:
 - [[Exploring the World of Loving Kindness#This talk is about the dimensions we uncover when practicing metta|This talk is about the dimensions we uncover when practicing metta.]]
 - [[Exploring the World of Loving Kindness#Metta can never just be a feeling|Metta can never just be a feeling.]]
 - [[Exploring the World of Loving Kindness#It's more a constellation of feelings|It's more a constellation of feelings.]]

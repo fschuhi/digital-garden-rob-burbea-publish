@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[Love and Emptiness]]
+Paragraph descriptions in **[[Love and Emptiness]]**:
 ### Recap
 - [[Love and Emptiness#We are cultivating metta and compassion and we can see the blessings that come from that|We are cultivating metta and compassion, and we can see the blessings that come from that.]]
 - [[Love and Emptiness#In transforming the heart we're transforming our intentions in life|In transforming the heart, we're transforming our intentions in life.]]
@@ -57,28 +57,35 @@ obsidianUIMode: preview
 - [[Love and Emptiness#A continuum of love|A continuum of love.]]
 ### Q&A
 #### Q1: Metta towards dharmas
+- [[Love and Emptiness#Q1 Metta towards dharmas|Q1: Metta towards dharmas.]]
 - [[Love and Emptiness#Yogi When one is walking should you be including the trees the clouds as phenomena|Yogi: When one is walking, should you be including the trees, the clouds, as phenomena?]]
 - [[Love and Emptiness#Rob Yes and possibilities|Rob: Yes (and possibilities)]]
 - [[Love and Emptiness#Yogi Considering conditions making thoughts or trees happening|Yogi: Considering conditions making thoughts or trees happening.]]
 - [[Love and Emptiness#Yogi What are we giving metta to when it's something that's transient and impermanent|Yogi: What are we giving metta to when it's something that's transient and impermanent?]]
 - [[Love and Emptiness#Rob There's something about noticing how influential the inner relationship with something ist|Rob: There's something about noticing how influential the inner relationship with something ist.]]
 #### Q2: acceptance, self-love, and fading
+- [[Love and Emptiness#Q2 acceptance self-love and fading|Q2: acceptance, self-love, and fading.]]
 - [[Love and Emptiness#Yogi What is the relationship between acceptance self-love and fading|Yogi: What is the relationship between acceptance, self-love and fading?]]
 - [[Love and Emptiness#Rob Anatta practice leads to more acceptance as a kind of self-love|Rob: Anatta practice leads to more acceptance, as a kind of self-love.]]
 - [[Love and Emptiness#Yogi If I'm having some craving and I fade into love it seems like the craving subsides|Yogi: If I'm having some craving and I fade into love, it seems like the craving subsides.]]
 - [[Love and Emptiness#Rob deep metta has this quality of non-craving|Rob: deep metta has this quality of non-craving.]]
 #### Q3: clarification about what to practise, practice schedules; the spectrum and blending of metta and karuna
-- [[Love and Emptiness#Rob For now do not mix pure metta and pure compassion practice|Rob: For now, do not mix pure metta and pure compassion practice.]]
+- [[Love and Emptiness#Q3 clarification about what to practise practice schedules; the spectrum and blending of metta and karuna|Q3: clarification about what to practise, practice schedules; the spectrum and blending of metta and karuna.]]
+- [[Love and Emptiness# Rob For now do not mix pure metta and pure compassion practice| Rob: For now, do not mix pure metta and pure compassion practice.]]
 - [[Love and Emptiness#Yogi But isn't there a degree of metta in karuna practice|Yogi: But isn't there a degree of metta in karuna practice?]]
 - [[Love and Emptiness#Rob Compassion practice tunes into suffering and the outgoing healing can feel like metta|Rob: Compassion practice tunes into suffering, and the outgoing healing can feel like metta.]]
 #### Q4: noticing reaction then giving mettā vs just giving mettā straight
+- [[Love and Emptiness#Q4 noticing reaction then giving mettā vs just giving mettā straight|Q4: noticing reaction then giving mettā vs just giving mettā straight.]]
 - [[Love and Emptiness#Rob Both sensible and you'll get very quick at doing it either way|Rob: Both sensible, and you'll get very quick at doing it either way.]]
 #### Q5: grasping is a part of attention
+- [[Love and Emptiness#Q5 grasping is a part of attention|Q5: grasping is a part of attention.]]
 - [[Love and Emptiness#Yogi "Grasping" as actually grasping it|Yogi: "Grasping" as actually grasping it?]]
 - [[Love and Emptiness#Rob attention is kind of like prongs|Rob: attention is kind of like prongs.]]
 #### Q6: if an enlightened person isn't grasping, why doesn't everything fade
+- [[Love and Emptiness#Q6 if an enlightened person isn't grasping why doesn't everything fade|Q6: if an enlightened person isn't grasping, why doesn't everything fade.]]
 - [[Love and Emptiness#Rob Maybe only Buddhas can see emptiness and not bump into things|Rob: Maybe only Buddhas can see emptiness and not bump into things.]]
 #### Q7: describing meditative states as 'emptiness'
+- [[Love and Emptiness#Q7 describing meditative states as 'emptiness'|Q7: describing meditative states as 'emptiness'.]]
 - [[Love and Emptiness#Yogi Is emptiness the concept that nothing exists in and of itself|Yogi: Is emptiness the concept that nothing exists in and of itself?]]
 - [[Love and Emptiness#Rob That I cannot say how a thing is that is the meaning of emptiness|Rob: That I cannot say how a thing is, that is the meaning of emptiness.]]
 - [[Love and Emptiness#Yogi What's with awareness remaining after dropping away of the sense of a separate self|Yogi: What's with awareness remaining after dropping away of the sense of a separate self?]]
@@ -86,12 +93,15 @@ obsidianUIMode: preview
 - [[Love and Emptiness#Yogi "awareness without an object"|Yogi: "awareness without an object"?]]
 - [[Love and Emptiness#Rob Language is stopped short|Rob: Language is stopped short.]]
 #### Q8: clarification about what to practise (2)
+- [[Love and Emptiness#Q8 clarification about what to practise 2|Q8: clarification about what to practise (2)]]
 - [[Love and Emptiness#Yogi 2 practices sending metta to persons and to dharmas "new"|Yogi: 2 practices: sending metta to persons and to dharmas ("new")]]
 - [[Love and Emptiness#Rob You can switch in a sitting but be clear which one you're doing|Rob: You can switch in a sitting, but be clear which one you're doing.]]
 - [[Love and Emptiness#Rob "New practice" is directing metta or compassion to the sense of relation with the object|Rob: "New practice" is directing metta or compassion to the sense of relation with the object.]]
 #### Q9: why differentiate between mettā and compassion
+- [[Love and Emptiness#Q9 why differentiate between mettā and compassion|Q9: why differentiate between mettā and compassion.]]
 - [[Love and Emptiness#Rob They blend into each other but we want to be sensitive to slight differences|Rob: They blend into each other, but we want to be sensitive to slight differences.]]
 - [[Love and Emptiness#Rob staying with a particular strand of intention|Rob: staying with a particular strand of intention.]]
 #### Q10: too many dharmas to give mettā to
+- [[Love and Emptiness#Q10 too many dharmas to give mettā to|Q10: too many dharmas to give mettā to.]]
 - [[Love and Emptiness#Yogi Many objects hurrying towards me makes it difficult to direct metta|Yogi: Many objects hurrying towards me makes it difficult to direct metta.]]
 - [[Love and Emptiness#Rob Finding one thing that's a bit more steady and doing it|Rob: Finding one thing that's a bit more steady and doing it.]]

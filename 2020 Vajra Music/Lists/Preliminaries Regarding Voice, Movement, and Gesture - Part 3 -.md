@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
+Paragraph descriptions in **[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]**:
 ### "Centring"
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Fourth excercise with two parts but first intro into terminology|Fourth excercise with two parts, but first intro into terminology.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#A few weeks ago I felt "thrown off centre"|A few weeks ago I felt "thrown off centre".]]

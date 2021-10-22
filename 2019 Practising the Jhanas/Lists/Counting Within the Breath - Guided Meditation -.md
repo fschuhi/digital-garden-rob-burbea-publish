@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[Counting Within the Breath - Guided Meditation]]
+Paragraph descriptions in **[[Counting Within the Breath - Guided Meditation]]**:
 ### Intro
 - [[Counting Within the Breath - Guided Meditation#In the fist days we will offer a few different practices today counting with the breath|In the fist days we will offer a few different practices, today: counting with the breath.]]
 - [[Counting Within the Breath - Guided Meditation#1-9 during the inbreath 9-1 on the outbreath|1-9 during the inbreath, 9-1 on the outbreath.]]

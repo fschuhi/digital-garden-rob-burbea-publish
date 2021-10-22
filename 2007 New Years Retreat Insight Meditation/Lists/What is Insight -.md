@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[What is Insight]]
+Paragraph descriptions in **[[What is Insight]]**:
 ### Intro
 - [[What is Insight#This talk is about putting things in place|This talk is about putting things in place.]]
 - [[What is Insight#Different personality types react differently to conceptual frameworks|Different personality types react differently to conceptual frameworks.]]

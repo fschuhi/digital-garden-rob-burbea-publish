@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 ---
-## Paragraphs in [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+Paragraph descriptions in **[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]**:
 ### 🟡 Excercises 4.2 revisited
 #### What does "blessing" look like?
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The question "what does blessing look like" is culturally contingent Mode 1|The question "what does blessing look like" is culturally contingent (Mode 1)]]
