@@ -5,7 +5,7 @@ obsidianUIMode: preview
 ---
 #Talk
 
-[[Exploring the World of Loving Kindness|Exploring the World of Loving Kindness 🡄]] | [[2008 Lovingkindness and Compassion As a Path to Awakening|🡅]] | <a aria-label-position="top" aria-label="Compassion" data-href="Compassion" href="Compassion" class="internal-link" target="_blank" rel="noopener">🡆 Compassion</a>
+[[Exploring the World of Loving Kindness|Exploring the World of Loving Kindness 🡄]] | [[2008 Lovingkindness and Compassion As a Path to Awakening|🡅]] | [[Compassion (talk)|🡆 Compassion (talk)]]
 
 Series: [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 Transcript: [[0202 Using Insight to Deepen Love and Compassion]]

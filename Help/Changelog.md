@@ -1,27 +1,24 @@
 #### October
 ##### Talks
 - new retreat [[2007 New Years Retreat Insight Meditation]]
-- retreat [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 	- [[What is Insight]], with feedback from Shannon
 	- [[Joy (talk)]]
-- added retreat [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+-  new retreat [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 	- [[The Place of Samadhi in Metta Practice]]
 	- [[Exploring the World of Loving Kindness]]
 	- [[Using Insight to Deepen Love and Compassion]]
 	- [[Compassion (talk)]]
-- retreat [[2017 Eros Unfettered]]
-	- [[The Way of Non-Clinging Part 1]]
-	- [[The Way of Non-Clinging Part 2]]
-	- [[The Way of Non-Clinging Part 3]]
+- continued retreat [[2017 Eros Unfettered]]
 	- [[Dilemmas and Delineations - How did we get here Part 1]]
 	- [[Dilemmas and Delineations - How did we get here Part 2]]
 	- [[Dilemmas and Delineations - How did we get here Part 3]]
 	- [[Dilemmas and Delineations - How did we get here Part 4]]
-- retreat [[2014 November Solitary - Questioning Awakening]]
+- new retreat [[2014 November Solitary - Questioning Awakening]]
 	- [[Questioning Awakening]]
-- retreat [[2019 Practising the Jhanas]]
+- new retreat [[2019 Practising the Jhanas]]
 	- [[Orienting to This Jhana Retreat]]
 	- [[Counting Within the Breath - Guided Meditation]]
+	- [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
 
 ##### Features
 - top X referring talks for index entries, see e.g. [[Energy Body]], with different X for some talks
@@ -38,4 +35,21 @@
 	- [[How to browse a retreat]]
 	- [[How to work with the top mentions in paragraphs]]
 
+#### September
+##### Talks
+- retreat [[2017 Eros Unfettered]]
+	- [[The Way of Non-Clinging Part 1]]
+	- [[The Way of Non-Clinging Part 2]]
+	- [[The Way of Non-Clinging Part 3]]
+- retreat [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+	- [[Samadhi in Metta Practice]]
+	- [[Expressions of Metta]]
+	- [[From Insight to Love]]
+	- [[The Practice of Compassion]]
+	- [[Guided meditation - Metta to phenomena]]
+	- [[Love and Emptiness]]
+	- [[Equanimity in Compassion]]
 
+##### Features
+- basic navigation
+- index with keywords
