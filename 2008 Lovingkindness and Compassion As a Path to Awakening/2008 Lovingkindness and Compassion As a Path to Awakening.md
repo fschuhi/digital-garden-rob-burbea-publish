@@ -16,6 +16,8 @@ _This series of talks and guided meditations explores the development of the pra
 ✔️ [[Exploring the World of Loving Kindness]]
 ✔️ [[Using Insight to Deepen Love and Compassion]]
 ✔️ [[Compassion (talk)]]
+✔️ [[Compassion Part Two - Compassion for Ourselves]]
+✔️ [[Guided Meditation on Gratitude and Compassion]]
 <br/>
 
 ### Synopses

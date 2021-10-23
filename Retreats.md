@@ -3,9 +3,9 @@ obsidianUIMode: preview
 ---
 # The Garden of the Soul: Rob Burbea's Teachings
 <div class="admonition quote"><div class="title">❝</div><div class="content">
-[W]e see how clinging, craving, <i>saṅkhārā</i>, <i>avijjā</i>, attention - these notions overlap. They're all different forms of clinging...<br/>
+So please don't be biased by <i>my</i> biases. If you don't agree with my bias, that's completely fine. What I really want to get to is the importance of questioning, not that I want to convince you of a certain bias I have within that range. The questioning is the important thing, okay?<br/>
 <br/>
-<i>from the talk <a aria-label-position="top" aria-label="The Way of Non-Clinging Part 2 > Even attention is a form of clinging" data-href="The Way of Non-Clinging Part 2#Even attention is a form of clinging" href="The+Way+of+Non-Clinging+Part+2#Even+attention+is+a+form+of+clinging" class="internal-link" target="_blank" rel="noopener">The Way of Non-Clinging Part 2</a></i><br/>
+<i>(a quote from the talk <a aria-label-position="top" aria-label="Questioning Awakening > In principle we are free to believe what we want - but are we really free to inquire" data-href="Questioning Awakening#In principle we are free to believe what we want - but are we really free to inquire" href="Questioning+Awakening#In+principle+we+are+free+to+believe+what+we+want+-+but+are+we+really+free+to+inquire" class="internal-link" target="_blank" rel="noopener">Questioning Awakening</a>)</i><br/>
 </div></div>
 
 <div class="admonition important"><div class="title">Thank you!</div><div class="content">

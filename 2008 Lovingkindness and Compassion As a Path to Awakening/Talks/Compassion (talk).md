@@ -5,7 +5,7 @@ obsidianUIMode: preview
 ---
 #Talk
 
-[[Using Insight to Deepen Love and Compassion|Using Insight to Deepen Love and Compassion 🡄]] | [[2008 Lovingkindness and Compassion As a Path to Awakening|🡅]] | 
+[[Using Insight to Deepen Love and Compassion|Using Insight to Deepen Love and Compassion 🡄]] | [[2008 Lovingkindness and Compassion As a Path to Awakening|🡅]] | [[Compassion Part Two - Compassion for Ourselves|🡆 Compassion Part Two - Compassion for Ourselves]]
 
 Series: [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 Transcript: [[0204 Compassion (talk)]]

@@ -1,4 +1,3 @@
-- Diacritics are not handled consistently in the transcripts.
 - We need to be able to find Buddhist terminology without knowing exactly about the diacritics used for a particular word.
 - Obsidian is sensitive to diacritics, i.e. "Sīla" and "Sila" are two distincs words.
 

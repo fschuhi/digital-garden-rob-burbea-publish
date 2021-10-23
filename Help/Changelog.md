@@ -8,6 +8,8 @@
 	- [[Exploring the World of Loving Kindness]]
 	- [[Using Insight to Deepen Love and Compassion]]
 	- [[Compassion (talk)]]
+	- [[Compassion Part Two - Compassion for Ourselves]]
+	- [[Guided Meditation on Gratitude and Compassion]]
 - continued retreat [[2017 Eros Unfettered]]
 	- [[Dilemmas and Delineations - How did we get here Part 1]]
 	- [[Dilemmas and Delineations - How did we get here Part 2]]
