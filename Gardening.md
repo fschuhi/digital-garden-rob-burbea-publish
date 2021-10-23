@@ -65,7 +65,7 @@ Obsidian is actually 2 things:
 - linking to transcript paragraphs
 - collecting index entries, with counts
 
-[[Energy Body]]
+[[Energy body]]
 - linking to transcripts
 - copy/paste citations from transcript
 

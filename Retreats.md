@@ -3,9 +3,9 @@ obsidianUIMode: preview
 ---
 # The Garden of the Soul: Rob Burbea's Teachings
 <div class="admonition quote"><div class="title">❝</div><div class="content">
-So please don't be biased by <i>my</i> biases. If you don't agree with my bias, that's completely fine. What I really want to get to is the importance of questioning, not that I want to convince you of a certain bias I have within that range. The questioning is the important thing, okay?<br/>
+What if I saw everything as unsatisfactory? Just things come into consciousness, any experience, anything at all - just regard it as unsatisfactory. It's not a loathing or an aversion. Just saying, "Ah! It can't satisfy me." What happens is there's a letting go.<br/>
 <br/>
-<i>(a quote from the talk <a aria-label-position="top" aria-label="Questioning Awakening > In principle we are free to believe what we want - but are we really free to inquire" data-href="Questioning Awakening#In principle we are free to believe what we want - but are we really free to inquire" href="Questioning+Awakening#In+principle+we+are+free+to+believe+what+we+want+-+but+are+we+really+free+to+inquire" class="internal-link" target="_blank" rel="noopener">Questioning Awakening</a>)</i><br/>
+<i>(a quote from the talk <a aria-label-position="top" aria-label="What is Insight > Seeing things as unsatisfactory" data-href="What is Insight#Seeing things as unsatisfactory" href="What+is+Insight#Seeing+things+as+unsatisfactory" class="internal-link" target="_blank" rel="noopener">What is Insight</a>)</i><br/>
 </div></div>
 
 <div class="admonition important"><div class="title">Thank you!</div><div class="content">

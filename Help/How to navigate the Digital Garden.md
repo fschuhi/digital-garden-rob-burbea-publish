@@ -28,7 +28,7 @@ There is also a "explorer" on the left:
 
 ![[help-search-energy.png]]
 
-Clicking on any of those links, like [[Energy Body]], takes you to the particular page.
+Clicking on any of those links, like [[Energy body]], takes you to the particular page.
 
 ### The spine
 The Digital Garden doesn’t really care about which path you take through it.  Still, it's probably a good idea if you follow the path set out in the recap section above. When doing this the pages shown and those hidden in the **"spines"** left and right give you the best view on the overall structure of the Garden.
