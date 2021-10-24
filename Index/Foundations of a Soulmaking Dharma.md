@@ -5,10 +5,17 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> | 1 | <a data-href="2020 Vajra Music" href="2020+Vajra+Music" class="internal-link">2020 Vajra Music</a>
+<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> | 1 | <a data-href="2020 Vajra Music" class="internal-link">2020 Vajra Music</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 2 > Voice Movement and the Possibilities of Soul but how many have picked it up 🟢" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Voice Movement and the Possibilities of Soul but how many have picked it up 🟢" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2#%22Voice+Movement+and+the+Possibilities+of+Soul%22+but+how+many+have+picked+it+up+%F0%9F%9F%A2" class="internal-link">&quot;Voice, Movement, and the Possibilities of Soul&quot; ... but how many have picked it up? 🟢</a> | 1 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a>
+<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 2 > Voice Movement and the Possibilities of Soul but how many have picked it up 🟢" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Voice Movement and the Possibilities of Soul but how many have picked it up 🟢" class="internal-link">&quot;Voice, Movement, and the Possibilities of Soul&quot; ... but how many have picked it up? 🟢</a> | 1 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a>
+
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Dharma Seed]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> (1)</span> 
+[[Retreat]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> (1)</span> 
+[[Voice, Movement, and the Possibilities of Soul]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> (1)</span> 
 

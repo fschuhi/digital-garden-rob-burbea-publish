@@ -5,11 +5,24 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> | 2 | <a data-href="2020 Vajra Music" href="2020+Vajra+Music" class="internal-link">2020 Vajra Music</a>
+<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> | 2 | <a data-href="2020 Vajra Music" class="internal-link">2020 Vajra Music</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 4 > 🟡 Excercise 5 3 _The Hospitality to the Angels_ 🟢" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 5 3 _The Hospitality to the Angels_ 🟢" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4#%F0%9F%9F%A1+Excercise+5+3+_The+Hospitality+to+the+Angels_+%F0%9F%9F%A2" class="internal-link">🟡 Excercise 5.3: _The Hospitality to the Angels_ 🟢</a> | 1 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a>
-<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 4 > Its about the moments prior to the scene in the Rublevs image" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's about the moments prior to the scene in the Rublev's image" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4#It%27s+about+the+moments+prior+to+the+scene+in+the+Rublev%27s+image" class="internal-link">It&#x27;s about the moments prior to the scene in the Rublev&#x27;s image</a> | 1 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" href="Preliminaries+Regarding+Voice%2C+Movement%2C+and+Gesture+-+Part+4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a>
+<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 4 > 🟡 Excercise 5 3 _The Hospitality to the Angels_ 🟢" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 5 3 _The Hospitality to the Angels_ 🟢" class="internal-link">🟡 Excercise 5.3: _The Hospitality to the Angels_ 🟢</a> | 1 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a>
+<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 4 > Its about the moments prior to the scene in the Rublevs image" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's about the moments prior to the scene in the Rublev's image" class="internal-link">It&#x27;s about the moments prior to the scene in the Rublev&#x27;s image</a> | 1 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a>
+
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Abraham]] | 2 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (2)</span> 
+[[Christianity]] | 2 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (2)</span> 
+[[Daimon]] | 2 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (2)</span> 
+[[Image]] | 2 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (2)</span> 
+[[Imaginal]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
+[[Old Testament]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
+[[Receptivity]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
+[[Soul]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
+[[The Hospitality to the Angels]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
 

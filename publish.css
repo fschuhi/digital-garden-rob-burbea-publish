@@ -370,11 +370,11 @@ body {
   text-decoration: underline !important;
 }
 
-.transcript .internal-link {
+.otherLink .internal-link {
   color: var(--text-normal) !important;
 }
 
-.transcript2 .internal-link {
+.firstLink .internal-link {
   color: var(--text-accent) !important;
 }
 

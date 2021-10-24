@@ -14,7 +14,7 @@ Transcript PDF: [[2007_0208 Equanimity in Compassion.pdf]]
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3" type="audio/mpeg">???</audio>
 
 ## Index
-<span class="counts">_<a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (75) · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> (63) · <a data-href="Dukkha" href="Dukkha" class="internal-link">Dukkha</a> (50) · <a data-href="Samadhi" href="Samadhi" class="internal-link">Samadhi</a> (23) · <a data-href="Happiness" href="Happiness" class="internal-link">Happiness</a> (22) · <a data-href="Craving" href="Craving" class="internal-link">Craving</a> (21) · <a data-href="Mind" href="Mind" class="internal-link">Mind</a> (21) · <a data-href="The Self" href="The+Self" class="internal-link">The Self</a> (18) · <a data-href="Insight" href="Insight" class="internal-link">Insight</a> (17) · <a data-href="Steadiness" href="Steadiness" class="internal-link">Steadiness</a> (17) · <a data-href="Emptiness" href="Emptiness" class="internal-link">Emptiness</a> (15) · <a data-href="Metta" href="Metta" class="internal-link">Metta</a> (15) · <a data-href="Spaciousness" href="Spaciousness" class="internal-link">Spaciousness</a> (14) · <a data-href="Impermanence" href="Impermanence" class="internal-link">Impermanence</a> (12) · <a data-href="Aversion" href="Aversion" class="internal-link">Aversion</a> (10) · <a data-href="Love" href="Love" class="internal-link">Love</a> (10) · <a data-href="Letting go" href="Letting+go" class="internal-link">Letting go</a> (9) · <a data-href="Future thinking" href="Future+thinking" class="internal-link">Future thinking</a> (8) · <a data-href="Mudita" href="Mudita" class="internal-link">Mudita</a> (8) · <a data-href="Buddha" href="Buddha" class="internal-link">Buddha</a> (7) · <a data-href="Freedom" href="Freedom" class="internal-link">Freedom</a> (7) · <a data-href="Perception" href="Perception" class="internal-link">Perception</a> (7) · <a data-href="Awareness" href="Awareness" class="internal-link">Awareness</a> (6) · <a data-href="Experience" href="Experience" class="internal-link">Experience</a> (6) · <a data-href="Consciousness" href="Consciousness" class="internal-link">Consciousness</a> (5) · <a data-href="Dependent Origination" href="Dependent+Origination" class="internal-link">Dependent Origination</a> (5) · <a data-href="Dharma" href="Dharma" class="internal-link">Dharma</a> (5) · <a data-href="Immeasurability" href="Immeasurability" class="internal-link">Immeasurability</a> (5) · <a data-href="Samatha" href="Samatha" class="internal-link">Samatha</a> (5) · <a data-href="Wonder" href="Wonder" class="internal-link">Wonder</a> (5) · <a data-href="Beauty" href="Beauty" class="internal-link">Beauty</a> (4) · <a data-href="Brahmaviharas" href="Brahmaviharas" class="internal-link">Brahmaviharas</a> (4) · <a data-href="Devotion" href="Devotion" class="internal-link">Devotion</a> (4) · <a data-href="Grief" href="Grief" class="internal-link">Grief</a> (4) · <a data-href="Healing" href="Healing" class="internal-link">Healing</a> (4) · <a data-href="Nondualism" href="Nondualism" class="internal-link">Nondualism</a> (4) · <a data-href="Retreat" href="Retreat" class="internal-link">Retreat</a> (4) · <a data-href="Contraction" href="Contraction" class="internal-link">Contraction</a> (3) · <a data-href="Fabrication" href="Fabrication" class="internal-link">Fabrication</a> (3) · <a data-href="Ignorance" href="Ignorance" class="internal-link">Ignorance</a> (3) · <a data-href="Nature" href="Nature" class="internal-link">Nature</a> (3) · <a data-href="Pain" href="Pain" class="internal-link">Pain</a> (3) · <a data-href="Pleasantness" href="Pleasantness" class="internal-link">Pleasantness</a> (3) · <a data-href="Anatta" href="Anatta" class="internal-link">Anatta</a> (2) · <a data-href="Attention" href="Attention" class="internal-link">Attention</a> (2) · <a data-href="Clinging" href="Clinging" class="internal-link">Clinging</a> (2) · <a data-href="Commentaries" href="Commentaries" class="internal-link">Commentaries</a> (2) · <a data-href="Cultivation" href="Cultivation" class="internal-link">Cultivation</a> (2) · <a data-href="Eight worldly conditions" href="Eight+worldly+conditions" class="internal-link">Eight worldly conditions</a> (2) · <a data-href="Embodiment" href="Embodiment" class="internal-link">Embodiment</a> (2) · <a data-href="Energy" href="Energy" class="internal-link">Energy</a> (2) · <a data-href="Energy body" href="Energy+body" class="internal-link">Energy body</a> (2) · <a data-href="Hindrances" href="Hindrances" class="internal-link">Hindrances</a> (2) · <a data-href="Karma" href="Karma" class="internal-link">Karma</a> (2) · <a data-href="Meditation" href="Meditation" class="internal-link">Meditation</a> (2) · <a data-href="Mind state" href="Mind+state" class="internal-link">Mind state</a> (2) · <a data-href="Near enemy" href="Near+enemy" class="internal-link">Near enemy</a> (2) · <a data-href="Nihilism" href="Nihilism" class="internal-link">Nihilism</a> (2) · <a data-href="Acceptance" href="Acceptance" class="internal-link">Acceptance</a> · <a data-href="Breath" href="Breath" class="internal-link">Breath</a> · <a data-href="Catherine McGee" href="Catherine+McGee" class="internal-link">Catherine McGee</a> · <a data-href="David Beckham" href="David+Beckham" class="internal-link">David Beckham</a> · <a data-href="Death" href="Death" class="internal-link">Death</a> · <a data-href="Depression" href="Depression" class="internal-link">Depression</a> · <a data-href="Desire" href="Desire" class="internal-link">Desire</a> · <a data-href="Empathy" href="Empathy" class="internal-link">Empathy</a> · <a data-href="History" href="History" class="internal-link">History</a> · <a data-href="Jesus" href="Jesus" class="internal-link">Jesus</a> · <a data-href="Juiciness" href="Juiciness" class="internal-link">Juiciness</a> · <a data-href="Mahatma Gandhi" href="Mahatma+Gandhi" class="internal-link">Mahatma Gandhi</a> · <a data-href="Mother Teresa" href="Mother+Teresa" class="internal-link">Mother Teresa</a> · <a data-href="Music" href="Music" class="internal-link">Music</a> · <a data-href="Piti" href="Piti" class="internal-link">Piti</a> · <a data-href="Receptivity" href="Receptivity" class="internal-link">Receptivity</a> · <a data-href="Relationships" href="Relationships" class="internal-link">Relationships</a> · <a data-href="Spiritual circles" href="Spiritual+circles" class="internal-link">Spiritual circles</a>_</span>
+<span class="counts">_<a data-href="Equanimity" class="internal-link">Equanimity</a> (75) · <a data-href="Compassion" class="internal-link">Compassion</a> (63) · <a data-href="Dukkha" class="internal-link">Dukkha</a> (50) · <a data-href="Samadhi" class="internal-link">Samadhi</a> (23) · <a data-href="Happiness" class="internal-link">Happiness</a> (22) · <a data-href="Craving" class="internal-link">Craving</a> (21) · <a data-href="Mind" class="internal-link">Mind</a> (21) · <a data-href="The Self" class="internal-link">The Self</a> (18) · <a data-href="Insight" class="internal-link">Insight</a> (17) · <a data-href="Steadiness" class="internal-link">Steadiness</a> (17) · <a data-href="Emptiness" class="internal-link">Emptiness</a> (15) · <a data-href="Metta" class="internal-link">Metta</a> (15) · <a data-href="Spaciousness" class="internal-link">Spaciousness</a> (14) · <a data-href="Impermanence" class="internal-link">Impermanence</a> (12) · <a data-href="Aversion" class="internal-link">Aversion</a> (10) · <a data-href="Love" class="internal-link">Love</a> (10) · <a data-href="Letting go" class="internal-link">Letting go</a> (9) · <a data-href="Future thinking" class="internal-link">Future thinking</a> (8) · <a data-href="Mudita" class="internal-link">Mudita</a> (8) · <a data-href="Buddha" class="internal-link">Buddha</a> (7) · <a data-href="Freedom" class="internal-link">Freedom</a> (7) · <a data-href="Perception" class="internal-link">Perception</a> (7) · <a data-href="Awareness" class="internal-link">Awareness</a> (6) · <a data-href="Experience" class="internal-link">Experience</a> (6) · <a data-href="Consciousness" class="internal-link">Consciousness</a> (5) · <a data-href="Dependent Origination" class="internal-link">Dependent Origination</a> (5) · <a data-href="Dharma" class="internal-link">Dharma</a> (5) · <a data-href="Immeasurability" class="internal-link">Immeasurability</a> (5) · <a data-href="Samatha" class="internal-link">Samatha</a> (5) · <a data-href="Wonder" class="internal-link">Wonder</a> (5) · <a data-href="Beauty" class="internal-link">Beauty</a> (4) · <a data-href="Brahmaviharas" class="internal-link">Brahmaviharas</a> (4) · <a data-href="Devotion" class="internal-link">Devotion</a> (4) · <a data-href="Grief" class="internal-link">Grief</a> (4) · <a data-href="Healing" class="internal-link">Healing</a> (4) · <a data-href="Nondualism" class="internal-link">Nondualism</a> (4) · <a data-href="Retreat" class="internal-link">Retreat</a> (4) · <a data-href="Contraction" class="internal-link">Contraction</a> (3) · <a data-href="Fabrication" class="internal-link">Fabrication</a> (3) · <a data-href="Ignorance" class="internal-link">Ignorance</a> (3) · <a data-href="Nature" class="internal-link">Nature</a> (3) · <a data-href="Pain" class="internal-link">Pain</a> (3) · <a data-href="Pleasantness" class="internal-link">Pleasantness</a> (3) · <a data-href="Anatta" class="internal-link">Anatta</a> (2) · <a data-href="Attention" class="internal-link">Attention</a> (2) · <a data-href="Clinging" class="internal-link">Clinging</a> (2) · <a data-href="Commentaries" class="internal-link">Commentaries</a> (2) · <a data-href="Cultivation" class="internal-link">Cultivation</a> (2) · <a data-href="Eight worldly conditions" class="internal-link">Eight worldly conditions</a> (2) · <a data-href="Embodiment" class="internal-link">Embodiment</a> (2) · <a data-href="Energy" class="internal-link">Energy</a> (2) · <a data-href="Energy body" class="internal-link">Energy body</a> (2) · <a data-href="Hindrances" class="internal-link">Hindrances</a> (2) · <a data-href="Karma" class="internal-link">Karma</a> (2) · <a data-href="Meditation" class="internal-link">Meditation</a> (2) · <a data-href="Mind state" class="internal-link">Mind state</a> (2) · <a data-href="Near enemy" class="internal-link">Near enemy</a> (2) · <a data-href="Nihilism" class="internal-link">Nihilism</a> (2) · <a data-href="Acceptance" class="internal-link">Acceptance</a> · <a data-href="Breath" class="internal-link">Breath</a> · <a data-href="Catherine McGee" class="internal-link">Catherine McGee</a> · <a data-href="David Beckham" class="internal-link">David Beckham</a> · <a data-href="Death" class="internal-link">Death</a> · <a data-href="Depression" class="internal-link">Depression</a> · <a data-href="Desire" class="internal-link">Desire</a> · <a data-href="Empathy" class="internal-link">Empathy</a> · <a data-href="History" class="internal-link">History</a> · <a data-href="Jesus" class="internal-link">Jesus</a> · <a data-href="Juiciness" class="internal-link">Juiciness</a> · <a data-href="Mahatma Gandhi" class="internal-link">Mahatma Gandhi</a> · <a data-href="Mother Teresa" class="internal-link">Mother Teresa</a> · <a data-href="Music" class="internal-link">Music</a> · <a data-href="Piti" class="internal-link">Piti</a> · <a data-href="Receptivity" class="internal-link">Receptivity</a> · <a data-href="Relationships" class="internal-link">Relationships</a> · <a data-href="Spiritual circles" class="internal-link">Spiritual circles</a>_</span>
 <br/>
 
 ## Paragraphs
@@ -22,56 +22,56 @@ Transcript PDF: [[2007_0208 Equanimity in Compassion.pdf]]
 
 ### Brahmaviharas
 ##### Equanimity is the fourth of the brahmaviharas
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^1-1" data-href="0208 Equanimity in Compassion#^1-1" href="0208+Equanimity+in+Compassion#^1-1" class="internal-link">1-1</a>**: _<a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Brahmaviharas" href="Brahmaviharas" class="internal-link">Brahmaviharas</a> (2) · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> (3) · <a data-href="Metta" href="Metta" class="internal-link">Metta</a> (2) · <a data-href="Catherine McGee" href="Catherine+McGee" class="internal-link">Catherine McGee</a> · <a data-href="Happiness" href="Happiness" class="internal-link">Happiness</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^1-1" data-href="0208 Equanimity in Compassion#^1-1" class="internal-link">1-1</a>**: _<a data-href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Brahmaviharas" class="internal-link">Brahmaviharas</a> (2) · <a data-href="Compassion" class="internal-link">Compassion</a> (3) · <a data-href="Metta" class="internal-link">Metta</a> (2) · <a data-href="Catherine McGee" class="internal-link">Catherine McGee</a> · <a data-href="Happiness" class="internal-link">Happiness</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=00:05" type="audio/mpeg">???</audio>
 
 ---
 ##### Mudita is usually translated as "sympathetic joy"
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^1-2" data-href="0208 Equanimity in Compassion#^1-2" href="0208+Equanimity+in+Compassion#^1-2" class="internal-link">1-2</a>**: _<a data-href="Mudita" href="Mudita" class="internal-link">Mudita</a> (4) · <a data-href="Happiness" href="Happiness" class="internal-link">Happiness</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^1-2" data-href="0208 Equanimity in Compassion#^1-2" class="internal-link">1-2</a>**: _<a data-href="Mudita" class="internal-link">Mudita</a> (4) · <a data-href="Happiness" class="internal-link">Happiness</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=00:54" type="audio/mpeg">???</audio>
 
 ---
 ##### Mudita is a kind of joy that's not so based on the ego
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^1-3" data-href="0208 Equanimity in Compassion#^1-3" href="0208+Equanimity+in+Compassion#^1-3" class="internal-link">1-3</a>**: _<a data-href="Commentaries" href="Commentaries" class="internal-link">Commentaries</a> · <a data-href="Buddha" href="Buddha" class="internal-link">Buddha</a> · <a data-href="Mudita" href="Mudita" class="internal-link">Mudita</a> (3) · <a data-href="Happiness" href="Happiness" class="internal-link">Happiness</a> (4) · <a data-href="Wonder" href="Wonder" class="internal-link">Wonder</a> (2) · <a data-href="Nature" href="Nature" class="internal-link">Nature</a> · <a data-href="Receptivity" href="Receptivity" class="internal-link">Receptivity</a> · <a data-href="Beauty" href="Beauty" class="internal-link">Beauty</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^1-3" data-href="0208 Equanimity in Compassion#^1-3" class="internal-link">1-3</a>**: _<a data-href="Commentaries" class="internal-link">Commentaries</a> · <a data-href="Buddha" class="internal-link">Buddha</a> · <a data-href="Mudita" class="internal-link">Mudita</a> (3) · <a data-href="Happiness" class="internal-link">Happiness</a> (4) · <a data-href="Wonder" class="internal-link">Wonder</a> (2) · <a data-href="Nature" class="internal-link">Nature</a> · <a data-href="Receptivity" class="internal-link">Receptivity</a> · <a data-href="Beauty" class="internal-link">Beauty</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=01:44" type="audio/mpeg">???</audio>
 
 ---
 ### Equanimity in compassion practice
 ##### Equanimity is not a word we use much in English
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^1-4" data-href="0208 Equanimity in Compassion#^1-4" href="0208+Equanimity+in+Compassion#^1-4" class="internal-link">1-4</a>**: _<a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (2)_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^1-4" data-href="0208 Equanimity in Compassion#^1-4" class="internal-link">1-4</a>**: _<a data-href="Equanimity" class="internal-link">Equanimity</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=03:17" type="audio/mpeg">???</audio>
 
 ---
 ##### The heart and mind stay steady through their contact with all things in life
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^1-5" data-href="0208 Equanimity in Compassion#^1-5" href="0208+Equanimity+in+Compassion#^1-5" class="internal-link">1-5</a>**: _<a data-href="Steadiness" href="Steadiness" class="internal-link">Steadiness</a> (2) · <a data-href="Mind" href="Mind" class="internal-link">Mind</a> (3) · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Buddha" href="Buddha" class="internal-link">Buddha</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^1-5" data-href="0208 Equanimity in Compassion#^1-5" class="internal-link">1-5</a>**: _<a data-href="Steadiness" class="internal-link">Steadiness</a> (2) · <a data-href="Mind" class="internal-link">Mind</a> (3) · <a data-href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Buddha" class="internal-link">Buddha</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=04:04" type="audio/mpeg">???</audio>
 
 ---
 ##### Equanimity makes the compassion steady in the face of suffering
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^1-6" data-href="0208 Equanimity in Compassion#^1-6" href="0208+Equanimity+in+Compassion#^1-6" class="internal-link">1-6</a>**: _<a data-href="Commentaries" href="Commentaries" class="internal-link">Commentaries</a> · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> (4) · <a data-href="Dukkha" href="Dukkha" class="internal-link">Dukkha</a> (7) · <a data-href="Depression" href="Depression" class="internal-link">Depression</a> · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^1-6" data-href="0208 Equanimity in Compassion#^1-6" class="internal-link">1-6</a>**: _<a data-href="Commentaries" class="internal-link">Commentaries</a> · <a data-href="Compassion" class="internal-link">Compassion</a> (4) · <a data-href="Dukkha" class="internal-link">Dukkha</a> (7) · <a data-href="Depression" class="internal-link">Depression</a> · <a data-href="Equanimity" class="internal-link">Equanimity</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=04:49" type="audio/mpeg">???</audio>
 
 ---
 ##### This talk is about how equanimity feeds into the compassion practice
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^2-1" data-href="0208 Equanimity in Compassion#^2-1" href="0208+Equanimity+in+Compassion#^2-1" class="internal-link">2-1</a>**: _<a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> (2)_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^2-1" data-href="0208 Equanimity in Compassion#^2-1" class="internal-link">2-1</a>**: _<a data-href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Compassion" class="internal-link">Compassion</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=06:07" type="audio/mpeg">???</audio>
 
 ---
 ##### (1) Opening the heart to resonate with the suffering we see (empathy)
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^2-2" data-href="0208 Equanimity in Compassion#^2-2" href="0208+Equanimity+in+Compassion#^2-2" class="internal-link">2-2</a>**: _<a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> · <a data-href="Empathy" href="Empathy" class="internal-link">Empathy</a> · <a data-href="Dukkha" href="Dukkha" class="internal-link">Dukkha</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^2-2" data-href="0208 Equanimity in Compassion#^2-2" class="internal-link">2-2</a>**: _<a data-href="Compassion" class="internal-link">Compassion</a> · <a data-href="Empathy" class="internal-link">Empathy</a> · <a data-href="Dukkha" class="internal-link">Dukkha</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=06:28" type="audio/mpeg">???</audio>
 
 ---
 ##### (2) Wanting to heal the suffering (energy)
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^2-3" data-href="0208 Equanimity in Compassion#^2-3" href="0208+Equanimity+in+Compassion#^2-3" class="internal-link">2-3</a>**: _<a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> · <a data-href="Energy" href="Energy" class="internal-link">Energy</a> (2) · <a data-href="Dukkha" href="Dukkha" class="internal-link">Dukkha</a> · <a data-href="Grief" href="Grief" class="internal-link">Grief</a> · <a data-href="Beauty" href="Beauty" class="internal-link">Beauty</a> · <a data-href="Healing" href="Healing" class="internal-link">Healing</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^2-3" data-href="0208 Equanimity in Compassion#^2-3" class="internal-link">2-3</a>**: _<a data-href="Compassion" class="internal-link">Compassion</a> · <a data-href="Energy" class="internal-link">Energy</a> (2) · <a data-href="Dukkha" class="internal-link">Dukkha</a> · <a data-href="Grief" class="internal-link">Grief</a> · <a data-href="Beauty" class="internal-link">Beauty</a> · <a data-href="Healing" class="internal-link">Healing</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=07:15" type="audio/mpeg">???</audio>
 
@@ -82,7 +82,7 @@ So sometimes it will feel like we're very much in the 'feeling the sorrow' side,
 ---
 #### Balance
 ##### The outflow of compassion from us to others touches us, and we feel healed
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^2-4" data-href="0208 Equanimity in Compassion#^2-4" href="0208+Equanimity+in+Compassion#^2-4" class="internal-link">2-4</a>**: _<a data-href="Healing" href="Healing" class="internal-link">Healing</a> (3) · <a data-href="Pleasantness" href="Pleasantness" class="internal-link">Pleasantness</a> (2) · <a data-href="Happiness" href="Happiness" class="internal-link">Happiness</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^2-4" data-href="0208 Equanimity in Compassion#^2-4" class="internal-link">2-4</a>**: _<a data-href="Healing" class="internal-link">Healing</a> (3) · <a data-href="Pleasantness" class="internal-link">Pleasantness</a> (2) · <a data-href="Happiness" class="internal-link">Happiness</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=08:13" type="audio/mpeg">???</audio>
 
@@ -92,13 +92,13 @@ What's going out, the comforting, the balm, it actually has a feeling of feeling
 ---
 
 ##### There can be a lot of grief in the compassion practice about the immensity and universality of suffering
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^2-5" data-href="0208 Equanimity in Compassion#^2-5" href="0208+Equanimity+in+Compassion#^2-5" class="internal-link">2-5</a>**: _<a data-href="Grief" href="Grief" class="internal-link">Grief</a> (2) · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> · <a data-href="Dukkha" href="Dukkha" class="internal-link">Dukkha</a> (2) · <a data-href="Death" href="Death" class="internal-link">Death</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^2-5" data-href="0208 Equanimity in Compassion#^2-5" class="internal-link">2-5</a>**: _<a data-href="Grief" class="internal-link">Grief</a> (2) · <a data-href="Compassion" class="internal-link">Compassion</a> · <a data-href="Dukkha" class="internal-link">Dukkha</a> (2) · <a data-href="Death" class="internal-link">Death</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=08:58" type="audio/mpeg">???</audio>
 
 ---
 ##### It's part of our humanity to be touched
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^2-6" data-href="0208 Equanimity in Compassion#^2-6" href="0208+Equanimity+in+Compassion#^2-6" class="internal-link">2-6</a>**: _<a data-href="Grief" href="Grief" class="internal-link">Grief</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^2-6" data-href="0208 Equanimity in Compassion#^2-6" class="internal-link">2-6</a>**: _<a data-href="Grief" class="internal-link">Grief</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=09:39" type="audio/mpeg">???</audio>
 
@@ -108,26 +108,26 @@ It's part of our humanity to be touched. We're not, in a way, wanting to be unto
 
 ---
 ##### Equanimity means  buoyancy, not to sink underneath the weight of the suffering
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^3-1" data-href="0208 Equanimity in Compassion#^3-1" href="0208+Equanimity+in+Compassion#^3-1" class="internal-link">3-1</a>**: _<a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> (4) · <a data-href="Dukkha" href="Dukkha" class="internal-link">Dukkha</a> (2) · <a data-href="Cultivation" href="Cultivation" class="internal-link">Cultivation</a> · <a data-href="Happiness" href="Happiness" class="internal-link">Happiness</a> (2) · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Steadiness" href="Steadiness" class="internal-link">Steadiness</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^3-1" data-href="0208 Equanimity in Compassion#^3-1" class="internal-link">3-1</a>**: _<a data-href="Compassion" class="internal-link">Compassion</a> (4) · <a data-href="Dukkha" class="internal-link">Dukkha</a> (2) · <a data-href="Cultivation" class="internal-link">Cultivation</a> · <a data-href="Happiness" class="internal-link">Happiness</a> (2) · <a data-href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Steadiness" class="internal-link">Steadiness</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=10:29" type="audio/mpeg">???</audio>
 
 ---
 #### Samadhi
 ##### Don't underestimate the power of samadhi in the deepening of equanimity
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^3-2" data-href="0208 Equanimity in Compassion#^3-2" href="0208+Equanimity+in+Compassion#^3-2" class="internal-link">3-2</a>**: _<a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Samadhi" href="Samadhi" class="internal-link">Samadhi</a> (5) · <a data-href="Retreat" href="Retreat" class="internal-link">Retreat</a> · <a data-href="Mind" href="Mind" class="internal-link">Mind</a> (2) · <a data-href="Steadiness" href="Steadiness" class="internal-link">Steadiness</a> · <a data-href="Metta" href="Metta" class="internal-link">Metta</a> · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^3-2" data-href="0208 Equanimity in Compassion#^3-2" class="internal-link">3-2</a>**: _<a data-href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Samadhi" class="internal-link">Samadhi</a> (5) · <a data-href="Retreat" class="internal-link">Retreat</a> · <a data-href="Mind" class="internal-link">Mind</a> (2) · <a data-href="Steadiness" class="internal-link">Steadiness</a> · <a data-href="Metta" class="internal-link">Metta</a> · <a data-href="Compassion" class="internal-link">Compassion</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=11:51" type="audio/mpeg">???</audio>
 
 ---
 ##### Story: last year's retreatant who didn't want to do samadhi, pointing to the busyness of life
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^3-3" data-href="0208 Equanimity in Compassion#^3-3" href="0208+Equanimity+in+Compassion#^3-3" class="internal-link">3-3</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link">Samadhi</a> (3) · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^3-3" data-href="0208 Equanimity in Compassion#^3-3" class="internal-link">3-3</a>**: _<a data-href="Samadhi" class="internal-link">Samadhi</a> (3) · <a data-href="Compassion" class="internal-link">Compassion</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=12:40" type="audio/mpeg">???</audio>
 
 ---
 ##### Samadhi allows any quality to sink into the cells
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^3-4" data-href="0208 Equanimity in Compassion#^3-4" href="0208+Equanimity+in+Compassion#^3-4" class="internal-link">3-4</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link">Samadhi</a> (2) · <a data-href="Insight" href="Insight" class="internal-link">Insight</a> · <a data-href="Metta" href="Metta" class="internal-link">Metta</a> · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> (2)_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^3-4" data-href="0208 Equanimity in Compassion#^3-4" class="internal-link">3-4</a>**: _<a data-href="Samadhi" class="internal-link">Samadhi</a> (2) · <a data-href="Insight" class="internal-link">Insight</a> · <a data-href="Metta" class="internal-link">Metta</a> · <a data-href="Compassion" class="internal-link">Compassion</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=13:31" type="audio/mpeg">???</audio>
 
@@ -137,13 +137,13 @@ sink into the cells, and to be there, woven in almost to the fabric of our being
 
 ---
 ##### But it's also important to practice when the mind isn't that settled
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^3-5" data-href="0208 Equanimity in Compassion#^3-5" href="0208+Equanimity+in+Compassion#^3-5" class="internal-link">3-5</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link">Samadhi</a> · <a data-href="Mind" href="Mind" class="internal-link">Mind</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^3-5" data-href="0208 Equanimity in Compassion#^3-5" class="internal-link">3-5</a>**: _<a data-href="Samadhi" class="internal-link">Samadhi</a> · <a data-href="Mind" class="internal-link">Mind</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=14:10" type="audio/mpeg">???</audio>
 
 ---
 ##### The natural progression of samadhi leads to equanimity, which eventually becomes also accessible outside samadhi
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^3-6" data-href="0208 Equanimity in Compassion#^3-6" href="0208+Equanimity+in+Compassion#^3-6" class="internal-link">3-6</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link">Samadhi</a> (3) · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (3) · <a data-href="Piti" href="Piti" class="internal-link">Piti</a> · <a data-href="Happiness" href="Happiness" class="internal-link">Happiness</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^3-6" data-href="0208 Equanimity in Compassion#^3-6" class="internal-link">3-6</a>**: _<a data-href="Samadhi" class="internal-link">Samadhi</a> (3) · <a data-href="Equanimity" class="internal-link">Equanimity</a> (3) · <a data-href="Piti" class="internal-link">Piti</a> · <a data-href="Happiness" class="internal-link">Happiness</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=14:40" type="audio/mpeg">???</audio>
 
@@ -154,93 +154,93 @@ This is usually a progression that takes months and months, but in the progressi
 ---
 #### The Self
 ##### How much is the self _doing_ the compassion practice
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^4-1" data-href="0208 Equanimity in Compassion#^4-1" href="0208+Equanimity+in+Compassion#^4-1" class="internal-link">4-1</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link">Samadhi</a> · <a data-href="The Self" href="The+Self" class="internal-link">The Self</a> (3) · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> (4) · <a data-href="Retreat" href="Retreat" class="internal-link">Retreat</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^4-1" data-href="0208 Equanimity in Compassion#^4-1" class="internal-link">4-1</a>**: _<a data-href="Samadhi" class="internal-link">Samadhi</a> · <a data-href="The Self" class="internal-link">The Self</a> (3) · <a data-href="Compassion" class="internal-link">Compassion</a> (4) · <a data-href="Retreat" class="internal-link">Retreat</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=15:22" type="audio/mpeg">???</audio>
 
 ---
 ##### As the self-sense gets quite, equanimity becomes the natural state
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^4-2" data-href="0208 Equanimity in Compassion#^4-2" href="0208+Equanimity+in+Compassion#^4-2" class="internal-link">4-2</a>**: _<a data-href="The Self" href="The+Self" class="internal-link">The Self</a> (7) · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> (2) · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (4)_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^4-2" data-href="0208 Equanimity in Compassion#^4-2" class="internal-link">4-2</a>**: _<a data-href="The Self" class="internal-link">The Self</a> (7) · <a data-href="Compassion" class="internal-link">Compassion</a> (2) · <a data-href="Equanimity" class="internal-link">Equanimity</a> (4)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=16:01" type="audio/mpeg">???</audio>
 
 ---
 #### Spaciousness
 ##### With spaciousness, any suffering can be held effortlessly in that space
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^4-3" data-href="0208 Equanimity in Compassion#^4-3" href="0208+Equanimity+in+Compassion#^4-3" class="internal-link">4-3</a>**: _<a data-href="Spaciousness" href="Spaciousness" class="internal-link">Spaciousness</a> · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> (3) · <a data-href="The Self" href="The+Self" class="internal-link">The Self</a> · <a data-href="Dukkha" href="Dukkha" class="internal-link">Dukkha</a> (4)_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^4-3" data-href="0208 Equanimity in Compassion#^4-3" class="internal-link">4-3</a>**: _<a data-href="Spaciousness" class="internal-link">Spaciousness</a> · <a data-href="Compassion" class="internal-link">Compassion</a> (3) · <a data-href="The Self" class="internal-link">The Self</a> · <a data-href="Dukkha" class="internal-link">Dukkha</a> (4)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=17:31" type="audio/mpeg">???</audio>
 
 ---
 ##### Spaciousness is a prominent feature of equanimity
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^4-4" data-href="0208 Equanimity in Compassion#^4-4" href="0208+Equanimity+in+Compassion#^4-4" class="internal-link">4-4</a>**: _<a data-href="Dukkha" href="Dukkha" class="internal-link">Dukkha</a> · <a data-href="Spaciousness" href="Spaciousness" class="internal-link">Spaciousness</a> (2) · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (3) · <a data-href="Steadiness" href="Steadiness" class="internal-link">Steadiness</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^4-4" data-href="0208 Equanimity in Compassion#^4-4" class="internal-link">4-4</a>**: _<a data-href="Dukkha" class="internal-link">Dukkha</a> · <a data-href="Spaciousness" class="internal-link">Spaciousness</a> (2) · <a data-href="Equanimity" class="internal-link">Equanimity</a> (3) · <a data-href="Steadiness" class="internal-link">Steadiness</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=18:27" type="audio/mpeg">???</audio>
 
 ---
 ##### Still, the self giving compassion is a necessary aspect of our humanity
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^4-5" data-href="0208 Equanimity in Compassion#^4-5" href="0208+Equanimity+in+Compassion#^4-5" class="internal-link">4-5</a>**: _<a data-href="The Self" href="The+Self" class="internal-link">The Self</a> · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> (5) · <a data-href="Dukkha" href="Dukkha" class="internal-link">Dukkha</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^4-5" data-href="0208 Equanimity in Compassion#^4-5" class="internal-link">4-5</a>**: _<a data-href="The Self" class="internal-link">The Self</a> · <a data-href="Compassion" class="internal-link">Compassion</a> (5) · <a data-href="Dukkha" class="internal-link">Dukkha</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=19:04" type="audio/mpeg">???</audio>
 
 ---
 #### Limits of compassion practice
 ##### "What do I want or need for myself here?"
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^4-6" data-href="0208 Equanimity in Compassion#^4-6" href="0208+Equanimity+in+Compassion#^4-6" class="internal-link">4-6</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link">Samadhi</a> · <a data-href="The Self" href="The+Self" class="internal-link">The Self</a> · <a data-href="Spaciousness" href="Spaciousness" class="internal-link">Spaciousness</a> · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^4-6" data-href="0208 Equanimity in Compassion#^4-6" class="internal-link">4-6</a>**: _<a data-href="Samadhi" class="internal-link">Samadhi</a> · <a data-href="The Self" class="internal-link">The Self</a> · <a data-href="Spaciousness" class="internal-link">Spaciousness</a> · <a data-href="Compassion" class="internal-link">Compassion</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=19:55" type="audio/mpeg">???</audio>
 
 ---
 ##### It's challenging to care for someone who is clearly causing suffering for themselves
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^5-1" data-href="0208 Equanimity in Compassion#^5-1" href="0208+Equanimity+in+Compassion#^5-1" class="internal-link">5-1</a>**: _<a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> · <a data-href="Dukkha" href="Dukkha" class="internal-link">Dukkha</a> (3)_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^5-1" data-href="0208 Equanimity in Compassion#^5-1" class="internal-link">5-1</a>**: _<a data-href="Compassion" class="internal-link">Compassion</a> · <a data-href="Dukkha" class="internal-link">Dukkha</a> (3)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=21:04" type="audio/mpeg">???</audio>
 
 ---
 ##### Am I finding a way to care of my needs?
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^5-2" data-href="0208 Equanimity in Compassion#^5-2" href="0208+Equanimity+in+Compassion#^5-2" class="internal-link">5-2</a>**: _<a data-href="Metta" href="Metta" class="internal-link">Metta</a> · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> · <a data-href="Relationships" href="Relationships" class="internal-link">Relationships</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^5-2" data-href="0208 Equanimity in Compassion#^5-2" class="internal-link">5-2</a>**: _<a data-href="Metta" class="internal-link">Metta</a> · <a data-href="Compassion" class="internal-link">Compassion</a> · <a data-href="Relationships" class="internal-link">Relationships</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=22:14" type="audio/mpeg">???</audio>
 
 ---
 ##### Co-dependence can happen
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^5-3" data-href="0208 Equanimity in Compassion#^5-3" href="0208+Equanimity+in+Compassion#^5-3" class="internal-link">5-3</a>**: _<a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^5-3" data-href="0208 Equanimity in Compassion#^5-3" class="internal-link">5-3</a>**: _<a data-href="Compassion" class="internal-link">Compassion</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=22:44" type="audio/mpeg">???</audio>
 
 ---
 ##### We might want some recognition for our efforts
-<span class="counts"><a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^5-4" data-href="0208 Equanimity in Compassion#^5-4" href="0208+Equanimity+in+Compassion#^5-4" class="internal-link">5-4</a></span>
+<span class="counts"><a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^5-4" data-href="0208 Equanimity in Compassion#^5-4" class="internal-link">5-4</a></span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=23:56" type="audio/mpeg">???</audio>
 
 ---
 ##### So we need to ask ourselves in those situations how we can get at least some of what we need in a healthy way
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^5-5" data-href="0208 Equanimity in Compassion#^5-5" href="0208+Equanimity+in+Compassion#^5-5" class="internal-link">5-5</a>**: _<a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> (5) · <a data-href="Love" href="Love" class="internal-link">Love</a> · <a data-href="Aversion" href="Aversion" class="internal-link">Aversion</a> · <a data-href="Dukkha" href="Dukkha" class="internal-link">Dukkha</a> · <a data-href="Perception" href="Perception" class="internal-link">Perception</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^5-5" data-href="0208 Equanimity in Compassion#^5-5" class="internal-link">5-5</a>**: _<a data-href="Compassion" class="internal-link">Compassion</a> (5) · <a data-href="Love" class="internal-link">Love</a> · <a data-href="Aversion" class="internal-link">Aversion</a> · <a data-href="Dukkha" class="internal-link">Dukkha</a> · <a data-href="Perception" class="internal-link">Perception</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=24:42" type="audio/mpeg">???</audio>
 
 ---
 ##### Politics show that there are limits in how much we can help
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^6-1" data-href="0208 Equanimity in Compassion#^6-1" href="0208+Equanimity+in+Compassion#^6-1" class="internal-link">6-1</a>**: _<a data-href="Brahmaviharas" href="Brahmaviharas" class="internal-link">Brahmaviharas</a> · <a data-href="Love" href="Love" class="internal-link">Love</a> · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> · <a data-href="Happiness" href="Happiness" class="internal-link">Happiness</a> · <a data-href="Insight" href="Insight" class="internal-link">Insight</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^6-1" data-href="0208 Equanimity in Compassion#^6-1" class="internal-link">6-1</a>**: _<a data-href="Brahmaviharas" class="internal-link">Brahmaviharas</a> · <a data-href="Love" class="internal-link">Love</a> · <a data-href="Compassion" class="internal-link">Compassion</a> · <a data-href="Happiness" class="internal-link">Happiness</a> · <a data-href="Insight" class="internal-link">Insight</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=26:11" type="audio/mpeg">???</audio>
 
 ---
 ##### Bringing equanimity in seeing the web of conditions which makes any situation what it is
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^6-2" data-href="0208 Equanimity in Compassion#^6-2" href="0208+Equanimity+in+Compassion#^6-2" class="internal-link">6-2</a>**: _<a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Dependent Origination" href="Dependent+Origination" class="internal-link">Dependent Origination</a> (2) · <a data-href="Freedom" href="Freedom" class="internal-link">Freedom</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^6-2" data-href="0208 Equanimity in Compassion#^6-2" class="internal-link">6-2</a>**: _<a data-href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Dependent Origination" class="internal-link">Dependent Origination</a> (2) · <a data-href="Freedom" class="internal-link">Freedom</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=27:23" type="audio/mpeg">???</audio>
 
 ---
 ##### Example: Dharma talk
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^6-3" data-href="0208 Equanimity in Compassion#^6-3" href="0208+Equanimity+in+Compassion#^6-3" class="internal-link">6-3</a>**: _<a data-href="Dharma" href="Dharma" class="internal-link">Dharma</a> (4) · <a data-href="Experience" href="Experience" class="internal-link">Experience</a> · <a data-href="Dependent Origination" href="Dependent+Origination" class="internal-link">Dependent Origination</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^6-3" data-href="0208 Equanimity in Compassion#^6-3" class="internal-link">6-3</a>**: _<a data-href="Dharma" class="internal-link">Dharma</a> (4) · <a data-href="Experience" class="internal-link">Experience</a> · <a data-href="Dependent Origination" class="internal-link">Dependent Origination</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=28:01" type="audio/mpeg">???</audio>
 
 ---
 ##### Maybe it's just a see
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^6-4" data-href="0208 Equanimity in Compassion#^6-4" href="0208+Equanimity+in+Compassion#^6-4" class="internal-link">6-4</a>**: _<a data-href="Desire" href="Desire" class="internal-link">Desire</a> · <a data-href="Dependent Origination" href="Dependent+Origination" class="internal-link">Dependent Origination</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^6-4" data-href="0208 Equanimity in Compassion#^6-4" class="internal-link">6-4</a>**: _<a data-href="Desire" class="internal-link">Desire</a> · <a data-href="Dependent Origination" class="internal-link">Dependent Origination</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=29:06" type="audio/mpeg">???</audio>
 
@@ -250,94 +250,94 @@ But mostly it's actually just a little drop, and then one goes out into that inf
 
 ---
 ##### Somthing you've done or said, it might just be enough that it can blossom later for that person
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^6-5" data-href="0208 Equanimity in Compassion#^6-5" href="0208+Equanimity+in+Compassion#^6-5" class="internal-link">6-5</a>**: _<a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> · <a data-href="Dependent Origination" href="Dependent+Origination" class="internal-link">Dependent Origination</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^6-5" data-href="0208 Equanimity in Compassion#^6-5" class="internal-link">6-5</a>**: _<a data-href="Compassion" class="internal-link">Compassion</a> · <a data-href="Dependent Origination" class="internal-link">Dependent Origination</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=30:11" type="audio/mpeg">???</audio>
 
 ---
 ##### Equanimity is not indifference
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^6-6" data-href="0208 Equanimity in Compassion#^6-6" href="0208+Equanimity+in+Compassion#^6-6" class="internal-link">6-6</a>**: _<a data-href="Brahmaviharas" href="Brahmaviharas" class="internal-link">Brahmaviharas</a> · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (5) · <a data-href="Near enemy" href="Near+enemy" class="internal-link">Near enemy</a> · <a data-href="Spiritual circles" href="Spiritual+circles" class="internal-link">Spiritual circles</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^6-6" data-href="0208 Equanimity in Compassion#^6-6" class="internal-link">6-6</a>**: _<a data-href="Brahmaviharas" class="internal-link">Brahmaviharas</a> · <a data-href="Equanimity" class="internal-link">Equanimity</a> (5) · <a data-href="Near enemy" class="internal-link">Near enemy</a> · <a data-href="Spiritual circles" class="internal-link">Spiritual circles</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=30:45" type="audio/mpeg">???</audio>
 
 ---
 ##### The barometer for any view (like karma, or God's will) is: what's it doing to the heart?
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^7-1" data-href="0208 Equanimity in Compassion#^7-1" href="0208+Equanimity+in+Compassion#^7-1" class="internal-link">7-1</a>**: _<a data-href="Karma" href="Karma" class="internal-link">Karma</a> (2) · <a data-href="Dukkha" href="Dukkha" class="internal-link">Dukkha</a> · <a data-href="Retreat" href="Retreat" class="internal-link">Retreat</a> · <a data-href="Metta" href="Metta" class="internal-link">Metta</a> · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^7-1" data-href="0208 Equanimity in Compassion#^7-1" class="internal-link">7-1</a>**: _<a data-href="Karma" class="internal-link">Karma</a> (2) · <a data-href="Dukkha" class="internal-link">Dukkha</a> · <a data-href="Retreat" class="internal-link">Retreat</a> · <a data-href="Metta" class="internal-link">Metta</a> · <a data-href="Compassion" class="internal-link">Compassion</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=31:47" type="audio/mpeg">???</audio>
 
 ---
 ##### Can the compassion stay steady and strong, but also that the tenderness of the heart remains?
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^7-2" data-href="0208 Equanimity in Compassion#^7-2" href="0208+Equanimity+in+Compassion#^7-2" class="internal-link">7-2</a>**: _<a data-href="The Self" href="The+Self" class="internal-link">The Self</a> · <a data-href="Dukkha" href="Dukkha" class="internal-link">Dukkha</a> (4) · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> (2) · <a data-href="Ignorance" href="Ignorance" class="internal-link">Ignorance</a> (2) · <a data-href="Insight" href="Insight" class="internal-link">Insight</a> · <a data-href="Love" href="Love" class="internal-link">Love</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^7-2" data-href="0208 Equanimity in Compassion#^7-2" class="internal-link">7-2</a>**: _<a data-href="The Self" class="internal-link">The Self</a> · <a data-href="Dukkha" class="internal-link">Dukkha</a> (4) · <a data-href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Compassion" class="internal-link">Compassion</a> (2) · <a data-href="Ignorance" class="internal-link">Ignorance</a> (2) · <a data-href="Insight" class="internal-link">Insight</a> · <a data-href="Love" class="internal-link">Love</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=33:15" type="audio/mpeg">???</audio>
 
 ---
 #### Phrases for equanimity
 ##### Phrases make the limits of our responsibility clearer to us and to another
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^7-3" data-href="0208 Equanimity in Compassion#^7-3" href="0208+Equanimity+in+Compassion#^7-3" class="internal-link">7-3</a>**: _<a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> · <a data-href="Dukkha" href="Dukkha" class="internal-link">Dukkha</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^7-3" data-href="0208 Equanimity in Compassion#^7-3" class="internal-link">7-3</a>**: _<a data-href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Compassion" class="internal-link">Compassion</a> · <a data-href="Dukkha" class="internal-link">Dukkha</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=34:30" type="audio/mpeg">???</audio>
 
 ---
 ##### This is to distinguish the suffering coming down from outside vs what humans bring on themselves through ignorance
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^7-4" data-href="0208 Equanimity in Compassion#^7-4" href="0208+Equanimity+in+Compassion#^7-4" class="internal-link">7-4</a>**: _<a data-href="Dukkha" href="Dukkha" class="internal-link">Dukkha</a> (3) · <a data-href="Ignorance" href="Ignorance" class="internal-link">Ignorance</a> · <a data-href="Buddha" href="Buddha" class="internal-link">Buddha</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^7-4" data-href="0208 Equanimity in Compassion#^7-4" class="internal-link">7-4</a>**: _<a data-href="Dukkha" class="internal-link">Dukkha</a> (3) · <a data-href="Ignorance" class="internal-link">Ignorance</a> · <a data-href="Buddha" class="internal-link">Buddha</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=35:08" type="audio/mpeg">???</audio>
 
 ---
 ##### "All beings are the owners of their actions." (shortened)
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^7-5" data-href="0208 Equanimity in Compassion#^7-5" href="0208+Equanimity+in+Compassion#^7-5" class="internal-link">7-5</a>**: _<a data-href="Happiness" href="Happiness" class="internal-link">Happiness</a> (2)_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^7-5" data-href="0208 Equanimity in Compassion#^7-5" class="internal-link">7-5</a>**: _<a data-href="Happiness" class="internal-link">Happiness</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=35:38" type="audio/mpeg">???</audio>
 
 ---
 ##### "All beings inherit the results of their actions." (shortened)
-<span class="counts"><a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^7-6" data-href="0208 Equanimity in Compassion#^7-6" href="0208+Equanimity+in+Compassion#^7-6" class="internal-link">7-6</a></span>
+<span class="counts"><a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^7-6" data-href="0208 Equanimity in Compassion#^7-6" class="internal-link">7-6</a></span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=35:53" type="audio/mpeg">???</audio>
 
 ---
 ##### "All actions with intention, be they skilful or harmful, of such acts they will be the heirs."
-<span class="counts"><a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^8-1" data-href="0208 Equanimity in Compassion#^8-1" href="0208+Equanimity+in+Compassion#^8-1" class="internal-link">8-1</a></span>
+<span class="counts"><a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^8-1" data-href="0208 Equanimity in Compassion#^8-1" class="internal-link">8-1</a></span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=36:13" type="audio/mpeg">???</audio>
 
 ---
 ##### This formal equanimity practice brings in the recollection to balance the compassion
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^8-2" data-href="0208 Equanimity in Compassion#^8-2" href="0208+Equanimity+in+Compassion#^8-2" class="internal-link">8-2</a>**: _<a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> (2) · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Mind" href="Mind" class="internal-link">Mind</a> (2)_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^8-2" data-href="0208 Equanimity in Compassion#^8-2" class="internal-link">8-2</a>**: _<a data-href="Compassion" class="internal-link">Compassion</a> (2) · <a data-href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Mind" class="internal-link">Mind</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=37:12" type="audio/mpeg">???</audio>
 
 ---
 ##### Still, loving-kindness and compassion is the best way to live, even if actions or results seem to fall short
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^8-3" data-href="0208 Equanimity in Compassion#^8-3" href="0208+Equanimity+in+Compassion#^8-3" class="internal-link">8-3</a>**: _<a data-href="Dukkha" href="Dukkha" class="internal-link">Dukkha</a> · <a data-href="Metta" href="Metta" class="internal-link">Metta</a> (2) · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> (4) · <a data-href="Freedom" href="Freedom" class="internal-link">Freedom</a> (2) · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Spaciousness" href="Spaciousness" class="internal-link">Spaciousness</a> (2) · <a data-href="Insight" href="Insight" class="internal-link">Insight</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^8-3" data-href="0208 Equanimity in Compassion#^8-3" class="internal-link">8-3</a>**: _<a data-href="Dukkha" class="internal-link">Dukkha</a> · <a data-href="Metta" class="internal-link">Metta</a> (2) · <a data-href="Compassion" class="internal-link">Compassion</a> (4) · <a data-href="Freedom" class="internal-link">Freedom</a> (2) · <a data-href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Spaciousness" class="internal-link">Spaciousness</a> (2) · <a data-href="Insight" class="internal-link">Insight</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=36:48" type="audio/mpeg">???</audio>
 
 ---
 #### Emptiness
 ##### The more we see the emptiness of all things, the more we can walk in a relaxed and effortless way
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^8-4" data-href="0208 Equanimity in Compassion#^8-4" href="0208+Equanimity+in+Compassion#^8-4" class="internal-link">8-4</a>**: _<a data-href="Emptiness" href="Emptiness" class="internal-link">Emptiness</a> (2) · <a data-href="Spaciousness" href="Spaciousness" class="internal-link">Spaciousness</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^8-4" data-href="0208 Equanimity in Compassion#^8-4" class="internal-link">8-4</a>**: _<a data-href="Emptiness" class="internal-link">Emptiness</a> (2) · <a data-href="Spaciousness" class="internal-link">Spaciousness</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=38:22" type="audio/mpeg">???</audio>
 
 ---
 ##### Paradoxically, we become even more devoted with seeing the emptiness of everything
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^8-5" data-href="0208 Equanimity in Compassion#^8-5" href="0208+Equanimity+in+Compassion#^8-5" class="internal-link">8-5</a>**: _<a data-href="Insight" href="Insight" class="internal-link">Insight</a> · <a data-href="Emptiness" href="Emptiness" class="internal-link">Emptiness</a> (7) · <a data-href="Freedom" href="Freedom" class="internal-link">Freedom</a> · <a data-href="Happiness" href="Happiness" class="internal-link">Happiness</a> · <a data-href="Wonder" href="Wonder" class="internal-link">Wonder</a> · <a data-href="Devotion" href="Devotion" class="internal-link">Devotion</a> (4) · <a data-href="Nihilism" href="Nihilism" class="internal-link">Nihilism</a> (2) · <a data-href="Near enemy" href="Near+enemy" class="internal-link">Near enemy</a> · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^8-5" data-href="0208 Equanimity in Compassion#^8-5" class="internal-link">8-5</a>**: _<a data-href="Insight" class="internal-link">Insight</a> · <a data-href="Emptiness" class="internal-link">Emptiness</a> (7) · <a data-href="Freedom" class="internal-link">Freedom</a> · <a data-href="Happiness" class="internal-link">Happiness</a> · <a data-href="Wonder" class="internal-link">Wonder</a> · <a data-href="Devotion" class="internal-link">Devotion</a> (4) · <a data-href="Nihilism" class="internal-link">Nihilism</a> (2) · <a data-href="Near enemy" class="internal-link">Near enemy</a> · <a data-href="Compassion" class="internal-link">Compassion</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=39:01" type="audio/mpeg">???</audio>
 
 ---
 ##### I can neither find myself nor others deparate, and in that the love is there
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^8-6" data-href="0208 Equanimity in Compassion#^8-6" href="0208+Equanimity+in+Compassion#^8-6" class="internal-link">8-6</a>**: _<a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> (3) · <a data-href="Metta" href="Metta" class="internal-link">Metta</a> · <a data-href="Anatta" href="Anatta" class="internal-link">Anatta</a> (2) · <a data-href="Love" href="Love" class="internal-link">Love</a> (3) · <a data-href="Mind" href="Mind" class="internal-link">Mind</a> (3) · <a data-href="Dukkha" href="Dukkha" class="internal-link">Dukkha</a> (3) · <a data-href="Emptiness" href="Emptiness" class="internal-link">Emptiness</a> (3) · <a data-href="Nondualism" href="Nondualism" class="internal-link">Nondualism</a> · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (2)_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^8-6" data-href="0208 Equanimity in Compassion#^8-6" class="internal-link">8-6</a>**: _<a data-href="Compassion" class="internal-link">Compassion</a> (3) · <a data-href="Metta" class="internal-link">Metta</a> · <a data-href="Anatta" class="internal-link">Anatta</a> (2) · <a data-href="Love" class="internal-link">Love</a> (3) · <a data-href="Mind" class="internal-link">Mind</a> (3) · <a data-href="Dukkha" class="internal-link">Dukkha</a> (3) · <a data-href="Emptiness" class="internal-link">Emptiness</a> (3) · <a data-href="Nondualism" class="internal-link">Nondualism</a> · <a data-href="Equanimity" class="internal-link">Equanimity</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=40:43" type="audio/mpeg">???</audio>
 
 ---
 #### How can we develop equanimity?
 ##### Equanimity is steadiness in the face of all conditions
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^9-1" data-href="0208 Equanimity in Compassion#^9-1" href="0208+Equanimity+in+Compassion#^9-1" class="internal-link">9-1</a>**: _<a data-href="Buddha" href="Buddha" class="internal-link">Buddha</a> · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Mind" href="Mind" class="internal-link">Mind</a> · <a data-href="Mind state" href="Mind+state" class="internal-link">Mind state</a> (2) · <a data-href="Steadiness" href="Steadiness" class="internal-link">Steadiness</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^9-1" data-href="0208 Equanimity in Compassion#^9-1" class="internal-link">9-1</a>**: _<a data-href="Buddha" class="internal-link">Buddha</a> · <a data-href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Mind" class="internal-link">Mind</a> · <a data-href="Mind state" class="internal-link">Mind state</a> (2) · <a data-href="Steadiness" class="internal-link">Steadiness</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=42:26" type="audio/mpeg">???</audio>
 
@@ -347,7 +347,7 @@ So the mind, the heart, the being staying steady, staying balanced, unshakeable,
 
 ---
 ##### Eight worldly conditions
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^9-2" data-href="0208 Equanimity in Compassion#^9-2" href="0208+Equanimity+in+Compassion#^9-2" class="internal-link">9-2</a>**: _<a data-href="Eight worldly conditions" href="Eight+worldly+conditions" class="internal-link">Eight worldly conditions</a> (2) · <a data-href="Buddha" href="Buddha" class="internal-link">Buddha</a> (2) · <a data-href="Attention" href="Attention" class="internal-link">Attention</a> · <a data-href="Pain" href="Pain" class="internal-link">Pain</a> (2) · <a data-href="History" href="History" class="internal-link">History</a> · <a data-href="Jesus" href="Jesus" class="internal-link">Jesus</a> · <a data-href="Mahatma Gandhi" href="Mahatma+Gandhi" class="internal-link">Mahatma Gandhi</a> · <a data-href="Mother Teresa" href="Mother+Teresa" class="internal-link">Mother Teresa</a> · <a data-href="David Beckham" href="David+Beckham" class="internal-link">David Beckham</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^9-2" data-href="0208 Equanimity in Compassion#^9-2" class="internal-link">9-2</a>**: _<a data-href="Eight worldly conditions" class="internal-link">Eight worldly conditions</a> (2) · <a data-href="Buddha" class="internal-link">Buddha</a> (2) · <a data-href="Attention" class="internal-link">Attention</a> · <a data-href="Pain" class="internal-link">Pain</a> (2) · <a data-href="History" class="internal-link">History</a> · <a data-href="Jesus" class="internal-link">Jesus</a> · <a data-href="Mahatma Gandhi" class="internal-link">Mahatma Gandhi</a> · <a data-href="Mother Teresa" class="internal-link">Mother Teresa</a> · <a data-href="David Beckham" class="internal-link">David Beckham</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=43:17" type="audio/mpeg">???</audio>
 
@@ -361,37 +361,37 @@ No one wants to be blamed or to be in pain or to fail or to lose what we like. A
 
 ---
 ##### (1) Contemplating impermanence
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^9-3" data-href="0208 Equanimity in Compassion#^9-3" href="0208+Equanimity+in+Compassion#^9-3" class="internal-link">9-3</a>**: _<a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Impermanence" href="Impermanence" class="internal-link">Impermanence</a> (4)_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^9-3" data-href="0208 Equanimity in Compassion#^9-3" class="internal-link">9-3</a>**: _<a data-href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Impermanence" class="internal-link">Impermanence</a> (4)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=45:00" type="audio/mpeg">???</audio>
 
 ---
 ##### Find ways of working with impermanence which brings a sense of freedom
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^9-4" data-href="0208 Equanimity in Compassion#^9-4" href="0208+Equanimity+in+Compassion#^9-4" class="internal-link">9-4</a>**: _<a data-href="Impermanence" href="Impermanence" class="internal-link">Impermanence</a> (8) · <a data-href="Dharma" href="Dharma" class="internal-link">Dharma</a> · <a data-href="Freedom" href="Freedom" class="internal-link">Freedom</a> (3) · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^9-4" data-href="0208 Equanimity in Compassion#^9-4" class="internal-link">9-4</a>**: _<a data-href="Impermanence" class="internal-link">Impermanence</a> (8) · <a data-href="Dharma" class="internal-link">Dharma</a> · <a data-href="Freedom" class="internal-link">Freedom</a> (3) · <a data-href="Equanimity" class="internal-link">Equanimity</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=45:38" type="audio/mpeg">???</audio>
 
 ---
 ##### (2) Equanimity deepens by letting go of grasping and craving
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^10-1" data-href="0208 Equanimity in Compassion#^10-1" href="0208+Equanimity+in+Compassion#^10-1" class="internal-link">10-1</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link">Samadhi</a> (5) · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (4) · <a data-href="Letting go" href="Letting+go" class="internal-link">Letting go</a> · <a data-href="Craving" href="Craving" class="internal-link">Craving</a> (4)_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^10-1" data-href="0208 Equanimity in Compassion#^10-1" class="internal-link">10-1</a>**: _<a data-href="Samadhi" class="internal-link">Samadhi</a> (5) · <a data-href="Equanimity" class="internal-link">Equanimity</a> (4) · <a data-href="Letting go" class="internal-link">Letting go</a> · <a data-href="Craving" class="internal-link">Craving</a> (4)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=46:42" type="audio/mpeg">???</audio>
 
 ---
 ##### And we can do this at subtler and subtler levels, and the equanimity just gets deeper and deeper
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^10-2" data-href="0208 Equanimity in Compassion#^10-2" href="0208+Equanimity+in+Compassion#^10-2" class="internal-link">10-2</a>**: _<a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Craving" href="Craving" class="internal-link">Craving</a> (2) · <a data-href="Aversion" href="Aversion" class="internal-link">Aversion</a> · <a data-href="Steadiness" href="Steadiness" class="internal-link">Steadiness</a> (2)_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^10-2" data-href="0208 Equanimity in Compassion#^10-2" class="internal-link">10-2</a>**: _<a data-href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Craving" class="internal-link">Craving</a> (2) · <a data-href="Aversion" class="internal-link">Aversion</a> · <a data-href="Steadiness" class="internal-link">Steadiness</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=47:23" type="audio/mpeg">???</audio>
 
 ---
 ##### (2) Letting go of identification
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^10-3" data-href="0208 Equanimity in Compassion#^10-3" href="0208+Equanimity+in+Compassion#^10-3" class="internal-link">10-3</a>**: _<a data-href="Craving" href="Craving" class="internal-link">Craving</a> (2) · <a data-href="The Self" href="The+Self" class="internal-link">The Self</a> · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (3) · <a data-href="Letting go" href="Letting+go" class="internal-link">Letting go</a> (3)_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^10-3" data-href="0208 Equanimity in Compassion#^10-3" class="internal-link">10-3</a>**: _<a data-href="Craving" class="internal-link">Craving</a> (2) · <a data-href="The Self" class="internal-link">The Self</a> · <a data-href="Equanimity" class="internal-link">Equanimity</a> (3) · <a data-href="Letting go" class="internal-link">Letting go</a> (3)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=47:46" type="audio/mpeg">???</audio>
 
 ---
 ##### (3) Equanimity deepens when the mind tunes into the feeling-tone of equanimity
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^10-4" data-href="0208 Equanimity in Compassion#^10-4" href="0208+Equanimity+in+Compassion#^10-4" class="internal-link">10-4</a>**: _<a data-href="Retreat" href="Retreat" class="internal-link">Retreat</a> · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Mind" href="Mind" class="internal-link">Mind</a> (2)_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^10-4" data-href="0208 Equanimity in Compassion#^10-4" class="internal-link">10-4</a>**: _<a data-href="Retreat" class="internal-link">Retreat</a> · <a data-href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Mind" class="internal-link">Mind</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=48:13" type="audio/mpeg">???</audio>
 
@@ -401,13 +401,13 @@ So it has a certain feeling-tone, equanimity, to it, a certain peacefulness, a c
 
 ---
 ##### Equanimity lacks our sense of oomph in life, so it's really an acquired taste
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^10-5" data-href="0208 Equanimity in Compassion#^10-5" href="0208+Equanimity+in+Compassion#^10-5" class="internal-link">10-5</a>**: _<a data-href="Steadiness" href="Steadiness" class="internal-link">Steadiness</a> · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (3) · <a data-href="The Self" href="The+Self" class="internal-link">The Self</a> (2)_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^10-5" data-href="0208 Equanimity in Compassion#^10-5" class="internal-link">10-5</a>**: _<a data-href="Steadiness" class="internal-link">Steadiness</a> · <a data-href="Equanimity" class="internal-link">Equanimity</a> (3) · <a data-href="The Self" class="internal-link">The Self</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=48:57" type="audio/mpeg">???</audio>
 
 ---
 ##### When feel like we have enough, external circumstances make less of an impact
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^10-6" data-href="0208 Equanimity in Compassion#^10-6" href="0208+Equanimity+in+Compassion#^10-6" class="internal-link">10-6</a>**: _<a data-href="Mudita" href="Mudita" class="internal-link">Mudita</a> · <a data-href="Happiness" href="Happiness" class="internal-link">Happiness</a> (8) · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Pleasantness" href="Pleasantness" class="internal-link">Pleasantness</a> · <a data-href="Cultivation" href="Cultivation" class="internal-link">Cultivation</a> · <a data-href="Samadhi" href="Samadhi" class="internal-link">Samadhi</a> · <a data-href="Wonder" href="Wonder" class="internal-link">Wonder</a> · <a data-href="Music" href="Music" class="internal-link">Music</a> · <a data-href="Nature" href="Nature" class="internal-link">Nature</a> · <a data-href="Metta" href="Metta" class="internal-link">Metta</a> · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^10-6" data-href="0208 Equanimity in Compassion#^10-6" class="internal-link">10-6</a>**: _<a data-href="Mudita" class="internal-link">Mudita</a> · <a data-href="Happiness" class="internal-link">Happiness</a> (8) · <a data-href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Pleasantness" class="internal-link">Pleasantness</a> · <a data-href="Cultivation" class="internal-link">Cultivation</a> · <a data-href="Samadhi" class="internal-link">Samadhi</a> · <a data-href="Wonder" class="internal-link">Wonder</a> · <a data-href="Music" class="internal-link">Music</a> · <a data-href="Nature" class="internal-link">Nature</a> · <a data-href="Metta" class="internal-link">Metta</a> · <a data-href="Compassion" class="internal-link">Compassion</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=49:42" type="audio/mpeg">???</audio>
 
@@ -417,7 +417,7 @@ How is it that my well of joy, my reservoir of inner happiness, can be deepened 
 
 ---
 ##### How will my life be if I don't cultivate what is beautiful?
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^10-7" data-href="0208 Equanimity in Compassion#^10-7" href="0208+Equanimity+in+Compassion#^10-7" class="internal-link">10-7</a>**: _<a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Future thinking" href="Future+thinking" class="internal-link">Future thinking</a> (5) · <a data-href="Embodiment" href="Embodiment" class="internal-link">Embodiment</a> · <a data-href="Meditation" href="Meditation" class="internal-link">Meditation</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^10-7" data-href="0208 Equanimity in Compassion#^10-7" class="internal-link">10-7</a>**: _<a data-href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Future thinking" class="internal-link">Future thinking</a> (5) · <a data-href="Embodiment" class="internal-link">Embodiment</a> · <a data-href="Meditation" class="internal-link">Meditation</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=51:18" type="audio/mpeg">???</audio>
 
@@ -427,25 +427,25 @@ So again, in Dharma practice as well, what will my life be like if I don't take 
 
 ---
 ##### When future thinking is skilful and when it's not
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^11-1" data-href="0208 Equanimity in Compassion#^11-1" href="0208+Equanimity+in+Compassion#^11-1" class="internal-link">11-1</a>**: _<a data-href="Future thinking" href="Future+thinking" class="internal-link">Future thinking</a> (3)_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^11-1" data-href="0208 Equanimity in Compassion#^11-1" class="internal-link">11-1</a>**: _<a data-href="Future thinking" class="internal-link">Future thinking</a> (3)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=52:58" type="audio/mpeg">???</audio>
 
 ---
 ##### Practice: snip off the past and the future, just seeing this moment
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^11-2" data-href="0208 Equanimity in Compassion#^11-2" href="0208+Equanimity+in+Compassion#^11-2" class="internal-link">11-2</a>**: _<a data-href="Awareness" href="Awareness" class="internal-link">Awareness</a> (2)_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^11-2" data-href="0208 Equanimity in Compassion#^11-2" class="internal-link">11-2</a>**: _<a data-href="Awareness" class="internal-link">Awareness</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=53:47" type="audio/mpeg">???</audio>
 
 ---
 ##### Practice: seeing things as impressions in awareness
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^11-3" data-href="0208 Equanimity in Compassion#^11-3" href="0208+Equanimity+in+Compassion#^11-3" class="internal-link">11-3</a>**: _<a data-href="Awareness" href="Awareness" class="internal-link">Awareness</a> (3) · <a data-href="Meditation" href="Meditation" class="internal-link">Meditation</a> · <a data-href="Emptiness" href="Emptiness" class="internal-link">Emptiness</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^11-3" data-href="0208 Equanimity in Compassion#^11-3" class="internal-link">11-3</a>**: _<a data-href="Awareness" class="internal-link">Awareness</a> (3) · <a data-href="Meditation" class="internal-link">Meditation</a> · <a data-href="Emptiness" class="internal-link">Emptiness</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=54:27" type="audio/mpeg">???</audio>
 
 ---
 ##### Practice: seeing things as just perceptions
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^11-4" data-href="0208 Equanimity in Compassion#^11-4" href="0208+Equanimity+in+Compassion#^11-4" class="internal-link">11-4</a>**: _<a data-href="Perception" href="Perception" class="internal-link">Perception</a> (5) · <a data-href="Fabrication" href="Fabrication" class="internal-link">Fabrication</a> (3) · <a data-href="Metta" href="Metta" class="internal-link">Metta</a> (2) · <a data-href="Emptiness" href="Emptiness" class="internal-link">Emptiness</a> · <a data-href="Acceptance" href="Acceptance" class="internal-link">Acceptance</a> · <a data-href="Buddha" href="Buddha" class="internal-link">Buddha</a> · <a data-href="Mind" href="Mind" class="internal-link">Mind</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^11-4" data-href="0208 Equanimity in Compassion#^11-4" class="internal-link">11-4</a>**: _<a data-href="Perception" class="internal-link">Perception</a> (5) · <a data-href="Fabrication" class="internal-link">Fabrication</a> (3) · <a data-href="Metta" class="internal-link">Metta</a> (2) · <a data-href="Emptiness" class="internal-link">Emptiness</a> · <a data-href="Acceptance" class="internal-link">Acceptance</a> · <a data-href="Buddha" class="internal-link">Buddha</a> · <a data-href="Mind" class="internal-link">Mind</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=55:24" type="audio/mpeg">???</audio>
 
@@ -455,25 +455,25 @@ So this practice that we've been doing this week, with directing kindness toward
 
 ---
 ##### Less push and pull means more equanimity and a fading of experience
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^11-5" data-href="0208 Equanimity in Compassion#^11-5" href="0208+Equanimity+in+Compassion#^11-5" class="internal-link">11-5</a>**: _<a data-href="Aversion" href="Aversion" class="internal-link">Aversion</a> · <a data-href="Craving" href="Craving" class="internal-link">Craving</a> (2) · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Emptiness" href="Emptiness" class="internal-link">Emptiness</a> · <a data-href="Experience" href="Experience" class="internal-link">Experience</a> · <a data-href="Consciousness" href="Consciousness" class="internal-link">Consciousness</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^11-5" data-href="0208 Equanimity in Compassion#^11-5" class="internal-link">11-5</a>**: _<a data-href="Aversion" class="internal-link">Aversion</a> · <a data-href="Craving" class="internal-link">Craving</a> (2) · <a data-href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Emptiness" class="internal-link">Emptiness</a> · <a data-href="Experience" class="internal-link">Experience</a> · <a data-href="Consciousness" class="internal-link">Consciousness</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=56:15" type="audio/mpeg">???</audio>
 
 ---
 ##### Sometimes the experiences can dissolve completely
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^12-1" data-href="0208 Equanimity in Compassion#^12-1" href="0208+Equanimity+in+Compassion#^12-1" class="internal-link">12-1</a>**: _<a data-href="Spaciousness" href="Spaciousness" class="internal-link">Spaciousness</a> · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^12-1" data-href="0208 Equanimity in Compassion#^12-1" class="internal-link">12-1</a>**: _<a data-href="Spaciousness" class="internal-link">Spaciousness</a> · <a data-href="Equanimity" class="internal-link">Equanimity</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=57:18" type="audio/mpeg">???</audio>
 
 ---
 ##### In the end, I can't really be equanimous in relation to what's difficult, because there's nothing there to be equanimous in relation to
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^12-2" data-href="0208 Equanimity in Compassion#^12-2" href="0208+Equanimity+in+Compassion#^12-2" class="internal-link">12-2</a>**: _<a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Steadiness" href="Steadiness" class="internal-link">Steadiness</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^12-2" data-href="0208 Equanimity in Compassion#^12-2" class="internal-link">12-2</a>**: _<a data-href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Steadiness" class="internal-link">Steadiness</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=57:51" type="audio/mpeg">???</audio>
 
 ---
 ##### There is wonder, beauty, love and juiciness in equanimity practice
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^12-3" data-href="0208 Equanimity in Compassion#^12-3" href="0208+Equanimity+in+Compassion#^12-3" class="internal-link">12-3</a>**: _<a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Beauty" href="Beauty" class="internal-link">Beauty</a> (2) · <a data-href="Wonder" href="Wonder" class="internal-link">Wonder</a> · <a data-href="Juiciness" href="Juiciness" class="internal-link">Juiciness</a> · <a data-href="Love" href="Love" class="internal-link">Love</a> (3) · <a data-href="Nondualism" href="Nondualism" class="internal-link">Nondualism</a> (3) · <a data-href="The Self" href="The+Self" class="internal-link">The Self</a> · <a data-href="Craving" href="Craving" class="internal-link">Craving</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^12-3" data-href="0208 Equanimity in Compassion#^12-3" class="internal-link">12-3</a>**: _<a data-href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Beauty" class="internal-link">Beauty</a> (2) · <a data-href="Wonder" class="internal-link">Wonder</a> · <a data-href="Juiciness" class="internal-link">Juiciness</a> · <a data-href="Love" class="internal-link">Love</a> (3) · <a data-href="Nondualism" class="internal-link">Nondualism</a> (3) · <a data-href="The Self" class="internal-link">The Self</a> · <a data-href="Craving" class="internal-link">Craving</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=58:27" type="audio/mpeg">???</audio>
 
@@ -483,7 +483,7 @@ There's absolutely love in it. In that state, there's a kind of non-separation. 
 
 ---
 ##### More important than the experience is the understanding how things appearing depends on my relationship to them
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^12-4" data-href="0208 Equanimity in Compassion#^12-4" href="0208+Equanimity+in+Compassion#^12-4" class="internal-link">12-4</a>**: _<a data-href="Experience" href="Experience" class="internal-link">Experience</a> (2) · <a data-href="Insight" href="Insight" class="internal-link">Insight</a> (3) · <a data-href="Craving" href="Craving" class="internal-link">Craving</a> · <a data-href="Immeasurability" href="Immeasurability" class="internal-link">Immeasurability</a> (2)_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^12-4" data-href="0208 Equanimity in Compassion#^12-4" class="internal-link">12-4</a>**: _<a data-href="Experience" class="internal-link">Experience</a> (2) · <a data-href="Insight" class="internal-link">Insight</a> (3) · <a data-href="Craving" class="internal-link">Craving</a> · <a data-href="Immeasurability" class="internal-link">Immeasurability</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=59:33" type="audio/mpeg">???</audio>
 
@@ -493,7 +493,7 @@ How a thing appears depends on my relationship to it. Whether it appears at all 
 
 ---
 ##### The true nature of all things is immeasurable
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^12-5" data-href="0208 Equanimity in Compassion#^12-5" href="0208+Equanimity+in+Compassion#^12-5" class="internal-link">12-5</a>**: _<a data-href="Experience" href="Experience" class="internal-link">Experience</a> · <a data-href="Immeasurability" href="Immeasurability" class="internal-link">Immeasurability</a> (3) · <a data-href="Nature" href="Nature" class="internal-link">Nature</a> · <a data-href="Insight" href="Insight" class="internal-link">Insight</a> (4) · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (3) · <a data-href="Love" href="Love" class="internal-link">Love</a> · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> (2) · <a data-href="Consciousness" href="Consciousness" class="internal-link">Consciousness</a> (4) · <a data-href="Perception" href="Perception" class="internal-link">Perception</a> · <a data-href="Craving" href="Craving" class="internal-link">Craving</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^12-5" data-href="0208 Equanimity in Compassion#^12-5" class="internal-link">12-5</a>**: _<a data-href="Experience" class="internal-link">Experience</a> · <a data-href="Immeasurability" class="internal-link">Immeasurability</a> (3) · <a data-href="Nature" class="internal-link">Nature</a> · <a data-href="Insight" class="internal-link">Insight</a> (4) · <a data-href="Equanimity" class="internal-link">Equanimity</a> (3) · <a data-href="Love" class="internal-link">Love</a> · <a data-href="Compassion" class="internal-link">Compassion</a> (2) · <a data-href="Consciousness" class="internal-link">Consciousness</a> (4) · <a data-href="Perception" class="internal-link">Perception</a> · <a data-href="Craving" class="internal-link">Craving</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=01:00:24" type="audio/mpeg">???</audio>
 
@@ -506,19 +506,19 @@ That principle is something that applies to all consciousnesses - not even just 
 #### Q1: equanimity through samatha or insight
 ---
 ##### Yogi: In terms of generating samādhi and equanimity, is samatha the best approach to that?
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^13-4" data-href="0208 Equanimity in Compassion#^13-4" href="0208+Equanimity+in+Compassion#^13-4" class="internal-link">13-4</a>**: _<a data-href="Samadhi" href="Samadhi" class="internal-link">Samadhi</a> · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Samatha" href="Samatha" class="internal-link">Samatha</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^13-4" data-href="0208 Equanimity in Compassion#^13-4" class="internal-link">13-4</a>**: _<a data-href="Samadhi" class="internal-link">Samadhi</a> · <a data-href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Samatha" class="internal-link">Samatha</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=01:03:34" type="audio/mpeg">???</audio>
 
 ---
 ##### Rob: two ways to see samatha: collectedness vs calming the agitation of the being
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^13-5" data-href="0208 Equanimity in Compassion#^13-5" href="0208+Equanimity+in+Compassion#^13-5" class="internal-link">13-5</a>**: _<a data-href="Samatha" href="Samatha" class="internal-link">Samatha</a> · <a data-href="Metta" href="Metta" class="internal-link">Metta</a> · <a data-href="Compassion" href="Compassion" class="internal-link">Compassion</a> · <a data-href="Breath" href="Breath" class="internal-link">Breath</a> · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Insight" href="Insight" class="internal-link">Insight</a> (2) · <a data-href="Craving" href="Craving" class="internal-link">Craving</a> (6) · <a data-href="Aversion" href="Aversion" class="internal-link">Aversion</a> (4) · <a data-href="Steadiness" href="Steadiness" class="internal-link">Steadiness</a> (4) · <a data-href="Clinging" href="Clinging" class="internal-link">Clinging</a> · <a data-href="Experience" href="Experience" class="internal-link">Experience</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^13-5" data-href="0208 Equanimity in Compassion#^13-5" class="internal-link">13-5</a>**: _<a data-href="Samatha" class="internal-link">Samatha</a> · <a data-href="Metta" class="internal-link">Metta</a> · <a data-href="Compassion" class="internal-link">Compassion</a> · <a data-href="Breath" class="internal-link">Breath</a> · <a data-href="Equanimity" class="internal-link">Equanimity</a> (2) · <a data-href="Insight" class="internal-link">Insight</a> (2) · <a data-href="Craving" class="internal-link">Craving</a> (6) · <a data-href="Aversion" class="internal-link">Aversion</a> (4) · <a data-href="Steadiness" class="internal-link">Steadiness</a> (4) · <a data-href="Clinging" class="internal-link">Clinging</a> · <a data-href="Experience" class="internal-link">Experience</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=01:03:44" type="audio/mpeg">???</audio>
 
 ---
 ##### Rob: spaciousness and progressivly letting go
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^13-7" data-href="0208 Equanimity in Compassion#^13-7" href="0208+Equanimity+in+Compassion#^13-7" class="internal-link">13-7</a>**: _<a data-href="Spaciousness" href="Spaciousness" class="internal-link">Spaciousness</a> (2) · <a data-href="Letting go" href="Letting+go" class="internal-link">Letting go</a> (5) · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> (4) · <a data-href="Clinging" href="Clinging" class="internal-link">Clinging</a> · <a data-href="Samatha" href="Samatha" class="internal-link">Samatha</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^13-7" data-href="0208 Equanimity in Compassion#^13-7" class="internal-link">13-7</a>**: _<a data-href="Spaciousness" class="internal-link">Spaciousness</a> (2) · <a data-href="Letting go" class="internal-link">Letting go</a> (5) · <a data-href="Equanimity" class="internal-link">Equanimity</a> (4) · <a data-href="Clinging" class="internal-link">Clinging</a> · <a data-href="Samatha" class="internal-link">Samatha</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=01:05:22" type="audio/mpeg">???</audio>
 
@@ -527,13 +527,13 @@ TODO: practice guide
 ---
 #### Q2: which is best when the mind is distracted (samatha or insight)
 ##### Yogi: when noticing grasping and consequent lack of equanimity, how to counteract?
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^14-1" data-href="0208 Equanimity in Compassion#^14-1" href="0208+Equanimity+in+Compassion#^14-1" class="internal-link">14-1</a>**: _<a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Mind" href="Mind" class="internal-link">Mind</a> · <a data-href="Craving" href="Craving" class="internal-link">Craving</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^14-1" data-href="0208 Equanimity in Compassion#^14-1" class="internal-link">14-1</a>**: _<a data-href="Equanimity" class="internal-link">Equanimity</a> · <a data-href="Mind" class="internal-link">Mind</a> · <a data-href="Craving" class="internal-link">Craving</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=01:06:41" type="audio/mpeg">???</audio>
 
 ---
 ##### Rob: depends on level of steadiness, spaciousness, and energy body
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^14-2" data-href="0208 Equanimity in Compassion#^14-2" href="0208+Equanimity+in+Compassion#^14-2" class="internal-link">14-2</a>**: _<a data-href="Mind" href="Mind" class="internal-link">Mind</a> (3) · <a data-href="Metta" href="Metta" class="internal-link">Metta</a> · <a data-href="Steadiness" href="Steadiness" class="internal-link">Steadiness</a> (3) · <a data-href="Spaciousness" href="Spaciousness" class="internal-link">Spaciousness</a> · <a data-href="Energy body" href="Energy+body" class="internal-link">Energy body</a> (2) · <a data-href="Contraction" href="Contraction" class="internal-link">Contraction</a> (2) · <a data-href="Awareness" href="Awareness" class="internal-link">Awareness</a> · <a data-href="Hindrances" href="Hindrances" class="internal-link">Hindrances</a> (2)_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^14-2" data-href="0208 Equanimity in Compassion#^14-2" class="internal-link">14-2</a>**: _<a data-href="Mind" class="internal-link">Mind</a> (3) · <a data-href="Metta" class="internal-link">Metta</a> · <a data-href="Steadiness" class="internal-link">Steadiness</a> (3) · <a data-href="Spaciousness" class="internal-link">Spaciousness</a> · <a data-href="Energy body" class="internal-link">Energy body</a> (2) · <a data-href="Contraction" class="internal-link">Contraction</a> (2) · <a data-href="Awareness" class="internal-link">Awareness</a> · <a data-href="Hindrances" class="internal-link">Hindrances</a> (2)_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=01:07:02" type="audio/mpeg">???</audio>
 
@@ -541,7 +541,7 @@ TODO: practice guide
 
 ---
 ##### Rob: feeling the suffering is important because there's a lot insight in this approach
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^14-6" data-href="0208 Equanimity in Compassion#^14-6" href="0208+Equanimity+in+Compassion#^14-6" class="internal-link">14-6</a>**: _<a data-href="Dukkha" href="Dukkha" class="internal-link">Dukkha</a> (12) · <a data-href="Insight" href="Insight" class="internal-link">Insight</a> · <a data-href="Attention" href="Attention" class="internal-link">Attention</a> · <a data-href="Pain" href="Pain" class="internal-link">Pain</a> · <a data-href="Embodiment" href="Embodiment" class="internal-link">Embodiment</a> · <a data-href="Aversion" href="Aversion" class="internal-link">Aversion</a> (3) · <a data-href="Contraction" href="Contraction" class="internal-link">Contraction</a> · <a data-href="Equanimity" href="Equanimity" class="internal-link">Equanimity</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^14-6" data-href="0208 Equanimity in Compassion#^14-6" class="internal-link">14-6</a>**: _<a data-href="Dukkha" class="internal-link">Dukkha</a> (12) · <a data-href="Insight" class="internal-link">Insight</a> · <a data-href="Attention" class="internal-link">Attention</a> · <a data-href="Pain" class="internal-link">Pain</a> · <a data-href="Embodiment" class="internal-link">Embodiment</a> · <a data-href="Aversion" class="internal-link">Aversion</a> (3) · <a data-href="Contraction" class="internal-link">Contraction</a> · <a data-href="Equanimity" class="internal-link">Equanimity</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=01:08:51" type="audio/mpeg">???</audio>
 
@@ -551,7 +551,7 @@ But sometimes it can be just the sense of contraction is a sense of suffering. A
 
 ---
 ##### It's good to stick for the session with one practice and use the other(s) as a backup
-<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^14-7" data-href="0208 Equanimity in Compassion#^14-7" href="0208+Equanimity+in+Compassion#^14-7" class="internal-link">14-7</a>**: _<a data-href="Metta" href="Metta" class="internal-link">Metta</a> · <a data-href="Spaciousness" href="Spaciousness" class="internal-link">Spaciousness</a> · <a data-href="Mind" href="Mind" class="internal-link">Mind</a>_</span>
+<span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^14-7" data-href="0208 Equanimity in Compassion#^14-7" class="internal-link">14-7</a>**: _<a data-href="Metta" class="internal-link">Metta</a> · <a data-href="Spaciousness" class="internal-link">Spaciousness</a> · <a data-href="Mind" class="internal-link">Mind</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=01:09:57" type="audio/mpeg">???</audio>
 
