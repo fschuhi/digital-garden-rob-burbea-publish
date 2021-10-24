@@ -6,7 +6,7 @@ Paragraph descriptions in **[[The Practice of Compassion]]**:
 - [[The Practice of Compassion#When metta meets suffering it transformsinto compassion|When metta meets suffering, it transformsinto compassion.]]
 - [[The Practice of Compassion#Compassion involves different qualities e g empathy|Compassion involves different qualities, e.g. empathy.]]
 - [[The Practice of Compassion#Compassion involves healing equanimity wisdom kindness acceptance humour listening holding opening joy|Compassion involves healing, equanimity, wisdom, kindness, acceptance, humour, listening, holding, opening, joy.]]
-- [[The Practice of Compassion#Compassion is more than a feeeling|Compassion is more than a feeeling.]]
+- [[The Practice of Compassion#Compassion is more than a feeling|Compassion is more than a feeling.]]
 - [[The Practice of Compassion#Many people are wary that they might be taking on more suffering through compassion|Many people are wary that they might be taking on more suffering through compassion.]]
 - [[The Practice of Compassion#Compassion should be an energizing pleasant quality|Compassion should be an energizing, pleasant quality.]]
 - [[The Practice of Compassion#It's an ennobling quality|It's an ennobling quality.]]

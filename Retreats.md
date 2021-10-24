@@ -3,17 +3,17 @@ obsidianUIMode: preview
 ---
 # The Garden of the Soul: Rob Burbea's Teachings
 <div class="admonition quote"><div class="title">❝</div><div class="content">
-What if I saw everything as unsatisfactory? Just things come into consciousness, any experience, anything at all - just regard it as unsatisfactory. It's not a loathing or an aversion. Just saying, "Ah! It can't satisfy me." What happens is there's a letting go.<br/>
+If we don't separate those two, what's a simple strategy (one among many), from what's wrapped up with a whole ideology, it has a lot of consequences for the range and the power and the depth of my investigation, and for the range and power and depth of experiences that open up for me.<br/>
 <br/>
-<i>(a quote from the talk <a aria-label-position="top" aria-label="What is Insight > Seeing things as unsatisfactory" data-href="What is Insight#Seeing things as unsatisfactory" href="What+is+Insight#Seeing+things+as+unsatisfactory" class="internal-link" target="_blank" rel="noopener">What is Insight</a>)</i><br/>
+<i>(a quote from the talk <a aria-label-position="top" aria-label="Questioning Awakening > Mindfulness as simple strategy among many rather than a religion" data-href="Questioning Awakening#Mindfulness as simple strategy among many rather than a religion" href="Questioning+Awakening#Mindfulness+as+simple+strategy+among+many+rather+than+a+%22religion%22" class="internal-link">Questioning Awakening</a>)</i><br/>
 </div></div>
 
 <div class="admonition important"><div class="title">Thank you!</div><div class="content">
-This Digital Garden presents selected talks of <b><a data-href="Rob Burbea" href="Rob+Burbea" class="internal-link" target="_blank" rel="noopener">Rob Burbea</a></b>. Thank you, Rob, for those wonderful teachings!<br/>
+This Digital Garden presents selected talks of <b><a data-href="Rob Burbea" href="Rob+Burbea" class="internal-link">Rob Burbea</a></b>. Thank you, Rob, for those wonderful teachings!<br/>
 <br/>
 And thank you, dear visitor, for your interest! Be invited to browse what Rob has to say, about meditation practice, the Buddhist path, emptiness, and its application to a Soulmaking Dharma, among many other topics of heart, mind and soul.<br/>
 <br/>
-The transcripts of the talks have been adapted from the <b><a data-href="Rob Burbea Transcription Project" href="Rob+Burbea+Transcription+Project" class="internal-link" target="_blank" rel="noopener">Rob Burbea Transcription Project</a></b>. Thank you, Shannon, Elmer, Pádraig, and others, for all the work you've done!<br/>
+The transcripts of the talks have been adapted from the <b><a data-href="Rob Burbea Transcription Project" href="Rob+Burbea+Transcription+Project" class="internal-link">Rob Burbea Transcription Project</a></b>. Thank you, Shannon, Elmer, Pádraig, and others, for all the work you've done!<br/>
 <br/>
 Curating this Digital Garden falls under the purview of the <b>Hermes Amāra Foundation</b>, which works towards maintaining Rob's work. Thank you, Custodians and the other Circles, for supporting this project!<br/>
 <br/>

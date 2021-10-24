@@ -374,6 +374,10 @@ body {
   color: var(--text-normal) !important;
 }
 
+.transcript2 .internal-link {
+  color: var(--text-accent) !important;
+}
+
 .transcript .internal-link:hover {
 /* 19.10.21 normal black (underlined) is smoother than changing colors */
 /*  color: var(--text-accent) !important;*/
