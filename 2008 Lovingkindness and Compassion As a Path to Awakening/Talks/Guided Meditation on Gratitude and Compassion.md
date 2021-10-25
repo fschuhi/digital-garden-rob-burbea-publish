@@ -5,7 +5,7 @@ obsidianUIMode: preview
 ---
 #Talk
 
-[[Compassion Part Two - Compassion for Ourselves|Compassion Part Two - Compassion for Ourselves 🡄]] | [[2008 Lovingkindness and Compassion As a Path to Awakening|🡅]] | 
+[[Compassion Part Two - Compassion for Ourselves|Compassion Part Two - Compassion for Ourselves 🡄]] | [[2008 Lovingkindness and Compassion As a Path to Awakening|🡅]] | [[Guided Meditation - Directing Love Towards Dharmas|🡆 Guided Meditation - Directing Love Towards Dharmas]]
 
 Series: [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 Transcript: [[0209 Guided Meditation on Gratitude and Compassion]]

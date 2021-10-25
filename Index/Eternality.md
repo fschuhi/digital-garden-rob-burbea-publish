@@ -21,5 +21,5 @@ term | count | talks
 [[Divinity]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 3" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 3</a> (1)</span> 
 [[Perception]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 3" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 3</a> (1)</span> 
 [[Soulmaking]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 3" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 3</a> (1)</span> 
-[[Soulmaking Dynamic]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 3" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 3</a> (1)</span> 
+[[Soulmaking dynamic]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 3" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 3</a> (1)</span> 
 

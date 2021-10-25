@@ -19,6 +19,6 @@ term | count | talks
 [[Compassion]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
 [[Dimensionality]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
 [[Om mani padme hum]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
-[[Seed Syllables]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
+[[Seed syllables]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
 [[Soul]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
 

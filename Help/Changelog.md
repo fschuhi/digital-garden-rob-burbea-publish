@@ -10,6 +10,9 @@
 	- [[Compassion (talk)]]
 	- [[Compassion Part Two - Compassion for Ourselves]]
 	- [[Guided Meditation on Gratitude and Compassion]]
+	- [[Guided Meditation - Directing Love Towards Dharmas]]
+	- [[Love and the Emptiness of Things]]
+	- [[The Birth of a Bodhisattva]]
 - continued retreat [[2017 Eros Unfettered]]
 	- [[Dilemmas and Delineations - How did we get here Part 1]]
 	- [[Dilemmas and Delineations - How did we get here Part 2]]
@@ -25,6 +28,9 @@
 ##### Features
 - top X referring talks for index entries, see e.g. [[Energy body]], with different X for some talks
 - paragraphs with a minimum of Y mentions, with different Y's
+- co-occurrences for a keyword with other keywords
+- connection graphs are less cluttered now (for transcripts and talks)
+- more meaningful visual cross-linking for index allows for easier browsing of the semantic network of terms
 - synopses showing two talks from different years, side by side (like [[Synopsis 1]] and [[Synopsis 2]])
 - links and formatting in admonitions (quotes, notes, warnings, etc.), i.e. easier to read and more helpful for navigation
 - now all occurrences of keywords in a transcript paragraph are navigatable, but they are "hidden" (shown only on hovering); first occurrence still marked visibly in blue

@@ -17,3 +17,17 @@ description | count | talk
 [[The Way of Non-Clinging Part 3#Does discrepancy-based processing satisfy the depths in me]\|Does discrepancy-based processing satisfy the depths in me?]]] | 2 | <a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a>
 <a aria-label-position="top" aria-label="The Way of Non-Clinging Part 3 > The Mode of mind is supposed revert to a more mindful stance" data-href="The Way of Non-Clinging Part 3#The Mode of mind is supposed revert to a more mindful stance" class="internal-link">The &quot;Mode of mind&quot; is supposed revert to a more mindful stance</a> | 1 | <a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a>
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Desire]] | 4 | <span class="counts"><a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (4)</span> 
+[[Mindfulness]] | 3 | <span class="counts"><a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (3)</span> 
+[[Mode of mind]] | 2 | <span class="counts"><a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (2)</span> 
+[[Attention]] | 1 | <span class="counts"><a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (1)</span> 
+[[Beauty]] | 1 | <span class="counts"><a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (1)</span> 
+[[Cultivation]] | 1 | <span class="counts"><a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (1)</span> 
+[[Dharma]] | 1 | <span class="counts"><a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (1)</span> 
+[[Dimensionality]] | 1 | <span class="counts"><a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (1)</span> 
+[[Dukkha]] | 1 | <span class="counts"><a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (1)</span> 
+[[Mind]] | 1 | <span class="counts"><a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (1)</span> 
+

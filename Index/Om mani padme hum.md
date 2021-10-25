@@ -15,6 +15,6 @@ term | count | talks
 -|-|-
 [[Avalokiteshvara]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
 [[Compassion]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
-[[Mantra Practice]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
-[[Seed Syllables]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
+[[Mantra practice]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
+[[Seed syllables]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
 

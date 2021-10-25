@@ -10,3 +10,10 @@ description | count | talk
 :- | : - | :-
 <a aria-label-position="top" aria-label="Questioning Awakening > About Time elevates also personal relationship above caring about all humans or nature" data-href="Questioning Awakening#About Time elevates also personal relationship above caring about all humans or nature" class="internal-link">&quot;About Time&quot; elevates also personal relationship above caring about all humans, or nature</a> | 2 | <a data-href="Questioning Awakening" class="internal-link">Questioning Awakening</a>
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Death]] | 1 | <span class="counts"><a data-href="Questioning Awakening" class="internal-link">Questioning Awakening</a> (1)</span> 
+[[Dharma]] | 1 | <span class="counts"><a data-href="Questioning Awakening" class="internal-link">Questioning Awakening</a> (1)</span> 
+[[Nature]] | 1 | <span class="counts"><a data-href="Questioning Awakening" class="internal-link">Questioning Awakening</a> (1)</span> 
+

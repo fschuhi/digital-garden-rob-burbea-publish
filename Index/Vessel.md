@@ -59,7 +59,7 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Soulmaking Dynamic]] | 2 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> (2)</span> 
+[[Soulmaking dynamic]] | 2 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> (2)</span> 
 [[Blessing]] | 1 | <span class="counts"><a data-href="Orienting to This Jhana Retreat" class="internal-link">Orienting to This Jhana Retreat</a> (1)</span> 
 [[Dana]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> (1)</span> 
 [[Embodiment]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> (1)</span> 

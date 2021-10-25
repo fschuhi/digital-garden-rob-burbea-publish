@@ -3,9 +3,9 @@ obsidianUIMode: preview
 ---
 # The Garden of the Soul: Rob Burbea's Teachings
 <div class="admonition quote"><div class="title">❝</div><div class="content">
-They're four pairs: praise and blame, success and failure, gain and loss, and pleasure and pain...<br/>
+If the <i>samādhi</i> feels strong enough or there's a sense of settledness in the mind and the heart with the compassion, it can be almost, at times, as if the body has <i>turned into</i> compassion. And you just let yourself <i>be</i> compassion, and just radiate that out. Let everything become compassion.<br/>
 <br/>
-<i>(a quote from the talk <a aria-label-position="top" aria-label="Equanimity in Compassion > Eight worldly conditions" data-href="Equanimity in Compassion#Eight worldly conditions" class="internal-link">Equanimity in Compassion</a>)</i><br/>
+<i>(a quote from the talk <a aria-label-position="top" aria-label="Guided Meditation on Gratitude and Compassion > Compassion according to categories of being or directions or just the sense of the body radiating compassion" data-href="Guided Meditation on Gratitude and Compassion#Compassion according to categories of being or directions or just the sense of the body radiating compassion" class="internal-link">Guided Meditation on Gratitude and Compassion</a>)</i><br/>
 </div></div>
 
 <div class="admonition important"><div class="title">Thank you!</div><div class="content">

@@ -17,5 +17,5 @@ term | count | talks
 [[Ngöndro]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
 [[Preliminaries]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
 [[Tibetan Buddhism]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
-[[Ultimate Truth]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
+[[Ultimate truth]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
 

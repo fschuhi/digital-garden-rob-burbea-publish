@@ -12,3 +12,13 @@ description | count | talk
 <a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 4 > Re-cognize the eros for soulmaking" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Re-cognize the eros for soulmaking" class="internal-link">Re-cognize the eros for soulmaking</a> | 3 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a>
 <a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 4 > Magick is not soulmaking" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Magick is not soulmaking" class="internal-link">Magick is not soulmaking</a> | 3 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a>
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Soulmaking]] | 3 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (3)</span> 
+[[Desire]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
+[[Eros]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
+[[Imaginal]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
+[[Soul]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
+[[The Self]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
+

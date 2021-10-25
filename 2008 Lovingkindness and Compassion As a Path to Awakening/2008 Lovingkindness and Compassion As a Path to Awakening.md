@@ -1,3 +1,4 @@
+
 ---
 obsidianUIMode: preview
 ---
@@ -18,6 +19,9 @@ _This series of talks and guided meditations explores the development of the pra
 ✔️ [[Compassion (talk)]]
 ✔️ [[Compassion Part Two - Compassion for Ourselves]]
 ✔️ [[Guided Meditation on Gratitude and Compassion]]
+✔️ [[Guided Meditation - Directing Love Towards Dharmas]]
+✔️ [[Love and the Emptiness of Things]]
+✔️ [[The Birth of a Bodhisattva]]
 <br/>
 
 ### Synopses
