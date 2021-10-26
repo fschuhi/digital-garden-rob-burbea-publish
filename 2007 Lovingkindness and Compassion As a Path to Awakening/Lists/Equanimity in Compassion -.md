@@ -41,7 +41,7 @@ Paragraph descriptions in **[[Equanimity in Compassion]]**:
 - [[Equanimity in Compassion#Politics show that there are limits in how much we can help|Politics show that there are limits in how much we can help.]]
 - [[Equanimity in Compassion#Bringing equanimity in seeing the web of conditions which makes any situation what it is|Bringing equanimity in seeing the web of conditions which makes any situation what it is.]]
 - [[Equanimity in Compassion#Example Dharma talk|Example: Dharma talk.]]
-- [[Equanimity in Compassion#Maybe it's just a see|Maybe it's just a see.]]
+- [[Equanimity in Compassion#Maybe it's just a seed|Maybe it's just a seed.]]
 - [[Equanimity in Compassion#Somthing you've done or said it might just be enough that it can blossom later for that person|Somthing you've done or said, it might just be enough that it can blossom later for that person.]]
 - [[Equanimity in Compassion#Equanimity is not indifference|Equanimity is not indifference.]]
 - [[Equanimity in Compassion#The barometer for any view like karma or God's will is what's it doing to the heart|The barometer for any view (like karma, or God's will) is: what's it doing to the heart?]]

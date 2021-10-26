@@ -15,7 +15,7 @@ talk | count | series
 :- | - |: -
 <a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a> | 74 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a>
 <a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a> | 38 | <a data-href="2006 New Year's Retreat" class="internal-link">2006 New Year&#x27;s Retreat</a>
-<a data-href="The Birth of a Bodhisattva" class="internal-link">The Birth of a Bodhisattva</a> | 32 | <a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="The Birth of a Bodhisattva" class="internal-link">The Birth of a Bodhisattva</a> | 33 | <a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a>
 <a data-href="Love and the Emptiness of Things" class="internal-link">Love and the Emptiness of Things</a> | 14 | <a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a>
 <a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> | 8 | <a data-href="2007 New Years Retreat Insight Meditation" class="internal-link">2007 New Years Retreat Insight Meditation</a>
 <a data-href="The Practice of Compassion" class="internal-link">The Practice of Compassion</a> | 8 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a>

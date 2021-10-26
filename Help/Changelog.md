@@ -31,10 +31,11 @@
 - co-occurrences for a keyword with other keywords
 - connection graphs are less cluttered now (for transcripts and talks)
 - more meaningful visual cross-linking for index allows for easier browsing of the semantic network of terms
-- synopses showing two talks from different years, side by side (like [[Synopsis 1]] and [[Synopsis 2]])
+- synopses showing two talks from different years, side by side (like [[Synopsis 1]] and others on [[2008 Lovingkindness and Compassion As a Path to Awakening]])
 - links and formatting in admonitions (quotes, notes, warnings, etc.), i.e. easier to read and more helpful for navigation
 - now all occurrences of keywords in a transcript paragraph are navigatable, but they are "hidden" (shown only on hovering); first occurrence still marked visibly in blue
 - random "quote of the day" on the entry page
+- coloured footnote references are easier to spot (especially in the transcripts), footnotes themselves as well (smaller font, at the end of pages)
 
 ##### Help
 - [[Introduction]] and [[How to browse the Digital Garden]]
@@ -60,5 +61,15 @@
 	- [[Equanimity in Compassion]]
 
 ##### Features
-- basic navigation
+- improved navigation
+- index with keywords, alphabetical index page
+- workbench
+- Github
+
+#### August
+##### Talks
+- retreat [[2020 Vajra Music]]
+##### Features
+- basic  navigation
 - index with keywords
+- Obsidian Publish, i.e. Garden has its internet address

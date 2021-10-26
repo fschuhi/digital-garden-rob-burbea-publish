@@ -3,9 +3,9 @@ obsidianUIMode: preview
 ---
 # The Garden of the Soul: Rob Burbea's Teachings
 <div class="admonition quote"><div class="title">❝</div><div class="content">
-So what we notice is, if we change the view, the perception changes. The irritability goes from the situation. How we see the situation and how we see a person depends on what the mind is bringing to it - mettā, compassion, irritability, what I want, whatever it is. And the mind's always bringing something.<br/>
+But mostly it's actually just a little drop, and then one goes out into that infinite web of conditions in the life. Maybe it's just a seed. It meets another condition, then it begins to sprout. Maybe it sprouts a little here, and then it gets watered. Maybe it meets the wrong conditions and it just gets covered over, you know?<br/>
 <br/>
-<i>(a quote from the talk <a aria-label-position="top" aria-label="Love and Emptiness > Changing the perception can make the irritability go away from the situation" data-href="Love and Emptiness#Changing the perception can make the irritability go away from the situation" class="internal-link">Love and Emptiness</a>)</i><br/>
+<i>(a quote from the talk <a aria-label-position="top" aria-label="Equanimity in Compassion > Maybe its just a seed" data-href="Equanimity in Compassion#Maybe it's just a seed" class="internal-link">Equanimity in Compassion</a>)</i><br/>
 </div></div>
 
 <div class="admonition important"><div class="title">Thank you!</div><div class="content">
@@ -28,16 +28,16 @@ If you have been here before you might want to check out the [[Changelog]] for n
 - ⏸️ [[2006 New Year's Retreat]]
 - ✔️ [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 - ✔️ [[2007 New Years Retreat Insight Meditation]]
-- 🛠️ [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-- ✔️ [[2020 Vajra Music]] 
+- ✔️ [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 - 🛠️ [[2014 November Solitary - Questioning Awakening]]
 - 🛠️ [[2017 Eros Unfettered]] 
 - 🛠️ [[2019 Practising the Jhanas]]
+- ✔️ [[2020 Vajra Music]] 
 
 <span style="color:darkgray">
-	 ✔️completed (for now)<br/>
 	🛠️ work in progress (adding more talks, more structure etc.)<br/ >
-	⏸️ currently not working on it<br/ >
+	 ✔️completed<br/>
+	⏸️ postponed<br/ >
 </span>
 </br>
 

@@ -547,3 +547,7 @@ It's all empty. At one level, nothing happened. At another level, I'm right ther
 </div></div>
 
 ---
+#####  I was going to say a little more about equanimity in terms of _all_ conditions, but I'll stop there
+<span class="counts">**<a aria-label-position="top" aria-label="0212 The Birth of a Bodhisattva > ^16-5" data-href="0212 The Birth of a Bodhisattva#^16-5" class="internal-link">16-5</a>**: _<a data-href="Equanimity" class="internal-link">Equanimity</a>_</span>
+
+---

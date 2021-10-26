@@ -239,7 +239,7 @@ This is usually a progression that takes months and months, but in the progressi
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=28:01" type="audio/mpeg">???</audio>
 
 ---
-##### Maybe it's just a see
+##### Maybe it's just a seed
 <span class="counts">**<a aria-label-position="top" aria-label="0208 Equanimity in Compassion > ^6-4" data-href="0208 Equanimity in Compassion#^6-4" class="internal-link">6-4</a>**: _<a data-href="Desire" class="internal-link">Desire</a> · <a data-href="Dependent Origination" class="internal-link">Dependent Origination</a>_</span>
 
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/12289/20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=29:06" type="audio/mpeg">???</audio>

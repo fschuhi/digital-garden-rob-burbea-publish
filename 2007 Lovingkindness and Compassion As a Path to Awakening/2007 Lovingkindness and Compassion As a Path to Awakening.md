@@ -15,3 +15,14 @@ _This series of talks and guided meditations explores the development of the pra
 ✔️ [[Guided meditation - Metta to phenomena]]
 ✔️ [[Love and Emptiness]]
 ✔️ [[Equanimity in Compassion]]
+
+### Synopses
+synopsis | [[2008 Lovingkindness and Compassion As a Path to Awakening\|2008]] | 2007
+- | - | -
+[[Synopsis 1]] | [[The Place of Samadhi in Metta Practice]] | [[Samadhi in Metta Practice]]
+[[Synopsis 2]] | [[Exploring the World of Loving Kindness]] | [[Expressions of Metta]]	
+[[Synopsis 3]] | [[Using Insight to Deepen Love and Compassion]] | [[From Insight to Love]]
+[[Synopsis 4]] | [[Compassion (talk)]] | [[The Practice of Compassion]]	
+[[Synopsis 5]] | [[Compassion Part Two - Compassion for Ourselves]]^[standalone talk on compassion for ourselves, in 2007 part of [[The Practice of Compassion]]] | [[The Practice of Compassion]]
+[[Synopsis 6]] | [[Love and the Emptiness of Things]] | [[Love and Emptiness]]
+[[Synopsis 7]] | [[The Birth of a Bodhisattva]] | [[Equanimity in Compassion]]

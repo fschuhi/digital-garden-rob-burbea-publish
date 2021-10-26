@@ -157,6 +157,22 @@ audio::-webkit-media-controls-panel {
 
 
 /****************************************/
+/* colors
+/****************************************/
+
+.theme-light {
+
+	--text-accent: #000085;
+	--text-accent-hover: #0000B5;
+
+/*
+	--text-accent: #705dcf;
+	--text-accent-hover: #7a6ae6;
+*/
+}
+
+
+/****************************************/
 /* counts.css
 /****************************************/
 
@@ -216,6 +232,25 @@ body {
     font-size: 14px;
     line-height: 1.6em;
 }
+
+
+/****************************************/
+/* footnotes
+/****************************************/
+
+section.footnotes {
+    font-size: 11px;
+}
+
+.footnote-ref {
+    font-size: 9px;
+    color: magenta !important;
+}   
+
+.footnote-link {
+    font-size: 9px;
+    color: magenta !important;
+}   
 
 
 /****************************************/

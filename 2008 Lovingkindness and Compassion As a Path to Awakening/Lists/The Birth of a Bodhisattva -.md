@@ -73,3 +73,4 @@ Paragraph descriptions in **[[The Birth of a Bodhisattva]]**:
 - [[The Birth of a Bodhisattva#Story 9 11 was not "nothing happened"|Story: 9/11 was not "nothing happened".]]
 - [[The Birth of a Bodhisattva#Somehow the very seeing of the emptiness of everything liberates more compassion|Somehow the very seeing of the emptiness of everything liberates more compassion.]]
 - [[The Birth of a Bodhisattva#The bodhisattva can make such a huge aspiration because they're holding the compassion with the emptiness of it all|The bodhisattva can make such a huge aspiration because they're holding the compassion with the emptiness of it all.]]
+- [[The Birth of a Bodhisattva# I was going to say a little more about equanimity in terms of _all_ conditions but I'll stop there| I was going to say a little more about equanimity in terms of _all_ conditions, but I'll stop there.]]
