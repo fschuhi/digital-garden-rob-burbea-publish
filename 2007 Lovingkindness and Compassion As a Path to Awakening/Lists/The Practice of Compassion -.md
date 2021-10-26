@@ -103,5 +103,5 @@ Paragraph descriptions in **[[The Practice of Compassion]]**:
 - [[The Practice of Compassion#Q5 compassion for non-dramatic suffering|Q5: compassion for non-dramatic suffering.]]
 - [[The Practice of Compassion#Yogi The "other people" category for practising mettā might not be suitable for practising compassion|Yogi: The "other people" category for practising mettā might not be suitable for practising compassion.]]
 - [[The Practice of Compassion#Rob realise how subtle suffering can be|Rob: realise how subtle suffering can be.]]
-- [[The Practice of Compassion#Yogi Is it ok to exclude Georbe Bush 😀|Yogi: Is it ok to exclude Georbe Bush? 😀.]]
+- [[The Practice of Compassion#Yogi Is it ok to exclude George Bush 😀|Yogi: Is it ok to exclude George Bush? 😀.]]
 - [[The Practice of Compassion#Who No! 😀|Who? No! 😀.]]

@@ -61,7 +61,7 @@ Paragraph descriptions in **[[From Insight to Love]]**:
 - [[From Insight to Love#"Just unhook" is not a metaphysical statement|"Just unhook" is not a metaphysical statement.]]
 - [[From Insight to Love#The comparing judging mind|The comparing, judging mind.]]
 - [[From Insight to Love#The self-sense gets its energy from measuring comparing judging|The self-sense gets its energy from measuring, comparing, judging.]]
-- [[From Insight to Love#Over time the groove of metta will be more established than the groove of measuring comparing juding|Over time, the groove of metta will be more established than the groove of measuring, comparing, juding.]]
+- [[From Insight to Love#Over time the groove of metta will be more established than the groove of measuring comparing judging|Over time, the groove of metta will be more established than the groove of measuring, comparing, judging.]]
 - [[From Insight to Love#Judgement thoughts are not me not mine|Judgement thoughts are not me, not mine.]]
 - [[From Insight to Love#The emptiness that opens up from "not me not mine" is inbued with love|The emptiness that opens up from "not me, not mine" is inbued with love.]]
 - [[From Insight to Love#Others' experience is also "no me not mine"|Others' experience is also "no me, not mine".]]

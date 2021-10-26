@@ -29,3 +29,5 @@ synopsis | 2008 | [[2007 Lovingkindness and Compassion As a Path to Awakening\|2
 - | - | -
 [[Synopsis 1]] | [[The Place of Samadhi in Metta Practice]] | [[Samadhi in Metta Practice]]
 [[Synopsis 2]] | [[Exploring the World of Loving Kindness]] | [[Expressions of Metta]]	
+[[Synopsis 3]] | [[Using Insight to Deepen Love and Compassion]] | [[From Insight to Love]]
+[[Synopsis 4]] | [[Compassion (talk)]] | [[The Practice of Compassion]]	

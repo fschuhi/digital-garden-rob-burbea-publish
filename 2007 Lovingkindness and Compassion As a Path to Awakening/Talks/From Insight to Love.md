@@ -264,7 +264,7 @@ TODO: "the dukkha angle into anatta" => the 2 characteristics impermanence and a
 <span class="counts">**<a aria-label-position="top" aria-label="0127 From Insight to Love > ^10-5" data-href="0127 From Insight to Love#^10-5" class="internal-link">10-5</a>**: _<a data-href="Jhanas" class="internal-link">Jhanas</a> · <a data-href="Hindrances" class="internal-link">Hindrances</a> · <a data-href="Awakening" class="internal-link">Awakening</a> · <a data-href="The Self" class="internal-link">The Self</a> (2) · <a data-href="Energy" class="internal-link">Energy</a> · <a data-href="Nondualism" class="internal-link">Nondualism</a> · <a data-href="Ignorance" class="internal-link">Ignorance</a>_</span>
 
 ---
-##### Over time, the groove of metta will be more established than the groove of measuring, comparing, juding
+##### Over time, the groove of metta will be more established than the groove of measuring, comparing, judging
 <span class="counts">**<a aria-label-position="top" aria-label="0127 From Insight to Love > ^11-1" data-href="0127 From Insight to Love#^11-1" class="internal-link">11-1</a>**: _<a data-href="Metta" class="internal-link">Metta</a> (7) · <a data-href="Mind" class="internal-link">Mind</a> (2) · <a data-href="Ways of looking" class="internal-link">Ways of looking</a> · <a data-href="Kusala" class="internal-link">Kusala</a> (2) · <a data-href="Acceptance" class="internal-link">Acceptance</a> · <a data-href="Energy" class="internal-link">Energy</a> (3) · <a data-href="Compassion" class="internal-link">Compassion</a>_</span>
 
 ---
