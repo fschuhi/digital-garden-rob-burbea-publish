@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 ---
-# The Garden of the Soul: Rob Burbea's Teachings
+# Garden of Soul: Rob Burbea's Teachings
 <div class="admonition quote"><div class="title">❝</div><div class="content">
-But mostly it's actually just a little drop, and then one goes out into that infinite web of conditions in the life. Maybe it's just a seed. It meets another condition, then it begins to sprout. Maybe it sprouts a little here, and then it gets watered. Maybe it meets the wrong conditions and it just gets covered over, you know?<br/>
+So compassion to self and other is empowering, not debilitating.<br/>
 <br/>
-<i>(a quote from the talk <a aria-label-position="top" aria-label="Equanimity in Compassion > Maybe its just a seed" data-href="Equanimity in Compassion#Maybe it's just a seed" class="internal-link">Equanimity in Compassion</a>)</i><br/>
+<i>(a quote from the talk <a aria-label-position="top" aria-label="Compassion (talk) > 3 Pity" data-href="Compassion (talk)#3 Pity" class="internal-link">Compassion (talk)</a>)</i><br/>
 </div></div>
 
 <div class="admonition important"><div class="title">Thank you!</div><div class="content">
@@ -19,9 +19,9 @@ Curating this Digital Garden falls under the purview of the <b>Hermes Amāra Fou
 <br/>
 </div></div>
 
-There is an [[Introduction]] to this Digital Garden and also help pages which show [[How to browse the Digital Garden|how to browse the Digital Garden]]. You might also want to check out the [[Index]] for key terms and phrases. 
+There is an [[Introduction]] to this Digital Garden and also help pages which show [[How to browse the Digital Garden|how to browse the Digital Garden]]. You might also want to check out the [[Index]] for key terms and phrases, or check out the [[Guided meditations|guided meditations.]]
 
-If you have been here before you might want to check out the [[Changelog]] for new content and features. For any feedback or suggestions relating to this Digital Garden, please email frank.schuhardt@gmail.com
+If you have been here before you might want to check out the [[Changelog]] for new content and features. For any feedback or suggestions relating to this Digital Garden, please email fschuhi@yahoo.com
 \
 	
 ## Retreats and series of talks
