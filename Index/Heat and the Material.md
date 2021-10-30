@@ -4,4 +4,4 @@
 
 28 May 2019
 
-part of [[Four Circles, Four Parables of Stone and Light]]
+part of <a data-href="2019 Four Circles, Four Parables of Stone and Light" class="internal-link">2019 Four Circles, Four Parables of Stone and Light</a>

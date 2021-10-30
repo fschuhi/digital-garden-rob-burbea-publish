@@ -3,9 +3,9 @@ obsidianUIMode: preview
 ---
 # Garden of Soul: Rob Burbea's Teachings
 <div class="admonition quote"><div class="title">❝</div><div class="content">
-So compassion to self and other is empowering, not debilitating.<br/>
+So as the imaginal grows, the <i>papañca</i> diminishes. As the <i>papañca</i> grows, the imaginal diminishes.<br/>
 <br/>
-<i>(a quote from the talk <a aria-label-position="top" aria-label="Compassion (talk) > 3 Pity" data-href="Compassion (talk)#3 Pity" class="internal-link">Compassion (talk)</a>)</i><br/>
+<i>(a quote from the talk <a aria-label-position="top" aria-label="Daimon, Refracted > Story wounded blackbird" data-href="Daimon, Refracted#Story wounded blackbird" class="internal-link">Daimon, Refracted</a>)</i><br/>
 </div></div>
 
 <div class="admonition important"><div class="title">Thank you!</div><div class="content">
@@ -15,13 +15,11 @@ And thank you, dear visitor, for your interest! Be invited to browse what Rob ha
 <br/>
 The transcripts of the talks have been adapted from the <b><a data-href="Rob Burbea Transcription Project" class="internal-link">Rob Burbea Transcription Project</a></b>. Thank you, Shannon, Elmer, Pádraig, and others, for all the work you've done!<br/>
 <br/>
-Curating this Digital Garden falls under the purview of the <b>Hermes Amāra Foundation</b>, which works towards maintaining Rob's work. Thank you, Custodians and the other Circles, for supporting this project!<br/>
+Curating this Digital Garden falls under the purview of the <b><a aria-label-position="top" aria-label="Hermes Amara Foundation" data-href="Hermes Amara Foundation" class="internal-link">Hermes Amāra Foundation</a></b>, which works towards maintaining Rob's work. Thank you, Custodians and the other Circles, for supporting this project!<br/>
 <br/>
 </div></div>
 
-There is an [[Introduction]] to this Digital Garden and also help pages which show [[How to browse the Digital Garden|how to browse the Digital Garden]]. You might also want to check out the [[Index]] for key terms and phrases, or check out the [[Guided meditations|guided meditations.]]
-
-If you have been here before you might want to check out the [[Changelog]] for new content and features. For any feedback or suggestions relating to this Digital Garden, please email fschuhi@yahoo.com
+The **[[help]]** pages have an introduction to this Digital Garden and show how to browse it. You might also want to check out the **[[index]]** for key terms and phrases, or practice with the **[[guided meditations]].**, or browse the **[[suttas]]** and **[[books]]** referenced by Rob. If you have been here before you might want to check out the [[Changelog]] for new content and features.^[For any feedback or suggestions relating to this Digital Garden, please email fschuhi@yahoo.com]
 \
 	
 ## Retreats and series of talks

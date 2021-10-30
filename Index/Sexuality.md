@@ -8,6 +8,7 @@ talk | count | series
 <a data-href="Dilemmas and Delineations - How did we get here Part 4" class="internal-link">Dilemmas and Delineations - How did we get here Part 4</a> | 6 | <a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a>
 <a data-href="Dilemmas and Delineations - How did we get here Part 2" class="internal-link">Dilemmas and Delineations - How did we get here Part 2</a> | 6 | <a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a>
 <a data-href="Orienting to This Jhana Retreat" class="internal-link">Orienting to This Jhana Retreat</a> | 2 | <a data-href="2019 Practising the Jhanas" class="internal-link">2019 Practising the Jhanas</a>
+<a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> | 1 | <a data-href="2019 Four Circles, Four Parables of Stone and Light" class="internal-link">2019 Four Circles, Four Parables of Stone and Light</a>
 <a data-href="Questioning Awakening" class="internal-link">Questioning Awakening</a> | 1 | <a data-href="2014 November Solitary - Questioning Awakening" class="internal-link">2014 November Solitary - Questioning Awakening</a>
 
 ### Paragraphs with 4+ mentions

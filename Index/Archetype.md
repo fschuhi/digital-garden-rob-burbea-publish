@@ -3,6 +3,7 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
+<a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> | 5 | <a data-href="2019 Four Circles, Four Parables of Stone and Light" class="internal-link">2019 Four Circles, Four Parables of Stone and Light</a>
 <a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a> | 1 | <a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a>
 <a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a> | 1 | <a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a>
 <a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> | 1 | <a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a>
@@ -11,6 +12,10 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
+<a aria-label-position="top" aria-label="Daimon, Refracted > Polytheistic psyche" data-href="Daimon, Refracted#Polytheistic psyche" class="internal-link">Polytheistic psyche</a> | 2 | <a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a>
+<a aria-label-position="top" aria-label="Daimon, Refracted > Corbins person archetype is not something in _me_ but this earthly person gravitating towards this spiritual person" data-href="Daimon, Refracted#Corbin's person archetype is not something in _me_ but this earthly person gravitating towards this spiritual person" class="internal-link">Corbin&#x27;s &quot;person archetype is not something in _me_, but this earthly person gravitating towards this spiritual person</a> | 1 | <a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a>
+<a aria-label-position="top" aria-label="Daimon, Refracted > The more prescribed images and archetype are semi-universal but can become particularized with practice" data-href="Daimon, Refracted#The more prescribed images and archetype are semi-universal but can become particularized with practice" class="internal-link">The more prescribed images and archetype are semi-universal, but can become particularized with practice</a> | 1 | <a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a>
+<a aria-label-position="top" aria-label="Daimon, Refracted > They can become more personal through how they have been incorporated into my life" data-href="Daimon, Refracted#They can become more personal through how they have been incorporated into my life" class="internal-link">They can become more personal through how they have been incorporated into my life</a> | 1 | <a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a>
 <a aria-label-position="top" aria-label="Dilemmas and Delineations - How did we get here Part 3 > 5 Imaginal image imaginal image" data-href="Dilemmas and Delineations - How did we get here Part 3#5 Imaginal image imaginal image" class="internal-link">(5) Imaginal, image, imaginal image</a> | 1 | <a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a>
 <a aria-label-position="top" aria-label="Dilemmas and Delineations - How did we get here Part 1 > Another equates Eros with life" data-href="Dilemmas and Delineations - How did we get here Part 1#Another equates Eros with life" class="internal-link">Another equates Eros with life</a> | 1 | <a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a>
 <a aria-label-position="top" aria-label="Compassion (talk) > Cultivating compassion through Tonglen or through devotion" data-href="Compassion (talk)#Cultivating compassion through Tonglen or through devotion" class="internal-link">Cultivating compassion through Tonglen, or through devotion</a> | 1 | <a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a>
@@ -19,14 +24,14 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
+[[Imaginal]] | 4 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (3) · <a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a> (1)</span> 
+[[Avalokiteshvara]] | 3 | <span class="counts"><a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (1) · <a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (1) · <a data-href="Exploring the World of Loving Kindness" class="internal-link">Exploring the World of Loving Kindness</a> (1)</span> 
+[[Image]] | 3 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (2) · <a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a> (1)</span> 
 [[Jesus]] | 3 | <span class="counts"><a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (1) · <a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a> (1) · <a data-href="Exploring the World of Loving Kindness" class="internal-link">Exploring the World of Loving Kindness</a> (1)</span> 
-[[Avalokiteshvara]] | 2 | <span class="counts"><a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (1) · <a data-href="Exploring the World of Loving Kindness" class="internal-link">Exploring the World of Loving Kindness</a> (1)</span> 
 [[Bodhisattva]] | 2 | <span class="counts"><a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (1) · <a data-href="Exploring the World of Loving Kindness" class="internal-link">Exploring the World of Loving Kindness</a> (1)</span> 
 [[Compassion]] | 2 | <span class="counts"><a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (1) · <a data-href="Exploring the World of Loving Kindness" class="internal-link">Exploring the World of Loving Kindness</a> (1)</span> 
-[[Buddha]] | 1 | <span class="counts"><a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a> (1)</span> 
-[[Cultivation]] | 1 | <span class="counts"><a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (1)</span> 
-[[Death]] | 1 | <span class="counts"><a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a> (1)</span> 
-[[Dukkha]] | 1 | <span class="counts"><a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (1)</span> 
-[[Energy]] | 1 | <span class="counts"><a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (1)</span> 
-[[Eros]] | 1 | <span class="counts"><a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a> (1)</span> 
+[[Daimon]] | 2 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (2)</span> 
+[[Soul]] | 2 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (2)</span> 
+[[Tara]] | 2 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (1) · <a data-href="Exploring the World of Loving Kindness" class="internal-link">Exploring the World of Loving Kindness</a> (1)</span> 
+[[The Self]] | 2 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (1) · <a data-href="Exploring the World of Loving Kindness" class="internal-link">Exploring the World of Loving Kindness</a> (1)</span> 
 

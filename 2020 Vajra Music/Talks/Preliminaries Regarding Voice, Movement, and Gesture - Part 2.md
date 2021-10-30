@@ -33,7 +33,7 @@ E --- E3-5[The Serpent]
 <br/>
 
 ## Referenced talks
-- <a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a>
+- [[Daimon, Refracted]]
 - <a data-href="Voice, Movement, and the Possibilities of Soul" class="internal-link">Voice, Movement, and the Possibilities of Soul</a>
 - <a data-href="Sila and Soul" class="internal-link">Sila and Soul</a>
 - <a data-href="The Image of Ethics" class="internal-link">The Image of Ethics</a>
@@ -51,7 +51,7 @@ E --- E3-5[The Serpent]
 ##### "Daimon, Refracted" 🟢
 <span class="counts">**<a aria-label-position="top" aria-label="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2 > ^1-2" data-href="0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^1-2" class="internal-link">1-2</a>**: _<a data-href="Embodiment" class="internal-link">Embodiment</a> (2) · <a data-href="Retreat" class="internal-link">Retreat</a> · <a data-href="Meditation" class="internal-link">Meditation</a> · <a data-href="Soulmaking" class="internal-link">Soulmaking</a>_</span>
 
-references <a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a>
+references [[Daimon, Refracted]]
 
 ---
 ##### "Voice, Movement, and the Possibilities of Soul" ... but how many have picked it up? 🟢

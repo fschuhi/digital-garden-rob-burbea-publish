@@ -15,7 +15,7 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-<a data-href="Big Bang" class="internal-link">Big Bang</a> | 2 | <span class="counts"><a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (1) · <a data-href="The Practice of Compassion" class="internal-link">The Practice of Compassion</a> (1)</span> 
+[[Big Bang]] | 2 | <span class="counts"><a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (1) · <a data-href="The Practice of Compassion" class="internal-link">The Practice of Compassion</a> (1)</span> 
 [[Embodiment]] | 2 | <span class="counts"><a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (1) · <a data-href="The Practice of Compassion" class="internal-link">The Practice of Compassion</a> (1)</span> 
 [[Anatta]] | 1 | <span class="counts"><a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (1)</span> 
 [[Emptiness]] | 1 | <span class="counts"><a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (1)</span> 

@@ -8,8 +8,10 @@ showTopReferringTalks: true
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
+<a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> | 6 | <a data-href="2019 Four Circles, Four Parables of Stone and Light" class="internal-link">2019 Four Circles, Four Parables of Stone and Light</a>
 <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> | 2 | <a data-href="2020 Vajra Music" class="internal-link">2020 Vajra Music</a>
 <a data-href="Orienting to This Jhana Retreat" class="internal-link">Orienting to This Jhana Retreat</a> | 2 | <a data-href="2019 Practising the Jhanas" class="internal-link">2019 Practising the Jhanas</a>
+<a data-href="Expressions of Metta" class="internal-link">Expressions of Metta</a> | 1 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a>
 
 ### Quotes
 #IndexEntry #Robology
@@ -51,22 +53,27 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
+<a aria-label-position="top" aria-label="Daimon, Refracted > Letting the anger build up in the energy body so that an image might arise" data-href="Daimon, Refracted#Letting the anger build up in the energy body so that an image might arise" class="internal-link">Letting the anger build up in the energy body, so that an image might arise</a> | 2 | <a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a>
+<a aria-label-position="top" aria-label="Daimon, Refracted > Theres heat and potential dynamism there" data-href="Daimon, Refracted#There's heat and potential dynamism there" class="internal-link">There&#x27;s heat and potential dynamism there</a> | 2 | <a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a>
 <a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 2 > Why preliminaries Because it expands soulmaking" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Why preliminaries Because it expands soulmaking" class="internal-link">Why &quot;preliminaries&quot;? Because it expands soulmaking</a> | 1 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a>
 <a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 2 > If we like practicing soulmaking the soulmaking dynamic will expand" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2#If we like practicing soulmaking the soulmaking dynamic will expand" class="internal-link">If we like practicing soulmaking the soulmaking dynamic will expand</a> | 1 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a>
 <a aria-label-position="top" aria-label="Orienting to This Jhana Retreat > How we create this container together" data-href="Orienting to This Jhana Retreat#How we create this container together" class="internal-link">How we create this container together</a> | 1 | <a data-href="Orienting to This Jhana Retreat" class="internal-link">Orienting to This Jhana Retreat</a>
 <a aria-label-position="top" aria-label="Orienting to This Jhana Retreat > We all are participating in this" data-href="Orienting to This Jhana Retreat#We all are participating in this" class="internal-link">We all are participating in this</a> | 1 | <a data-href="Orienting to This Jhana Retreat" class="internal-link">Orienting to This Jhana Retreat</a>
+<a aria-label-position="top" aria-label="Daimon, Refracted > Strawinsky as vessel for the Rite of Spring" data-href="Daimon, Refracted#Strawinsky as vessel for the Rite of Spring" class="internal-link">Strawinsky as vessel for the Rite of Spring</a> | 1 | <a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a>
+<a aria-label-position="top" aria-label="Daimon, Refracted > 1 Sit with the anger at the inner critic" data-href="Daimon, Refracted#1 Sit with the anger at the inner critic" class="internal-link">(1) Sit with the anger at the inner critic</a> | 1 | <a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a>
+<a aria-label-position="top" aria-label="Expressions of Metta > With anger we often dont see the wider web of conditions" data-href="Expressions of Metta#With anger we often don't see the wider web of conditions" class="internal-link">With anger we often don&#x27;t see the wider web of conditions</a> | 1 | <a data-href="Expressions of Metta" class="internal-link">Expressions of Metta</a>
 
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
+[[Anger]] | 3 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (2) · <a data-href="Expressions of Metta" class="internal-link">Expressions of Metta</a> (1)</span> 
+[[Energy body]] | 2 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (2)</span> 
+[[Image]] | 2 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (2)</span> 
+[[Soulmaking]] | 2 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (1) · <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> (1)</span> 
 [[Soulmaking dynamic]] | 2 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> (2)</span> 
+[[Alchemy]] | 1 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (1)</span> 
+[[Attention]] | 1 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (1)</span> 
 [[Blessing]] | 1 | <span class="counts"><a data-href="Orienting to This Jhana Retreat" class="internal-link">Orienting to This Jhana Retreat</a> (1)</span> 
 [[Dana]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> (1)</span> 
-[[Embodiment]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> (1)</span> 
-[[Experience]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> (1)</span> 
-[[Gaia House]] | 1 | <span class="counts"><a data-href="Orienting to This Jhana Retreat" class="internal-link">Orienting to This Jhana Retreat</a> (1)</span> 
-[[Insight]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> (1)</span> 
-[[Mindfulness]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> (1)</span> 
-[[Preliminaries]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> (1)</span> 
-[[Soul]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> (1)</span> 
+[[Dependent Origination]] | 1 | <span class="counts"><a data-href="Expressions of Metta" class="internal-link">Expressions of Metta</a> (1)</span> 
 

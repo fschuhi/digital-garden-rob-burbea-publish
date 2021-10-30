@@ -15,6 +15,6 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-<a data-href="Big Bang" class="internal-link">Big Bang</a> | 1 | <span class="counts"><a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (1)</span> 
+[[Big Bang]] | 1 | <span class="counts"><a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (1)</span> 
 [[Breath]] | 1 | <span class="counts"><a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (1)</span> 
 

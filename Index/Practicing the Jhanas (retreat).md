@@ -20,5 +20,5 @@ term | count | talks
 [[Engagement and Activism]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 1</a> (1)</span> 
 [[Jhanas]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 1</a> (1)</span> 
 [[Meditation]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 1</a> (1)</span> 
-<a data-href="Orienting to This Jhana Retreat" class="internal-link">Orienting to This Jhana Retreat</a> | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 1</a> (1)</span> 
+[[Retreat]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 1</a> (1)</span> 
 

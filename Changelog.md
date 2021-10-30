@@ -20,6 +20,8 @@
 	- [[Dilemmas and Delineations - How did we get here Part 4]]
 - new retreat [[2014 November Solitary - Questioning Awakening]]
 	- [[Questioning Awakening]]
+- new retreat [[2019 Four Circles, Four Parables of Stone and Light]]
+	- [[Daimon, Refracted]]
 - new retreat [[2019 Practising the Jhanas]]
 	- [[Orienting to This Jhana Retreat]]
 	- [[Counting Within the Breath - Guided Meditation]]
@@ -38,7 +40,7 @@
 - coloured footnote references are easier to spot (especially in the transcripts), footnotes themselves as well (smaller font, at the end of pages)
 
 ##### Help
-- [[Introduction]] and [[How to browse the Digital Garden]]
+- [[Help]] and [[How to browse the Digital Garden]]
 - added help pages:
 	- [[How to navigate the Digital Garden]]
 	- [[How to browse the Digital Garden]]

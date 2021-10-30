@@ -15,6 +15,6 @@ term | count | talks
 -|-|-
 [[Death]] | 1 | <span class="counts"><a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a> (1)</span> 
 [[Eros]] | 1 | <span class="counts"><a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a> (1)</span> 
-<a data-href="Sigmund Freud" class="internal-link">Sigmund Freud</a> | 1 | <span class="counts"><a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a> (1)</span> 
+[[Sigmund Freud]] | 1 | <span class="counts"><a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a> (1)</span> 
 [[Unfabricated]] | 1 | <span class="counts"><a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a> (1)</span> 
 

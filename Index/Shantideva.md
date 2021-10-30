@@ -24,7 +24,7 @@ term | count | talks
 [[Happiness]] | 2 | <span class="counts"><a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> (2)</span> 
 [[Retreat]] | 2 | <span class="counts"><a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> (1) · <a data-href="The Birth of a Bodhisattva" class="internal-link">The Birth of a Bodhisattva</a> (1)</span> 
 [[Birth]] | 1 | <span class="counts"><a data-href="The Birth of a Bodhisattva" class="internal-link">The Birth of a Bodhisattva</a> (1)</span> 
-<a data-href="Bodhisattvacaryavatara" class="internal-link">Bodhisattvacaryavatara</a> | 1 | <span class="counts"><a data-href="The Birth of a Bodhisattva" class="internal-link">The Birth of a Bodhisattva</a> (1)</span> 
+[[Bodhisattvacaryavatara]] | 1 | <span class="counts"><a data-href="The Birth of a Bodhisattva" class="internal-link">The Birth of a Bodhisattva</a> (1)</span> 
 [[Brahmaviharas]] | 1 | <span class="counts"><a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> (1)</span> 
 [[Buddha]] | 1 | <span class="counts"><a data-href="The Birth of a Bodhisattva" class="internal-link">The Birth of a Bodhisattva</a> (1)</span> 
 [[Centre]] | 1 | <span class="counts"><a data-href="The Birth of a Bodhisattva" class="internal-link">The Birth of a Bodhisattva</a> (1)</span> 
