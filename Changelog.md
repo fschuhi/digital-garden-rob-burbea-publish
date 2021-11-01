@@ -26,6 +26,7 @@
 	- [[Orienting to This Jhana Retreat]]
 	- [[Counting Within the Breath - Guided Meditation]]
 	- [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
+	- [[A Hidden Treasure - The Relationship with the Hindrances]]
 
 ##### Features
 - top X referring talks for index entries, see e.g. [[Energy body]], with different X for some talks

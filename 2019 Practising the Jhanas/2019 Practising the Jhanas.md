@@ -18,4 +18,5 @@ under construction<br/>
 🛠️ [[Orienting to This Jhana Retreat]]
 ✔️ [[Counting Within the Breath - Guided Meditation]]
 ✔️ [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
+✔️ [[A Hidden Treasure - The Relationship with the Hindrances]]
 🛠️ An Introduction to the Jhanas

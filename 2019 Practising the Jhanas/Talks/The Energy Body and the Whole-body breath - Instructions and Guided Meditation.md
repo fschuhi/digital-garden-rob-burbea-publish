@@ -5,7 +5,7 @@ obsidianUIMode: preview
 ---
 #Talk
 
-[[Orienting to This Jhana Retreat|Orienting to This Jhana Retreat 🡄]] | [[2019 Practising the Jhanas|🡅]] | 
+[[Orienting to This Jhana Retreat|Orienting to This Jhana Retreat 🡄]] | [[2019 Practising the Jhanas|🡅]] | [[A Hidden Treasure - The Relationship with the Hindrances|🡆 A Hidden Treasure - The Relationship with the Hindrances]]
 
 Series: [[2019 Practising the Jhanas]]
 Transcript: [[1218 The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]

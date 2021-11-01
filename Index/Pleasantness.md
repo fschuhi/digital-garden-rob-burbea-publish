@@ -11,8 +11,8 @@ talk | count | series
 <a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a> | 6 | <a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a>
 <a data-href="Using Insight to Deepen Love and Compassion" class="internal-link">Using Insight to Deepen Love and Compassion</a> | 6 | <a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a>
 <a data-href="Love and the Emptiness of Things" class="internal-link">Love and the Emptiness of Things</a> | 4 | <a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a>
+<a data-href="A Hidden Treasure - The Relationship with the Hindrances" class="internal-link">A Hidden Treasure - The Relationship with the Hindrances</a> | 3 | <a data-href="2019 Practising the Jhanas" class="internal-link">2019 Practising the Jhanas</a>
 <a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a> | 3 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a>
-<a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a> | 2 | <a data-href="2006 New Year's Retreat" class="internal-link">2006 New Year&#x27;s Retreat</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
