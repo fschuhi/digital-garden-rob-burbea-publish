@@ -36,3 +36,13 @@ term | count | talks
 [[Consciousness]] | 2 | <span class="counts"><a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a> (1) · <a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a> (1)</span> 
 [[Dependent Origination]] | 2 | <span class="counts"><a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a> (2)</span> 
 
+### Quotes
+**<a data-href="Love and Emptiness" class="internal-link">Love and Emptiness</a>**
+<span class="counts"><a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> My take on it, as well, is that a person can be awakened to some degree, and there's basically a momentum of saṅkhāras, of karmic momentum, to basically perceive things and things existing really. And that momentum for the duration of their life is enough to keep the world appearing for them. And then, theoretically, when they die, it all kind of dissolves into whatever it does. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Love and Emptiness > Rob Maybe only Buddhas can see emptiness and not bump into things" data-href="Love and Emptiness#Rob Maybe only Buddhas can see emptiness and not bump into things" class="internal-link">Rob: Maybe only Buddhas can see emptiness and not bump into things</a>_</span>
+
+**<a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> [W]e see how clinging, craving, _saṅkhārā_, _avijjā_, attention - these notions overlap. They're all different forms of clinging... &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 2 > Even attention is a form of clinging" data-href="The Way of Non-Clinging Part 2#Even attention is a form of clinging" class="internal-link">Even attention is a form of clinging</a>_</span>
+
+

@@ -37,3 +37,13 @@ term | count | talks
 [[Letting go]] | 3 | <span class="counts"><a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (2) · <a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> (1)</span> 
 [[Passion]] | 3 | <span class="counts"><a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (2) · <a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a> (1)</span> 
 
+### Quotes
+**<a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> Can I have a conceptual framework, can I form, can I open to a conceptual framework and a fantasy that, actually, romantic love becomes part of the path, and not just in those kind of simplistic terms? The concepts, if I try and stretch too small a set of concepts over the range of things that we deeply care about, the whole structure will snap. It's not adequate. It cannot support it. It cannot nourish those areas that we really care about, _if_ we really care about them. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 3 > When I stretch a limited conceptual framework over things I care deeply about the whole structure will snap" data-href="The Way of Non-Clinging Part 3#When I stretch a limited conceptual framework over things I care deeply about the whole structure will snap" class="internal-link">When I stretch a limited conceptual framework over things I care deeply about, the whole structure will snap</a>_</span>
+
+**<a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> I cannot reduce a romantic love relationship or a marriage to _mettā_ . There's something more involved, or that needs to be involved. Part of that 'more' is what we're going to call eros, what we're calling eros. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Dilemmas and Delineations - How did we get here Part 1 > All this is not really adequately addressed in the Dharma at present" data-href="Dilemmas and Delineations - How did we get here Part 1#All this is not really adequately addressed in the Dharma at present" class="internal-link">All this is not really adequately addressed in the Dharma at present</a>_</span>
+
+

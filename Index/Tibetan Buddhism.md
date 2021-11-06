@@ -38,3 +38,9 @@ term | count | talks
 [[Preliminaries]] | 2 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 1</a> (1) · <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a> (1)</span> 
 [[Vajrayana]] | 2 | <span class="counts"><a data-href="Love and Emptiness" class="internal-link">Love and Emptiness</a> (1) · <a data-href="Love and the Emptiness of Things" class="internal-link">Love and the Emptiness of Things</a> (1)</span> 
 
+### Quotes
+**<a data-href="Love and the Emptiness of Things" class="internal-link">Love and the Emptiness of Things</a>**
+<span class="counts"><a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> To say things don't exist is clearly not true. But to see that they don't exist in any way independently from the way I am looking, independently from the relationship with. So when it says they don't exist, it means they don't exist independently, inherently. Or as the Tibetans say, they don't exist 'from their own side.' &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Love and the Emptiness of Things > The Middle Way is not about things existing or not but that they exist on our relationship with them" data-href="Love and the Emptiness of Things#The Middle Way is not about things existing or not but that they exist on our relationship with them" class="internal-link">The Middle Way is not about things existing or not but that they exist on our relationship with them</a>_</span>
+
+

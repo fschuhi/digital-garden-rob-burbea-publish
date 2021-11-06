@@ -42,3 +42,13 @@ term | count | talks
 [[Contraction]] | 3 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (1) · <a data-href="The Birth of a Bodhisattva" class="internal-link">The Birth of a Bodhisattva</a> (1) · <a data-href="The Practice of Compassion" class="internal-link">The Practice of Compassion</a> (1)</span> 
 [[Eros]] | 3 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (1) · <a data-href="Dilemmas and Delineations - How did we get here Part 2" class="internal-link">Dilemmas and Delineations - How did we get here Part 2</a> (1) · <a data-href="Dilemmas and Delineations - How did we get here Part 4" class="internal-link">Dilemmas and Delineations - How did we get here Part 4</a> (1)</span> 
 
+### Quotes
+**<a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a>**
+<span class="counts"><a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> No one wants to be blamed or to be in pain or to fail or to lose what we like. And whoever we are in this life, whatever our history, whoever we are, whatever our credentials, we are going to be subject throughout our life to the wavering of those four polarities - no matter who you are... &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Equanimity in Compassion > Eight worldly conditions" data-href="Equanimity in Compassion#Eight worldly conditions" class="internal-link">Eight worldly conditions</a>_</span>
+
+**<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a>**
+<span class="counts"><a data-href="2020 Vajra Music" class="internal-link">2020 Vajra Music</a></span>
+> If I just remember the principle, the range of what I'm doing will not shrink to just the ones that I'm used to doing, out of habit or indoctrination, or the cultures I've moved in, or whatever it is, or [[History|personal history]], or trauma, whatever it is. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 4 > Practice from the place of a principle to keep the pathways fully available for the influx of soul" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Practice from the place of a principle to keep the pathways fully available for the influx of soul" class="internal-link">Practice from the place of a principle, to keep the pathways fully available for the influx of soul</a>_</span>
+
+

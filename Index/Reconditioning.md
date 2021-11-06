@@ -36,3 +36,11 @@ term | count | talks
 [[Kusala]] | 2 | <span class="counts"><a data-href="Love and Emptiness" class="internal-link">Love and Emptiness</a> (1) · <a data-href="Love and the Emptiness of Things" class="internal-link">Love and the Emptiness of Things</a> (1)</span> 
 [[Love]] | 2 | <span class="counts"><a data-href="Love and Emptiness" class="internal-link">Love and Emptiness</a> (1) · <a data-href="The Practice of Compassion" class="internal-link">The Practice of Compassion</a> (1)</span> 
 
+### Quotes
+**<a data-href="Love and the Emptiness of Things" class="internal-link">Love and the Emptiness of Things</a>**
+<span class="counts"><a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> [W]e're reconditioning the heart and the mind, which essentially, you could say, is a whirlpool, a web of conditioning, of conditions and habits of conditions. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Love and the Emptiness of Things > Planting the seeds of intention to recondition the mind" data-href="Love and the Emptiness of Things#Planting the seeds of intention to recondition the mind" class="internal-link">Planting the seeds of intention to recondition the mind</a>_</span>
+
+> So it's really not about self-improvement, and the whole notion of a self to improve begins to just loosen in time with practice. And yet, we can still be really committed to this process of cultivation, of developing the nourishment, of reconditioning. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Love and the Emptiness of Things > Cultivation is not about self-improvement" data-href="Love and the Emptiness of Things#Cultivation is not about self-improvement" class="internal-link">Cultivation is not about self-improvement</a>_</span>
+
+

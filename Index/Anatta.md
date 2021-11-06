@@ -26,8 +26,6 @@ talk | count | series
 <a data-href="Expressions of Metta" class="internal-link">Expressions of Metta</a> | 5 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a>
 <a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> | 4 | <a data-href="2019 Four Circles, Four Parables of Stone and Light" class="internal-link">2019 Four Circles, Four Parables of Stone and Light</a>
 
-## some other stuff
-
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
@@ -55,4 +53,18 @@ term | count | talks
 [[Love]] | 12 | <span class="counts"><a data-href="From Insight to Love" class="internal-link">From Insight to Love</a> (4) · <a data-href="Love and Emptiness" class="internal-link">Love and Emptiness</a> (2) · <a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (1) · <a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a> (1)</span> 
 [[Ways of looking]] | 12 | <span class="counts"><a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a> (5) · <a data-href="Using Insight to Deepen Love and Compassion" class="internal-link">Using Insight to Deepen Love and Compassion</a> (2) · <a data-href="What is Insight" class="internal-link">What is Insight</a> (2) · <a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a> (1)</span> 
 [[Buddha]] | 11 | <span class="counts"><a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a> (3) · <a data-href="From Insight to Love" class="internal-link">From Insight to Love</a> (2) · <a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (1) · <a data-href="Love and Emptiness" class="internal-link">Love and Emptiness</a> (1)</span> 
+
+### Quotes
+**<a data-href="From Insight to Love" class="internal-link">From Insight to Love</a>**
+<span class="counts"><a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> But there are ways of understanding anattā that go even beyond the notion of impermanence, a whole other depth. If that's accessible, then that's great; if it's not, it's fine. There's enough freedom. There's plenty of freedom in that. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="From Insight to Love > Yes it might be but we are interested in freedom rather than a certain badge" data-href="From Insight to Love#Yes it might be but we are interested in freedom rather than a certain badge" class="internal-link">Yes, it might be, but we are interested in freedom, rather than a certain badge</a>_</span>
+
+**<a data-href="Love and Emptiness" class="internal-link">Love and Emptiness</a>**
+<span class="counts"><a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> [W]hen I say, "If I'm loving myself, what am I?", one level of looking at it in terms of anattā is, I am just these experiences and my relationship with them. If that becomes one of more acceptance for all that, then it's a kind of self-love, absolutely. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Love and Emptiness > Rob Anatta practice leads to more acceptance as a kind of self-love" data-href="Love and Emptiness#Rob Anatta practice leads to more acceptance as a kind of self-love" class="internal-link">Rob: Anatta practice leads to more acceptance, as a kind of self-love</a>_</span>
+
+**<a data-href="Using Insight to Deepen Love and Compassion" class="internal-link">Using Insight to Deepen Love and Compassion</a>**
+<span class="counts"><a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> What certain situations need is very relative, conventional language. We need to talk about our emotions; we need to express what we feel to each other; we need to respect that. I need to respect my emotions and your emotions at that level. So in that moment, that's what's helpful, that way of looking. But I'm saying a mature practice is able to move between picking that up, putting it down, picking up other ways of seeing - emptiness, _anattā_, etc. - and putting them down, not getting stuck in one or the other. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Using Insight to Deepen Love and Compassion > Maturity in practice comes from being able to move between different ways of seeing" data-href="Using Insight to Deepen Love and Compassion#Maturity in practice comes from being able to move between different ways of seeing" class="internal-link">Maturity in practice comes from being able to move between different ways of seeing</a>_</span>
+
 

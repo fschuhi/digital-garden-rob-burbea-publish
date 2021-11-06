@@ -40,3 +40,17 @@ term | count | talks
 [[Near enemy]] | 3 | <span class="counts"><a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (2) · <a data-href="The Practice of Compassion" class="internal-link">The Practice of Compassion</a> (1)</span> 
 [[Pity]] | 3 | <span class="counts"><a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (2) · <a data-href="The Practice of Compassion" class="internal-link">The Practice of Compassion</a> (1)</span> 
 
+### Quotes
+**<a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a>**
+<span class="counts"><a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> So sometimes it will feel like we're very much in the 'feeling the sorrow' side, where very much there's quite some sadness, or grief, or just being moved. And sometimes it can be very lovely, and there's a sweetness to it, there's a beauty to it; the heart is open and touched. And sometimes it feels like the balance is more, we're just feeling in, tuning into that energy that's going out - the lovely quality of healing, of light, the balm, the comforting. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Equanimity in Compassion > 2 Wanting to heal the suffering energy" data-href="Equanimity in Compassion#2 Wanting to heal the suffering energy" class="internal-link">(2) Wanting to heal the suffering (energy)</a>_</span>
+
+**<a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a>**
+<span class="counts"><a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> When there's grief around, if it's grief, it will be tiring. That tiring, that tiredness, it kind of makes the being, makes the heart, more vulnerable to more grief, which makes the heart _more_ tired. And it spirals on itself that way. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Compassion (talk) > 4 Grief" data-href="Compassion (talk)#4 Grief" class="internal-link">(4) Grief</a>_</span>
+
+**<a data-href="The Birth of a Bodhisattva" class="internal-link">The Birth of a Bodhisattva</a>**
+<span class="counts"><a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> And it's a beautiful, precious treasure of what it is to be human, to live in the fullness of our humanity, that we _will_ feel that, and we _will_ shed tears, and we _will_ feel that grief. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="The Birth of a Bodhisattva > Develop the skill to find the dynamic balance" data-href="The Birth of a Bodhisattva#Develop the skill to find the dynamic balance" class="internal-link">Develop the skill to find the dynamic balance</a>_</span>
+
+

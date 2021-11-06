@@ -33,3 +33,15 @@ term | count | talks
 [[The Self]] | 2 | <span class="counts"><a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a> (1) · <a data-href="Questioning Awakening" class="internal-link">Questioning Awakening</a> (1)</span> 
 [[Anatta]] | 1 | <span class="counts"><a data-href="From Insight to Love" class="internal-link">From Insight to Love</a> (1)</span> 
 
+### Quotes
+**<a data-href="Questioning Awakening" class="internal-link">Questioning Awakening</a>**
+<span class="counts"><a data-href="2014 November Solitary - Questioning Awakening" class="internal-link">2014 November Solitary - Questioning Awakening</a></span>
+> It's impossible to get away from that. You can _think_ you're away from it, you can _assume_ you're away from it. It's impossible to get away from ontology, epistemology,cosmology - metaphysics. And always we have to assume something. There is always an assumption that ends up being actually unprovable - always. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Questioning Awakening > There is always an assumption about metaphysics" data-href="Questioning Awakening#There is always an assumption about metaphysics" class="internal-link">There is always an assumption about metaphysics</a>_</span>
+
+> Big ideas can open up the whole sense of existence - the questioning, the perception, everything. That opening up won't happen just by 'being with,' or just by being with my feelings, if I'm 'being with' with the same unquestioned ways of looking, unquestioned conceptual framework, etc., unquestioned metaphysics, really. We somehow need to question and to put in new ideas. Somehow. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Questioning Awakening > Is a wholly different relationship with fundamental ideas possible" data-href="Questioning Awakening#Is a wholly different relationship with fundamental ideas possible" class="internal-link">Is a wholly different relationship with fundamental ideas possible?</a>_</span>
+
+**<a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> [I]f we go deeply enough and radically enough with this phenomenological approach, actually there are ways that it can end up opening what we might call metaphysical philosophy. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Dilemmas and Delineations - How did we get here Part 3 > Its a powerful way into understanding emptiness and the imaginal" data-href="Dilemmas and Delineations - How did we get here Part 3#It's a powerful way into understanding emptiness and the imaginal" class="internal-link">It&#x27;s a powerful way into understanding emptiness and the imaginal</a>_</span>
+
+

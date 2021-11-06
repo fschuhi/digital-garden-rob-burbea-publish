@@ -31,3 +31,9 @@ term | count | talks
 [[Imaginal]] | 2 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (2)</span> 
 [[Perception]] | 2 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (1) · <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 3" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 3</a> (1)</span> 
 
+### Quotes
+**<a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a>**
+<span class="counts"><a data-href="2019 Four Circles, Four Parables of Stone and Light" class="internal-link">2019 Four Circles, Four Parables of Stone and Light</a></span>
+> Self is dimensionalized, divinized, recognized as sacred, or allowed to flower in a sense of sacredness. Self as theophany, or as potential theophany. Eternality - so this angel out ahead, or this, what he's calling in this case the celestial person, is eternal. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Daimon, Refracted > Self is dimensionalized divinized recognized as sacred" data-href="Daimon, Refracted#Self is dimensionalized divinized recognized as sacred" class="internal-link">Self is dimensionalized, divinized, recognized as sacred</a>_</span>
+
+

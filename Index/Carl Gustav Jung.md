@@ -27,3 +27,9 @@ term | count | talks
 [[Image]] | 1 | <span class="counts"><a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a> (1)</span> 
 [[Imaginal]] | 1 | <span class="counts"><a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a> (1)</span> 
 
+### Quotes
+**<a data-href="Questioning Awakening" class="internal-link">Questioning Awakening</a>**
+<span class="counts"><a data-href="2014 November Solitary - Questioning Awakening" class="internal-link">2014 November Solitary - Questioning Awakening</a></span>
+> Carl Jung said, "Ideas are not made by persons, but persons by ideas." We don't see how powerful ideas are, because they shape the way we see ourselves and the world and existence, and then that's the existence that we feel ourselves move in. They conjure our experience. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Questioning Awakening > Unquestioned ideas operate in us and they will keep delivering the same limited range of experiences unless they are questioned" data-href="Questioning Awakening#Unquestioned ideas operate in us and they will keep delivering the same limited range of experiences unless they are questioned" class="internal-link">Unquestioned ideas operate in us, and they will keep delivering the same limited range of experiences, unless they are questioned</a>_</span>
+
+

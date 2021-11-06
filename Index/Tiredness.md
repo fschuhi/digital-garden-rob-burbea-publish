@@ -34,3 +34,13 @@ term | count | talks
 [[Appreciation]] | 1 | <span class="counts"><a data-href="The Place of Samadhi in Metta Practice" class="internal-link">The Place of Samadhi in Metta Practice</a> (1)</span> 
 [[Aversion]] | 1 | <span class="counts"><a data-href="The Place of Samadhi in Metta Practice" class="internal-link">The Place of Samadhi in Metta Practice</a> (1)</span> 
 
+### Quotes
+**<a data-href="The Place of Samadhi in Metta Practice" class="internal-link">The Place of Samadhi in Metta Practice</a>**
+<span class="counts"><a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> I think it's really the whole range of that. But certainly the allowing the spaciousness, the letting go, is very significant. You can be letting go of a lot of aversion in that. Aversion has a lot to do with tiredness. When there's aversion around, it's just very tiring. So letting go, being spacious, actually allows that to just let go. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="The Place of Samadhi in Metta Practice > Be willing to experiment with the whole range of it" data-href="The Place of Samadhi in Metta Practice#Be willing to experiment with the whole range of it" class="internal-link">Be willing to experiment with the whole range of it</a>_</span>
+
+**<a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a>**
+<span class="counts"><a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> When there's grief around, if it's grief, it will be tiring. That tiring, that tiredness, it kind of makes the being, makes the heart, more vulnerable to more grief, which makes the heart _more_ tired. And it spirals on itself that way. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Compassion (talk) > 4 Grief" data-href="Compassion (talk)#4 Grief" class="internal-link">(4) Grief</a>_</span>
+
+

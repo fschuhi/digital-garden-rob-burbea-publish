@@ -42,3 +42,21 @@ term | count | talks
 [[Image]] | 4 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (2) · <a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a> (1) · <a data-href="Dilemmas and Delineations - How did we get here Part 2" class="internal-link">Dilemmas and Delineations - How did we get here Part 2</a> (1)</span> 
 [[Imaginal]] | 4 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (1) · <a data-href="Dilemmas and Delineations - How did we get here Part 2" class="internal-link">Dilemmas and Delineations - How did we get here Part 2</a> (1) · <a data-href="Dilemmas and Delineations - How did we get here Part 4" class="internal-link">Dilemmas and Delineations - How did we get here Part 4</a> (1) · <a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (1)</span> 
 
+### Quotes
+**<a data-href="What is Insight" class="internal-link">What is Insight</a>**
+<span class="counts"><a data-href="2007 New Years Retreat Insight Meditation" class="internal-link">2007 New Years Retreat Insight Meditation</a></span>
+> Suchness is just the way it exactly is in this moment, without my layers of papañca and preconception - that's not actually what it quite means. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="What is Insight > It can feel that this radiance is the reality suchness" data-href="What is Insight#It can feel that this radiance is the reality suchness" class="internal-link">It can feel that this radiance is the reality (&quot;suchness&quot;)</a>_</span>
+
+**<a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> [T]here are some who can't wait. They have to include and learn as they go along, through different ways of looking, different practices, trial and error (with the help, hopefully, of the teachers), but to discern between these different movements: what's _papañca_? What's imaginal practice? It's possible. It's absolutely possible. But in a way, parallel tracks are running concurrently. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 3 > There are some who cannot wait" data-href="The Way of Non-Clinging Part 3#There are some who cannot wait" class="internal-link">There are some who cannot wait</a>_</span>
+
+**<a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a>**
+<span class="counts"><a data-href="2019 Four Circles, Four Parables of Stone and Light" class="internal-link">2019 Four Circles, Four Parables of Stone and Light</a></span>
+> So as the imaginal grows, the _papañca_ diminishes. As the _papañca_ grows, the imaginal diminishes. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Daimon, Refracted > Story wounded blackbird" data-href="Daimon, Refracted#Story wounded blackbird" class="internal-link">Story: wounded blackbird</a>_</span>
+
+**<a data-href="A Hidden Treasure - The Relationship with the Hindrances" class="internal-link">A Hidden Treasure - The Relationship with the Hindrances</a>**
+<span class="counts"><a data-href="2019 Practising the Jhanas" class="internal-link">2019 Practising the Jhanas</a></span>
+> So over time, there's this kind of sifting away, filtering away of the more _papañcizing_ element of the mind. And it becomes: "It's just the hindrance." It might still be quite strong; I'm really quite restless in the body, but there's no story attached to it. There's no lostness. What was usually _papañca_ becomes more just, "I'm just dealing with a hindrance now." &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="A Hidden Treasure - The Relationship with the Hindrances > Over time self-view manifest less as papanca and more as pure hindrance" data-href="A Hidden Treasure - The Relationship with the Hindrances#Over time self-view manifest less as papanca and more as pure hindrance" class="internal-link">Over time, self-view manifest less as papanca and more as pure hindrance</a>_</span>
+
+

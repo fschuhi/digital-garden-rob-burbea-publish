@@ -36,3 +36,9 @@ term | count | talks
 [[Freedom]] | 3 | <span class="counts"><a data-href="From Insight to Love" class="internal-link">From Insight to Love</a> (2) · <a data-href="Using Insight to Deepen Love and Compassion" class="internal-link">Using Insight to Deepen Love and Compassion</a> (1)</span> 
 [[Letting go]] | 3 | <span class="counts"><a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> (2) · <a data-href="What is Insight" class="internal-link">What is Insight</a> (1)</span> 
 
+### Quotes
+**<a data-href="From Insight to Love" class="internal-link">From Insight to Love</a>**
+<span class="counts"><a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> So with these three characteristics, one of the indicators that they're working properly is that they bring [[Awakening|freedom]] and love, and not a sense of coldness and disconnection or fear, as I said before.... &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="From Insight to Love > The emptiness that opens up from not me not mine is inbued with love" data-href="From Insight to Love#The emptiness that opens up from not me not mine is inbued with love" class="internal-link">The emptiness that opens up from &quot;not me, not mine&quot; is inbued with love</a>_</span>
+
+

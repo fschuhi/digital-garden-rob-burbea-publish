@@ -41,3 +41,11 @@ term | count | talks
 [[Awareness]] | 2 | <span class="counts"><a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a> (1) · <a data-href="The Place of Samadhi in Metta Practice" class="internal-link">The Place of Samadhi in Metta Practice</a> (1)</span> 
 [[Beauty]] | 2 | <span class="counts"><a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a> (1) · <a data-href="The Place of Samadhi in Metta Practice" class="internal-link">The Place of Samadhi in Metta Practice</a> (1)</span> 
 
+### Quotes
+**<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a>**
+<span class="counts"><a data-href="2020 Vajra Music" class="internal-link">2020 Vajra Music</a></span>
+> [W]e're letting that intention lead us, and just starting the movement, and kind of reading it, surfing the whole situation, responding with our receptivity, with our sensitivity, responding to what we sense in terms of the [[Soul|soulfulness]] and the blessingness, and letting that shape the movements, the gestures, the vocalizations we're doing. So we're letting the body and the <a data-href="energy body" class="internal-link">energy body</a> and the sense of the soulfulness in the moment guide the movements, the gestures, the vocalizations... &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 4 > Leaning into Mode 2" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Leaning into Mode 2" class="internal-link">Leaning into Mode 2</a>_</span>
+
+> [W]e're focusing on the time prior to that, on Abraham and his openness of <a data-href="soul" class="internal-link">soul</a>, his soul-antennae, his receptivity, his hospitality to the angels... &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 4 > Its about the moments prior to the scene in the Rublevs image" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's about the moments prior to the scene in the Rublev's image" class="internal-link">It&#x27;s about the moments prior to the scene in the Rublev&#x27;s image</a>_</span>
+
+

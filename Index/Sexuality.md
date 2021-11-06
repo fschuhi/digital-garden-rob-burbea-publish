@@ -39,3 +39,9 @@ term | count | talks
 [[Energy]] | 5 | <span class="counts"><a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a> (3) · <a data-href="Dilemmas and Delineations - How did we get here Part 2" class="internal-link">Dilemmas and Delineations - How did we get here Part 2</a> (1) · <a data-href="Dilemmas and Delineations - How did we get here Part 4" class="internal-link">Dilemmas and Delineations - How did we get here Part 4</a> (1)</span> 
 [[Imaginal]] | 5 | <span class="counts"><a data-href="Dilemmas and Delineations - How did we get here Part 4" class="internal-link">Dilemmas and Delineations - How did we get here Part 4</a> (3) · <a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a> (2)</span> 
 
+### Quotes
+**<a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> Sacredness never resides in this or that object or thing; we sacralize. We make something or other sacred through our relationship with it. So there's the possibility of sacralizing sexuality, rather than just viewing eros or sexuality as a defilement, or as leading inevitably to defilement. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Dilemmas and Delineations - How did we get here Part 1 > 2 Opening to the recognition of the sacredness of eros itself" data-href="Dilemmas and Delineations - How did we get here Part 1#2 Opening to the recognition of the sacredness of eros itself" class="internal-link">2. Opening to the recognition of the sacredness of eros itself</a>_</span>
+
+

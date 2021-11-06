@@ -31,3 +31,9 @@ term | count | talks
 [[Consciousness]] | 1 | <span class="counts"><a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a> (1)</span> 
 [[Cultivation]] | 1 | <span class="counts"><a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (1)</span> 
 
+### Quotes
+**<a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> So if we don't understand this teaching deeply enough, some level of realism (which is basically delusion, _avijjā_) remains... &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 2 > Just being and receiving is still a way of looking" data-href="The Way of Non-Clinging Part 2#Just being and receiving is still a way of looking" class="internal-link">&quot;Just being and receiving&quot; is still a way of looking</a>_</span>
+
+

@@ -30,3 +30,9 @@ term | count | talks
 [[Cultivation]] | 1 | <span class="counts"><a data-href="The Birth of a Bodhisattva" class="internal-link">The Birth of a Bodhisattva</a> (1)</span> 
 [[Dependent Origination]] | 1 | <span class="counts"><a data-href="The Practice of Compassion" class="internal-link">The Practice of Compassion</a> (1)</span> 
 
+### Quotes
+**<a data-href="The Birth of a Bodhisattva" class="internal-link">The Birth of a Bodhisattva</a>**
+<span class="counts"><a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> When the mind, when the heart, is small, restricted, that karma ripens - the memory of what we did, or what happened to us or whatever - ripens in that context of the restricted, the constricted heart. In the unrestricted heart, the immeasurable heart - so one that is either immeasurable through loving-kindness and compassion, or joy or equanimity, one of the _brahmavihāras_, immeasurable that way, or unrestricted through _samādhi_ or through insight - in the unrestricted heart, when that karma ripens, when it comes up, when the memory comes up or the effects from the past come up, memory or otherwise, it's in a very different context. And the Buddha said it will barely be noticed. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="The Birth of a Bodhisattva > Ripening of karma from the past" data-href="The Birth of a Bodhisattva#Ripening of karma from the past" class="internal-link">Ripening of karma from the past</a>_</span>
+
+

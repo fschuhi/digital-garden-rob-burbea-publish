@@ -34,3 +34,9 @@ term | count | talks
 [[Experience]] | 2 | <span class="counts"><a data-href="Questioning Awakening" class="internal-link">Questioning Awakening</a> (1) · <a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a> (1)</span> 
 [[Fetters]] | 2 | <span class="counts"><a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a> (2)</span> 
 
+### Quotes
+**<a data-href="Questioning Awakening" class="internal-link">Questioning Awakening</a>**
+<span class="counts"><a data-href="2014 November Solitary - Questioning Awakening" class="internal-link">2014 November Solitary - Questioning Awakening</a></span>
+> There's a thrust of transcendence that runs through Pali Canon teachings. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Questioning Awakening > As Buddhist we have a common language the Four Noble Truths but this entails rebirth" data-href="Questioning Awakening#As Buddhist we have a common language the Four Noble Truths but this entails rebirth" class="internal-link">As Buddhist, we have a common language: the Four Noble Truths, but this entails rebirth</a>_</span>
+
+

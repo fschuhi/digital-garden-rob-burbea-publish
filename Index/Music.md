@@ -44,3 +44,17 @@ term | count | talks
 [[Elitism]] | 3 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 1</a> (3)</span> 
 [[Embodiment]] | 3 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (2) · <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> (1)</span> 
 
+### Quotes
+**<a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a>**
+<span class="counts"><a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> How is it that my well of joy, my reservoir of inner happiness, can be deepened in life? And so looking into: how does the being open to wonder? How does it open to the mystery of life, to the awe of things? What's the place of art and music in that? What's the place of our relationship with nature? &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Equanimity in Compassion > When feel like we have enough external circumstances make less of an impact" data-href="Equanimity in Compassion#When feel like we have enough external circumstances make less of an impact" class="internal-link">When feel like we have enough, external circumstances make less of an impact</a>_</span>
+
+**<a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> [I]s it even possible to create a large form (say a long piece of music, or a novel, or a film or something, or a painting that takes a long time) without craving, clinging, attachment, desire? Or training - the long, dedicated training it takes to develop that kind of mastery in spontaneity... &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 3 > Art sexuality without desire" data-href="The Way of Non-Clinging Part 3#Art sexuality without desire" class="internal-link">Art, sexuality without desire?</a>_</span>
+
+**<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a>**
+<span class="counts"><a data-href="2020 Vajra Music" class="internal-link">2020 Vajra Music</a></span>
+> The meaning of this and the dimensionality, or the meaning of this and the sensing with soul of what's opened up through the meaning of what's being said in my voice, but also the dimensions that are opened up just through the sound, through the <a data-href="music" class="internal-link">music</a> of it, the mystery of it, the miracle of hearing and of sound. This particular sound, right now. This particular music. Different than other musics. Unique, particular. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 4 > The mircacle of hearing and of sound" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The mircacle of hearing and of sound" class="internal-link">The mircacle of hearing and of sound</a>_</span>
+
+

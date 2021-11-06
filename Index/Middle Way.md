@@ -39,3 +39,11 @@ term | count | talks
 [[Dharma]] | 2 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (1) · <a data-href="Love and the Emptiness of Things" class="internal-link">Love and the Emptiness of Things</a> (1)</span> 
 [[Infinity]] | 2 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (1) · <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 3" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 3</a> (1)</span> 
 
+### Quotes
+**<a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a>**
+<span class="counts"><a data-href="2019 Four Circles, Four Parables of Stone and Light" class="internal-link">2019 Four Circles, Four Parables of Stone and Light</a></span>
+> [W]hen we talk about the _imaginal_ Middle Way, we're not talking about simply a dissolution, a melting of the self, a dissolving, a disappearing, a fading of self or other objects of the imagination. To be an object of the imagination, it must be formed in some way. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Daimon, Refracted > We are free to entertain any sense of self" data-href="Daimon, Refracted#We are free to entertain any sense of self" class="internal-link">We are free to entertain any sense of self</a>_</span>
+
+> [W]e're dancing on the breadth of this boulevard of the imaginal Middle Way with respect to reification, how much, how little at different times. And sometimes, or with some people at some times, it's important that they view or that they are encouraged to view: "Do you realize you're more _really_ that, you're more _really_ or more _primarily_ angel than you are what you appear to be in the conventional sense, in the conventional view?" &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Daimon, Refracted > 3 over- or under-reification of the sense of self" data-href="Daimon, Refracted#3 over- or under-reification of the sense of self" class="internal-link">(3) over- or under-reification of the sense of self</a>_</span>
+
+

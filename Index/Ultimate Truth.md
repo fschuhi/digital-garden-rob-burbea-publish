@@ -38,3 +38,13 @@ term | count | talks
 [[Fabrication]] | 2 | <span class="counts"><a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a> (2)</span> 
 [[Feelings]] | 2 | <span class="counts"><a data-href="What is Insight" class="internal-link">What is Insight</a> (2)</span> 
 
+### Quotes
+**<a data-href="What is Insight" class="internal-link">What is Insight</a>**
+<span class="counts"><a data-href="2007 New Years Retreat Insight Meditation" class="internal-link">2007 New Years Retreat Insight Meditation</a></span>
+> [U]niversal insights, they're not one-off insights. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="What is Insight > What qualities do I need to cultivate that actually lead to a lessening of suffering" data-href="What is Insight#What qualities do I need to cultivate that actually lead to a lessening of suffering" class="internal-link">What qualities do I need to cultivate that actually lead to a lessening of suffering</a>_</span>
+
+**<a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> Everyone seems to talk as if these things are real - bare sensations, or if I'm in a certain culture, the atomic process of mind moments and experiences. Is that the ultimate reality? Or is that just a certain level of less fabrication? So I keep this framework of ways of looking and fabrication, and I just see. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 2 > Bare sensations etc is not ultimate reality" data-href="The Way of Non-Clinging Part 2#Bare sensations etc is not ultimate reality" class="internal-link">Bare sensations etc. is not ultimate reality</a>_</span>
+
+

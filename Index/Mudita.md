@@ -38,3 +38,17 @@ term | count | talks
 [[Appreciation]] | 2 | <span class="counts"><a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> (1) · <a data-href="The Energy Body and the Whole-body breath - Instructions and Guided Meditation" class="internal-link">The Energy Body and the Whole-body breath - Instructions and Guided Meditation</a> (1)</span> 
 [[Beauty]] | 2 | <span class="counts"><a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a> (1) · <a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> (1)</span> 
 
+### Quotes
+**<a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a>**
+<span class="counts"><a data-href="2006 New Year's Retreat" class="internal-link">2006 New Year&#x27;s Retreat</a></span>
+> A spiritual joy, doesn't have so much to do with the self. So one aspect of spiritual joy, we could say, is wonder, wonder. That quality of just a human being wondering, marveling.. a human being in awe at life, at existence, at the universe... &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Equanimity (talk) > Spiritual joy" data-href="Equanimity (talk)#Spiritual joy" class="internal-link">Spiritual joy</a>_</span>
+
+**<a data-href="Joy (talk)" class="internal-link">Joy (talk)</a>**
+<span class="counts"><a data-href="2007 New Years Retreat Insight Meditation" class="internal-link">2007 New Years Retreat Insight Meditation</a></span>
+> So it's joy that comes from cultivation of the beautiful qualities of heart; joy that comes from appreciation, cultivating appreciation; joy that comes from opening, from connecting, from perceiving beauty, from developing our capacity to perceive beauty, from the deepening of our practice, joy in practice itself, joy in the Dharma, joy in the teachings, in hearing the teachings, in the Saṅgha, in the community of people who love to practise, who are interested in practising. This is all Dharma joy, spiritual joy. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Joy (talk) > Different ways spiritual joy expresses itself" data-href="Joy (talk)#Different ways spiritual joy expresses itself" class="internal-link">Different ways spiritual joy expresses itself</a>_</span>
+
+**<a data-href="Orienting to This Jhana Retreat" class="internal-link">Orienting to This Jhana Retreat</a>**
+<span class="counts"><a data-href="2019 Practising the Jhanas" class="internal-link">2019 Practising the Jhanas</a></span>
+> It means it's not just the joy in someone else's happiness. It _is_ that, and it's all those things I just talked about as well. That's what _muditā_ means in its broader sense, and that's, I think, how the Buddha meant it. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Orienting to This Jhana Retreat > 6 Mudita" data-href="Orienting to This Jhana Retreat#6 Mudita" class="internal-link">(6) Mudita</a>_</span>
+
+

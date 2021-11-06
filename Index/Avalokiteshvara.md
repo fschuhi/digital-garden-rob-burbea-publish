@@ -39,3 +39,9 @@ term | count | talks
 [[Tara]] | 3 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (1) · <a data-href="Exploring the World of Loving Kindness" class="internal-link">Exploring the World of Loving Kindness</a> (1) · <a data-href="The Practice of Compassion" class="internal-link">The Practice of Compassion</a> (1)</span> 
 [[Cultivation]] | 2 | <span class="counts"><a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a> (1) · <a data-href="The Practice of Compassion" class="internal-link">The Practice of Compassion</a> (1)</span> 
 
+### Quotes
+**<a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a>**
+<span class="counts"><a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> Avalokiteśvara is the bodhisattva of compassion, and one of the meanings of that is One Who Listens to the Cries of the World. Beautiful. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Compassion (talk) > Wanting to take in all the suffering is a beautiful aspiration" data-href="Compassion (talk)#Wanting to take in all the suffering is a beautiful aspiration" class="internal-link">Wanting to take in all the suffering is a beautiful aspiration</a>_</span>
+
+

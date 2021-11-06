@@ -38,3 +38,9 @@ term | count | talks
 [[Hindrances]] | 2 | <span class="counts"><a data-href="A Hidden Treasure - The Relationship with the Hindrances" class="internal-link">A Hidden Treasure - The Relationship with the Hindrances</a> (1) · <a data-href="Samadhi in Metta Practice" class="internal-link">Samadhi in Metta Practice</a> (1)</span> 
 [[Love]] | 2 | <span class="counts"><a data-href="From Insight to Love" class="internal-link">From Insight to Love</a> (1) · <a data-href="Using Insight to Deepen Love and Compassion" class="internal-link">Using Insight to Deepen Love and Compassion</a> (1)</span> 
 
+### Quotes
+**<a data-href="The Birth of a Bodhisattva" class="internal-link">The Birth of a Bodhisattva</a>**
+<span class="counts"><a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> Sometimes we're _too_ cautious perhaps. And perhaps there _is_ a place for stretching ourselves, stretching our limits, just saying, "To hell with myself and my self-concern," and just a kind of abandon. Maybe that has its place. Or rather, it definitely has its place, but it needs to be approached with wisdom. And stretching the limits of one's stamina and one's endurance in serving and in giving - there is the place for that. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="The Birth of a Bodhisattva > We have to respect where we are in our humanity" data-href="The Birth of a Bodhisattva#We have to respect where we are in our humanity" class="internal-link">We have to respect where we are in our humanity</a>_</span>
+
+

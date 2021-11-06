@@ -42,3 +42,9 @@ term | count | talks
 [[Appreciation]] | 3 | <span class="counts"><a data-href="Orienting to This Jhana Retreat" class="internal-link">Orienting to This Jhana Retreat</a> (2) · <a data-href="Samadhi in Metta Practice" class="internal-link">Samadhi in Metta Practice</a> (1)</span> 
 [[Imaginal]] | 3 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (2) · <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> (1)</span> 
 
+### Quotes
+**<a data-href="The Place of Samadhi in Metta Practice" class="internal-link">The Place of Samadhi in Metta Practice</a>**
+<span class="counts"><a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> The mind is _not_ like it appears to be right now, it's _not_ clouded, it's _not_ clear, it's _not_ deep, it's _not_ shallow, I'm _not_ sitting here, you're _not_ sitting there, this is _not_ Gaia House, this is _not_ a meditation retreat. It can be hard to understand that without having gone through the depth of _samādhi_. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="The Place of Samadhi in Metta Practice > A deep understanding of non-duality is that actually theres no way things are" data-href="The Place of Samadhi in Metta Practice#A deep understanding of non-duality is that actually there's no way things are" class="internal-link">A deep understanding of non-duality is that actually there&#x27;s no &quot;way things are&quot;</a>_</span>
+
+

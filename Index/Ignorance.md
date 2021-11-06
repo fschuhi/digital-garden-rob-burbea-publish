@@ -42,3 +42,19 @@ term | count | talks
 [[Craving]] | 8 | <span class="counts"><a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a> (4) · <a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a> (2) · <a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a> (1) · <a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (1)</span> 
 [[Perception]] | 8 | <span class="counts"><a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a> (5) · <a data-href="The Practice of Compassion" class="internal-link">The Practice of Compassion</a> (1) · <a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a> (1) · <a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (1)</span> 
 
+### Quotes
+**<a data-href="What is Insight" class="internal-link">What is Insight</a>**
+<span class="counts"><a data-href="2007 New Years Retreat Insight Meditation" class="internal-link">2007 New Years Retreat Insight Meditation</a></span>
+> [A]bsolutely everything that we take for granted, is actually built and fabricated by my relationship to it, by the way I'm looking at it. Not to understand that, the Buddha called that the fundamental delusion, the fundamental ignorance that human beings have, or that consciousnesses have. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="What is Insight > Everything is fabricated" data-href="What is Insight#Everything is fabricated" class="internal-link">Everything is fabricated</a>_</span>
+
+**<a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> [W]e see how clinging, craving, _saṅkhārā_, _avijjā_, attention - these notions overlap. They're all different forms of clinging... &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 2 > Even attention is a form of clinging" data-href="The Way of Non-Clinging Part 2#Even attention is a form of clinging" class="internal-link">Even attention is a form of clinging</a>_</span>
+
+> So if we don't understand this teaching deeply enough, some level of realism (which is basically delusion, _avijjā_) remains... &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 2 > Just being and receiving is still a way of looking" data-href="The Way of Non-Clinging Part 2#Just being and receiving is still a way of looking" class="internal-link">&quot;Just being and receiving&quot; is still a way of looking</a>_</span>
+
+**<a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> _[A]vijjā_ is clinging, this belief in the reality of something existing independently from the way of looking. It's a clinging. I need to refine my practice until I can actually play with the spectrum, actually move that clinging of delusion up and down on a spectrum, and see what happens. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 3 > 2 spectrum of fabrication emptiness" data-href="The Way of Non-Clinging Part 3#2 spectrum of fabrication emptiness" class="internal-link">2. spectrum of fabrication (emptiness)</a>_</span>
+
+

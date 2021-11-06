@@ -31,3 +31,9 @@ term | count | talks
 [[Dukkha]] | 1 | <span class="counts"><a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (1)</span> 
 [[Mind]] | 1 | <span class="counts"><a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (1)</span> 
 
+### Quotes
+**<a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> [T]he mode of mind, the gear, the circuitry, if you like, should revert to a kind of more mindful stance, a kind of neutral gear, which will be more easeful of the suffering that's inherent in discrepancy-based processing. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 3 > The Mode of mind is supposed revert to a more mindful stance" data-href="The Way of Non-Clinging Part 3#The Mode of mind is supposed revert to a more mindful stance" class="internal-link">The &quot;Mode of mind&quot; is supposed revert to a more mindful stance</a>_</span>
+
+

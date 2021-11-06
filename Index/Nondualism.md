@@ -42,3 +42,17 @@ term | count | talks
 [[Consciousness]] | 4 | <span class="counts"><a data-href="Expressions of Metta" class="internal-link">Expressions of Metta</a> (1) · <a data-href="Love and Emptiness" class="internal-link">Love and Emptiness</a> (1) · <a data-href="Love and the Emptiness of Things" class="internal-link">Love and the Emptiness of Things</a> (1) · <a data-href="Using Insight to Deepen Love and Compassion" class="internal-link">Using Insight to Deepen Love and Compassion</a> (1)</span> 
 [[Craving]] | 4 | <span class="counts"><a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a> (1) · <a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a> (1) · <a data-href="From Insight to Love" class="internal-link">From Insight to Love</a> (1) · <a data-href="Using Insight to Deepen Love and Compassion" class="internal-link">Using Insight to Deepen Love and Compassion</a> (1)</span> 
 
+### Quotes
+**<a data-href="Love and Emptiness" class="internal-link">Love and Emptiness</a>**
+<span class="counts"><a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> Seeing emptiness leads to love and compassion, because it's kind of done away with the reality of separation, with the reality of barriers, with the reality of real problems, real faults, with the investment we have in self-inflating or self-depreciation. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Love and Emptiness > The indicator for emptiness is love and freedom" data-href="Love and Emptiness#The indicator for emptiness is love and freedom" class="internal-link">The indicator for emptiness is love and freedom</a>_</span>
+
+**<a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a>**
+<span class="counts"><a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> There's absolutely love in it. In that state, there's a kind of non-separation. We're not building a sense of self and other, a sense of separation, by getting involved in this tussle, in this push and pull. In the non-separation, there's love, effortlessly. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Equanimity in Compassion > There is wonder beauty love and juiciness in equanimity practice" data-href="Equanimity in Compassion#There is wonder beauty love and juiciness in equanimity practice" class="internal-link">There is wonder, beauty, love and juiciness in equanimity practice</a>_</span>
+
+**<a data-href="Love and the Emptiness of Things" class="internal-link">Love and the Emptiness of Things</a>**
+<span class="counts"><a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> [I]t leads to more love, to less of a sense of separation, less of a sense of barriers, less of a sense of fault-finding with oneself, with others, with situations, even - less self-inflating, deflating, etc. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Love and the Emptiness of Things > Emptiness practice should lead to love and compassion" data-href="Love and the Emptiness of Things#Emptiness practice should lead to love and compassion" class="internal-link">Emptiness practice should lead to love and compassion</a>_</span>
+
+

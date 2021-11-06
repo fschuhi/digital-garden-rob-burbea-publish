@@ -40,3 +40,15 @@ term | count | talks
 [[Insight]] | 6 | <span class="counts"><a data-href="Orienting to This Jhana Retreat" class="internal-link">Orienting to This Jhana Retreat</a> (5) · <a data-href="A Hidden Treasure - The Relationship with the Hindrances" class="internal-link">A Hidden Treasure - The Relationship with the Hindrances</a> (1)</span> 
 [[Embodiment]] | 5 | <span class="counts"><a data-href="Samadhi in Metta Practice" class="internal-link">Samadhi in Metta Practice</a> (2) · <a data-href="The Place of Samadhi in Metta Practice" class="internal-link">The Place of Samadhi in Metta Practice</a> (2) · <a data-href="A Hidden Treasure - The Relationship with the Hindrances" class="internal-link">A Hidden Treasure - The Relationship with the Hindrances</a> (1)</span> 
 
+### Quotes
+**<a data-href="Dilemmas and Delineations - How did we get here Part 2" class="internal-link">Dilemmas and Delineations - How did we get here Part 2</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> '[B]liss' as an experience of the energy body, of great pleasantness in the energy body, of rapture or joy in the energy body, and that kind of openness, etc., sometimes very intense, sometimes much more subtle. {quote But that energy body experience of bliss, I would say, accompanies _any_ lightening or unfabricating, to whatever degree, of the self-sense, up to a certain point, at least. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Dilemmas and Delineations - How did we get here Part 2 > The bliss of soulmaking" data-href="Dilemmas and Delineations - How did we get here Part 2#The bliss of soulmaking" class="internal-link">The &quot;bliss&quot; of soulmaking&quot;</a>_</span>
+
+**<a data-href="Orienting to This Jhana Retreat" class="internal-link">Orienting to This Jhana Retreat</a>**
+<span class="counts"><a data-href="2019 Practising the Jhanas" class="internal-link">2019 Practising the Jhanas</a></span>
+> "How do we _get_ that _pīti_ to arise?" Or "How do we _allow_ that _pīti_ to arise?" is a better way of putting it. The lovely news is _pīti_ is just like Newton Abbot. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Orienting to This Jhana Retreat > If you can get piti then the whole territory is open to you" data-href="Orienting to This Jhana Retreat#If you can get piti then the whole territory is open to you" class="internal-link">If you can get piti, then the whole territory is open to you</a>_</span>
+
+> Meaning that it doesn't really matter how that _pīti_ arises, and I would say _anything_ goes. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Orienting to This Jhana Retreat > If you can get piti then the whole territory is open to you" data-href="Orienting to This Jhana Retreat#If you can get piti then the whole territory is open to you" class="internal-link">If you can get piti, then the whole territory is open to you</a>_</span>
+
+

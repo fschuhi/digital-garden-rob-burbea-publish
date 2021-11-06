@@ -34,3 +34,9 @@ term | count | talks
 [[Metta]] | 2 | <span class="counts"><a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a> (1) · <a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (1)</span> 
 [[Attention]] | 1 | <span class="counts"><a data-href="Love and Emptiness" class="internal-link">Love and Emptiness</a> (1)</span> 
 
+### Quotes
+**<a data-href="Love and the Emptiness of Things" class="internal-link">Love and the Emptiness of Things</a>**
+<span class="counts"><a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> _[C]handa_ is more 'aspiration,' 'will to do.' It's actually the fuel for our practice. And where do teachings land? Does _taṇhā_ grab hold of them and make a problem out of it? Or does _chanda_? &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Love and the Emptiness of Things > Tanha vs chanda" data-href="Love and the Emptiness of Things#Tanha vs chanda" class="internal-link">Tanha vs chanda</a>_</span>
+
+

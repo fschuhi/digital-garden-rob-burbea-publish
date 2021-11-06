@@ -32,3 +32,11 @@ term | count | talks
 [[Emptiness]] | 2 | <span class="counts"><a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a> (2)</span> 
 [[Meditation]] | 2 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (2)</span> 
 
+### Quotes
+**<a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> Buddha-nature, _dharmakāya_, emptiness, the Absolute, and other words (there are quite a few words that are used interchangeably), means something like the cosmic awareness that is inherently in me and in you and in everything, that knows the emptiness of all things, is not separate (as separating subjects and objects). In that sense, it's non-dual. It refers, then, to the knowing - which is also empty; this knowing awareness is empty in itself - but the knowing and_ the appearances _and_ their emptiness. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Dilemmas and Delineations - How did we get here Part 3 > Buddha-nature according to Shentong" data-href="Dilemmas and Delineations - How did we get here Part 3#Buddha-nature according to Shentong" class="internal-link">Buddha-nature according to Shentong</a>_</span>
+
+> World Soul - there's a kind of intelligence or divine activity that's operating in and through and as Buddha-nature, as well as that awareness and its inseparability from emptiness, from appearances, etc. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Dilemmas and Delineations - How did we get here Part 3 > The dharmakaya can act in the world" data-href="Dilemmas and Delineations - How did we get here Part 3#The dharmakaya can act in the world" class="internal-link">The dharmakaya can act in the world</a>_</span>
+
+

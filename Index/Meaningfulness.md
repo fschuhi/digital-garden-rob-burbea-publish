@@ -38,3 +38,17 @@ term | count | talks
 [[Imaginal]] | 3 | <span class="counts"><a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a> (1) · <a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a> (1) · <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 3" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 3</a> (1)</span> 
 [[Cosmology]] | 2 | <span class="counts"><a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a> (1) · <a data-href="Questioning Awakening" class="internal-link">Questioning Awakening</a> (1)</span> 
 
+### Quotes
+**<a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> [W]henever there is a sense of soulfulness, that kind of richness, resonance, depth, dimensionality, beauty, meaningfulness, in our existence, in the being, whenever there is soulmaking, sacredness in our existence, eros is involved. Eros is involved whenever there is soulmaking. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Dilemmas and Delineations - How did we get here Part 1 > Eros involves energy embodiment the imaginal and logos" data-href="Dilemmas and Delineations - How did we get here Part 1#Eros involves energy embodiment the imaginal and logos" class="internal-link">Eros involves energy, embodiment, the imaginal, and logos</a>_</span>
+
+**<a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> Where there is love, meaningfulness, importance, aliveness, _there_ there is image and fantasy. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Dilemmas and Delineations - How did we get here Part 3 > The imaginal and images also relate to how we perceive the world" data-href="Dilemmas and Delineations - How did we get here Part 3#The imaginal and images also relate to how we perceive the world" class="internal-link">The imaginal and images also relate to how we perceive the world</a>_</span>
+
+**<a data-href="Dilemmas and Delineations - How did we get here Part 4" class="internal-link">Dilemmas and Delineations - How did we get here Part 4</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> And I also insist that this is not a bad thing. Not at all a bad thing. It's inevitable, and it's important, and it may well, I would say, be necessary. It's certainly necessary to galvanize in relation to practice and Dharma, and to be inspired in life, and to have meaningfulness. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Dilemmas and Delineations - How did we get here Part 4 > In any Dharma fantasy and image is already involved" data-href="Dilemmas and Delineations - How did we get here Part 4#In any Dharma fantasy and image is already involved" class="internal-link">In any Dharma, fantasy and image is already involved</a>_</span>
+
+

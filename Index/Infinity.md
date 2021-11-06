@@ -41,3 +41,17 @@ term | count | talks
 [[Dimensionality]] | 2 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (1) · <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 3" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 3</a> (1)</span> 
 [[Dukkha]] | 2 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (1) · <a data-href="The Practice of Compassion" class="internal-link">The Practice of Compassion</a> (1)</span> 
 
+### Quotes
+**<a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a>**
+<span class="counts"><a data-href="2006 New Year's Retreat" class="internal-link">2006 New Year&#x27;s Retreat</a></span>
+> This right now, this sound, this sight, these body sensations, it's all in the context of .. the vast unknown of death. So in a way can we contemplate the infinite every day, can we contemplate death every day. Not morbid. Maybe a little scary at first but actually moving towards equanimity, moving towards freedom. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Equanimity (talk) > This moment is in the context of vast time and the vast unknown of death" data-href="Equanimity (talk)#This moment is in the context of vast time and the vast unknown of death" class="internal-link">This moment is in the context of vast time and the vast unknown of death</a>_</span>
+
+**<a data-href="Dilemmas and Delineations - How did we get here Part 2" class="internal-link">Dilemmas and Delineations - How did we get here Part 2</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> Eros always goes along with - I think he's another god called Pothos. Pothos is another Greek word. And Pothos is the infinite desire or the desire for the infinite. It's the 'more.' &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Dilemmas and Delineations - How did we get here Part 2 > Eros goes together with Pothos" data-href="Dilemmas and Delineations - How did we get here Part 2#Eros goes together with Pothos" class="internal-link">Eros goes together with Pothos</a>_</span>
+
+**<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 3" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 3</a>**
+<span class="counts"><a data-href="2020 Vajra Music" class="internal-link">2020 Vajra Music</a></span>
+> There's a mystery in the kind of impossibility of finally dividing them up as one or two, this being that I'm encountering, this being that I'm sensing with soul. ... So that infinite echoing and mirroring is of the angel into this person's life, and this person's life and this person's being as the infinite echoing and mirroring of the angel, and the angel also a mirror and an echo of the being, in a kind of two-way, back-and-forth echoing and mirroring each other. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 3 > Words like angel soul image imply unfathomability" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Words like 'angel' 'soul' 'image' imply unfathomability" class="internal-link">Words like &#x27;angel&#x27;, &#x27;soul&#x27;, &#x27;image&#x27; imply unfathomability</a>_</span>
+
+

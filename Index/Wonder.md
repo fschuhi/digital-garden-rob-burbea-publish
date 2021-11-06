@@ -42,3 +42,19 @@ term | count | talks
 [[Cultivation]] | 3 | <span class="counts"><a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a> (1) · <a data-href="Guided Meditation on Gratitude and Compassion" class="internal-link">Guided Meditation on Gratitude and Compassion</a> (1) · <a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> (1)</span> 
 [[Dukkha]] | 3 | <span class="counts"><a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> (2) · <a data-href="Guided Meditation on Gratitude and Compassion" class="internal-link">Guided Meditation on Gratitude and Compassion</a> (1)</span> 
 
+### Quotes
+**<a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a>**
+<span class="counts"><a data-href="2006 New Year's Retreat" class="internal-link">2006 New Year&#x27;s Retreat</a></span>
+> A spiritual joy, doesn't have so much to do with the self. So one aspect of spiritual joy, we could say, is wonder, wonder. That quality of just a human being wondering, marveling.. a human being in awe at life, at existence, at the universe... &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Equanimity (talk) > Spiritual joy" data-href="Equanimity (talk)#Spiritual joy" class="internal-link">Spiritual joy</a>_</span>
+
+**<a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a>**
+<span class="counts"><a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> How is it that my well of joy, my reservoir of inner happiness, can be deepened in life? And so looking into: how does the being open to wonder? How does it open to the mystery of life, to the awe of things? What's the place of art and music in that? What's the place of our relationship with nature? &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Equanimity in Compassion > When feel like we have enough external circumstances make less of an impact" data-href="Equanimity in Compassion#When feel like we have enough external circumstances make less of an impact" class="internal-link">When feel like we have enough, external circumstances make less of an impact</a>_</span>
+
+**<a data-href="Joy (talk)" class="internal-link">Joy (talk)</a>**
+<span class="counts"><a data-href="2007 New Years Retreat Insight Meditation" class="internal-link">2007 New Years Retreat Insight Meditation</a></span>
+> And so, rather than being hungry for it and sort of reliant on sense pleasure, we can be open to the pleasure through the senses, but it's actually a sense of wonder or mystery through the senses that we're tuning into more and more, rather than the aspect of it being pleasant or unpleasant... &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Joy (talk) > Piti is the physical aspect of spiritual joy not based on sense pleasure" data-href="Joy (talk)#Piti is the physical aspect of spiritual joy not based on sense pleasure" class="internal-link">Piti is the physical aspect of spiritual joy, not based on sense pleasure</a>_</span>
+
+> [T]here's a wonder in it. Not dependent on pleasant or unpleasant; dependent on something else. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Joy (talk) > Piti is the physical aspect of spiritual joy not based on sense pleasure" data-href="Joy (talk)#Piti is the physical aspect of spiritual joy not based on sense pleasure" class="internal-link">Piti is the physical aspect of spiritual joy, not based on sense pleasure</a>_</span>
+
+

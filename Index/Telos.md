@@ -30,3 +30,13 @@ term | count | talks
 [[Consciousness]] | 1 | <span class="counts"><a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a> (1)</span> 
 [[Divinity]] | 1 | <span class="counts"><a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a> (1)</span> 
 
+### Quotes
+**<a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> Telos refers to almost like causality from the future. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Dilemmas and Delineations - How did we get here Part 3 > Any idea of causality is also a logos" data-href="Dilemmas and Delineations - How did we get here Part 3#Any idea of causality is also a logos" class="internal-link">Any idea of causality is also a logos</a>_</span>
+
+**<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a>**
+<span class="counts"><a data-href="2020 Vajra Music" class="internal-link">2020 Vajra Music</a></span>
+> This is what we want. We want the body and the <a data-href="soul" class="internal-link">soul</a> integrated together. We want the possibility of soul to manifest, express, flow through and flow from all aspects of the being, including the [[Embodiment|body movement]], the body sense, the gesturing, the voice, the language, all of it. We want soul to be able to come through there as soul wants to come through there, so that we _can_ follow our <a data-href="telos" class="internal-link">telos</a>, we _can_ discharge our <a data-href="duty" class="internal-link">duty</a>, we _can_ carry that out, we _can_ have a fuller sense of ourselves, sense ourselves with soul, sense our life with soul, our work, our duty, our relationships, our being, the aspects of our being. This is what we want. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 4 > We want the body and soul integrated together" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4#We want the body and soul integrated together" class="internal-link">We want the body and soul integrated together</a>_</span>
+
+

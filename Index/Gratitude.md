@@ -37,3 +37,17 @@ term | count | talks
 [[Beauty]] | 1 | <span class="counts"><a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> (1)</span> 
 [[Blessing]] | 1 | <span class="counts"><a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 3" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 3</a> (1)</span> 
 
+### Quotes
+**<a data-href="Joy (talk)" class="internal-link">Joy (talk)</a>**
+<span class="counts"><a data-href="2007 New Years Retreat Insight Meditation" class="internal-link">2007 New Years Retreat Insight Meditation</a></span>
+> Huge is the power of gratitude. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Joy (talk) > Excercise 10 things you are grateful for" data-href="Joy (talk)#Excercise 10 things you are grateful for" class="internal-link">Excercise: 10 things you are grateful for</a>_</span>
+
+**<a data-href="The Place of Samadhi in Metta Practice" class="internal-link">The Place of Samadhi in Metta Practice</a>**
+<span class="counts"><a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> When we think about _samādhi_, the whole picture is important. Taking care of that, nurturing appreciation, gratitude, etc. - very significant. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="The Place of Samadhi in Metta Practice > Keep that willingness experimentation nurturing around" data-href="The Place of Samadhi in Metta Practice#Keep that willingness experimentation nurturing around" class="internal-link">Keep that willingness, experimentation, nurturing around</a>_</span>
+
+**<a data-href="Orienting to This Jhana Retreat" class="internal-link">Orienting to This Jhana Retreat</a>**
+<span class="counts"><a data-href="2019 Practising the Jhanas" class="internal-link">2019 Practising the Jhanas</a></span>
+> Taking care of inclining the mind and the heart to gratitude, to seeing what there is to be grateful for and to feeling that gratitude every day, a number of times. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Orienting to This Jhana Retreat > 2 Gratitude" data-href="Orienting to This Jhana Retreat#2 Gratitude" class="internal-link">(2) Gratitude</a>_</span>
+
+

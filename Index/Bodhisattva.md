@@ -38,3 +38,15 @@ term | count | talks
 [[Dharma]] | 3 | <span class="counts"><a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (2) · <a data-href="The Birth of a Bodhisattva" class="internal-link">The Birth of a Bodhisattva</a> (1)</span> 
 [[Metta]] | 3 | <span class="counts"><a data-href="Exploring the World of Loving Kindness" class="internal-link">Exploring the World of Loving Kindness</a> (1) · <a data-href="Expressions of Metta" class="internal-link">Expressions of Metta</a> (1) · <a data-href="The Birth of a Bodhisattva" class="internal-link">The Birth of a Bodhisattva</a> (1)</span> 
 
+### Quotes
+**<a data-href="Compassion (talk)" class="internal-link">Compassion (talk)</a>**
+<span class="counts"><a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> Avalokiteśvara is the bodhisattva of compassion, and one of the meanings of that is One Who Listens to the Cries of the World. Beautiful. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Compassion (talk) > Wanting to take in all the suffering is a beautiful aspiration" data-href="Compassion (talk)#Wanting to take in all the suffering is a beautiful aspiration" class="internal-link">Wanting to take in all the suffering is a beautiful aspiration</a>_</span>
+
+**<a data-href="The Birth of a Bodhisattva" class="internal-link">The Birth of a Bodhisattva</a>**
+<span class="counts"><a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a></span>
+> Moving away from the kind of sense of consolation one gets from God or bodhisattva or whatever it is, away from that to _thy will_, and actually into the dark night of the soul, where one feels one isn't getting anything. There's something in that darkness, in that not getting. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="The Birth of a Bodhisattva > Jesus in the Garden of Gethsemane" data-href="The Birth of a Bodhisattva#Jesus in the Garden of Gethsemane" class="internal-link">Jesus in the Garden of Gethsemane</a>_</span>
+
+> It's all empty. At one level, nothing happened. At another level, I'm right there. That's what allows a bodhisattva to be a bodhisattva, is that the emptiness and the compassion are together. Without that, forget about it. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="The Birth of a Bodhisattva > The bodhisattva can make such a huge aspiration because theyre holding the compassion with the emptiness of it all" data-href="The Birth of a Bodhisattva#The bodhisattva can make such a huge aspiration because they're holding the compassion with the emptiness of it all" class="internal-link">The bodhisattva can make such a huge aspiration because they&#x27;re holding the compassion with the emptiness of it all</a>_</span>
+
+

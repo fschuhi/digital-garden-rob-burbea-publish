@@ -35,3 +35,11 @@ term | count | talks
 [[Archetype]] | 1 | <span class="counts"><a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a> (1)</span> 
 [[Beauty]] | 1 | <span class="counts"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a> (1)</span> 
 
+### Quotes
+**<a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a>**
+<span class="counts"><a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a></span>
+> An image is an image for me, or imaginally functioning for me, it's imaginal for me, if, for me, at that time, it has a kind of unfathomability to it... &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Dilemmas and Delineations - How did we get here Part 3 > 5 Imaginal image imaginal image" data-href="Dilemmas and Delineations - How did we get here Part 3#5 Imaginal image imaginal image" class="internal-link">(5) Imaginal, image, imaginal image</a>_</span>
+
+> [I]t refers to a kind of unfathomability, mystery, otherness, including of transcendence... &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Dilemmas and Delineations - How did we get here Part 3 > 19 Divinity" data-href="Dilemmas and Delineations - How did we get here Part 3#19 Divinity" class="internal-link">(19) Divinity</a>_</span>
+
+

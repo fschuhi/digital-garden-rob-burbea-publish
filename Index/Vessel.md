@@ -13,7 +13,7 @@ talk | count | series
 <a data-href="Orienting to This Jhana Retreat" class="internal-link">Orienting to This Jhana Retreat</a> | 2 | <a data-href="2019 Practising the Jhanas" class="internal-link">2019 Practising the Jhanas</a>
 <a data-href="Expressions of Metta" class="internal-link">Expressions of Metta</a> | 1 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a>
 
-### Quotes
+### Quotes (old)
 #IndexEntry #Robology
 
 [[Kabbala]]

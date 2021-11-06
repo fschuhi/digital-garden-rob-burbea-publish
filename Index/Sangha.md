@@ -41,3 +41,9 @@ term | count | talks
 [[Awakening]] | 1 | <span class="counts"><a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (1)</span> 
 [[Beauty]] | 1 | <span class="counts"><a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> (1)</span> 
 
+### Quotes
+**<a data-href="Joy (talk)" class="internal-link">Joy (talk)</a>**
+<span class="counts"><a data-href="2007 New Years Retreat Insight Meditation" class="internal-link">2007 New Years Retreat Insight Meditation</a></span>
+> So it's joy that comes from cultivation of the beautiful qualities of heart; joy that comes from appreciation, cultivating appreciation; joy that comes from opening, from connecting, from perceiving beauty, from developing our capacity to perceive beauty, from the deepening of our practice, joy in practice itself, joy in the Dharma, joy in the teachings, in hearing the teachings, in the Saṅgha, in the community of people who love to practise, who are interested in practising. This is all Dharma joy, spiritual joy. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Joy (talk) > Different ways spiritual joy expresses itself" data-href="Joy (talk)#Different ways spiritual joy expresses itself" class="internal-link">Different ways spiritual joy expresses itself</a>_</span>
+
+
