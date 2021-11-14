@@ -3,58 +3,58 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-<a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a> | 13 | <a data-href="2006 New Year's Retreat" class="internal-link">2006 New Year&#x27;s Retreat</a>
-<a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> | 9 | <a data-href="2007 New Years Retreat Insight Meditation" class="internal-link">2007 New Years Retreat Insight Meditation</a>
-<a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a> | 5 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a>
-<a data-href="Guided Meditation on Gratitude and Compassion" class="internal-link">Guided Meditation on Gratitude and Compassion</a> | 2 | <a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a>
-<a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 2" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 2</a> | 1 | <a data-href="2020 Vajra Music" class="internal-link">2020 Vajra Music</a>
-<a data-href="The Birth of a Bodhisattva" class="internal-link">The Birth of a Bodhisattva</a> | 1 | <a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a>
-<a data-href="Love and Emptiness" class="internal-link">Love and Emptiness</a> | 1 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a>
-<a data-href="From Insight to Love" class="internal-link">From Insight to Love</a> | 1 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a>
-<a data-href="Expressions of Metta" class="internal-link">Expressions of Metta</a> | 1 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a>
-<a data-href="Samadhi in Metta Practice" class="internal-link">Samadhi in Metta Practice</a> | 1 | <a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a>
+[[Equanimity (talk)]] | 13 | [[2006 New Year's Retreat]]
+[[Joy (talk)]] | 9 | [[2007 New Years Retreat Insight Meditation]]
+[[Equanimity in Compassion]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Guided Meditation on Gratitude and Compassion]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 1 | [[2020 Vajra Music]]
+[[The Birth of a Bodhisattva]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[Love and Emptiness]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[From Insight to Love]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Expressions of Metta]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Samadhi in Metta Practice]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-<a aria-label-position="top" aria-label="Joy (talk) > Joy is inversely related to selfing" data-href="Joy (talk)#Joy is inversely related to selfing" class="internal-link">Joy is inversely related to selfing</a> | 4 | <a data-href="Joy (talk)" class="internal-link">Joy (talk)</a>
-<a aria-label-position="top" aria-label="Joy (talk) > Piti is the physical aspect of spiritual joy not based on sense pleasure" data-href="Joy (talk)#Piti is the physical aspect of spiritual joy not based on sense pleasure" class="internal-link">Piti is the physical aspect of spiritual joy, not based on sense pleasure</a> | 3 | <a data-href="Joy (talk)" class="internal-link">Joy (talk)</a>
-<a aria-label-position="top" aria-label="Equanimity (talk) > Nature art music can touch us and feed that wonder" data-href="Equanimity (talk)#Nature art music can touch us and feed that wonder" class="internal-link">Nature, art, music can touch us and feed that wonder</a> | 3 | <a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a>
-<a aria-label-position="top" aria-label="Equanimity (talk) > The more our intentionality goes towards sense pleasure and security the less the wonder" data-href="Equanimity (talk)#The more our intentionality goes towards sense pleasure and security the less the wonder" class="internal-link">The more our intentionality goes towards sense pleasure and security, the less the wonder</a> | 3 | <a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a>
-<a aria-label-position="top" aria-label="Guided Meditation on Gratitude and Compassion > Compassion to all animals and plant life" data-href="Guided Meditation on Gratitude and Compassion#Compassion to all animals and plant life" class="internal-link">Compassion to all animals and plant life</a> | 2 | <a data-href="Guided Meditation on Gratitude and Compassion" class="internal-link">Guided Meditation on Gratitude and Compassion</a>
-<a aria-label-position="top" aria-label="Equanimity in Compassion > Mudita is a kind of joy thats not so based on the ego" data-href="Equanimity in Compassion#Mudita is a kind of joy that's not so based on the ego" class="internal-link">Mudita is a kind of joy that&#x27;s not so based on the ego</a> | 2 | <a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a>
-<a aria-label-position="top" aria-label="Equanimity (talk) > Spiritual joy" data-href="Equanimity (talk)#Spiritual joy" class="internal-link">Spiritual joy</a> | 2 | <a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a>
-<a aria-label-position="top" aria-label="Equanimity (talk) > We come to the infinite well of life with a thimble and so we go away thirsty" data-href="Equanimity (talk)#We come to the infinite well of life with a thimble and so we go away thirsty" class="internal-link">&quot;We come to the infinite well of life with a thimble and so we go away thirsty&quot;</a> | 2 | <a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a>
-<a aria-label-position="top" aria-label="Equanimity (talk) > How does wonder get squashed" data-href="Equanimity (talk)#How does wonder get squashed" class="internal-link">How does wonder get squashed</a> | 2 | <a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a>
-<a aria-label-position="top" aria-label="Equanimity (talk) > Equanimity is neither a typical nor a particularly sexy sounding word" data-href="Equanimity (talk)#Equanimity is neither a typical nor a particularly sexy sounding word" class="internal-link">Equanimity is neither a typical nor a particularly sexy sounding word</a> | 1 | <a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a>
+[[Joy (talk)#Joy is inversely related to selfing\|Joy is inversely related to selfing]] | 4 | [[Joy (talk)]]
+[[Joy (talk)#Piti is the physical aspect of spiritual joy not based on sense pleasure\|Piti is the physical aspect of spiritual joy, not based on sense pleasure]] | 3 | [[Joy (talk)]]
+[[Equanimity (talk)#Nature art music can touch us and feed that wonder\|Nature, art, music can touch us and feed that wonder]] | 3 | [[Equanimity (talk)]]
+[[Equanimity (talk)#The more our intentionality goes towards sense pleasure and security the less the wonder\|The more our intentionality goes towards sense pleasure and security, the less the wonder]] | 3 | [[Equanimity (talk)]]
+[[Guided Meditation on Gratitude and Compassion#Compassion to all animals and plant life\|Compassion to all animals and plant life]] | 2 | [[Guided Meditation on Gratitude and Compassion]]
+[[Equanimity in Compassion#Mudita is a kind of joy that's not so based on the ego\|Mudita is a kind of joy that's not so based on the ego]] | 2 | [[Equanimity in Compassion]]
+[[Equanimity (talk)#Spiritual joy\|Spiritual joy]] | 2 | [[Equanimity (talk)]]
+[[Equanimity (talk)#"We come to the infinite well of life with a thimble and so we go away thirsty"\|"We come to the infinite well of life with a thimble and so we go away thirsty"]] | 2 | [[Equanimity (talk)]]
+[[Equanimity (talk)#How does wonder get squashed\|How does wonder get squashed]] | 2 | [[Equanimity (talk)]]
+[[Equanimity (talk)#Equanimity is neither a typical nor a particularly sexy sounding word\|Equanimity is neither a typical nor a particularly sexy sounding word]] | 1 | [[Equanimity (talk)]]
 
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Happiness]] | 8 | <span class="counts"><a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> (4) · <a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a> (3) · <a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a> (1)</span> 
-[[Compassion]] | 5 | <span class="counts"><a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a> (2) · <a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a> (1) · <a data-href="Guided Meditation on Gratitude and Compassion" class="internal-link">Guided Meditation on Gratitude and Compassion</a> (1) · <a data-href="Love and Emptiness" class="internal-link">Love and Emptiness</a> (1)</span> 
-[[Mudita]] | 5 | <span class="counts"><a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a> (2) · <a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a> (2) · <a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> (1)</span> 
-[[Beauty]] | 4 | <span class="counts"><a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a> (2) · <a data-href="From Insight to Love" class="internal-link">From Insight to Love</a> (1) · <a data-href="Guided Meditation on Gratitude and Compassion" class="internal-link">Guided Meditation on Gratitude and Compassion</a> (1)</span> 
-[[Buddha]] | 4 | <span class="counts"><a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a> (1) · <a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a> (1) · <a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> (1) · <a data-href="Love and Emptiness" class="internal-link">Love and Emptiness</a> (1)</span> 
-[[Nature]] | 4 | <span class="counts"><a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a> (2) · <a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a> (1) · <a data-href="Samadhi in Metta Practice" class="internal-link">Samadhi in Metta Practice</a> (1)</span> 
-[[Receptivity]] | 4 | <span class="counts"><a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a> (2) · <a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a> (1) · <a data-href="Samadhi in Metta Practice" class="internal-link">Samadhi in Metta Practice</a> (1)</span> 
-[[The Self]] | 4 | <span class="counts"><a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a> (2) · <a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a> (1) · <a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> (1)</span> 
-[[Cultivation]] | 3 | <span class="counts"><a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a> (1) · <a data-href="Guided Meditation on Gratitude and Compassion" class="internal-link">Guided Meditation on Gratitude and Compassion</a> (1) · <a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> (1)</span> 
-[[Dukkha]] | 3 | <span class="counts"><a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> (2) · <a data-href="Guided Meditation on Gratitude and Compassion" class="internal-link">Guided Meditation on Gratitude and Compassion</a> (1)</span> 
+[[Happiness]] | 8 | <span class="counts">[[Joy (talk)]] (4) · [[Equanimity in Compassion]] (3) · [[Equanimity (talk)]] (1)</span> 
+[[Compassion]] | 5 | <span class="counts">[[Equanimity in Compassion]] (2) · [[Equanimity (talk)]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Mudita]] | 5 | <span class="counts">[[Equanimity (talk)]] (2) · [[Equanimity in Compassion]] (2) · [[Joy (talk)]] (1)</span> 
+[[Beauty]] | 4 | <span class="counts">[[Equanimity in Compassion]] (2) · [[From Insight to Love]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
+[[Buddha]] | 4 | <span class="counts">[[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1) · [[Joy (talk)]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Nature]] | 4 | <span class="counts">[[Equanimity in Compassion]] (2) · [[Equanimity (talk)]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Receptivity]] | 4 | <span class="counts">[[Equanimity (talk)]] (2) · [[Equanimity in Compassion]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[The Self]] | 4 | <span class="counts">[[Equanimity (talk)]] (2) · [[Equanimity in Compassion]] (1) · [[Joy (talk)]] (1)</span> 
+[[Cultivation]] | 3 | <span class="counts">[[Equanimity in Compassion]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1) · [[Joy (talk)]] (1)</span> 
+[[Dukkha]] | 3 | <span class="counts">[[Joy (talk)]] (2) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
 
 ### Quotes
-**<a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a>**
-<span class="counts"><a data-href="2006 New Year's Retreat" class="internal-link">2006 New Year&#x27;s Retreat</a></span>
-> A spiritual joy, doesn't have so much to do with the self. So one aspect of spiritual joy, we could say, is wonder, wonder. That quality of just a human being wondering, marveling.. a human being in awe at life, at existence, at the universe... &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Equanimity (talk) > Spiritual joy" data-href="Equanimity (talk)#Spiritual joy" class="internal-link">Spiritual joy</a>_</span>
+**[[Equanimity (talk)]]**
+<span class="counts">[[2006 New Year's Retreat]]</span>
+> A spiritual joy, doesn't have so much to do with the self. So one aspect of spiritual joy, we could say, is wonder, wonder. That quality of just a human being wondering, marveling.. a human being in awe at life, at existence, at the universe... &nbsp;&nbsp;<span class="counts">_[[Equanimity (talk)#Spiritual joy|Spiritual joy]]_</span>
 
-**<a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a>**
-<span class="counts"><a data-href="2007 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2007 Lovingkindness and Compassion As a Path to Awakening</a></span>
-> How is it that my well of joy, my reservoir of inner happiness, can be deepened in life? And so looking into: how does the being open to wonder? How does it open to the mystery of life, to the awe of things? What's the place of art and music in that? What's the place of our relationship with nature? &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Equanimity in Compassion > When feel like we have enough external circumstances make less of an impact" data-href="Equanimity in Compassion#When feel like we have enough external circumstances make less of an impact" class="internal-link">When feel like we have enough, external circumstances make less of an impact</a>_</span>
+**[[Equanimity in Compassion]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> How is it that my well of joy, my reservoir of inner happiness, can be deepened in life? And so looking into: how does the being open to wonder? How does it open to the mystery of life, to the awe of things? What's the place of art and music in that? What's the place of our relationship with nature? &nbsp;&nbsp;<span class="counts">_[[Equanimity in Compassion#When feel like we have enough external circumstances make less of an impact|When feel like we have enough, external circumstances make less of an impact]]_</span>
 
-**<a data-href="Joy (talk)" class="internal-link">Joy (talk)</a>**
-<span class="counts"><a data-href="2007 New Years Retreat Insight Meditation" class="internal-link">2007 New Years Retreat Insight Meditation</a></span>
-> And so, rather than being hungry for it and sort of reliant on sense pleasure, we can be open to the pleasure through the senses, but it's actually a sense of wonder or mystery through the senses that we're tuning into more and more, rather than the aspect of it being pleasant or unpleasant... &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Joy (talk) > Piti is the physical aspect of spiritual joy not based on sense pleasure" data-href="Joy (talk)#Piti is the physical aspect of spiritual joy not based on sense pleasure" class="internal-link">Piti is the physical aspect of spiritual joy, not based on sense pleasure</a>_</span>
+**[[Joy (talk)]]**
+<span class="counts">[[2007 New Years Retreat Insight Meditation]]</span>
+> And so, rather than being hungry for it and sort of reliant on sense pleasure, we can be open to the pleasure through the senses, but it's actually a sense of wonder or mystery through the senses that we're tuning into more and more, rather than the aspect of it being pleasant or unpleasant... &nbsp;&nbsp;<span class="counts">_[[Joy (talk)#Piti is the physical aspect of spiritual joy not based on sense pleasure|Piti is the physical aspect of spiritual joy, not based on sense pleasure]]_</span>
 
-> [T]here's a wonder in it. Not dependent on pleasant or unpleasant; dependent on something else. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Joy (talk) > Piti is the physical aspect of spiritual joy not based on sense pleasure" data-href="Joy (talk)#Piti is the physical aspect of spiritual joy not based on sense pleasure" class="internal-link">Piti is the physical aspect of spiritual joy, not based on sense pleasure</a>_</span>
+> [T]here's a wonder in it. Not dependent on pleasant or unpleasant; dependent on something else. &nbsp;&nbsp;<span class="counts">_[[Joy (talk)#Piti is the physical aspect of spiritual joy not based on sense pleasure|Piti is the physical aspect of spiritual joy, not based on sense pleasure]]_</span>
 
 

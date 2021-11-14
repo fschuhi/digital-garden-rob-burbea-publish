@@ -7,3 +7,4 @@ retreat | talk
 [[2019 Practising the Jhanas]] | [[Orienting to This Jhana Retreat#Guided meditation begins]]
 [[2019 Practising the Jhanas]] | [[Counting Within the Breath - Guided Meditation]]
 [[2019 Practising the Jhanas]] | [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#Guided meditation]]
+[[2019 Practising the Jhanas]] | [[Breathing with the Energy Body - Guided Meditation]]

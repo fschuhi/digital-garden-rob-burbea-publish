@@ -420,6 +420,9 @@ Unclear what he is pointing to in this paragraph<br/>
 ---
 ##### The kinaesthetic sense of energy fills the whole space
 <span class="counts">**<a aria-label-position="top" aria-label="0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1 > ^17-1" data-href="0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^17-1" class="internal-link">17-1</a>**: _<a data-href="Awareness" class="internal-link">Awareness</a> (5) · <a data-href="Energy body" class="internal-link">Energy body</a> (4) · <a data-href="Energy" class="internal-link">Energy</a> (3) · <a data-href="Embodiment" class="internal-link">Embodiment</a>_</span>
+
+<audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/62452/20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=01:23:05" type="audio/mpeg">???</audio>
+
 <div class="admonition note"><div class="title">Reminder</div><div class="content">
 - can be done physically or just in the imagination, but both with the energy body<br/>
 - remember to vary the postures<br/>

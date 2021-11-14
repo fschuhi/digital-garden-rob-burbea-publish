@@ -35,7 +35,7 @@ Talk pages all have the same structure:
 ### The "Index" section
 👉 Scroll down to the "Index" section.
 
-Certain keywords, word combination, idioms and phrases are marked as "index entry". For each transcript paragraph, the first occurance of such a term is turned into a link to the term's page, like [[Energy body]]. Further occurrences are not marked, to have a less cluttered reading experience.
+Certain keywords, word combination, idioms and phrases are marked as "index entry". For each transcript paragraph, the first occurance of such a term is turned into a link to the term's page, like [[energy body]]. Further occurrences are not marked, to have a less cluttered reading experience.
 
 Still the all occurrences are counted, as the "Index" section on top of a talk page shows. Here you'll find all terms, together with the total number of occurrences across all transcript paragraphs, starting with the term occuring most often.
 

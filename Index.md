@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 ---
 First quote collections:
-- <a data-href="Energy body" class="internal-link">Energy body</a>
+- [[energy body]]
 - <a data-href="Equanimity" class="internal-link">Equanimity</a>
 - <a data-href="Inertia" class="internal-link">Inertia</a>
 - <a data-href="Preliminaries" class="internal-link">Preliminaries</a>

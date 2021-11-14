@@ -1,3 +1,7 @@
+#### November
+##### Features
+- automatic collection of quotes for index entry pages, like [[Energy body#Quotes]]
+
 #### October
 ##### Talks
 - new retreat [[2007 New Years Retreat Insight Meditation]]

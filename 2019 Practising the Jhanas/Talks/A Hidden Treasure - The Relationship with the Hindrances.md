@@ -5,7 +5,7 @@ obsidianUIMode: preview
 ---
 #Talk
 
-[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation|The Energy Body and the Whole-body breath - Instructions and Guided Meditation 🡄]] | [[2019 Practising the Jhanas|🡅]] | 
+[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation|The Energy Body and the Whole-body breath - Instructions and Guided Meditation 🡄]] | [[2019 Practising the Jhanas|🡅]] | [[Breathing with the Energy Body - Guided Meditation|🡆 Breathing with the Energy Body - Guided Meditation]]
 
 Series: [[2019 Practising the Jhanas]]
 Transcript: [[1219 A Hidden Treasure - The Relationship with the Hindrances]]
