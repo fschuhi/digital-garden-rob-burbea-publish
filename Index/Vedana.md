@@ -3,38 +3,38 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[The Way of Non-Clinging Part 1]] | 8 | [[2017 Eros Unfettered]]
-[[The Way of Non-Clinging Part 2]] | 7 | [[2017 Eros Unfettered]]
-[[Dilemmas and Delineations - How did we get here Part 4]] | 4 | [[2017 Eros Unfettered]]
-[[The Way of Non-Clinging Part 3]] | 3 | [[2017 Eros Unfettered]]
-[[Dilemmas and Delineations - How did we get here Part 3]] | 1 | [[2017 Eros Unfettered]]
-[[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
+<a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a> | 8 | <a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a>
+<a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a> | 7 | <a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a>
+<a data-href="Dilemmas and Delineations - How did we get here Part 4" class="internal-link">Dilemmas and Delineations - How did we get here Part 4</a> | 4 | <a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a>
+<a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> | 3 | <a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a>
+<a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a> | 1 | <a data-href="2017 Eros Unfettered" class="internal-link">2017 Eros Unfettered</a>
+<a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> | 1 | <a data-href="2007 New Years Retreat Insight Meditation" class="internal-link">2007 New Years Retreat Insight Meditation</a>
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 2#Even the pleasant vedana become neutral and even those neutral sensations disappear\|Even the pleasant vedana become neutral, and even those neutral sensations disappear]] | 6 | [[The Way of Non-Clinging Part 2]]
-[[Dilemmas and Delineations - How did we get here Part 4#"It's just vedana papanca" is a little bit poor as a psychology\|"It's just vedana, papanca" is a little bit poor as a psychology]] | 4 | [[Dilemmas and Delineations - How did we get here Part 4]]
-[[The Way of Non-Clinging Part 3#Some do not have a deep calling to explore desire more fully\|Some do not have a deep calling to explore desire more fully]] | 3 | [[The Way of Non-Clinging Part 3]]
-[[The Way of Non-Clinging Part 1#Clinging doesn't happen if we stay with the craving vedana\|Clinging doesn't happen if we stay with the craving (vedana)]] | 3 | [[The Way of Non-Clinging Part 1]]
-[[The Way of Non-Clinging Part 1#Technique focus on vedana\|Technique: focus on vedana]] | 2 | [[The Way of Non-Clinging Part 1]]
-[[Dilemmas and Delineations - How did we get here Part 3#12 Clinging\|(12) Clinging]] | 1 | [[Dilemmas and Delineations - How did we get here Part 3]]
-[[The Way of Non-Clinging Part 1#4 Role of vedana\|4. Role of vedana]] | 1 | [[The Way of Non-Clinging Part 1]]
-[[The Way of Non-Clinging Part 1#Impulsive energetic movement\|Impulsive, energetic movement]] | 1 | [[The Way of Non-Clinging Part 1]]
-[[The Way of Non-Clinging Part 1#I'm not selling this very well\|I'm not selling this very well]] | 1 | [[The Way of Non-Clinging Part 1]]
-[[Joy (talk)#Sadness and joy are dependent on the way we look\|Sadness and joy are dependent on the way we look]] | 1 | [[Joy (talk)]]
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 2 > Even the pleasant vedana become neutral and even those neutral sensations disappear" data-href="The Way of Non-Clinging Part 2#Even the pleasant vedana become neutral and even those neutral sensations disappear" class="internal-link">Even the pleasant vedana become neutral, and even those neutral sensations disappear</a> | 6 | <a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a>
+<a aria-label-position="top" aria-label="Dilemmas and Delineations - How did we get here Part 4 > Its just vedana papanca is a little bit poor as a psychology" data-href="Dilemmas and Delineations - How did we get here Part 4#It's just vedana papanca is a little bit poor as a psychology" class="internal-link">&quot;It&#x27;s just vedana, papanca&quot; is a little bit poor as a psychology</a> | 4 | <a data-href="Dilemmas and Delineations - How did we get here Part 4" class="internal-link">Dilemmas and Delineations - How did we get here Part 4</a>
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 3 > Some do not have a deep calling to explore desire more fully" data-href="The Way of Non-Clinging Part 3#Some do not have a deep calling to explore desire more fully" class="internal-link">Some do not have a deep calling to explore desire more fully</a> | 3 | <a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a>
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 1 > Clinging doesnt happen if we stay with the craving vedana" data-href="The Way of Non-Clinging Part 1#Clinging doesn't happen if we stay with the craving vedana" class="internal-link">Clinging doesn&#x27;t happen if we stay with the craving (vedana)</a> | 3 | <a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a>
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 1 > Technique focus on vedana" data-href="The Way of Non-Clinging Part 1#Technique focus on vedana" class="internal-link">Technique: focus on vedana</a> | 2 | <a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a>
+<a aria-label-position="top" aria-label="Dilemmas and Delineations - How did we get here Part 3 > 12 Clinging" data-href="Dilemmas and Delineations - How did we get here Part 3#12 Clinging" class="internal-link">(12) Clinging</a> | 1 | <a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a>
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 1 > 4 Role of vedana" data-href="The Way of Non-Clinging Part 1#4 Role of vedana" class="internal-link">4. Role of vedana</a> | 1 | <a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a>
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 1 > Impulsive energetic movement" data-href="The Way of Non-Clinging Part 1#Impulsive energetic movement" class="internal-link">Impulsive, energetic movement</a> | 1 | <a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a>
+<a aria-label-position="top" aria-label="The Way of Non-Clinging Part 1 > Im not selling this very well" data-href="The Way of Non-Clinging Part 1#I'm not selling this very well" class="internal-link">I&#x27;m not selling this very well</a> | 1 | <a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a>
+<a aria-label-position="top" aria-label="Joy (talk) > Sadness and joy are dependent on the way we look" data-href="Joy (talk)#Sadness and joy are dependent on the way we look" class="internal-link">Sadness and joy are dependent on the way we look</a> | 1 | <a data-href="Joy (talk)" class="internal-link">Joy (talk)</a>
 
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Clinging]] | 7 | <span class="counts">[[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
-[[Craving]] | 7 | <span class="counts">[[The Way of Non-Clinging Part 1]] (5) · [[The Way of Non-Clinging Part 2]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
-[[Attention]] | 6 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Joy (talk)]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
-[[Aversion]] | 4 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[The Way of Non-Clinging Part 2]] (1)</span> 
-[[Experience]] | 4 | <span class="counts">[[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 2]] (2)</span> 
-[[Mind]] | 4 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
-[[Pain]] | 4 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[The Way of Non-Clinging Part 2]] (1)</span> 
-[[Impermanence]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 2]] (2) · [[The Way of Non-Clinging Part 1]] (1)</span> 
-[[Letting go]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 2]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
-[[Consciousness]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 2]] (2)</span> 
+[[Clinging]] | 7 | <span class="counts"><a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a> (2) · <a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a> (2) · <a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a> (1) · <a data-href="Dilemmas and Delineations - How did we get here Part 4" class="internal-link">Dilemmas and Delineations - How did we get here Part 4</a> (1)</span> 
+[[Craving]] | 7 | <span class="counts"><a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a> (5) · <a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a> (1) · <a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (1)</span> 
+[[Attention]] | 6 | <span class="counts"><a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a> (3) · <a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a> (1) · <a data-href="Joy (talk)" class="internal-link">Joy (talk)</a> (1) · <a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a> (1)</span> 
+[[Aversion]] | 4 | <span class="counts"><a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a> (3) · <a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a> (1)</span> 
+[[Experience]] | 4 | <span class="counts"><a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a> (2) · <a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a> (2)</span> 
+[[Mind]] | 4 | <span class="counts"><a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a> (3) · <a data-href="Dilemmas and Delineations - How did we get here Part 3" class="internal-link">Dilemmas and Delineations - How did we get here Part 3</a> (1)</span> 
+[[Pain]] | 4 | <span class="counts"><a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a> (3) · <a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a> (1)</span> 
+[[Impermanence]] | 3 | <span class="counts"><a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a> (2) · <a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a> (1)</span> 
+[[Letting go]] | 3 | <span class="counts"><a data-href="The Way of Non-Clinging Part 1" class="internal-link">The Way of Non-Clinging Part 1</a> (1) · <a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a> (1) · <a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a> (1)</span> 
+[[Consciousness]] | 2 | <span class="counts"><a data-href="The Way of Non-Clinging Part 2" class="internal-link">The Way of Non-Clinging Part 2</a> (2)</span> 
 

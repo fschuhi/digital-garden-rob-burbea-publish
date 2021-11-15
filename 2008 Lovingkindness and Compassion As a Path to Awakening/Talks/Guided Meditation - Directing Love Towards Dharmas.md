@@ -20,108 +20,91 @@ Transcript PDF: [[2008_0210 Guided Meditation - Directing Love Towards Dharmas.p
 ## Paragraphs
 [[Guided Meditation - Directing Love Towards Dharmas -|plain list]]
 
+<span class="paragraph">(00:00, <a aria-label-position="top" aria-label="Meditation" data-href="Meditation" class="internal-link">guided meditation</a> begins)</span>
+
 ---
 ##### Posture, energy field of the whole body
 <span class="counts">**<a aria-label-position="top" aria-label="0210 Guided Meditation - Directing Love Towards Dharmas > ^1-2" data-href="0210 Guided Meditation - Directing Love Towards Dharmas#^1-2" class="internal-link">1-2</a>**: _<a data-href="Meditation" class="internal-link">Meditation</a> · <a data-href="Embodiment" class="internal-link">Embodiment</a> (7) · <a data-href="Energy" class="internal-link">Energy</a> · <a data-href="Spaciousness" class="internal-link">Spaciousness</a> · <a data-href="Awareness" class="internal-link">Awareness</a>_</span>
-
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11957/20080210-Rob_Burbea-GAIA-guided_meditation_directing_love_towards_dharmas-11957.mp3#t=00:00" type="audio/mpeg">???</audio>
+<span class="paragraph">Taking a moment or two to really establish yourself in your <a aria-label-position="top" aria-label="Meditation" data-href="Meditation" class="internal-link">meditation posture</a>. Settling into the uprightness of that posture. The openness, the presence. Also softening in the <a aria-label-position="top" aria-label="Embodiment" data-href="Embodiment" class="internal-link">body</a>, softening into the <a aria-label-position="top" aria-label="Embodiment" data-href="Embodiment" class="internal-link">body</a>, into the presence in the <a aria-label-position="top" aria-label="Embodiment" data-href="Embodiment" class="internal-link">body</a>. Just sitting with that light, open sensitivity to the <a aria-label-position="top" aria-label="Embodiment" data-href="Embodiment" class="internal-link">whole body</a>. Just the whole general feeling of the <a aria-label-position="top" aria-label="Embodiment" data-href="Embodiment" class="internal-link">whole body</a>, the [[energy]] field of the <a aria-label-position="top" aria-label="Embodiment" data-href="Embodiment" class="internal-link">whole body</a>, sensitive to the <a aria-label-position="top" aria-label="Embodiment" data-href="Embodiment" class="internal-link">whole body</a>. Just present there. That open and <a aria-label-position="top" aria-label="Spaciousness" data-href="Spaciousness" class="internal-link">spacious</a> [[awareness]].</span>
 
 ---
 ##### Maybe something stands out as prominent in your experience
 <span class="counts">**<a aria-label-position="top" aria-label="0210 Guided Meditation - Directing Love Towards Dharmas > ^1-3" data-href="0210 Guided Meditation - Directing Love Towards Dharmas#^1-3" class="internal-link">1-3</a>**: _<a data-href="Experience" class="internal-link">Experience</a> · <a data-href="Embodiment" class="internal-link">Embodiment</a> (4) · <a data-href="Mind state" class="internal-link">Mind state</a> · <a data-href="Consciousness" class="internal-link">Consciousness</a>_</span>
-
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11957/20080210-Rob_Burbea-GAIA-guided_meditation_directing_love_towards_dharmas-11957.mp3#t=01:50" type="audio/mpeg">???</audio>
+<span class="paragraph">Just noticing, perhaps in this moment something stands out. Something is prominent in your [[experience]]. Perhaps some sensations in the <a aria-label-position="top" aria-label="Embodiment" data-href="Embodiment" class="internal-link">body</a>, some sensations somewhere in the <a aria-label-position="top" aria-label="Embodiment" data-href="Embodiment" class="internal-link">body</a>. Perhaps an emotion. Perhaps a feeling or a [[mind state]]. Just noticing. Maybe something is prominent, maybe not. If nothing is particularly prominent, then just being in the <a aria-label-position="top" aria-label="Embodiment" data-href="Embodiment" class="internal-link">body</a>, the <a aria-label-position="top" aria-label="Embodiment" data-href="Embodiment" class="internal-link">whole body</a>, with whatever is in [[consciousness]] in this moment.</span>
 
 ---
 ##### Bathe that experience in kindness and compassion
 <span class="counts">**<a aria-label-position="top" aria-label="0210 Guided Meditation - Directing Love Towards Dharmas > ^1-4" data-href="0210 Guided Meditation - Directing Love Towards Dharmas#^1-4" class="internal-link">1-4</a>**: _<a data-href="Consciousness" class="internal-link">Consciousness</a> (2) · <a data-href="Experience" class="internal-link">Experience</a> (6) · <a data-href="Metta" class="internal-link">Metta</a> (5) · <a data-href="Compassion" class="internal-link">Compassion</a> (5) · <a data-href="Love" class="internal-link">Love</a>_</span>
-
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11957/20080210-Rob_Burbea-GAIA-guided_meditation_directing_love_towards_dharmas-11957.mp3#t=02:55" type="audio/mpeg">???</audio>
-
-<div class="admonition quote"><div class="title">❝</div><div class="content">
-So directing the stream of loving-kindness and compassion towards that experience itself, whatever the prominent experience right now, or whatever any experience in consciousness right now, just bathing it with kindness, with tenderness.<br/>
-</div></div>
+<span class="paragraph">Then with whatever may be prominent, or whatever is just present in [[consciousness]] right now, beginning very gently to bathe that [[experience]] in <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a>, in [[compassion]]. ==So directing the stream of <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">loving-kindness</a> and [[compassion]] towards that [[experience]] itself, whatever the prominent [[experience]] right now, or whatever any [[experience]] in [[consciousness]] right now, just bathing it with <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a>, with tenderness.== Holding the [[experience]] in [[compassion]], in <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a>, allowing it to be held in <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a> and [[compassion]]. Just over and over, whatever is standing out, whatever is prominent in the [[experience]]. Washing it, bathing it, holding it, in [[love]] and [[compassion]].</span>
 
 ---
 ##### Bathing, holding, total welcoming
 <span class="counts">**<a aria-label-position="top" aria-label="0210 Guided Meditation - Directing Love Towards Dharmas > ^1-5" data-href="0210 Guided Meditation - Directing Love Towards Dharmas#^1-5" class="internal-link">1-5</a>**: _<a data-href="Experience" class="internal-link">Experience</a> (7) · <a data-href="Love" class="internal-link">Love</a> · <a data-href="Compassion" class="internal-link">Compassion</a> (3) · <a data-href="Metta" class="internal-link">Metta</a> (3) · <a data-href="Awareness" class="internal-link">Awareness</a> · <a data-href="Spaciousness" class="internal-link">Spaciousness</a> · <a data-href="Acceptance" class="internal-link">Acceptance</a>_</span>
-
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11957/20080210-Rob_Burbea-GAIA-guided_meditation_directing_love_towards_dharmas-11957.mp3#t=06:00" type="audio/mpeg">???</audio>
-
-<div class="admonition quote"><div class="title">❝</div><div class="content">
-As if you're opening the doors of awareness very wide, very spacious, to welcome. Complete, radical acceptance of the experience, whatever it is.<br/>
-</div></div>
+<span class="paragraph">You may find different ways of doing this work at different times. Bathing the [[experience]], directing the stream of [[love]] and [[compassion]] and <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a> towards [[experience]]. Holding the [[experience]] in [[compassion]], <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a>. Can also be a total welcoming, a complete, utter, total welcoming of the [[experience]], whatever the [[experience]] is. ==As if you're opening the doors of [[awareness]] very wide, very <a aria-label-position="top" aria-label="Spaciousness" data-href="Spaciousness" class="internal-link">spacious</a>, to welcome. Complete, radical [[acceptance]] of the [[experience]], whatever it is.== Or you may find the phrases or a word from one of the phrases helpful to direct the <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a>, to direct the [[compassion]], towards an [[experience]].</span>
 
 ---
 ##### Being open with experience as it's present, but very much holding it in kindness, welcoming it
 <span class="counts">**<a aria-label-position="top" aria-label="0210 Guided Meditation - Directing Love Towards Dharmas > ^1-6" data-href="0210 Guided Meditation - Directing Love Towards Dharmas#^1-6" class="internal-link">1-6</a>**: _<a data-href="Experience" class="internal-link">Experience</a> · <a data-href="Metta" class="internal-link">Metta</a> · <a data-href="Acceptance" class="internal-link">Acceptance</a> · <a data-href="Compassion" class="internal-link">Compassion</a>_</span>
-
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11957/20080210-Rob_Burbea-GAIA-guided_meditation_directing_love_towards_dharmas-11957.mp3#t=08:30" type="audio/mpeg">???</audio>
+<span class="paragraph">So you're open with [[experience]] as it's present, but very much directing or holding it in <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a>, in tenderness, total [[acceptance]], [[compassion]]. Welcoming, welcoming.</span>
 
 ---
 ##### Being open, but letting go of the usual precision of mindfulness
 <span class="counts">**<a aria-label-position="top" aria-label="0210 Guided Meditation - Directing Love Towards Dharmas > ^1-7" data-href="0210 Guided Meditation - Directing Love Towards Dharmas#^1-7" class="internal-link">1-7</a>**: _<a data-href="Experience" class="internal-link">Experience</a> (2) · <a data-href="Metta" class="internal-link">Metta</a> (2) · <a data-href="Compassion" class="internal-link">Compassion</a> (3) · <a data-href="Love" class="internal-link">Love</a> · <a data-href="Letting go" class="internal-link">Letting go</a> (2) · <a data-href="Mindfulness" class="internal-link">Mindfulness</a> · <a data-href="Acceptance" class="internal-link">Acceptance</a>_</span>
-
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11957/20080210-Rob_Burbea-GAIA-guided_meditation_directing_love_towards_dharmas-11957.mp3#t=10:55" type="audio/mpeg">???</audio>
+<span class="paragraph">Just over and over, whatever it is that's there, whatever is going on in the [[experience]], directing the stream of <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a>, of [[compassion]], towards it. Holding it, surrounding it, permeating it with [[love]] and [[compassion]]. Completely welcoming, totally welcoming the [[experience]]. Being open, but [[letting go]] - for now, for now - of the usual precision of [[mindfulness]]. "Want to notice what's going on very clearly" - just letting that go, and instead being open, being with what's going on, but very much emphasizing <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a>, emphasizing [[compassion]], emphasizing total [[acceptance]]. <a data-href="Letting go" class="internal-link">Letting go</a> of the usual emphasis on precision.</span>
 
 ---
 ##### It's ok if an experience begins to fade
 <span class="counts">**<a aria-label-position="top" aria-label="0210 Guided Meditation - Directing Love Towards Dharmas > ^1-8" data-href="0210 Guided Meditation - Directing Love Towards Dharmas#^1-8" class="internal-link">1-8</a>**: _<a data-href="Embodiment" class="internal-link">Embodiment</a> · <a data-href="Mind state" class="internal-link">Mind state</a> · <a data-href="Compassion" class="internal-link">Compassion</a> · <a data-href="Experience" class="internal-link">Experience</a> (2) · <a data-href="Phenomenon" class="internal-link">Phenomenon</a> · <a data-href="Emptiness" class="internal-link">Emptiness</a>_</span>
-
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11957/20080210-Rob_Burbea-GAIA-guided_meditation_directing_love_towards_dharmas-11957.mp3#t=15:10" type="audio/mpeg">???</audio>
+<span class="paragraph">Whatever you're conscious of in the moment - let's say <a aria-label-position="top" aria-label="Embodiment" data-href="Embodiment" class="internal-link">body</a> sensation, emotion, feeling, a [[mind state]], a persistent thought, whatever it is, gross or subtle - bathing it in tenderness, holding it in [[compassion]]. If, as you're doing this, sometimes the edges of an [[experience]] of <a aria-label-position="top" aria-label="Phenomenon" data-href="Phenomenon" class="internal-link">phenomena</a> begin to blur, begin to dissolve or lose definition, if an [[experience]] begins to <a aria-label-position="top" aria-label="Emptiness" data-href="Emptiness" class="internal-link">fade</a>, that's completely okay. Completely okay.</span>
 
 ---
 ##### Arising, staying, passing - holding it in kindness
 <span class="counts">**<a aria-label-position="top" aria-label="0210 Guided Meditation - Directing Love Towards Dharmas > ^2-1" data-href="0210 Guided Meditation - Directing Love Towards Dharmas#^2-1" class="internal-link">2-1</a>**: _<a data-href="Experience" class="internal-link">Experience</a> · <a data-href="Metta" class="internal-link">Metta</a> (5)_</span>
-
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11957/20080210-Rob_Burbea-GAIA-guided_meditation_directing_love_towards_dharmas-11957.mp3#t=17:55" type="audio/mpeg">???</audio>
+<span class="paragraph">Over and over and over, bathing [[experience]], bathing whatever's there, in <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a>. Welcoming it totally in <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a>. Whatever arises, its arising is held in <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a>. Its staying is held, is bathed, in <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a>. Its passing is held and bathed in <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a>.</span>
 
 ---
 ##### If there's resistence or numbness - holding it in kindness
 <span class="counts">**<a aria-label-position="top" aria-label="0210 Guided Meditation - Directing Love Towards Dharmas > ^2-2" data-href="0210 Guided Meditation - Directing Love Towards Dharmas#^2-2" class="internal-link">2-2</a>**: _<a data-href="Metta" class="internal-link">Metta</a> · <a data-href="Anger" class="internal-link">Anger</a> · <a data-href="Fear" class="internal-link">Fear</a> · <a data-href="Love" class="internal-link">Love</a> · <a data-href="Embodiment" class="internal-link">Embodiment</a> · <a data-href="Mind" class="internal-link">Mind</a>_</span>
-
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11957/20080210-Rob_Burbea-GAIA-guided_meditation_directing_love_towards_dharmas-11957.mp3#t=22:20" type="audio/mpeg">???</audio>
-
-<div class="admonition quote"><div class="title">❝</div><div class="content">
-Whatever it is that comes up, if there's resistance or numbness, holding that in kindness. Total, complete welcoming. If there's no feeling, if there's boredom, anger, fear, confusion, whatever it is in this moment, bathing it in love, totally welcoming it, over and over. Nothing is exempt. Nothing is out of the range.<br/>
-</div></div>
+<span class="paragraph">==Whatever it is that comes up, if there's resistance or numbness, holding that in <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a>. Total, complete welcoming. If there's no feeling, if there's boredom, [[anger]], [[fear]], confusion, whatever it is in this moment, bathing it in [[love]], totally welcoming it, over and over. Nothing is exempt. Nothing is out of the range.== Whatever is there, whatever is going on in the <a aria-label-position="top" aria-label="Embodiment" data-href="Embodiment" class="internal-link">body</a>, whatever is going on in the [[mind]].</span>
 
 ---
 ##### Restlessness, peace - welcoming it completely
 <span class="counts">**<a aria-label-position="top" aria-label="0210 Guided Meditation - Directing Love Towards Dharmas > ^2-3" data-href="0210 Guided Meditation - Directing Love Towards Dharmas#^2-3" class="internal-link">2-3</a>**: _<a data-href="Hindrances" class="internal-link">Hindrances</a> · <a data-href="Happiness" class="internal-link">Happiness</a> · <a data-href="Phenomenon" class="internal-link">Phenomenon</a> · <a data-href="Feelings" class="internal-link">Feelings</a> · <a data-href="Metta" class="internal-link">Metta</a> · <a data-href="Awareness" class="internal-link">Awareness</a> · <a data-href="Consciousness" class="internal-link">Consciousness</a>_</span>
-
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11957/20080210-Rob_Burbea-GAIA-guided_meditation_directing_love_towards_dharmas-11957.mp3#t=25:20" type="audio/mpeg">???</audio>
+<span class="paragraph">If there's <a aria-label-position="top" aria-label="Hindrances" data-href="Hindrances" class="internal-link">restlessness</a> or agitation, if there is peace, a feeling of peace, a feeling of [[happiness]], including that. Bathing, holding those <a aria-label-position="top" aria-label="Phenomenon" data-href="Phenomenon" class="internal-link">phenomena</a>, the experiences, those [[feelings]], in <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a> and tenderness. Opening the door of [[awareness]], opening the door of [[consciousness]] for that, welcoming completely.</span>
 
 ---
 ##### If image of self comes up - bathing that experience in kindness
 <span class="counts">**<a aria-label-position="top" aria-label="0210 Guided Meditation - Directing Love Towards Dharmas > ^2-4" data-href="0210 Guided Meditation - Directing Love Towards Dharmas#^2-4" class="internal-link">2-4</a>**: _<a data-href="Image" class="internal-link">Image</a> (2) · <a data-href="Experience" class="internal-link">Experience</a> · <a data-href="Metta" class="internal-link">Metta</a>_</span>
-
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11957/20080210-Rob_Burbea-GAIA-guided_meditation_directing_love_towards_dharmas-11957.mp3#t=27:35" type="audio/mpeg">???</audio>
+<span class="paragraph">Sometimes, as we're practising, an [[image]] or a sense of ourselves in the moment, an [[image]] of ourselves sitting here, comes up. Bathing that [[experience]] in <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a>.</span>
 
 ---
 ##### Including everything, bathing it, holding it, touching it
 <span class="counts">**<a aria-label-position="top" aria-label="0210 Guided Meditation - Directing Love Towards Dharmas > ^2-5" data-href="0210 Guided Meditation - Directing Love Towards Dharmas#^2-5" class="internal-link">2-5</a>**: _<a data-href="Consciousness" class="internal-link">Consciousness</a> (2) · <a data-href="Metta" class="internal-link">Metta</a> (5)_</span>
-
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11957/20080210-Rob_Burbea-GAIA-guided_meditation_directing_love_towards_dharmas-11957.mp3#t=30:05" type="audio/mpeg">???</audio>
-
-<div class="admonition quote"><div class="title">❝</div><div class="content">
-Including everything. You can even include the kindness itself. You can include the intention of kindness, the intention towards kindness. Gross or subtle, whatever is in consciousness in the moment.<br/>
-</div></div>
+<span class="paragraph">So including everything, whatever is in [[consciousness]] in the moment. Bathing it, holding it, touching it with that stream of <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a>, with that ocean of <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a>. ==Including everything. You can even include the <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a> itself. You can include the intention of <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a>, the intention towards <a aria-label-position="top" aria-label="Metta" data-href="Metta" class="internal-link">kindness</a>. Gross or subtle, whatever is in [[consciousness]] in the moment.==</span>
 
 ---
 ##### Complete welcoming, over and over
 <span class="counts"><a aria-label-position="top" aria-label="0210 Guided Meditation - Directing Love Towards Dharmas > ^2-6" data-href="0210 Guided Meditation - Directing Love Towards Dharmas#^2-6" class="internal-link">2-6</a></span>
-
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11957/20080210-Rob_Burbea-GAIA-guided_meditation_directing_love_towards_dharmas-11957.mp3#t=33:25" type="audio/mpeg">???</audio>
+<span class="paragraph">Complete welcoming, over and over.</span>
 
 ---
 ##### Does anything exist independent of our relationship to it?
 <span class="counts"><a aria-label-position="top" aria-label="0210 Guided Meditation - Directing Love Towards Dharmas > ^2-7" data-href="0210 Guided Meditation - Directing Love Towards Dharmas#^2-7" class="internal-link">2-7</a></span>
-
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/11957/20080210-Rob_Burbea-GAIA-guided_meditation_directing_love_towards_dharmas-11957.mp3#t=34:35" type="audio/mpeg">???</audio>
-
-<div class="admonition quote"><div class="title">❝</div><div class="content">
-Does anything exist independent of our relationship to it?<br/>
-</div></div>
+<span class="paragraph">==Does anything exist independent of our relationship to it?==</span>
 
 ---
+<span class="paragraph">(38:07, <a aria-label-position="top" aria-label="Meditation" data-href="Meditation" class="internal-link">guided meditation</a> ends)</span>

@@ -162,7 +162,9 @@ audio::-webkit-media-controls-panel {
 
 .theme-light {
 
-	--text-accent: #000085;
+	/*--text-accent: #000085;*/ 
+	/* 15.11.21 changed */
+	--text-accent: #0000B5;
 	--text-accent-hover: #0000B5;
 
 /*
@@ -416,6 +418,26 @@ section.footnotes {
 .transcript .internal-link:hover {
 /* 19.10.21 normal black (underlined) is smoother than changing colors */
 /*  color: var(--text-accent) !important;*/
+}
+
+
+/****************************************/
+/* mark
+/****************************************/
+
+.markdown-preview-view mark {
+    background-color: #fff9e3;
+    color: var(--text-normal);
+}
+
+
+/****************************************/
+/* paragraph
+/****************************************/
+
+.paragraph {
+    font-size: 13px;
+    color: var(--text-normal);
 }
 
 

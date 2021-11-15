@@ -1,6 +1,9 @@
 #### November
 ##### Features
 - automatic collection of quotes for index entry pages, like [[Energy body#Quotes]]
+- talk page now also contains the complete text from the transcript, with all links
+- (most of the quotes) on the talk page are not in special boxes anymore (like e.g. notes or warnings still are), but are markings in the text itself
+- transcript is now completely distraction free: no links anymore (use the talk page for that)
 
 #### October
 ##### Talks
