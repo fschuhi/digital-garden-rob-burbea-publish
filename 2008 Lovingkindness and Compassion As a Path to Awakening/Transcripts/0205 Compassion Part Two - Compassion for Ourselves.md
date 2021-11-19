@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Compassion Part Two - Compassion for Ourselves
+<span class="firstLink"><a data-href="Compassion Part Two - Compassion for Ourselves" class="internal-link">Compassion Part Two - Compassion for Ourselves</a></span>
 
 ---
 <br/>

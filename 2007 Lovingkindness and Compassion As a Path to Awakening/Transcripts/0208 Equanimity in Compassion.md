@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Equanimity in Compassion
+<span class="firstLink"><a data-href="Equanimity in Compassion" class="internal-link">Equanimity in Compassion</a></span>
 
 ---
 <br/>

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Equanimity (talk)
+<span class="firstLink"><a data-href="Equanimity (talk)" class="internal-link">Equanimity (talk)</a></span>
 
 ---
 <br/>

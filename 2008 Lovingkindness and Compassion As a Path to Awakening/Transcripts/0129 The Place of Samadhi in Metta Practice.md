@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-The Place of Samadhi in Metta Practice
+<span class="firstLink"><a data-href="The Place of Samadhi in Metta Practice" class="internal-link">The Place of Samadhi in Metta Practice</a></span>
 
 ---
 <br/>

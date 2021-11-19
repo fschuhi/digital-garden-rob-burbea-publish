@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Guided Meditation on Gratitude and Compassion
+<span class="firstLink"><a data-href="Guided Meditation on Gratitude and Compassion" class="internal-link">Guided Meditation on Gratitude and Compassion</a></span>
 
 ---
 <br/>

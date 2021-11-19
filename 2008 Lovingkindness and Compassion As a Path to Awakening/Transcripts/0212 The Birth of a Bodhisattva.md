@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-The Birth of a Bodhisattva
+<span class="firstLink"><a data-href="The Birth of a Bodhisattva" class="internal-link">The Birth of a Bodhisattva</a></span>
 
 ---
 <br/>

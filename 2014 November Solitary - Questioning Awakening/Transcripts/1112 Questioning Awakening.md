@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Questioning Awakening
+<span class="firstLink"><a data-href="Questioning Awakening" class="internal-link">Questioning Awakening</a></span>
 
 ---
 <br/>

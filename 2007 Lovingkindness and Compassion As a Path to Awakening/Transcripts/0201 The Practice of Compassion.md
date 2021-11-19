@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-The Practice of Compassion
+<span class="firstLink"><a data-href="The Practice of Compassion" class="internal-link">The Practice of Compassion</a></span>
 
 ---
 <br/>

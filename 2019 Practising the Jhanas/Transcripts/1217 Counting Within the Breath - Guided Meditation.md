@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Counting Within the Breath - Guided Meditation
+<span class="firstLink"><a data-href="Counting Within the Breath - Guided Meditation" class="internal-link">Counting Within the Breath - Guided Meditation</a></span>
 
 ---
 <br/>

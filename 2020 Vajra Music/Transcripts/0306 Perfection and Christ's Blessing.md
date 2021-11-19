@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Perfection and Christ's Blessing
+<span class="firstLink"><a data-href="Perfection and Christ's Blessing" class="internal-link">Perfection and Christ&#x27;s Blessing</a></span>
 
 ---
 <br/>

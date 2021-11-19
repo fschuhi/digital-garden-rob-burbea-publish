@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Orienting to This Jhana Retreat
+<span class="firstLink"><a data-href="Orienting to This Jhana Retreat" class="internal-link">Orienting to This Jhana Retreat</a></span>
 
 ---
 <br/>

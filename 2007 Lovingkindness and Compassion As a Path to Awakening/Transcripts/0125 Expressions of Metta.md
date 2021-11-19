@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Expressions of Metta
+<span class="firstLink"><a data-href="Expressions of Metta" class="internal-link">Expressions of Metta</a></span>
 
 ---
 <br/>

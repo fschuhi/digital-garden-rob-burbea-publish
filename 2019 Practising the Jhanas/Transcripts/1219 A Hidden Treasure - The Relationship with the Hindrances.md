@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-A Hidden Treasure - The Relationship with the Hindrances
+<span class="firstLink"><a data-href="A Hidden Treasure - The Relationship with the Hindrances" class="internal-link">A Hidden Treasure - The Relationship with the Hindrances</a></span>
 
 ---
 <br/>

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Guided meditation - Metta to phenomena
+<span class="firstLink"><a data-href="Guided meditation - Metta to phenomena" class="internal-link">Guided meditation - Metta to phenomena</a></span>
 
 ---
 <br/>

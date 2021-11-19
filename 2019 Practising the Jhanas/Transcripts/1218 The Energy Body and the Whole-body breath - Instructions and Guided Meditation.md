@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-The Energy Body and the Whole-body breath - Instructions and Guided Meditation
+<span class="firstLink"><a data-href="The Energy Body and the Whole-body breath - Instructions and Guided Meditation" class="internal-link">The Energy Body and the Whole-body breath - Instructions and Guided Meditation</a></span>
 
 ---
 <br/>

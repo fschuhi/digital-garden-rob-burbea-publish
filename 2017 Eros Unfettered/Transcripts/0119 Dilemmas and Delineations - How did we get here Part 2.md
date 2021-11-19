@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Dilemmas and Delineations - How did we get here Part 2
+<span class="firstLink"><a data-href="Dilemmas and Delineations - How did we get here Part 2" class="internal-link">Dilemmas and Delineations - How did we get here Part 2</a></span>
 
 ---
 <br/>

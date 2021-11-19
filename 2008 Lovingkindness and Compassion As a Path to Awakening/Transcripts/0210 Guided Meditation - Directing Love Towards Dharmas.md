@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Guided Meditation - Directing Love Towards Dharmas
+<span class="firstLink"><a data-href="Guided Meditation - Directing Love Towards Dharmas" class="internal-link">Guided Meditation - Directing Love Towards Dharmas</a></span>
 
 ---
 <br/>

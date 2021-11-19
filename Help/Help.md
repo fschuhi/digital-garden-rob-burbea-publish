@@ -3,6 +3,8 @@
 
 You might want to take a look at **[[How to browse the Digital Garden|how to browse it]]**.
 
+Note that the introduction video is a bit older. In the current version of the garden the talk pages now have _all_ information on them, including the texts from the transcripts, see **"Talk pages"** below.
+
 ### How to stroll through this Digital Garden
 
 The main content of this Digital Garden are transcripts of Rob's talks, available on [[Dharma Seed]]. They have been transcribed to PDF by the [[Rob Burbea Transcription Project]], then translated in web pages to be displayed here.
@@ -15,6 +17,9 @@ The alphabetical **[[Index]]** has all the keywords refered to in the transcript
 	
 ### Basic navigation with links
 <iframe border=0 frameborder=0 height=300 width=550 src="https://www.youtube.com/embed/rtu69SxNen8"></iframe>
+
+### Talk pages
+<iframe border=0 frameborder=0 height=300 width=550 src="https://www.youtube.com/embed/7PloAG2R1Gs"></iframe>
 
 ### Two-page mode and one-page mode
 <iframe border=0 frameborder=0 height=300 width=550 src="https://www.youtube.com/embed/ccu6RyUMaCk"></iframe>

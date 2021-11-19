@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Love and the Emptiness of Things
+<span class="firstLink"><a data-href="Love and the Emptiness of Things" class="internal-link">Love and the Emptiness of Things</a></span>
 
 ---
 <br/>

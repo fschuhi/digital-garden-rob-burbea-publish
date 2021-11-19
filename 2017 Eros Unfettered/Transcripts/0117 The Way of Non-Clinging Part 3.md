@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-The Way of Non-Clinging Part 3
+<span class="firstLink"><a data-href="The Way of Non-Clinging Part 3" class="internal-link">The Way of Non-Clinging Part 3</a></span>
 
 ---
 <br/>

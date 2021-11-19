@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-From Insight to Love
+<span class="firstLink"><a data-href="From Insight to Love" class="internal-link">From Insight to Love</a></span>
 
 ---
 <br/>

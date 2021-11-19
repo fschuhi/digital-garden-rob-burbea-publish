@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Breathing with the Energy Body - Guided Meditation
+<span class="firstLink"><a data-href="Breathing with the Energy Body - Guided Meditation" class="internal-link">Breathing with the Energy Body - Guided Meditation</a></span>
 
 ---
 <br/>

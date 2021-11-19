@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Exploring the World of Loving Kindness
+<span class="firstLink"><a data-href="Exploring the World of Loving Kindness" class="internal-link">Exploring the World of Loving Kindness</a></span>
 
 ---
 <br/>

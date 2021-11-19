@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-What is Insight
+<span class="firstLink"><a data-href="What is Insight" class="internal-link">What is Insight</a></span>
 
 ---
 <br/>

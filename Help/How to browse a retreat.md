@@ -16,7 +16,7 @@ Each retreat has its own folder in the list on the left, with standard subfolder
 - _Talks_. We don't want to put too much additional information on the transcript pages - - it should be easy to read them, without getting distracted. On the other hand, there sometimes _are_ notes, admonitions, or links to other parts of Rob's work, as well as audio links to a particular paragraphs. All this is made available on a _talk_ page.
 - _Lists_. Most of the talks also have an associated plain list of paragraph descriptions. This allows for a quick overview over the content of the talk.
 
-For the [[2020 Vajra Music]] retreat, there is also a [[Vajra Music Excercises (Pádraig)|practice guide]]. Over the coming months we'll add more guides. They'll be made available on the respective retreat pages like the one above.
+For the [[2020 Vajra Music]] retreat, there is also a [[Vajra Music Exercises (Pádraig)|practice guide]]. Over the coming months we'll add more guides. They'll be made available on the respective retreat pages like the one above.
 <br/>
 
 ### Browsing a talk

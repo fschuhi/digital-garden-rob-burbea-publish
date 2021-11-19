@@ -55,7 +55,7 @@ Paragraph descriptions in **[[Joy (talk)]]**:
 #### Appreciating good qualities
 - [[Joy (talk)#"Positive News"|"Positive News".]]
 - [[Joy (talk)#Appreciate you own good qualities|Appreciate you own good qualities.]]
-- [[Joy (talk)#Excercise 10 things you are grateful for|Excercise: 10 things you are grateful for.]]
+- [[Joy (talk)#Exercise 10 things you are grateful for|Excercise: 10 things you are grateful for.]]
 - [[Joy (talk)#In the practice both is important working with the difficult and inclining the mind to the beautiful|In the practice both is important: working with the difficult and inclining the mind to the beautiful.]]
 #### Brahmaviharas and mindfulness
 - [[Joy (talk)#Metta and compassion bring happiness|Metta and compassion bring happiness.]]

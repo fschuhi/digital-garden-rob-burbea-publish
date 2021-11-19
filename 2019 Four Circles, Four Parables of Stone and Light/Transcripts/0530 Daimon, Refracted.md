@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Daimon, Refracted
+<span class="firstLink"><a data-href="Daimon, Refracted" class="internal-link">Daimon, Refracted</a></span>
 
 ---
 <br/>

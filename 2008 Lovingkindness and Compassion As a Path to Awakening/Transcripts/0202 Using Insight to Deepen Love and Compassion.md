@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 #Transcript
 
-Using Insight to Deepen Love and Compassion
+<span class="firstLink"><a data-href="Using Insight to Deepen Love and Compassion" class="internal-link">Using Insight to Deepen Love and Compassion</a></span>
 
 ---
 <br/>
