@@ -3,9 +3,9 @@ obsidianUIMode: preview
 ---
 # Garden of Soul: Rob Burbea's Teachings
 <div class="admonition quote"><div class="title">❝</div><div class="content">
-We're talking about an energy body sense - expanding, moving, and feeling, sensing and imagining not just the space of the energy body in its usual size, but also the extended sense of the energy in the room, and how that's connected with and impacted by and filled by the energy of your body movements. It's more than just the space of awareness. We're talking about energy body sensitivity here...<br/>
+We're perfectly happy regarding the emotions as 'real,' and having real causes, and relating to them and caring for them as real entities with real causes. <i>And</i> we're perfectly happy regarding them as thoroughly empty, and not real, and not being really caused by real things. There's a range of view, and we're skilled in many different approaches and perspectives regarding the emotions.<br/>
 <br/>
-<i>a quote from the talk '<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 1 > The kinaesthetic sense of energy fills the whole space" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 1#The kinaesthetic sense of energy fills the whole space" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 1</a>'</i><br/>
+<i>a quote from the talk '<a aria-label-position="top" aria-label="Orienting to This Jhana Retreat > Emotional discernment and emotional capacity in awakening and healing" data-href="Orienting to This Jhana Retreat#Emotional discernment and emotional capacity in awakening and healing" class="internal-link">Orienting to This Jhana Retreat</a>'</i><br/>
 </div></div>
 
 <div class="admonition important"><div class="title">Thank you!</div><div class="content">

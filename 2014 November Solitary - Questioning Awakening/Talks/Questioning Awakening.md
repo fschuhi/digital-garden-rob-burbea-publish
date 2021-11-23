@@ -314,18 +314,18 @@ Transcript PDF: [[2014_1112 Questioning Awakening.pdf]]
 ##### What is an elementary particle
 <span class="counts"><a aria-label-position="top" aria-label="1112 Questioning Awakening > ^12-3" data-href="1112 Questioning Awakening#^12-3" class="internal-link">12-3</a></span>
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/26010/20141112-Rob_Burbea-GAIA-questioning_awakening-26010.mp3#t=59:29" type="audio/mpeg">???</audio>
-<span class="paragraph">> What _is_ an elementary particle? We say, for instance, simply "a neutron," but we can give no well-defined picture of what we mean by the word. We can use several pictures and describe it once as a particle, once as a wave or as a wave packet. But we know that none of these descriptions is accurate.... If one wants to give an accurate description of the elementary particle ... the only thing which can be written down is a probability function [what I just talked about]. But then one sees that not even the quality of _being_ [that it 'is' or 'is not'], if it may be called a quality, belongs to what is described.^[Werner Heisenberg, _Physics and Philosophy: The Revolution in Modern Science_ (New York: Harper & Row, 1962), 70]</span>
+> <span class="paragraph">What _is_ an elementary particle? We say, for instance, simply "a neutron," but we can give no well-defined picture of what we mean by the word. We can use several pictures and describe it once as a particle, once as a wave or as a wave packet. But we know that none of these descriptions is accurate.... If one wants to give an accurate description of the elementary particle ... the only thing which can be written down is a probability function [what I just talked about]. But then one sees that not even the quality of _being_ [that it 'is' or 'is not'], if it may be called a quality, belongs to what is described.^[Werner Heisenberg, _Physics and Philosophy: The Revolution in Modern Science_ (New York: Harper & Row, 1962), 70]</span>
 
 ---
 <span class="paragraph">You're not even talking about something that 'is' or 'is not.'</span>
-<span class="paragraph">> It is a [probability] for being or a tendency for being. The elementary particle of modern physics is far more abstract than the atom of the Greeks [or the little billiard ball idea].</span>
+> <span class="paragraph">It is a [probability] for being or a tendency for being. The elementary particle of modern physics is far more abstract than the atom of the Greeks [or the little billiard ball idea].</span>
 <span class="paragraph">This is a separate quote:</span>
 
 ---
 ##### Ontology of materialism
 <span class="counts">**<a aria-label-position="top" aria-label="1112 Questioning Awakening > ^12-7" data-href="1112 Questioning Awakening#^12-7" class="internal-link">12-7</a>**: _<a data-href="Ontology" class="internal-link">Ontology</a> · <a data-href="Materialism" class="internal-link">Materialism</a>_</span>
 <audio controls preload=metadata style=" width:300px;" controlslist="nodownload"><source src="https://dharmaseed.org/talks/26010/20141112-Rob_Burbea-GAIA-questioning_awakening-26010.mp3#t=01:00:28" type="audio/mpeg">???</audio>
-<span class="paragraph">> The <a data-href="ontology" class="internal-link">ontology</a> of <a data-href="materialism" class="internal-link">materialism</a> rested upon [a kind of] illusion that [things at _that_ level exist in the way that we feel that things at _this_ level exist].^[Heisenberg, _Physics and Philosophy,_ 145: "The ontology of materialism rested upon the illusion that the kind of existence, the direct 'actuality' of the world around us, can be extrapolated into the atomic range."]</span>
+> <span class="paragraph">The <a data-href="ontology" class="internal-link">ontology</a> of <a data-href="materialism" class="internal-link">materialism</a> rested upon [a kind of] illusion that [things at _that_ level exist in the way that we feel that things at _this_ level exist].^[Heisenberg, _Physics and Philosophy,_ 145: "The ontology of materialism rested upon the illusion that the kind of existence, the direct 'actuality' of the world around us, can be extrapolated into the atomic range."]</span>
 
 ---
 ##### You can't extrapolate; they are not things

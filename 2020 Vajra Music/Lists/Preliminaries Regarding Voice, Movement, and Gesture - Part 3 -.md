@@ -3,7 +3,7 @@ obsidianUIMode: preview
 ---
 Paragraph descriptions in **[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]**:
 ### "Centring"
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Fourth exercise with two parts but first intro into terminology|Fourth excercise with two parts, but first intro into terminology.]]
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Fourth exercise with two parts but first intro into terminology|Fourth exercise with two parts, but first intro into terminology.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#A few weeks ago I felt "thrown off centre"|A few weeks ago I felt "thrown off centre".]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#"I've lost my centre" "I need to regain my centre"|"I've lost my centre", "I need to regain my centre".]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Solution reconnect with the angels|Solution: reconnect with the angels.]]
@@ -51,10 +51,10 @@ Paragraph descriptions in **[[Preliminaries Regarding Voice, Movement, and Gestu
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Words like 'angel' 'soul' 'image' imply unfathomability|Words like 'angel', 'soul', 'image' imply unfathomability.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Angel is not of space or time|Angel is not of space or time.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Those words have soft and elastic edges they will stretch|Those words have soft and elastic edges, they will stretch.]]
-### Excercise 4: blessing
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#2 dyad exercises|2 dyad excercises.]]
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Exercise 4 1 One person blesses the other person receives the blessing|Excercise 4.1: One person blesses, the other person receives the blessing.]]
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#🟡 Exercise 4 1 1 no known language for blessing|🟡 Excercise 4.1.1. no known language for blessing.]]
+### Exercise 4: blessing
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#2 dyad exercises|2 dyad exercises.]]
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Exercise 4 1 One person blesses the other person receives the blessing|Exercise 4.1: One person blesses, the other person receives the blessing.]]
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#🟡 Exercise 4 1 1 no known language for blessing|🟡 Exercise 4.1.1. no known language for blessing.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#It can start with metta praise doxology gratitude|It can start with metta, praise, doxology, gratitude.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#The notion grows what it means to bless and to be blessed - all becomes image|The notion grows what it means to bless and to be blessed - all becomes image.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#The blessed one is not responding but is sensitive with the energy body|The blessed one is not responding but is sensitive with the energy body.]]
@@ -62,10 +62,10 @@ Paragraph descriptions in **[[Preliminaries Regarding Voice, Movement, and Gestu
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Change after probably max 10 minutes depending on how awkward it is|Change after (probably max) 10 minutes, depending on how awkward it is.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Blessing variations|Blessing ==variations==.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Feel resonances in the soul and the energy body maybe bring in deliberate imaginal sense|Feel resonances in the soul and the energy body, maybe bring in deliberate imaginal sense.]]
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#🟡 Exercise 4 1 2 no vocalizations|🟡 Excercise 4.1.2: no vocalizations.]]
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#🟡 Exercise 4 1 3 only vocalizations|🟡 Excercise 4.1.3: only vocalizations.]]
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#🟡 Exercise 4 1 2 no vocalizations|🟡 Exercise 4.1.2: no vocalizations.]]
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#🟡 Exercise 4 1 3 only vocalizations|🟡 Exercise 4.1.3: only vocalizations.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Treat singing as "not vocalizing" but then also try not singing|Treat singing as "not vocalizing", but then also try not singing.]]
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#🟡 Exercise 4 2 2nd part|🟡 Excercise 4.2 (2nd part)]]
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#🟡 Exercise 4 2 2nd part|🟡 Exercise 4.2 (2nd part)]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Drop any idea of an attempt to express some meaning|Drop any idea of an attempt to express some meaning.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Soul is more than any meaning|Soul is more than any meaning.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#"Blessing" is already at the edge of meaning and Part 2 goes beyond even that|"Blessing" is already at the edge of meaning, and Part 2 goes beyond even that.]]

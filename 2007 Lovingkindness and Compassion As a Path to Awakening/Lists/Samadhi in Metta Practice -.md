@@ -80,7 +80,7 @@ Paragraph descriptions in **[[Samadhi in Metta Practice]]**:
 - [[Samadhi in Metta Practice#Receptivity and an openess to some kind of wonder in being|Receptivity and an openess to some kind of wonder in being.]]
 - [[Samadhi in Metta Practice#"I am surpressing something"|"I am surpressing something?".]]
 - [[Samadhi in Metta Practice#Example story because of samadhi there weren't the conditions there for anger|Example story: because of samadhi there weren't the conditions there for anger.]]
-- [[Samadhi in Metta Practice#Exercise if calmness is there drop in the thought of a difficult issue|Excercise: if calmness is there, drop in the thought of a difficult issue.]]
+- [[Samadhi in Metta Practice#Exercise if calmness is there drop in the thought of a difficult issue|Exercise: if calmness is there, drop in the thought of a difficult issue.]]
 ### Emptiness
 - [[Samadhi in Metta Practice#Issues are empty of inherent existence|Issues are empty of inherent existence.]]
 - [[Samadhi in Metta Practice#With samadhi we are creating less and less|With samadhi we are creating less and less.]]

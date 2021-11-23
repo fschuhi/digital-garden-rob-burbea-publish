@@ -18,6 +18,8 @@ _This series of talks and guided meditations explores the development of the pra
 ✔️ [[Guided Meditation - Directing Love Towards Dharmas]]
 ✔️ [[Love and the Emptiness of Things]]
 ✔️ [[The Birth of a Bodhisattva]]
+
+for a summary see **[[Pádraig's compilation of lists in LCPA 2008]]**
 <br/>
 
 ### Synopses

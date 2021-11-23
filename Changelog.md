@@ -1,5 +1,11 @@
 #### November
+##### Talks
+- [[Breathing with the Energy Body (Guided Meditation)]]
+- [[An Introduction to the Jhanas]]
+- [[Pádraig's compilation of lists in LCPA 2008]]
+
 ##### Features
+- [[Help]] videos
 - automatic collection of quotes for index entry pages, like [[Energy body#Quotes]]
 - talk page now also contains the complete text from the transcript, with all links
 - (most of the quotes) on the talk page are not in special boxes anymore (like e.g. notes or warnings still are), but are markings in the text itself
@@ -31,8 +37,8 @@
 	- [[Daimon, Refracted]]
 - new retreat [[2019 Practising the Jhanas]]
 	- [[Orienting to This Jhana Retreat]]
-	- [[Counting Within the Breath - Guided Meditation]]
-	- [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
+	- [[Counting Within the Breath (Guided Meditation)]]
+	- [[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]]
 	- [[A Hidden Treasure - The Relationship with the Hindrances]]
 
 ##### Features

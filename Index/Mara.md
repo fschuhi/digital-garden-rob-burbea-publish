@@ -10,7 +10,7 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 <a aria-label-position="top" aria-label="Dilemmas and Delineations - How did we get here Part 1 > Another equates Eros with life" data-href="Dilemmas and Delineations - How did we get here Part 1#Another equates Eros with life" class="internal-link">Another equates Eros with life</a> | 6 | <a data-href="Dilemmas and Delineations - How did we get here Part 1" class="internal-link">Dilemmas and Delineations - How did we get here Part 1</a>
-<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 4 > 🟡 Exercise 5 2 _The Bhumisparsa Mudra_" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Exercise 5 2 _The Bhumisparsa Mudra_" class="internal-link">🟡 Excercise 5.2: _The Bhumisparsa Mudra_</a> | 2 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a>
+<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 4 > 🟡 Exercise 5 2 _The Bhumisparsa Mudra_" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Exercise 5 2 _The Bhumisparsa Mudra_" class="internal-link">🟡 Exercise 5.2: _The Bhumisparsa Mudra_</a> | 2 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a>
 
 ### Terms with 20+ co-occurrences
 term | count | talks

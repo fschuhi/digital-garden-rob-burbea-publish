@@ -8,7 +8,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 4 > Rinpoches spend most of their time doing Ngöndro what are basically preliminary exercises" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Rinpoches spend most of their time doing Ngöndro what are basically preliminary exercises" class="internal-link">Rinpoches spend most of their time doing Ngöndro, what are basically preliminary excercises</a> | 2 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a>
+<a aria-label-position="top" aria-label="Preliminaries Regarding Voice, Movement, and Gesture - Part 4 > Rinpoches spend most of their time doing Ngöndro what are basically preliminary exercises" data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Rinpoches spend most of their time doing Ngöndro what are basically preliminary exercises" class="internal-link">Rinpoches spend most of their time doing Ngöndro, what are basically preliminary exercises</a> | 2 | <a data-href="Preliminaries Regarding Voice, Movement, and Gesture - Part 4" class="internal-link">Preliminaries Regarding Voice, Movement, and Gesture - Part 4</a>
 
 ### Terms with 20+ co-occurrences
 term | count | talks

@@ -1,0 +1,95 @@
+---
+obsidianUIMode: preview
+---
+Paragraph descriptions in **[[An Introduction to the Jhanas]]**:
+### Jhanas in the Pali Canon
+- [[An Introduction to the Jhanas#Vocabulary jhanas are a subset of samadhi|Vocabulary: jhanas are a subset of samadhi.]]
+- [[An Introduction to the Jhanas#The Buddha talked more about the jhanas than about mindfulness|The Buddha talked more about the jhanas than about mindfulness.]]
+#### Form Jhanas
+- [[An Introduction to the Jhanas#First Jhana Pali Canon|First Jhana (Pali Canon)]]
+- [[An Introduction to the Jhanas# |...]]
+- [[An Introduction to the Jhanas#Simile bathman's apprentice|Simile: bathman's apprentice.]]
+- [[An Introduction to the Jhanas#Background on bathhouses at the Buddha's time|Background on bathhouses at the Buddha's time.]]
+- [[An Introduction to the Jhanas#Kneading soap powder until it is moisture-laden|Kneading soap powder until it is moisture-laden.]]
+- [[An Introduction to the Jhanas#The mind is setting down on the piti and happiness and feeding on it|The mind is setting down on the piti and happiness and feeding on it.]]
+- [[An Introduction to the Jhanas#Second Jhana Pali Canon|Second Jhana (Pali Canon)]]
+- [[An Introduction to the Jhanas#Simile lake with spring water welling up|Simile: lake with spring water welling up.]]
+- [[An Introduction to the Jhanas#Third Jhana Pali Canon|Third Jhana (Pali Canon)]]
+- [[An Introduction to the Jhanas#"Pleasure" vs "happiness"|"Pleasure" vs "happiness".]]
+- [[An Introduction to the Jhanas#Simile pond with lotuses|Simile: pond with lotuses.]]
+- [[An Introduction to the Jhanas#Fourth Jhana Pali Canon|Fourth Jhana (Pali Canon)]]
+- [[An Introduction to the Jhanas#Simile wrapped with a white cloth|Simile: wrapped with a white cloth.]]
+- [[An Introduction to the Jhanas#Quick presentation of the four formless jhanas|Quick presentation of the four formless jhanas.]]
+#### Formless Jhanas
+- [[An Introduction to the Jhanas#Fifth Jhana Pali Canon|Fifth Jhana (Pali Canon)]]
+- [[An Introduction to the Jhanas#Sixth Jhana Pali Canon|Sixth Jhana (Pali Canon)]]
+- [[An Introduction to the Jhanas#Strapline "sticks with it" etc ; Seventh Jhana|Strapline "sticks with it" etc.; Seventh Jhana.]]
+- [[An Introduction to the Jhanas#Eigth Jhana|Eigth Jhana.]]
+- [[An Introduction to the Jhanas#Those descriptions will be filled out|Those descriptions will be filled out.]]
+### Teaching the jhanas is contextual
+- [[An Introduction to the Jhanas#Teaching the jhanas is contextual|Teaching the jhanas is contextual.]]
+- [[An Introduction to the Jhanas#I'm going to contradict myself a lot|I'm going to contradict myself a lot.]]
+- [[An Introduction to the Jhanas#I might say "focus on maximizing your enjoyment"|I might say "focus on maximizing your enjoyment".]]
+- [[An Introduction to the Jhanas#You should be excited|You should be excited.]]
+- [[An Introduction to the Jhanas#Breaking through is a big deal|Breaking through is a big deal.]]
+- [[An Introduction to the Jhanas#Definitions do become important|Definitions do become important.]]
+- [[An Introduction to the Jhanas#Our priorities might not be helpful at times|Our priorities might not be helpful at times.]]
+- [[An Introduction to the Jhanas#Contradictions are ok because the nature of all things is that they are empty|Contradictions are ok, because the nature of all things is that they are empty.]]
+### Mastery
+#### Definitions of "Mastery"
+- [[An Introduction to the Jhanas#"Mastery" is familiarity artistry and accessibility|"Mastery" is familiarity, artistry and accessibility.]]
+- [[An Introduction to the Jhanas#With practice intending a particular jhana doesn't need to be preceded by anything particular|With practice, intending a particular jhana doesn't need to be preceded by anything particular.]]
+- [[An Introduction to the Jhanas#Mastery includes staying in a particular jhana in any posture; "marinate" in it|Mastery includes staying in a particular jhana in any posture; "marinate" in it.]]
+- [[An Introduction to the Jhanas#Mastery also means navigating|Mastery also means navigating.]]
+- [[An Introduction to the Jhanas#Mastery also means that I can modulate|Mastery also means that I can modulate.]]
+- [[An Introduction to the Jhanas#Mastery comes from playing in that playground that's on my edge|Mastery comes from playing in that playground that's on my edge.]]
+- [[An Introduction to the Jhanas#Cow Sutta wait until you master your place|Cow Sutta: wait until you master your place.]]
+- [[An Introduction to the Jhanas#But sometimes something magical can happen if you try something that feels beyond you|But sometimes something magical can happen if you try something that feels beyond you.]]
+#### Jhanas as treasury realms
+- [[An Introduction to the Jhanas#Jhanas are amazing dimensions of being already there|Jhanas are amazing dimensions of being, already there.]]
+- [[An Introduction to the Jhanas#That the realms already exists becomes obvious in the third jhana|That the realms already exists becomes obvious in the third jhana.]]
+- [[An Introduction to the Jhanas#It's a bit like a wardrobe the clothes just right there|It's a bit like a wardrobe, the clothes just right there.]]
+#### Marinating
+- [[An Introduction to the Jhanas#Being a tourist in the jhana realms is not like living there|Being a tourist in the jhana realms is not like living there.]]
+- [[An Introduction to the Jhanas#No achievement badges|No achievement badges.]]
+- [[An Introduction to the Jhanas#"Marinate" means a long time and many times|"Marinate" means a long time, and many times.]]
+#### Is is Jhana?
+- [[An Introduction to the Jhanas#Why are you going to trust which version of jhana teachings|Why are you going to trust which version of jhana teachings?]]
+- [[An Introduction to the Jhanas#A preliminary definition of what the jhana are|A preliminary definition of what the jhana are.]]
+- [[An Introduction to the Jhanas#Can I be more intelligent in relation to theses questions|Can I be more intelligent in relation to theses questions?]]
+- [[An Introduction to the Jhanas#Jhanas lead naturally onwards|Jhanas lead naturally onwards.]]
+- [[An Introduction to the Jhanas#Rob teaches jhanas which have reponsiveness not total absorption|Rob teaches jhanas which have reponsiveness, not total absorption.]]
+- [[An Introduction to the Jhanas#Intelligence means boldness|Intelligence means boldness.]]
+- [[An Introduction to the Jhanas#Can I develop a nose for what's primary what's secondary|Can I develop a nose for what's primary, what's secondary?]]
+- [[An Introduction to the Jhanas#Some definitions might sound better but are they|Some definitions might sound better, but are they?]]
+- [[An Introduction to the Jhanas#For some teachers the emphasis is on changing the habit of papanca|For some teachers the emphasis is on changing the habit of papanca.]]
+- [[An Introduction to the Jhanas#For some teachers it's about the power to disect phenomena|For some teachers it's about the power to disect phenomena.]]
+- [[An Introduction to the Jhanas#For some it's about unwavering focus to reveal the nature of things|For some it's about unwavering focus, to reveal the nature of things.]]
+- [[An Introduction to the Jhanas#But staring at something doesn't disclose anything it needs doing something with it|But staring at something doesn't disclose anything, it needs doing something with it.]]
+#### Reasons for doing the jhanas
+- [[An Introduction to the Jhanas#Once I have those treasures available to me it becomes much easier to let go|Once I have those treasures available to me it becomes much easier to let go.]]
+- [[An Introduction to the Jhanas#Jhanas help to understand the process of fabrication of perception|Jhanas help to understand the process of fabrication of perception.]]
+- [[An Introduction to the Jhanas#Jhanas as mystical openings|Jhanas as mystical openings.]]
+- [[An Introduction to the Jhanas#Jhanas alone will not liberate totally|Jhanas alone will not liberate totally.]]
+- [[An Introduction to the Jhanas#The jhanas when mastered will give more insight in relation to fabrication|The jhanas, when mastered, will give more insight in relation to fabrication.]]
+- [[An Introduction to the Jhanas#Sensitivity and subtle discernment|Sensitivity and subtle discernment.]]
+- [[An Introduction to the Jhanas#Jhana practice can fit very naturally into other practices|Jhana practice can fit very naturally into other practices.]]
+- [[An Introduction to the Jhanas#Jhanas there's something of magic here|Jhanas: there's something of magic here.]]
+#### Co-dependence of definitions, goals and practice
+- [[An Introduction to the Jhanas#A person's definition of jhana depends on their idea of what insight is|A person's definition of jhana depends on their idea of what insight is.]]
+- [[An Introduction to the Jhanas#What we think a jhana is influences the jhana practice|What we think a jhana is influences the jhana practice.]]
+- [[An Introduction to the Jhanas#There's a relationship between the way the goal is seen and what I emphasize in jhana practice|There's a relationship between the way the goal is seen and what I emphasize in jhana practice.]]
+- [[An Introduction to the Jhanas#Some definitions are only backed by very few mentionings in the Pali Canon|Some definitions are only backed by very few mentionings in the Pali Canon.]]
+- [[An Introduction to the Jhanas#"No thought"|"No thought".]]
+- [[An Introduction to the Jhanas#Start with the goal malleability of perception|Start with the goal: malleability of perception.]]
+- [[An Introduction to the Jhanas#Jhanas are "perception attainments"|Jhanas are "perception attainments".]]
+- [[An Introduction to the Jhanas#How do I need to think about the jhanas if I care about my awakening|How do I need to think about the jhanas if I care about my awakening.]]
+- [[An Introduction to the Jhanas#We are interested in the development of deep profound resources|We are interested in the development of deep, profound resources.]]
+### Practice hints
+#### Walking meditation with the energy body
+- [[An Introduction to the Jhanas#Walking meditation is with energy body awareness|Walking meditation is with energy body awareness.]]
+- [[An Introduction to the Jhanas#I have to find the right pace that enables me to sustain the energy-body experience|I have to find the right pace that enables me to sustain the energy-body experience.]]
+- [[An Introduction to the Jhanas#Alternatively walk with whole-body awareness|Alternatively, walk with whole-body awareness.]]
+#### The rhythm of the practice
+- [[An Introduction to the Jhanas#The rhythm of the practice is up to you as long as it feels fruitful|The rhythm of the practice is up to you, as long as it feels fruitful.]]
+- [[An Introduction to the Jhanas#In this kind of practice the day needs to breathe|In this kind of practice, the day needs to breathe.]]

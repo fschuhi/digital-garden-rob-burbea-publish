@@ -405,7 +405,7 @@ Transcript PDF: [[2008_0204 Compassion (talk).pdf]]
 <span class="paragraph"><a data-href="Walt Whitman" class="internal-link">Walt Whitman</a> - I think it's from "Song of Myself." It's a long, long mystical poem of <a data-href="Walt Whitman" class="internal-link">Walt Whitman</a>, 1855:</span>
 
 ---
-<span class="paragraph">> I believe a leaf of grass is no less than the journey-work of the stars.^[Walt Whitman, _Leaves of Grass_ (New York: Knickerbocker Press, 1902), 70]</span>
+> <span class="paragraph">I believe a leaf of grass is no less than the journey-work of the stars.^[Walt Whitman, _Leaves of Grass_ (New York: Knickerbocker Press, 1902), 70]</span>
 
 ---
 ##### "We are stardust"

@@ -19,7 +19,7 @@ description | count | talk
 <a aria-label-position="top" aria-label="Samadhi in Metta Practice > Gratitude" data-href="Samadhi in Metta Practice#Gratitude" class="internal-link">Gratitude</a> | 3 | <a data-href="Samadhi in Metta Practice" class="internal-link">Samadhi in Metta Practice</a>
 <a aria-label-position="top" aria-label="Love and the Emptiness of Things > Just do it" data-href="Love and the Emptiness of Things#Just do it" class="internal-link">Just do it</a> | 1 | <a data-href="Love and the Emptiness of Things" class="internal-link">Love and the Emptiness of Things</a>
 <a aria-label-position="top" aria-label="The Place of Samadhi in Metta Practice > Keep that willingness experimentation nurturing around" data-href="The Place of Samadhi in Metta Practice#Keep that willingness experimentation nurturing around" class="internal-link">Keep that willingness, experimentation, nurturing around</a> | 1 | <a data-href="The Place of Samadhi in Metta Practice" class="internal-link">The Place of Samadhi in Metta Practice</a>
-<a aria-label-position="top" aria-label="Joy (talk) > Exercise 10 things you are grateful for" data-href="Joy (talk)#Exercise 10 things you are grateful for" class="internal-link">Excercise: 10 things you are grateful for</a> | 1 | <a data-href="Joy (talk)" class="internal-link">Joy (talk)</a>
+<a aria-label-position="top" aria-label="Joy (talk) > Exercise 10 things you are grateful for" data-href="Joy (talk)#Exercise 10 things you are grateful for" class="internal-link">Exercise: 10 things you are grateful for</a> | 1 | <a data-href="Joy (talk)" class="internal-link">Joy (talk)</a>
 <a aria-label-position="top" aria-label="Joy (talk) > In the practice both is important working with the difficult and inclining the mind to the beautiful" data-href="Joy (talk)#In the practice both is important working with the difficult and inclining the mind to the beautiful" class="internal-link">In the practice both is important: working with the difficult and inclining the mind to the beautiful</a> | 1 | <a data-href="Joy (talk)" class="internal-link">Joy (talk)</a>
 <a aria-label-position="top" aria-label="Samadhi in Metta Practice > Appreciation" data-href="Samadhi in Metta Practice#Appreciation" class="internal-link">Appreciation</a> | 1 | <a data-href="Samadhi in Metta Practice" class="internal-link">Samadhi in Metta Practice</a>
 
@@ -40,7 +40,7 @@ term | count | talks
 ### Quotes
 **<a data-href="Joy (talk)" class="internal-link">Joy (talk)</a>**
 <span class="counts"><a data-href="2007 New Years Retreat Insight Meditation" class="internal-link">2007 New Years Retreat Insight Meditation</a></span>
-> Huge is the power of gratitude. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Joy (talk) > Exercise 10 things you are grateful for" data-href="Joy (talk)#Exercise 10 things you are grateful for" class="internal-link">Excercise: 10 things you are grateful for</a>_</span>
+> Huge is the power of gratitude. &nbsp;&nbsp;<span class="counts">_<a aria-label-position="top" aria-label="Joy (talk) > Exercise 10 things you are grateful for" data-href="Joy (talk)#Exercise 10 things you are grateful for" class="internal-link">Exercise: 10 things you are grateful for</a>_</span>
 
 **<a data-href="The Place of Samadhi in Metta Practice" class="internal-link">The Place of Samadhi in Metta Practice</a>**
 <span class="counts"><a data-href="2008 Lovingkindness and Compassion As a Path to Awakening" class="internal-link">2008 Lovingkindness and Compassion As a Path to Awakening</a></span>

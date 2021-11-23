@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 ---
 Paragraph descriptions in **[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]**:
-### 🟡 Excercises 4.2 revisited
+### 🟡 Exercises 4.2 revisited
 #### What does "blessing" look like?
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The question "what does blessing look like" is culturally contingent Mode 1|The question "what does blessing look like" is culturally contingent (Mode 1)]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#"Blessing" in different traditions|"Blessing" in different traditions.]]
@@ -36,12 +36,12 @@ Paragraph descriptions in **[[Preliminaries Regarding Voice, Movement, and Gestu
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Place the affliction in the sight of the angels|Place the affliction in the sight of the angels.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Re-ignite one's fullness of intention|Re-ignite one's fullness of intention.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Re-cognize the eros for soulmaking|Re-cognize the eros for soulmaking.]]
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Remind yourself It's an exercise not a performance|Remind yourself: It's an excercise, not a performance.]]
-#### What can happen from Excercise 4
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Remind yourself It's an exercise not a performance|Remind yourself: It's an exercise, not a performance.]]
+#### What can happen from Exercise 4
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Something in the larger constellation may ignite and become image|Something in the larger constellation may ignite and become image.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It can be a fully imaginal image without being necessarily clear or well-defined|It can be a fully imaginal image without being necessarily clear or well-defined.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#When one constitutent of the larger constellation ignitates then it's possible that the whole then ignites|When one constitutent of the larger constellation ignitates, then it's possible that the whole then ignites.]]
-#### Variation on Excercise 4
+#### Variation on Exercise 4
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Rather than actual person dyad partner is intrapsychic image|Rather than actual person, dyad partner is intrapsychic image.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Move gesture vocalize physically concretized or just in the energy body|Move/gesture/vocalize physically concretized, or just in the energy body.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Why do it with an imaginal dyad partner|Why do it with an imaginal dyad partner?]]
@@ -51,25 +51,25 @@ Paragraph descriptions in **[[Preliminaries Regarding Voice, Movement, and Gestu
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Some soul-secrets might be for the ears of the angel only Reason 4|Some soul-secrets might be for the ears of the angel only (Reason 4)]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Remember we are not seeking information|Remember: we are not seeking information.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Magick is not soulmaking|Magick is not soulmaking.]]
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Summary Exercise 4 with variations|Summary Excercise 4 with ==variations==.]]
-### Excercises 5
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Summary Exercise 4 with variations|Summary Exercise 4 with ==variations==.]]
+### Exercises 5
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Iconic movements and gestures|Iconic movements and gestures.]]
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Exercise 5 1 _Via Dolorosa_|🟡 Excercise 5.1: _Via Dolorosa_.]]
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Exercise 5 1 _Via Dolorosa_|🟡 Exercise 5.1: _Via Dolorosa_.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Doesn't have to be christ can be martyrs in the Coliseum|Doesn't have to be christ, can be martyrs in the Coliseum.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Faith telos duty|Faith, telos, duty.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's about the soul that is moving through that dukkha|It's about the soul that is moving through that dukkha.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Sense of rightness and being stretched to the limit|Sense of rightness, and being stretched to the limit.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The outer environment has the cruelty and jeering the inner the faith telos duty|The outer environment has the cruelty and jeering, the inner the faith, telos, duty.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The practice is to sense the image in the energy body with the soul-resonances then receive movements gestures voice|The practice is to sense the image in the energy body, with the soul-resonances, then receive movements, gestures, voice.]]
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Exercise 5 2 _The Bhumisparsa Mudra_|🟡 Excercise 5.2: _The Bhumisparsa Mudra_.]]
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Exercise 5 2 _The Bhumisparsa Mudra_|🟡 Exercise 5.2: _The Bhumisparsa Mudra_.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Buddha touching the earth is calling it to bear witness|Buddha touching the earth is calling it to bear witness.]]
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's not an acting exercise|It's not an acting excercise.]]
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's not an acting exercise|It's not an acting exercise.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's not important to recognise the situation from the outside it's more important to resonate in the heart and the soul|It's not important to recognise the situation from the outside, it's more important to resonate in the heart and the soul.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The Serpent|The Serpent.]]
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#What's happening in Exercises 5 does not have to transfer to movement or sound at all|What's happening in Excercises 5 does not have to transfer to movement or sound at all.]]
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#What's happening in Exercises 5 does not have to transfer to movement or sound at all|What's happening in Exercises 5 does not have to transfer to movement or sound at all.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Holding an imaginal image and dancing at the same time is difficult|Holding an imaginal image and dancing at the same time is difficult.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Sensitivity is more important than clarity|Sensitivity is more important than clarity.]]
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Exercise 5 3 _The Hospitality to the Angels_ 🟢|🟡 Excercise 5.3: _The Hospitality to the Angels_ 🟢.]]
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Exercise 5 3 _The Hospitality to the Angels_ 🟢|🟡 Exercise 5.3: _The Hospitality to the Angels_ 🟢.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's about the moments prior to the scene in the Rublev's image|It's about the moments prior to the scene in the Rublev's image.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's the soulmaking-poise making oneself available for the visitation of the angels|It's the soulmaking-poise, making oneself available for the visitation of the angels.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Elements which constitute the soulmaking poise|Elements which constitute the soulmaking poise.]]
@@ -90,8 +90,8 @@ Paragraph descriptions in **[[Preliminaries Regarding Voice, Movement, and Gestu
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#African American residents boycotted the public bus service|African American residents boycotted the public bus service.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Her demeanour was quiet and seren dignified with soul-conviction|Her demeanour was quiet and seren, dignified, with soul-conviction.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Embodying reflecting refracting|Embodying, reflecting, refracting.]]
-### Recap Excercises
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The exercises are seeds not meant to be canonical|The excercises are seeds, not meant to be canonical.]]
+### Recap Exercises
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The exercises are seeds not meant to be canonical|The exercises are seeds, not meant to be canonical.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#They are also path dependend in response to different students that I've been working with|They are also path dependend, in response to different students that I've been working with.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The principle is to make one body and soul|The principle is to make one body and soul.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#All principles of soulmaking apply|All principles of soulmaking apply.]]
@@ -108,6 +108,6 @@ Paragraph descriptions in **[[Preliminaries Regarding Voice, Movement, and Gestu
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#To _be_ sould and to _make_ soul|To _be_ sould and to _make_ soul.]]
 ### Preliminaries <-> Ngöndro
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#What starts as preliminary becomes in itself soulmaking|What starts as preliminary becomes in itself soulmaking.]]
-- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Rinpoches spend most of their time doing Ngöndro what are basically preliminary exercises|Rinpoches spend most of their time doing Ngöndro, what are basically preliminary excercises.]]
+- [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Rinpoches spend most of their time doing Ngöndro what are basically preliminary exercises|Rinpoches spend most of their time doing Ngöndro, what are basically preliminary exercises.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#I'm not really sure about the word 'preliminary'|I'm not really sure about the word 'preliminary'.]]
 - [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#There are preliminaries and there's soulmaking|There are preliminaries, and there's soulmaking.]]
